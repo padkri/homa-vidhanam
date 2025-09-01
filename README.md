@@ -1,49 +1,145 @@
-# Getting Started with Create React App
+# Generic Homam Manual Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a generic React application for displaying homam (Vedic fire ritual) manuals with multi-language support. The application can load and switch between different homam manuals dynamically.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Multi-language Support**: English, Telugu, and Hindi
+- **Dynamic Manual Loading**: Switch between different homam manuals
+- **Responsive Design**: Works on desktop and mobile devices
+- **Progressive Navigation**: Step-by-step guidance through ritual sections
+- **Conditional Content**: Automatically hides sections without diagrams
+- **Modern UI**: Clean, accessible interface with Tailwind CSS
 
-### `npm start`
+## Project Structure
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+src/
+├── data/
+│   ├── config.json          # Configuration for available manuals
+│   ├── siva-homam.json      # Siva Homam manual data
+│   └── ganesh-homam.json    # Ganesh Homam manual data (example)
+├── dataLoader.js            # Dynamic data loading utility
+├── App.js                   # Main application component
+└── index.js                 # Application entry point
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Adding a New Manual
 
-### `npm test`
+To add a new homam manual to the application:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. Create the Manual JSON File
 
-### `npm run build`
+Create a new JSON file in the `src/data/` directory with the following structure:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```json
+{
+  "title": {
+    "english": "Manual Title",
+    "telugu": "Telugu Title",
+    "hindi": "Hindi Title"
+  },
+  "author": {
+    "english": "Author Name",
+    "telugu": "Author Name",
+    "hindi": "Author Name"
+  },
+  "sections": [
+    {
+      "id": 0,
+      "title": {
+        "english": "Section Title",
+        "telugu": "Telugu Section Title",
+        "hindi": "Hindi Section Title"
+      },
+      "instructions": {
+        "english": ["Instruction 1", "Instruction 2"],
+        "telugu": ["Telugu Instruction 1", "Telugu Instruction 2"],
+        "hindi": ["Hindi Instruction 1", "Hindi Instruction 2"]
+      },
+      "slokas": {
+        "english": "Mantra in Roman script",
+        "telugu": "మంత్ర Telugu script లో",
+        "devanagari": "मंत्र Devanagari script में"
+      },
+      "diagram_placeholder": "Description of diagram or 'No diagram for this section.'"
+    }
+    // ... more sections
+  ]
+}
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2. Update the Configuration
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Add your new manual to `src/data/config.json`:
 
-### `npm run eject`
+```json
+{
+  "manuals": [
+    {
+      "id": "your-manual-id",
+      "name": "Your Manual Name",
+      "filename": "your-manual.json",
+      "description": "Brief description of your manual"
+    }
+    // ... existing manuals
+  ],
+  "defaultManual": "your-manual-id"  // Optional: set as default
+}
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. Section Structure Guidelines
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **ID**: Start with 0 for introduction, then 1, 2, 3, etc.
+- **Instructions**: Array of instruction strings for each language
+- **Slokas**: Sanskrit mantras in different scripts
+- **Diagrams**: Set to "No diagram for this section." if no diagram is needed
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Language Support
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The application supports three languages:
+- **English**: Latin script
+- **Telugu**: Telugu script (తెలుగు)
+- **Hindi**: Devanagari script (हिन्दी)
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Start the development server: `npm start`
+2. Open http://localhost:3000 in your browser
+3. Use the manual selector in the left sidebar to switch between manuals
+4. Use the language selector in the top-right to change languages
+5. Navigate through sections using the left sidebar or Previous/Next buttons
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Development
+
+To run the application locally:
+
+```bash
+npm install
+npm start
+```
+
+To build for production:
+
+```bash
+npm run build
+```
+
+## Contributing
+
+When adding new manuals:
+1. Follow the JSON structure exactly
+2. Ensure all three languages are provided
+3. Test the manual thoroughly in all languages
+4. Verify section navigation works properly
+
+## Example Manuals
+
+The application comes with two example manuals:
+- **Siva Homam**: Complete 24-section manual
+- **Ganesh Homam**: Simple 3-section example manual
+
+Use these as templates for creating new manuals.
 
 ### Code Splitting
 

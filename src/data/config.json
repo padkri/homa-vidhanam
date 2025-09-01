@@ -1,0 +1,17 @@
+{
+  "manuals": [
+    {
+      "id": "siva-homam",
+      "name": "Siva Homam",
+      "filename": "siva-homam.json",
+      "description": "Traditional Siva Homam manual by P V R Narasimha Rao"
+    },
+    {
+      "id": "ganesh-homam",
+      "name": "Ganesh Homam",
+      "filename": "ganesh-homam.json",
+      "description": "Traditional Ganesh Homam manual for removing obstacles"
+    }
+  ],
+  "defaultManual": "siva-homam"
+}
