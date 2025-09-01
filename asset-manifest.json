@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/homa-vidhanam/static/css/main.f6aa7373.css",
+    "main.js": "/homa-vidhanam/static/js/main.2bcccc3b.js",
+    "static/js/575.a0c9b5f7.chunk.js": "/homa-vidhanam/static/js/575.a0c9b5f7.chunk.js",
+    "static/js/972.cc0f0b53.chunk.js": "/homa-vidhanam/static/js/972.cc0f0b53.chunk.js",
+    "static/js/453.372cf5d0.chunk.js": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js",
+    "index.html": "/homa-vidhanam/index.html",
+    "main.f6aa7373.css.map": "/homa-vidhanam/static/css/main.f6aa7373.css.map",
+    "main.2bcccc3b.js.map": "/homa-vidhanam/static/js/main.2bcccc3b.js.map",
+    "453.372cf5d0.chunk.js.map": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6aa7373.css",
+    "static/js/main.2bcccc3b.js"
+  ]
+}
