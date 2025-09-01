@@ -1,0 +1,116 @@
+{
+  "title": {
+    "english": "Ganesh Homam",
+    "telugu": "గణేశ హోమం",
+    "hindi": "गणेश होम"
+  },
+  "author": {
+    "english": "Traditional Manual",
+    "telugu": "Traditional Manual",
+    "hindi": "Traditional Manual"
+  },
+  "sections": [
+    {
+      "id": 0,
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "hindi": "परिचय"
+      },
+      "instructions": {
+        "english": [
+          "Welcome to the Ganesh Homam manual. This guide will help you perform a traditional Ganesh Homam for removing obstacles.",
+          "Lord Ganesha is the remover of obstacles and the lord of beginnings. This homam is particularly beneficial for new ventures.",
+          "This manual contains step-by-step instructions for performing the ritual properly.",
+          "May Lord Ganesha bless your endeavors with success."
+        ],
+        "telugu": [
+          "గణేశ హోమం మార్గదర్శక గ్రంథానికి స్వాగతం. ఈ గైడ్ అడ్డంకులను తొలగించడానికి సాంప్రదాయ గణేశ హోమం చేయడంలో మీకు సహాయపడుతుంది.",
+          "గణేశుడు అడ్డంకులను తొలగించేవాడు మరియు ప్రారంభాల దేవుడు. ఈ హోమం కొత్త ప్రయత్నాలకు ప్రత్యేకంగా ప్రయోజనకరం.",
+          "ఈ మార్గదర్శక గ్రంథంలో ఆచారాన్ని సరిగ్గా నిర్వహించడానికి దశలవారీ సూచనలు ఉన్నాయి.",
+          "గణేశుడు మీ ప్రయత్నాలను విజయంతో ఆశీర్వదించుగాక."
+        ],
+        "hindi": [
+          "गणेश होम मैनुअल में आपका स्वागत है। यह गाइड आपको बाधाओं को दूर करने के लिए पारंपरिक गणेश होम करने में मदद करेगा।",
+          "भगवान गणेश बाधाओं के हर्ता और नई शुरुआतों के स्वामी हैं। यह होम नए उपक्रमों के लिए विशेष रूप से लाभकारी है।",
+          "इस मैनुअल में अनुष्ठान को सही तरीके से करने के लिए चरणबद्ध निर्देश हैं।",
+          "भगवान गणेश आपके प्रयासों को सफलता से आशीर्वादित करें।"
+        ]
+      },
+      "slokas": {
+        "english": "om gaṁ gaṇapataye namaḥ | vakratuṇḍa mahākāya sūryakoṭisamaprabha | nirvighnaṁ kuru me deva sarva-kāryeṣu sarvadā ||",
+        "telugu": "ఓం గం గణపతయే నమః | వక్రతుండ మహాకాయ సూర్యకోటిసమప్రభ | నిర్విఘ్నం కురు మే దేవ సర్వ-కార్యేషు సర్వదా ||",
+        "devanagari": "ॐ गं गणपतये नमः । वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ । निर्विघ्नं कुरु मे देव सर्व-कार्येषु सर्वदा ॥"
+      },
+      "diagram_placeholder": "No diagram for this section."
+    },
+    {
+      "id": 1,
+      "title": {
+        "english": "Preparation",
+        "telugu": "సిద్ధత",
+        "hindi": "तैयारी"
+      },
+      "instructions": {
+        "english": [
+          "Gather the required materials: ghee, rice, sesame seeds, jaggery, and fruits.",
+          "Set up the homa kundam in a clean space facing east.",
+          "Light a lamp and incense to purify the space.",
+          "Place a picture or idol of Lord Ganesha near the setup."
+        ],
+        "telugu": [
+          "అవసరమైన వస్తువులను సేకరించండి: నెయ్యి, బియ్యం, నువ్వులు, బెల్లం మరియు పండ్లు.",
+          "తూర్పు వైపు తిరిగి ఉండే విధంగా పరిశుభ్రమైన ప్రదేశంలో హోమ కుండాన్ని ఏర్పాటు చేయండి.",
+          "ప్రదేశాన్ని పవిత్రం చేయడానికి దీపం మరియు ధూపం వెలిగించండి.",
+          "సెటప్ దగ్గర గణేశుడి చిత్రం లేదా విగ్రహాన్ని ఉంచండి."
+        ],
+        "hindi": [
+          "आवश्यक सामग्री एकत्र करें: घी, चावल, तिल, गुड़ और फल।",
+          "पूर्व दिशा की ओर मुंह करके स्वच्छ स्थान पर होम कुंड स्थापित करें।",
+          "स्थान को शुद्ध करने के लिए दीपक और धूप जलाएं।",
+          "सेटअप के पास भगवान गणेश की तस्वीर या मूर्ति रखें।"
+        ]
+      },
+      "slokas": {
+        "english": "om bhūrbhuvassuvaḥ | oṁ gaṇeśāya namaḥ |",
+        "telugu": "ఓం భూర్భువస్సువః | ఓం గణేశాయ నమః |",
+        "devanagari": "ॐ भूर्भुवस्सुवः । ॐ गणेशाय नमः ।"
+      },
+      "diagram_placeholder": "No diagram for this section."
+    },
+    {
+      "id": 2,
+      "title": {
+        "english": "Main Offerings",
+        "telugu": "ప్రధాన ఆహుతులు",
+        "hindi": "मुख्य आहुति"
+      },
+      "instructions": {
+        "english": [
+          "Begin with offerings of ghee while chanting the Ganesha mantra.",
+          "Offer rice mixed with turmeric for prosperity.",
+          "Add sesame seeds for purification and jaggery for sweetness in life.",
+          "Conclude with fruits as a symbol of the fruits of your labor."
+        ],
+        "telugu": [
+          "గణేశ మంత్రాన్ని జపిస్తూ నెయ్యి ఆహుతులతో ప్రారంభించండి.",
+          "సమృద్ధి కోసం పసుపుతో కలిపిన బియ్యాన్ని సమర్పించండి.",
+          "పవిత్రత కోసం నువ్వులు మరియు జీవితంలో మాధుర్యం కోసం బెల్లాన్ని జోడించండి.",
+          "మీ శ్రమ ఫలాలకు చిహ్నంగా పండ్లతో ముగించండి."
+        ],
+        "hindi": [
+          "गणेश मंत्र का जाप करते हुए घी की आहुति से शुरुआत करें।",
+          "समृद्धि के लिए हल्दी मिले चावल अर्पित करें।",
+          "शुद्धता के लिए तिल और जीवन में मिठास के लिए गुड़ डालें।",
+          "अपने श्रम के फल के प्रतीक के रूप में फलों के साथ समापन करें।"
+        ]
+      },
+      "slokas": {
+        "english": "om gaṁ gaṇapataye svāhā | om vighnarājāya svāhā | om vināyakāya svāhā |",
+        "telugu": "ఓం గం గణపతయే స్వాహా | ఓం విఘ్నరాజాయ స్వాహా | ఓం వినాయకాయ స్వాహా |",
+        "devanagari": "ॐ गं गणपतये स्वाहा । ॐ विघ्नराजाय स्वाहा । ॐ विनायकाय स्वाहा ।"
+      },
+      "diagram_placeholder": "No diagram for this section."
+    }
+  ]
+}
