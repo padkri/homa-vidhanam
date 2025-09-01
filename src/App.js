@@ -154,6 +154,18 @@ export default function App() {
   const activeSection = homamData.sections.find(s => s.id === activeSectionId);
   const currentIndex = homamData.sections.findIndex(s => s.id === activeSectionId);
 
+  // Safety check - if activeSection is not found, return error state
+  if (!activeSection) {
+    return (
+      <div className="bg-[#FDFDFD] text-[#333333] font-sans min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <div className="text-red-600 text-xl mb-4">Error</div>
+          <p className="text-lg">Section not found. Please select a valid section.</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="bg-[#FDFDFD] text-[#333333] font-sans">
       <div className="relative flex w-full min-h-screen">

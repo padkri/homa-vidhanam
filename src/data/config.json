@@ -11,6 +11,12 @@
       "name": "Ganesh Homam",
       "filename": "ganesh-homam.json",
       "description": "Traditional Ganesh Homam manual for removing obstacles"
+    },
+    {
+      "id": "chandi-homam",
+      "name": "Chandi Homam",
+      "filename": "chandi-homam.json",
+      "description": "Traditional Chandi Homam manual for invoking the Divine Mother"
     }
   ],
   "defaultManual": "siva-homam"
