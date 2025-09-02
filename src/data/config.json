@@ -41,6 +41,12 @@
       "name": "Mahalakshmi Homam",
       "filename": "mahalakshmi-homam.json",
       "description": "Traditional Mahalaxmi Homam manual for wealth and prosperity"
+    },
+    {
+      "id": "durga-homam",
+      "name": "Durga Homam",
+      "filename": "durga-homam.json",
+      "description": "Traditional Durga Homam manual for protection and strength"
     }
   ],
   "defaultManual": "siva-homam"
