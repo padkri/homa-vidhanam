@@ -85,7 +85,13 @@ export default function App() {
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            setActiveSubSection(entry.target.id.split('-')[0]);
+            // Handle both new step-based format and legacy format
+            const elementId = entry.target.id;
+            if (elementId.startsWith('step-')) {
+              setActiveSubSection(elementId);
+            } else {
+              setActiveSubSection(elementId.split('-')[0]);
+            }
           }
         });
       },
@@ -235,49 +241,123 @@ export default function App() {
 
           <div className="max-w-3xl mx-auto">
             {activeSectionId === 0 ? (
-              // Landing page content
+              // Landing page content - check if it has steps or old format
               <div className="text-center space-y-8">
                 <div className="prose prose-lg mx-auto">
                   <div className="space-y-4">
-                    {activeSection.instructions[language].map((inst, i) => (
-                      <p key={i} className="text-lg leading-relaxed">{inst}</p>
-                    ))}
+                    {activeSection.steps ? (
+                      // New schema format
+                      activeSection.steps.map((step, stepIndex) => (
+                        <div key={stepIndex}>
+                          {step.instructions[language].map((inst, i) => (
+                            <p key={i} className="text-lg leading-relaxed">{inst}</p>
+                          ))}
+                        </div>
+                      ))
+                    ) : (
+                      // Legacy format
+                      activeSection.instructions && activeSection.instructions[language].map((inst, i) => (
+                        <p key={i} className="text-lg leading-relaxed">{inst}</p>
+                      ))
+                    )}
                   </div>
                 </div>
                 
-                <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
-                  <h3 className="text-xl font-semibold mb-4">Invocation</h3>
-                  <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                    {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
-                  </p>
-                </div>
+                {/* Show first step's sloka if available in new format, or legacy sloka */}
+                {activeSection.steps ? (
+                  activeSection.steps[0]?.slokas && (
+                    <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
+                      <h3 className="text-xl font-semibold mb-4">Invocation</h3>
+                      <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                        {activeSection.steps[0].slokas[language === 'hindi' ? 'devanagari' : language]}
+                      </p>
+                    </div>
+                  )
+                ) : (
+                  activeSection.slokas && (
+                    <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
+                      <h3 className="text-xl font-semibold mb-4">Invocation</h3>
+                      <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                        {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
+                      </p>
+                    </div>
+                  )
+                )}
               </div>
             ) : (
-              // Regular section content
+              // Regular section content - handle both new and legacy formats
               <>
-                <div id="instructions" className="content-section mb-12">
-                  <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Instructions</h3>
-                  <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
-                    {activeSection.instructions[language].map((inst, i) => <li key={i}>{inst}</li>)}
-                  </ul>
-                </div>
+                {activeSection.steps ? (
+                  // New schema format with steps
+                  activeSection.steps.map((step, stepIndex) => (
+                    <div key={stepIndex} id={`step-${stepIndex}`} className="content-section mb-12">
+                      <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">
+                        Step {stepIndex + 1}
+                      </h3>
+                      
+                      {/* Instructions */}
+                      <div className="mb-6">
+                        <h4 className="text-lg font-medium mb-3">Instructions</h4>
+                        <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
+                          {step.instructions[language].map((inst, i) => (
+                            <li key={i}>{inst}</li>
+                          ))}
+                        </ul>
+                      </div>
 
-                <div id="sloka" className="content-section mb-12">
-                  <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Sloka</h3>
-                  <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
-                    <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                      {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
-                    </p>
-                  </div>
-                </div>
+                      {/* Slokas if available */}
+                      {step.slokas && (
+                        <div className="mb-6">
+                          <h4 className="text-lg font-medium mb-3">Sloka</h4>
+                          <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
+                            <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                              {step.slokas[language === 'hindi' ? 'devanagari' : language]}
+                            </p>
+                          </div>
+                        </div>
+                      )}
 
-                {activeSection.diagram_placeholder !== "No diagram for this section." && (
-                  <div id="diagram" className="content-section">
-                    <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Diagram</h3>
-                    <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg h-60 flex items-center justify-center">
-                      <p className="text-gray-500">{activeSection.diagram_placeholder}</p>
+                      {/* Diagram if available */}
+                      {step.diagram_placeholder && step.diagram_placeholder !== "No diagram for this step." && (
+                        <div className="mb-6">
+                          <h4 className="text-lg font-medium mb-3">Diagram</h4>
+                          <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg h-60 flex items-center justify-center">
+                            <p className="text-gray-500">{step.diagram_placeholder}</p>
+                          </div>
+                        </div>
+                      )}
                     </div>
-                  </div>
+                  ))
+                ) : (
+                  // Legacy format
+                  <>
+                    <div id="instructions" className="content-section mb-12">
+                      <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Instructions</h3>
+                      <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
+                        {activeSection.instructions && activeSection.instructions[language].map((inst, i) => <li key={i}>{inst}</li>)}
+                      </ul>
+                    </div>
+
+                    {activeSection.slokas && (
+                      <div id="sloka" className="content-section mb-12">
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Sloka</h3>
+                        <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
+                          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                            {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
+                          </p>
+                        </div>
+                      </div>
+                    )}
+
+                    {activeSection.diagram_placeholder && activeSection.diagram_placeholder !== "No diagram for this section." && (
+                      <div id="diagram" className="content-section">
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Diagram</h3>
+                        <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg h-60 flex items-center justify-center">
+                          <p className="text-gray-500">{activeSection.diagram_placeholder}</p>
+                        </div>
+                      </div>
+                    )}
+                  </>
                 )}
               </>
             )}
@@ -302,11 +382,69 @@ export default function App() {
           <aside className="hidden xl:block w-64 flex-shrink-0 sticky top-0 h-screen border-l border-[#E0E0E0] p-8">
               <h4 className="font-semibold mb-4">On this page</h4>
               <ul className="space-y-3">
-                   <li><a href="#instructions" onClick={(e) => { e.preventDefault(); document.getElementById('instructions').scrollIntoView({ behavior: 'smooth' }); }} className={`text-sm ${activeSubSection === 'instructions' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}>Instructions</a></li>
-                   <li><a href="#sloka" onClick={(e) => { e.preventDefault(); document.getElementById('sloka').scrollIntoView({ behavior: 'smooth' }); }} className={`text-sm ${activeSubSection === 'sloka' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}>Sloka</a></li>
-                   {activeSection.diagram_placeholder !== "No diagram for this section." && (
-                     <li><a href="#diagram" onClick={(e) => { e.preventDefault(); document.getElementById('diagram').scrollIntoView({ behavior: 'smooth' }); }} className={`text-sm ${activeSubSection === 'diagram' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}>Diagram</a></li>
-                   )}
+                {activeSection.steps ? (
+                  // New schema format - show steps
+                  activeSection.steps.map((step, stepIndex) => (
+                    <li key={stepIndex}>
+                      <a 
+                        href={`#step-${stepIndex}`} 
+                        onClick={(e) => { 
+                          e.preventDefault(); 
+                          document.getElementById(`step-${stepIndex}`)?.scrollIntoView({ behavior: 'smooth' }); 
+                        }} 
+                        className={`text-sm ${activeSubSection === `step-${stepIndex}` ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                      >
+                        Step {stepIndex + 1}
+                      </a>
+                    </li>
+                  ))
+                ) : (
+                  // Legacy format - show traditional sections
+                  <>
+                    {activeSection.instructions && (
+                      <li>
+                        <a 
+                          href="#instructions" 
+                          onClick={(e) => { 
+                            e.preventDefault(); 
+                            document.getElementById('instructions')?.scrollIntoView({ behavior: 'smooth' }); 
+                          }} 
+                          className={`text-sm ${activeSubSection === 'instructions' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                        >
+                          Instructions
+                        </a>
+                      </li>
+                    )}
+                    {activeSection.slokas && (
+                      <li>
+                        <a 
+                          href="#sloka" 
+                          onClick={(e) => { 
+                            e.preventDefault(); 
+                            document.getElementById('sloka')?.scrollIntoView({ behavior: 'smooth' }); 
+                          }} 
+                          className={`text-sm ${activeSubSection === 'sloka' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                        >
+                          Sloka
+                        </a>
+                      </li>
+                    )}
+                    {activeSection.diagram_placeholder && activeSection.diagram_placeholder !== "No diagram for this section." && (
+                      <li>
+                        <a 
+                          href="#diagram" 
+                          onClick={(e) => { 
+                            e.preventDefault(); 
+                            document.getElementById('diagram')?.scrollIntoView({ behavior: 'smooth' }); 
+                          }} 
+                          className={`text-sm ${activeSubSection === 'diagram' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                        >
+                          Diagram
+                        </a>
+                      </li>
+                    )}
+                  </>
+                )}
               </ul>
           </aside>
         )}
