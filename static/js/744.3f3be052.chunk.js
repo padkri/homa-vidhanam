@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiva_homam=self.webpackChunksiva_homam||[]).push([[744],{744:(a,s,e)=>{a.exports=e.p+"static/media/TODO.9a4f1f51a43c69657da7.md"}}]);
