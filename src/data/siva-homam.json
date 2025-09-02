@@ -243,7 +243,7 @@
             "telugu": "ఓం బ్రహ్మణే నమః | \nఓం యమాయ నమః| \nఓం సోమాయ నమః | \nఓం రుద్రాయ నమః| \nఓం విష్ణవే నమః | \nఓం ఇంద్రాయ నమః|",
             "devanagari": "ॐ ब्रह्मणे नमः । \nॐ यमाय नमः। \nॐ सोमाय नमः । \nॐ रुद्राय नमः। \nॐ विष्णवे नमः । \nॐ इन्द्राय नमः।"
           },
-          "diagram_placeholder": ""
+          "diagram": "/diagrams/agni-pratisthapana-6-devata.svg"
         }
       ]
     },
@@ -326,7 +326,7 @@
             "telugu": "అదితేऽనుమన్యస్వ | \nఅనుమతేऽనుమన్యస్వ | \nసరస్వతేऽనుమన్యస్వ | \nదేవ సవితః ప్రసువ |",
             "devanagari": "अदितेऽनुमन्यस्व । \nअनुमतेऽनुमन्यस्व । \nसरस्वतेऽनुमन्यस्व । \nदेव सवितः प्रसुव ।"
           },
-          "diagram_placeholder": "A diagram named `water-sprinkling-directions.svg` will illustrate the pattern."
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
         },
         {
           "instructions": {
@@ -373,7 +373,7 @@
             "telugu": "ఓం ఇంద్రాయ నమః| ఓం అగ్నయే నమః| ఓం యమాయ నమః | ఓం నిరృతయే నమః| ఓం వరుణాయ నమః| ఓం వాయవే నమః | ఓం సోమాయ నమః | ఓం ఈశానాయ నమః | ఓం బ్రహ్మణే నమః| ఓం శేషాయ నమః| ఓం అగ్నయే నమః | ఓం ఆత్మనే నమః |",
             "devanagari": "ॐ इन्द्राय नमः। ॐ अग्नये नमः। ॐ यमाय नमः । ॐ निर्ऋतये नमः। ॐ वरुणाय नमः। ॐ वायवे नमः । ॐ सोमाय नमः । ॐ ईशानाय नमः । ॐ ब्रह्मणे नमः। ॐ शेषाय नमः। ॐ अग्नये नमः । ॐ आत्मने नमः ।"
           },
-          "diagram_placeholder": "A diagram named `dikpalakas.svg` will illustrate the positions for the offerings."
+          "diagram": "public/diagrams/dikpalakas.svg"
         }
       ]
     },
@@ -1051,7 +1051,7 @@
             "telugu": "పార్షదేభ్యో నమః | బలిం సమర్పయామి|",
             "devanagari": "पार्षदेभ्यो नमः । बलिं समर्पयामि।"
           },
-          "diagram_placeholder": "A diagram named `bali.svg` will illustrate the six positions for the offerings."
+          "diagram": "/diagrams/parsha-bali.svg"
         }
       ]
     },
@@ -1203,7 +1203,7 @@
             "telugu": "అదితేऽన్వమంస్థాః | అనుమతేऽన్వమంస్థాః | సరస్వతేऽన్వమంస్థాః | దేవ సవితః ప్రాసావీః |",
             "devanagari": "अदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः । सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।"
           },
-          "diagram_placeholder": "Refers to the diagram `water-sprinkling-directions.svg` for the pattern."
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
         },
         {
           "instructions": {

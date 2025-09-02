@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="500" height="450">
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="450" fill="#fdfdfd"/>
+  
+  <!-- Title -->
+  <text x="250" y="30" text-anchor="middle" font-family="serif" font-size="18" font-weight="bold" fill="#333">Agni Pratisthapana - Four Directions</text>
+  
+  <!-- Central Homa Kundam (square) -->
+  <rect x="125" y="100" width="250" height="250" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  
+  <!-- Central text -->
+  <text x="250" y="230" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Homa Kundam</text>
+  
+  <!-- East side (top) - Arrow pointing left with number 4 -->
+  <line x1="200" y1="65" x2="300" y2="65" stroke="#666666" stroke-width="2"/>
+  <polygon points="200,65 210,60 210,70" fill="#666666"/>
+  <text x="250" y="55" text-anchor="middle" font-family="serif" font-size="12" fill="#333">East</text>
+  <text x="315" y="70" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#d97706">4</text>
+  
+  <!-- West side (bottom) - Arrow pointing left with number 2 -->
+  <line x1="200" y1="385" x2="300" y2="385" stroke="#666666" stroke-width="2"/>
+  <polygon points="200,385 210,380 210,390" fill="#666666"/>
+  <text x="250" y="405" text-anchor="middle" font-family="serif" font-size="12" fill="#333">West</text>
+  <text x="315" y="390" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#d97706">2</text>
+  
+  <!-- North side (left) - Arrow pointing up with number 3 -->
+  <line x1="90" y1="175" x2="90" y2="275" stroke="#666666" stroke-width="2"/>
+  <polygon points="90,175 85,185 95,185" fill="#666666"/>
+  <text x="70" y="225" text-anchor="middle" font-family="serif" font-size="12" fill="#333" transform="rotate(-90, 70, 225)">North</text>
+  <text x="75" y="295" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#d97706">3</text>
+  
+  <!-- South side (right) - Arrow pointing up with number 1 -->
+  <line x1="410" y1="175" x2="410" y2="275" stroke="#666666" stroke-width="2"/>
+  <polygon points="410,175 405,185 415,185" fill="#666666"/>
+  <text x="430" y="225" text-anchor="middle" font-family="serif" font-size="12" fill="#333" transform="rotate(90, 430, 225)">South</text>
+  <text x="425" y="295" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#d97706">1</text>
+  
+  <!-- Legend -->
+  <text x="250" y="420" text-anchor="middle" font-family="serif" font-size="12" fill="#666">Four directional invocations for Agni Pratisthapana</text>
+
+</svg>

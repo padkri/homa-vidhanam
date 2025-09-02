@@ -462,7 +462,8 @@
             "english": "om indrāya namaḥ | om agnaye namaḥ | om yamāya namaḥ | om nirṛtaye namaḥ | om varuṇāya namaḥ | om vāyave namaḥ | om somāya namaḥ | om īśānāya namaḥ | om brahmaṇe namaḥ | om śeṣāya namaḥ | om agnaye namaḥ | om ātmane namaḥ |",
             "telugu": "ఓం ఇంద్రాయ నమః | ఓం అగ్నయే నమః | ఓం యమాయ నమః | ఓం నిరృతయే నమః | ఓం వరుణాయ నమః | ఓం వాయవే నమః | ఓం సోమాయ నమః | ఓం ఈశానాయ నమః | ఓం బ్రహ్మణే నమః | ఓం శేషాయ నమః | ఓం అగ్నయే నమః | ఓం ఆత్మనే నమః |",
             "devanagari": "ॐ इन्द्राय नमः। ॐ अग्नये नमः। ॐ यमाय नमः। ॐ निर्ऋतये नमः। ॐ वरुणाय नमः। ॐ वायवे नमः। ॐ सोमाय नमः। ॐ ईशानाय नमः । ॐ ब्रह्मणे नमः। ॐ शेषाय नमः। ॐ अग्नये नमः। ॐ आत्मने नमः।"
-          }
+          },
+          "diagram": "public/diagrams/dikpalakas.svg"
         }
       ]
     },

@@ -12,6 +12,7 @@
   "sections": [
      {
       "id": 0,
+      "source": "https://vedicastrologer.org/homa/regular/chandi_r_sans-.pdf",
       "title": {
         "english": "Introduction",
         "telugu": "పరిచయం",
@@ -314,7 +315,7 @@
           "'चत्वारि शृङ्गाः' मंत्र से अग्नि देव से प्रार्थना करें।"
         ]
       },
-      "diagram_placeholder": "A diagram shows 6 lines drawn on the base of the homakundam. Three horizontal lines (top to bottom numbered 6, 5, 4) are intersected by three vertical lines (left to right numbered 3, 1, 2). Arrows indicate drawing direction: vertical lines downwards, horizontal lines to the right. A second diagram shows the order of sprinkling water around the homa kundam: 1. South side (West to East), 2. West side (South to North), 3. North side (West to East), 4. East side (North to South).",
+      "diagram": "/diagrams/agni-pratisthapana-6-devata.svg",
       "slokas": {
         "english": "For drawing lines: Om brahmane namah | Om yamaaya namah | Om somaaya namah | Om rudraaya namah | Om vishnave namah | Om indraaya namah |\nFor fire installation: Om bhoorbhuvassuvarom | Kravyaadamagnim prahinomi dooram yamaraajno gachchatu ripravaahah | ihaivaayamitaro jaatavedaa devebhyo havyam vahatu prajaanan |\nFor refinement: Om bhoorbhuvassuvah swaahaa |\nFor sprinkling water: Aditenumanyasva | anumatenu-manyasva | sarasvatenumanyasva | deva savitah prasuva |\nPrayer to Agni: Chatvaari shrungaastrayo asya paadaa dwe sheershe saptahastaaso asya | tridhaa baddho vishabho roraveeti maho devo martyaa aavivesha | Esha hi devah pradisho nu sarvaah poorvo hi jaatah sa u garbhe antah | sa vijaayamaanah sa janishyamaanah pratyangmukhaastishthati vishwatomukhah | praangmukho deva | he agne | mamaabhimukho bhava |",
         "telugu": "గీతలు గీయడానికి: ఓం బ్రహ్మణే నమః | ఓం యమాయ నమః | ఓం సోమాయ నమః | ఓం రుద్రాయ నమః | ఓం విష్ణవే నమః | ఓం ఇంద్రాయ నమః |\nఅగ్ని ప్రతిష్ఠాపనకు: ఓం భూర్భువస్సువరోం | క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః । ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ |\nశుద్ధి కోసం: ఓం భూర్భువస్సువః స్వాహా |\nనీరు చల్లడానికి: అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।\nఅగ్ని ప్రార్థన: చత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య । త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ । ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్భే అంతః । స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ముఖాస్తిష్ఠతి విశ్వతోముఖః । ప్రాఙ్ముఖో దేవ । హే అగ్నే । మమాభిముఖో భవ ।",
@@ -357,7 +358,7 @@
           "12 प्रसादों में से प्रत्येक के लिए 12 संगत मंत्रों का पाठ करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
+      "diagram": "/diagrams/dikpalakas.svg",
       "slokas": {
         "english": "Om indraaya namah | Om agnaye namah | Om yamaaya namah | Om nirr^itaye namah | Om varunaaya namah | Om vaayave namah | Om somaaya namah | Om eeshaanaaya namah | Om brahmane namah | Om sheshaaya namah | Om agnaye namah | Om aatmane namah |",
         "telugu": "ఓం ఇంద్రాయ నమః। ఓం అగ్నయే నమః। ఓం యమాయ నమః। ఓం నిరృతయే నమః। ఓం వరుణాయ నమః। ఓం వాయవే నమః। ఓం సోమాయ నమః। ఓం ఈశానాయ నమః। ఓం బ్రహ్మణే నమః । ఓం శేషాయ నమః। ఓం అగ్నయే నమః । ఓం ఆత్మనే నమః ।",
@@ -696,12 +697,12 @@
           "बलि के लिए उपयोग किए गए शेष चावल/फल को फेंक देना चाहिए और उसका सेवन नहीं करना चाहिए।"
         ]
       },
-      "diagram_placeholder": "A diagram shows the homa kundam with numbers indicating the six locations for bali offerings: 1, 5, 6 on the East side; 2 on the West; 3 on the North; 4 on the South.",
       "slokas": {
         "english": "Om paarshadebhyo namah | Balim samarpayaami |",
         "telugu": "ఓం పార్షదేభ్యో నమః। బలిం సమర్పయామి ।",
         "devanagari": "ॐ पार्षदेभ्यो नमः। बलिं समर्पयामि ।"
-      }
+      },
+      "diagram": "/diagrams/parsha-bali.svg"
     },
     {
       "id": 18,
@@ -795,7 +796,7 @@
           "कम से कम 5-10 मिनट के लिए अपने पसंदीदा देवता या मंत्र पर ध्यान केंद्रित करें।"
         ]
       },
-      "diagram_placeholder": "Refers to the diagram from the 'Fire Installation' section for sprinkling water.",
+      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg",
       "slokas": {
         "english": "Sapta te agne samidhah saptajihvaah sapta rishayassaptah dhaama priyaani | Sapta hotraa sapta dhaatvaa yajantisaptayoneeraaprinaswaa ghritena swaahaa | Agnaye saptavata idam na mama ||\nAdite'nvamansthaah | Anumate'nvamansthaah | Sarasvate'nvamansthaah | Deva savitah praasaaveeh |",
         "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి । సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా। అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః। అనుమతేऽన్వమంస్థాః। సరస్వతేऽన్వమంస్థాః। దేవ సవితః ప్రాసావీః ।",

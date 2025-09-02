@@ -11,6 +11,47 @@
   },
   "sections": [
       {
+      "id": 0,
+      "source": "https://vedicastrologer.org/homa/regular/ganapati_r_sans-.pdf",
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "devanagari": "परिचय"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Welcome to the Sri Maha Ganapathi Homam manual. This guide provides a simplified procedure suitable for everyone.",
+              "A homam (fire ritual) is a sacred Vedic practice where offerings are made to the fire while chanting mantras. The fire acts as a medium to carry our prayers and offerings to the divine.",
+              "Lord Ganesha resides in the mooladhara chakra, governing material prosperity, and is also the gatekeeper to higher spiritual realms. For this reason, it is recommended to pray to Ganesha before any other deity.",
+              "This homam is highly beneficial as it facilitates spiritual progress while protecting the material aspects of one's life.",
+              "This procedure is intended for spiritual upliftment. Please proceed with an attitude of surrender."
+            ],
+            "telugu": [
+              "శ్రీ మహాగణపతి హోమం మార్గదర్శినికి స్వాగతం. ఈ గైడ్ అందరికీ అనువైన సరళీకృత విధానాన్ని అందిస్తుంది.",
+              "హోమం అనేది మంత్రాలను జపిస్తూ అగ్నికి నైవేద్యాలు సమర్పించే ఒక పవిత్ర వైదిక ఆచారం. అగ్ని మన ప్రార్థనలను మరియు నైవేద్యాలను దైవానికి చేరవేసే మాధ్యమంగా పనిచేస్తుంది.",
+              "గణేశుడు మూలాధార చక్రంలో నివసిస్తాడు, భౌతిక శ్రేయస్సును పాలిస్తాడు మరియు ఉన్నత ఆధ్యాత్మిక రంగాలకు కూడా ద్వారపాలకుడు. ఈ కారణంగా, ఏ ఇతర దేవతను ప్రార్థించే ముందు గణేశుడిని ప్రార్థించాలని సిఫార్సు చేయబడింది.",
+              "ఈ హోమం చాలా ప్రయోజనకరమైనది, ఎందుకంటే ఇది ఒకరి జీవితంలోని భౌతిక అంశాలను కాపాడుతూ ఆధ్యాత్మిక పురోగతిని సులభతరం చేస్తుంది.",
+              "ఈ విధానం ఆధ్యాత్మిక ఉన్నతి కోసం ఉద్దేశించబడింది. దయచేసి సమర్పణ భావంతో ముందుకు సాగండి."
+            ],
+            "hindi": [
+              "श्री महा गणपति होम नियमावली में आपका स्वागत है। यह गाइड सभी के लिए उपयुक्त एक सरलीकृत प्रक्रिया प्रदान करता है।",
+              "होम एक पवित्र वैदिक प्रथा है जिसमें मंत्रों का जाप करते हुए अग्नि को आहुति दी जाती है। अग्नि हमारी प्रार्थनाओं और आहुतियों को परमात्मा तक पहुंचाने का माध्यम बनती है।",
+              "भगवान गणेश मूलाधार चक्र में निवास करते हैं, जो भौतिक समृद्धि को नियंत्रित करता है, और उच्च आध्यात्मिक क्षेत्रों के द्वारपाल भी हैं। इसी कारण से, किसी भी अन्य देवता की प्रार्थना करने से पहले गणेश की प्रार्थना करने की सिफारिश की जाती है।",
+              "यह होम अत्यधिक लाभकारी है क्योंकि यह व्यक्ति के जीवन के भौतिक पहलुओं की रक्षा करते हुए आध्यात्मिक प्रगति की सुविधा प्रदान करता है।",
+              "यह प्रक्रिया आध्यात्मिक उत्थान के लिए है। कृपया समर्पण की भावना के साथ आगे बढ़ें।"
+            ]
+          },
+          "slokas": {
+            "english": "Om Sri MahaaGanapathaye Namah | Om Sri Gurubhyo Namah | Om Rishibhyo Namah |",
+            "telugu": "ఓం శ్రీ మహాగణపతయే నమః | ఓం శ్రీ గురుభ్యో నమః | ఓం ఋషిభ్యో నమః |",
+            "devanagari": "ॐ श्री महागणपतये नमः । ॐ श्री गुरुभ्यो नमः । ॐ ऋषिभ्यो नमः ।"
+          }
+        }
+      ]
+    },
+      {
         "id": 1,
         "title": {
           "english": "Anujnaa",
@@ -110,7 +151,11 @@
             },
             "slokas": {
               "english": "śuklāmbaradharam vişnum śaśivarņam caturbhujam prasannavadanam dhyāyet sarva vighnopaśāntaye||\nagajānana padmärkam gajānanamaharniśam anekadam tam bhaktānām ekadantam upāsmahe||\nvakratunda mahākāya koțisūryasamaprabha nirvighnam kuru me deva sarvakāryeşu sarvadā ||",
-              "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే||\nఅగజానన పద్మార్కం గజాననమహర్నిశం అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే||\nవక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ||",
+              "telugu": [
+                "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే||",
+                "అగజానన పద్మార్కం గజాననమహర్నిశం అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే||",
+                "వక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ||"
+              ],
               "devanagari": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥\nअगजाननपद्मार्कं गजाननमहर्निशम् अनेकदं तं भक्तानामेकदन्तमुपास्महे॥\nवक्रतुण्ड महाकाय कोटिसूर्यसमप्रभ निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥"
             }
           },
@@ -283,7 +328,7 @@
               "telugu": "ఓం బ్రహ్మణే నమః | ఓం యమాయ నమః | ఓం సోమాయ నమః | ఓం రుద్రాయ నమః | ఓం విష్ణవే నమః | ఓం ఇంద్రాయ నమః |",
               "devanagari": "ॐ ब्रह्मणे नमः । ॐ यमाय नमः । ॐ सोमाय नमः । ॐ रुद्राय नमः । ॐ विष्णवे नमः । ॐ इन्द्राय नमः ।"
             },
-            "diagram_placeholder": "A diagram showing 6 intersecting lines, 3 vertical and 3 horizontal, numbered to show the drawing order. (Figure 1 from PDF)"
+            "diagram": "/diagrams/agni-pratisthapana-6-devata.svg"
           }
         ]
       },
@@ -372,7 +417,7 @@
               "telugu": "అదితేऽనుమన్యస్వ | అనుమతేऽనుమన్యస్వ | సరస్వతేऽనుమన్యస్వ | దేవ సవితః ప్రసువ |",
               "devanagari": "अदितेऽनुमन्यस्व । अनुमतेऽनुमन्यस्व । सरस्वतेऽनुमन्यस्व । देव सवितः प्रसुव ।"
             },
-            "diagram_placeholder": "A diagram of a square homa kundam showing 4 arrows around the outside indicating the order and direction of sprinkling water. (Figure 2 from PDF)"
+            "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
           },
           {
             "instructions": {
@@ -427,7 +472,8 @@
               "english": "om indrāya namaḥ | om agnaye namaḥ | om yamāya namaḥ | om nirṛtaye namaḥ | om varuņāya namaḥ | om vāyave namaḥ | om somāya namaḥ | om īśānāya namaḥ | om brahmane namaḥ | om śeṣāya namaḥ | om agnaye namaḥ | om atmane namaḥ |",
               "telugu": "ఓం ఇంద్రాయ నమః | ఓం అగ్నయే నమః | ఓం యమాయ నమః | ఓం నిరృతయే నమః | ఓం వరుణాయ నమః | ఓం వాయవే నమః | ఓం సోమాయ నమః | ఓం ఈశానాయ నమః | ఓం బ్రహ్మణే నమః | ఓం శేషాయ నమః | ఓం అగ్నయే నమః | ఓం ఆత్మనే నమః |",
               "devanagari": "ॐ इन्द्राय नमः । ॐ अग्नये नमः । ॐ यमाय नमः । ॐ निरृतये नमः । ॐ वरुणाय नमः । ॐ वायवे नमः । ॐ सोमाय नमः । ॐ ईशानाय नमः । ॐ ब्रह्मणे नमः । ॐ शेषाय नमः । ॐ अग्नये नमः । ॐ आत्मने नमः ।"
-            }
+            },
+            "diagram": "public/diagrams/dikpalakas.svg"
           }
         ]
       },
@@ -736,7 +782,7 @@
             "slokas": {
               "english": "om svāhā |\nom śrīm svāhā |\nom śrīm hrīṁ svāhā |\nom śrīm hrīṁ klīm svāhā |\nom śrīm hrīṁ klīm glaum svāhā |\nom śrīm hrīṁ klīm glaum gam svāhā |\nom śrīm hrīṁ klīm glaum gam ganapataye svāhā |\nom śrīm hrīṁ klīm glaum gam ganapataye varavarada svāhā |\nom śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam svāhā |\nom śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā svāhā |",
               "telugu": "ఓం స్వాహా |\nఓం శ్రీం స్వాహా |\nఓం శ్రీం హ్రీం స్వాహా |\nఓం శ్రీం హ్రీం క్లీం స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం గం స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం స్వాహా |\nఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా స్వాహా |",
-              "devanagari": "ॐ स्वाहा ।\nॐ श्रीं स्वाहा ।\nॐ श्रीं ह्रीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतaye वरवरद सर्वजनं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं मे वशमानय स्वाहा स्वाहा ।"
+              "devanagari": "ॐ स्वाहा ।\nॐ श्रीं स्वाहा ।\nॐ श्रीं ह्रीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं मे वशमानय स्वाहा स्वाहा ।"
             }
           }
         ]
@@ -893,9 +939,9 @@
               ]
             },
             "slokas": {
-              "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajnyah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || asmin homakarmani madhye sambhaavita samasta mantralopa tantralopa kriyaalopa bhaktilopa shraddhaalopa niyamlopa nishthaalopa dravyalopaadi samasta dosha praayashchittaartham sarva praayashchittaahutim hoshyaami | Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||\nShort Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
-              "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुशो యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభාවිත సమస్త మంత్రలోప తంత్రలోప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతిం హోష్యామి। ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
-              "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम् । स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वং हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न। यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन् । यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥\nसंक्षिप्त संस्करण: ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा । प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
+              "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvaḥ svāhā | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajñah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Short Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
+              "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్నస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुశో యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభావిత సమస్త మంత్రలొప తంత్రలొప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతి హోష్యామి। ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
+              "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नमो रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
             }
           },
           {
@@ -916,7 +962,7 @@
             "slokas": {
               "english": "anājñātaṁ yadājñātaṁ yajñasya kriyate mithu | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || puruṣasaṁmito yajño yajñaḥ puruṣasaṁmitaḥ | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || yatpākatrā manasā dīnadakṣā na | yajñasya manvate martāsaḥ | agniṣṭaddhotā kratuvidvijānan | yajiṣṭho devān ṛtuśo yajāti | svāhā | agnaya idaṁ na mama ||",
               "telugu": "అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || యత్పాకత్రా మనసా దీనదక్షా న | యజ్ఞస్య మన్వతే మర్తాసః | అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ | యజిష్ఠో దేవాన్  ऋतुశో యజాతి | స్వాహా | అగ్నయ ఇదం న మమ ||",
-              "devanagari": "अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु । अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम् । स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥"
+              "devanagari": "अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु । अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥"
             }
           },
           {
@@ -998,7 +1044,7 @@
               "telugu": "ఓం శ్రీ మహాగణపతి పార్షదేభ్యో నమః బలిం సమర్పయామి |",
               "devanagari": "ॐ श्री महागणपति पार्षदेभ्यो नमः बलिं समर्पयामि ।"
             },
-            "diagram_placeholder": "A diagram of a square homa kundam showing numbers 1-6 around the outside, indicating the positions for the bali offerings. (Figure 3 from PDF)"
+            "diagram": "/diagrams/parsha-bali.svg"
           }
         ]
       },
@@ -1056,7 +1102,7 @@
             "slokas": {
               "english": "Om poornaahutimuttamaam juhoti | Sarvam vai poornaahutih | Sarvamevaapnoti | Atho iyam vai poornaahutih | Asyaameva pratitishthati ||\nOm poornamadah poornamidam poornaatpoornamudachyate | Poornasya poornamaadaaya poornamevaavashishyate ||\nOm aim hreem kleem chaamundaayai vichche vaushat ||",
               "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి । సర్వం వై పూర్ణాహుతిః । సర్వమేవాప్నోతి । అథో ఇయం వై పూర్ణాహుతిః । అస్యామేవ ప్రతితిష్ఠతి ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే । పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం ఐం హ్రీం క్లీం చాముండాయై విచ్చే వౌషట్ ॥\n",
-              "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति । सर्वं वै पूर्णाहुतिः । सर्वमेवाप्नोति । अथो इयं वै पूर्णाहुतिः । अस्यामेव प्रतितिष्ठति ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट् ॥\n"
+              "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति । सर्वं वै पूर्णाहुतिः । सर्वमेवाप्नोति । अथो इयं वै पूर्णाहुतिः । अस्यामेव प्रतितिष्ठति ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट् ॥"
       }
           },
           {
@@ -1121,7 +1167,8 @@
               "english": "adite'nvamamsthāḥ | anumate'nvamamsthāḥ | sarasvate'nvamamsthāḥ | deva savitah prāsāvīḥ |",
               "telugu": "అదితేऽన్వమంస్థాః | అనుమతేऽన్వమంస్థాః | సరస్వతేऽన్వమంస్థాః | దేవ సవితః ప్రాసావీః |",
               "devanagari": "अदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः । सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।"
-            }
+            },
+            "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
           },
           {
             "instructions": {
@@ -1201,7 +1248,7 @@
               ],
               "hindi": [
                 "दर्भ और फूल/अक्षत लें। दर्भों से होमकुंड के किनारों को स्पर्श करें, फिर मूर्ति को स्पर्श करें, अग्नि से ऊर्जा को मूर्ति में स्थानांतरित करें।",
-                "कल्पना कीजिए कि श्री महागणपति पहले मंत्र का पाठ करते हुए अग्नि और मूर्ति से निकलकर आपके हृदय में लौट आए हैं।",
+                "कल्पना कीजिए कि श्री महागणपति, जो अग्नि और मूर्ति से निकलकर आपके हृदय में लौट आए हैं, पहले मंत्र का पाठ करते हुए।",
                 "फिर, दूसरे मंत्र और एक प्रणाम के साथ अग्नि देव (अग्नि) को विदाई दें।"
               ]
             },
@@ -1253,7 +1300,7 @@
             },
             "slokas": {
               "english": "anena divya mangaļa homena bhagavān sarvātmakaḥ śrīmahāganapatiḥ prīyatām om tatsat | sarvam śrī kṛṣṇārpaņamastu | om śāntiḥ śāntiḥ śāntih |",
-              "telugu": "అనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః శ్రీమహాగణపతిః ప్రీయతాం ఓం తత్సత్ | సర్వం శ్రీ కృష్ణార్పణమస్తు | ఓం శాంతిః శాంతిః శాంతిః |",
+              "telugu": ["అనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః శ్రీమహాగణపతిః ప్రీయతాం",  "ఓం తత్సత్ | సర్వం శ్రీ కృష్ణార్పణమస్తు | ఓం శాంతిః శాంతిః శాంతిః |"],
               "devanagari": "अनेन दिव्य मङ्गल होमेन भगवान् सर्वात्मकः श्रीमहागणपतिः प्रीयताम् ॐ तत्सत् । सर्वं श्री कृष्णार्पणमस्तु । ॐ शान्तिः शान्तिः शान्तिः ।"
             }
           }

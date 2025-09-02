@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { loadManual, getAvailableManuals, getDefaultManualId } from './dataLoader';
+import { BrowserRouter as Router, Routes, Route, useParams, useNavigate, Link } from 'react-router-dom';
+import { loadManual, getAvailableManuals } from './dataLoader';
 
 // --- Helper: Icon Components ---
 const MenuIcon = (props) => (
@@ -17,7 +18,77 @@ const XIcon = (props) => (
   </svg>
 );
 
-export default function App() {
+const ImageIcon = (props) => (
+  <svg {...props} xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+    <rect width="18" height="18" x="3" y="3" rx="2" ry="2"/>
+    <circle cx="9" cy="9" r="2"/>
+    <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/>
+  </svg>
+);
+
+const MantraIcon = (props) => (
+  <svg {...props} xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 2c-1.5 0-3 1-3 2.5 0 1 0.5 1.5 1 2-0.5 0.5-1 1-1 2 0 1.5 1.5 2.5 3 2.5s3-1 3-2.5c0-1-0.5-1.5-1-2 0.5-0.5 1-1 1-2C15 3 13.5 2 12 2z"/>
+    <path d="M8 7c-1 0-2 0.5-2 1.5 0 0.5 0.3 1 0.7 1.3-0.4 0.3-0.7 0.8-0.7 1.3 0 1 1 1.5 2 1.5s2-0.5 2-1.5c0-0.5-0.3-1-0.7-1.3 0.4-0.3 0.7-0.8 0.7-1.3C10 7.5 9 7 8 7z"/>
+    <path d="M16 7c-1 0-2 0.5-2 1.5 0 0.5 0.3 1 0.7 1.3-0.4 0.3-0.7 0.8-0.7 1.3 0 1 1 1.5 2 1.5s2-0.5 2-1.5c0-0.5-0.3-1-0.7-1.3 0.4-0.3 0.7-0.8 0.7-1.3C18 7.5 17 7 16 7z"/>
+    <path d="M6 12c-0.8 0-1.5 0.3-1.5 1 0 0.3 0.2 0.6 0.5 0.8-0.3 0.2-0.5 0.5-0.5 0.8 0 0.7 0.7 1 1.5 1s1.5-0.3 1.5-1c0-0.3-0.2-0.6-0.5-0.8 0.3-0.2 0.5-0.5 0.5-0.8C7.5 12.3 6.8 12 6 12z"/>
+    <path d="M18 12c-0.8 0-1.5 0.3-1.5 1 0 0.3 0.2 0.6 0.5 0.8-0.3 0.2-0.5 0.5-0.5 0.8 0 0.7 0.7 1 1.5 1s1.5-0.3 1.5-1c0-0.3-0.2-0.6-0.5-0.8 0.3-0.2 0.5-0.5 0.5-0.8C19.5 12.3 18.8 12 18 12z"/>
+    <path d="M10 16c-1.2 0-2.5 0.5-2.5 1.5 0 0.5 0.4 1 1 1.3-0.6 0.3-1 0.8-1 1.3 0 1 1.3 1.5 2.5 1.5s2.5-0.5 2.5-1.5c0-0.5-0.4-1-1-1.3 0.6-0.3 1-0.8 1-1.3C12.5 16.5 11.2 16 10 16z"/>
+    <path d="M14 16c-1.2 0-2.5 0.5-2.5 1.5 0 0.5 0.4 1 1 1.3-0.6 0.3-1 0.8-1 1.3 0 1 1.3 1.5 2.5 1.5s2.5-0.5 2.5-1.5c0-0.5-0.4-1-1-1.3 0.6-0.3 1-0.8 1-1.3C16.5 16.5 15.2 16 14 16z"/>
+  </svg>
+);
+
+const GuruIcon = (props) => (
+<svg {...props} xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 2c-1.5 0-3 1-3 2.5 0 1 0.5 1.5 1 2-0.5 0.5-1 1-1 2 0 1.5 1.5 2.5 3 2.5s3-1 3-2.5c0-1-0.5-1.5-1-2 0.5-0.5 1-1 1-2C15 3 13.5 2 12 2z"/>
+    <path d="M8 7c-1 0-2 0.5-2 1.5 0 0.5 0.3 1 0.7 1.3-0.4 0.3-0.7 0.8-0.7 1.3 0 1 1 1.5 2 1.5s2-0.5 2-1.5c0-0.5-0.3-1-0.7-1.3 0.4-0.3 0.7-0.8 0.7-1.3C10 7.5 9 7 8 7z"/>
+    <path d="M16 7c-1 0-2 0.5-2 1.5 0 0.5 0.3 1 0.7 1.3-0.4 0.3-0.7 0.8-0.7 1.3 0 1 1 1.5 2 1.5s2-0.5 2-1.5c0-0.5-0.3-1-0.7-1.3 0.4-0.3 0.7-0.8 0.7-1.3C18 7.5 17 7 16 7z"/>
+    <path d="M6 12c-0.8 0-1.5 0.3-1.5 1 0 0.3 0.2 0.6 0.5 0.8-0.3 0.2-0.5 0.5-0.5 0.8 0 0.7 0.7 1 1.5 1s1.5-0.3 1.5-1c0-0.3-0.2-0.6-0.5-0.8 0.3-0.2 0.5-0.5 0.5-0.8C7.5 12.3 6.8 12 6 12z"/>
+    <path d="M18 12c-0.8 0-1.5 0.3-1.5 1 0 0.3 0.2 0.6 0.5 0.8-0.3 0.2-0.5 0.5-0.5 0.8 0 0.7 0.7 1 1.5 1s1.5-0.3 1.5-1c0-0.3-0.2-0.6-0.5-0.8 0.3-0.2 0.5-0.5 0.5-0.8C19.5 12.3 18.8 12 18 12z"/>
+    <path d="M10 16c-1.2 0-2.5 0.5-2.5 1.5 0 0.5 0.4 1 1 1.3-0.6 0.3-1 0.8-1 1.3 0 1 1.3 1.5 2.5 1.5s2.5-0.5 2.5-1.5c0-0.5-0.4-1-1-1.3 0.6-0.3 1-0.8 1-1.3C12.5 16.5 11.2 16 10 16z"/>
+    <path d="M14 16c-1.2 0-2.5 0.5-2.5 1.5 0 0.5 0.4 1 1 1.3-0.6 0.3-1 0.8-1 1.3 0 1 1.3 1.5 2.5 1.5s2.5-0.5 2.5-1.5c0-0.5-0.4-1-1-1.3 0.6-0.3 1-0.8 1-1.3C16.5 16.5 15.2 16 14 16z"/>
+  </svg>
+
+);
+
+// --- Landing Page Component ---
+const LandingPage = () => {
+  const [availableManuals, setAvailableManuals] = useState([]);
+
+  useEffect(() => {
+    const manuals = getAvailableManuals();
+    setAvailableManuals(manuals);
+  }, []);
+
+  return (
+    <div className="bg-[#FDFDFD] text-[#333333] font-sans min-h-screen">
+      <div className="max-w-4xl mx-auto p-8">
+        <div className="text-center mb-12">
+          <h1 className="text-5xl font-bold mb-4">Homa Manuals</h1>
+          <p className="text-xl text-gray-600">Traditional Fire Ritual Guides</p>
+        </div>
+        
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {availableManuals.map(manual => (
+            <Link
+              key={manual.id}
+              to={`/${manual.id}`}
+              className="block p-6 bg-white border border-[#E0E0E0] rounded-lg shadow-sm hover:shadow-md transition-shadow"
+            >
+              <h3 className="text-xl font-semibold mb-2">{manual.name}</h3>
+              <p className="text-gray-600 text-sm">{manual.description}</p>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+// --- Manual Viewer Component ---
+const ManualViewer = () => {
+  const { manualId } = useParams();
+  const navigate = useNavigate();
   const [homamData, setHomamData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -26,12 +97,50 @@ export default function App() {
   const [language, setLanguage] = useState('english');
   const [isLeftSidebarOpen, setLeftSidebarOpen] = useState(false);
   const [availableManuals, setAvailableManuals] = useState([]);
-  const [currentManualId, setCurrentManualId] = useState('');
+  
+  // Translation object for UI text
+  const translations = {
+    instructions: {
+      english: 'Instructions',
+      telugu: 'సూచనలు',
+      hindi: 'निर्देश'
+    },
+    guidance: {
+      english: 'Guidance',
+      telugu: 'మార్గదర్శకత్వం',
+      hindi: 'मार्गदर्शन'
+    },
+    mantra: {
+      english: 'Mantra',
+      telugu: 'మంత్రం',
+      hindi: 'मंत्र'
+    },
+    visualGuide: {
+      english: 'Visual Guide',
+      telugu: 'దృశ్య మార్గదర్శిని',
+      hindi: 'दृश्य गाइड'
+    },
+    invocation: {
+      english: 'Invocation',
+      telugu: 'ప్రార్థన',
+      hindi: 'आह्वान'
+    },
+    step: {
+      english: 'Step',
+      telugu: 'దశ',
+      hindi: 'चरण'
+    },
+    language: {
+      english: 'Language',
+      telugu: 'భాష',
+      hindi: 'भाषा'
+    }
+  };
   
   const mainContentRef = useRef(null);
   const observer = useRef(null);
 
-  // Load initial data
+  // Load initial data based on URL parameter
   useEffect(() => {
     const initializeApp = async () => {
       try {
@@ -41,11 +150,15 @@ export default function App() {
         const manuals = getAvailableManuals();
         setAvailableManuals(manuals);
         
-        // Load default manual
-        const defaultManualId = getDefaultManualId();
-        setCurrentManualId(defaultManualId);
+        // Check if manualId exists
+        const manual = manuals.find(m => m.id === manualId);
+        if (!manual) {
+          // Redirect to landing page if manual not found
+          navigate('/');
+          return;
+        }
         
-        const data = await loadManual(defaultManualId);
+        const data = await loadManual(manualId);
         setHomamData(data);
         setActiveSectionId(data.sections[0].id);
         
@@ -56,23 +169,14 @@ export default function App() {
       }
     };
 
-    initializeApp();
-  }, []);
-
-  // Load different manual when selection changes
-  const handleManualChange = async (manualId) => {
-    try {
-      setLoading(true);
-      const data = await loadManual(manualId);
-      setHomamData(data);
-      setCurrentManualId(manualId);
-      setActiveSectionId(data.sections[0].id);
-      if(mainContentRef.current) mainContentRef.current.scrollTop = 0;
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
+    if (manualId) {
+      initializeApp();
     }
+  }, [manualId, navigate]);
+
+  // Handle manual change via navigation
+  const handleManualChange = (newManualId) => {
+    navigate(`/${newManualId}`);
   };
 
   // Effect to handle intersection observer for right sidebar highlighting
@@ -179,6 +283,11 @@ export default function App() {
         {/* --- Left Sidebar (Main Navigation) --- */}
         <aside className={`fixed lg:sticky top-0 z-30 h-screen w-72 bg-[#FDFDFD] border-r border-[#E0E0E0] transition-transform transform ${isLeftSidebarOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0 lg:flex-shrink-0`}>
           <div className="p-6">
+            <div className="mb-4">
+              <Link to="/" className="text-sm text-[#D97706] hover:text-[#B45309] font-medium">
+                ← Back to Home
+              </Link>
+            </div>
             <h2 className="text-xl font-bold">{homamData.title[language]}</h2>
             <p className="text-sm text-gray-600 mt-1">by {homamData.author[language]}</p>
             
@@ -186,7 +295,7 @@ export default function App() {
               <div className="mt-4">
                 <label className="block text-xs font-medium text-gray-700 mb-1">Manual:</label>
                 <select 
-                  value={currentManualId} 
+                  value={manualId} 
                   onChange={(e) => handleManualChange(e.target.value)}
                   className="w-full text-sm rounded border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50"
                 >
@@ -230,7 +339,7 @@ export default function App() {
               )}
             </div>
              <div className="flex items-center space-x-2">
-              <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">Language:</label>
+              <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">{translations.language[language]}:</label>
               <select id="language-select" value={language} onChange={(e) => setLanguage(e.target.value)} className="rounded-md border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50">
                 <option value="english">English</option>
                 <option value="telugu">Telugu</option>
@@ -242,22 +351,22 @@ export default function App() {
           <div className="max-w-3xl mx-auto">
             {activeSectionId === 0 ? (
               // Landing page content - check if it has steps or old format
-              <div className="text-center space-y-8">
+              <div className="space-y-8">
                 <div className="prose prose-lg mx-auto">
-                  <div className="space-y-4">
+                  <div className="space-y-6">
                     {activeSection.steps ? (
                       // New schema format
                       activeSection.steps.map((step, stepIndex) => (
                         <div key={stepIndex}>
                           {step.instructions[language].map((inst, i) => (
-                            <p key={i} className="text-lg leading-relaxed">{inst}</p>
+                            <p key={i} className="text-lg leading-relaxed mb-4">{inst}</p>
                           ))}
                         </div>
                       ))
                     ) : (
                       // Legacy format
                       activeSection.instructions && activeSection.instructions[language].map((inst, i) => (
-                        <p key={i} className="text-lg leading-relaxed">{inst}</p>
+                        <p key={i} className="text-lg leading-relaxed mb-4">{inst}</p>
                       ))
                     )}
                   </div>
@@ -267,7 +376,10 @@ export default function App() {
                 {activeSection.steps ? (
                   activeSection.steps[0]?.slokas && (
                     <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
-                      <h3 className="text-xl font-semibold mb-4">Invocation</h3>
+                      <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
+                        <MantraIcon className="text-amber-600" />
+                        {translations.invocation[language]}
+                      </h3>
                       <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
                         {activeSection.steps[0].slokas[language === 'hindi' ? 'devanagari' : language]}
                       </p>
@@ -276,7 +388,10 @@ export default function App() {
                 ) : (
                   activeSection.slokas && (
                     <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
-                      <h3 className="text-xl font-semibold mb-4">Invocation</h3>
+                      <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
+                        <MantraIcon className="text-amber-600" />
+                        {translations.invocation[language]}
+                      </h3>
                       <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
                         {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
                       </p>
@@ -292,12 +407,14 @@ export default function App() {
                   activeSection.steps.map((step, stepIndex) => (
                     <div key={stepIndex} id={`step-${stepIndex}`} className="content-section mb-12">
                       <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">
-                        Step {stepIndex + 1}
+                        {translations.step[language]} {stepIndex + 1}
                       </h3>
                       
                       {/* Instructions */}
                       <div className="mb-6">
-                        <h4 className="text-lg font-medium mb-3">Instructions</h4>
+                        <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
+                          <GuruIcon className="text-blue-600" /> {translations.instructions[language]}
+                        </h4>
                         <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
                           {step.instructions[language].map((inst, i) => (
                             <li key={i}>{inst}</li>
@@ -308,7 +425,10 @@ export default function App() {
                       {/* Slokas if available */}
                       {step.slokas && (
                         <div className="mb-6">
-                          <h4 className="text-lg font-medium mb-3">Sloka</h4>
+                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
+                            <MantraIcon className="text-amber-600" />
+                            {translations.mantra[language]}
+                          </h4>
                           <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
                             <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
                               {step.slokas[language === 'hindi' ? 'devanagari' : language]}
@@ -318,11 +438,30 @@ export default function App() {
                       )}
 
                       {/* Diagram if available */}
-                      {step.diagram_placeholder && step.diagram_placeholder !== "No diagram for this step." && (
+                      {(step.diagram || step.diagram_placeholder) && step.diagram_placeholder !== "No diagram for this step." && (
                         <div className="mb-6">
-                          <h4 className="text-lg font-medium mb-3">Diagram</h4>
-                          <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg h-60 flex items-center justify-center">
-                            <p className="text-gray-500">{step.diagram_placeholder}</p>
+                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
+                            <ImageIcon className="text-gray-600" />
+                          </h4>
+                          <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg flex items-center justify-center" style={{minHeight: '300px'}}>
+                            {step.diagram ? (
+                              <>
+                                <img 
+                                  src={process.env.PUBLIC_URL + step.diagram} 
+                                  alt="Ritual diagram" 
+                                  className="max-w-full max-h-full object-contain"
+                                  style={{maxHeight: '400px'}}
+                                  onError={(e) => {
+                                    console.error('Error loading diagram:', e.target.src);
+                                    e.target.style.display = 'none';
+                                    e.target.nextSibling.style.display = 'block';
+                                  }}
+                                />
+                                <p className="text-gray-500 p-4 text-center" style={{display: 'none'}}>Diagram not available</p>
+                              </>
+                            ) : (
+                              <p className="text-gray-500 p-4 text-center">{step.diagram_placeholder}</p>
+                            )}
                           </div>
                         </div>
                       )}
@@ -332,7 +471,10 @@ export default function App() {
                   // Legacy format
                   <>
                     <div id="instructions" className="content-section mb-12">
-                      <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Instructions</h3>
+                      <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
+                        <GuruIcon className="text-blue-600" />
+                        {translations.instructions[language]}
+                      </h3>
                       <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
                         {activeSection.instructions && activeSection.instructions[language].map((inst, i) => <li key={i}>{inst}</li>)}
                       </ul>
@@ -340,7 +482,10 @@ export default function App() {
 
                     {activeSection.slokas && (
                       <div id="sloka" className="content-section mb-12">
-                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Sloka</h3>
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
+                          <MantraIcon className="text-amber-600" />
+                          {translations.mantra[language]}
+                        </h3>
                         <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
                           <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
                             {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
@@ -349,11 +494,31 @@ export default function App() {
                       </div>
                     )}
 
-                    {activeSection.diagram_placeholder && activeSection.diagram_placeholder !== "No diagram for this section." && (
+                    {(activeSection.diagram || activeSection.diagram_placeholder) && activeSection.diagram_placeholder !== "No diagram for this section." && (
                       <div id="diagram" className="content-section">
-                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2">Diagram</h3>
-                        <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg h-60 flex items-center justify-center">
-                          <p className="text-gray-500">{activeSection.diagram_placeholder}</p>
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
+                          <ImageIcon className="text-gray-600" />
+                          {translations.visualGuide[language]}
+                        </h3>
+                        <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg flex items-center justify-center" style={{minHeight: '300px'}}>
+                          {activeSection.diagram ? (
+                            <>
+                              <img 
+                                src={process.env.PUBLIC_URL + activeSection.diagram} 
+                                alt="Ritual diagram" 
+                                className="max-w-full max-h-full object-contain"
+                                style={{maxHeight: '400px'}}
+                                onError={(e) => {
+                                  console.error('Error loading diagram:', e.target.src);
+                                  e.target.style.display = 'none';
+                                  e.target.nextSibling.style.display = 'block';
+                                }}
+                              />
+                              <p className="text-gray-500 p-4 text-center" style={{display: 'none'}}>Diagram not available</p>
+                            </>
+                          ) : (
+                            <p className="text-gray-500 p-4 text-center">{activeSection.diagram_placeholder}</p>
+                          )}
                         </div>
                       </div>
                     )}
@@ -394,7 +559,7 @@ export default function App() {
                         }} 
                         className={`text-sm ${activeSubSection === `step-${stepIndex}` ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
                       >
-                        Step {stepIndex + 1}
+                        {translations.step[language]} {stepIndex + 1}
                       </a>
                     </li>
                   ))
@@ -409,9 +574,10 @@ export default function App() {
                             e.preventDefault(); 
                             document.getElementById('instructions')?.scrollIntoView({ behavior: 'smooth' }); 
                           }} 
-                          className={`text-sm ${activeSubSection === 'instructions' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                          className={`text-sm flex items-center gap-2 ${activeSubSection === 'instructions' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
                         >
-                          Instructions
+                          <GuruIcon className="w-4 h-4" />
+                          {translations.guidance[language]}
                         </a>
                       </li>
                     )}
@@ -423,23 +589,25 @@ export default function App() {
                             e.preventDefault(); 
                             document.getElementById('sloka')?.scrollIntoView({ behavior: 'smooth' }); 
                           }} 
-                          className={`text-sm ${activeSubSection === 'sloka' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                          className={`text-sm flex items-center gap-2 ${activeSubSection === 'sloka' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
                         >
-                          Sloka
+                          <MantraIcon className="w-4 h-4" />
+                           {translations.mantra[language]}
                         </a>
                       </li>
                     )}
-                    {activeSection.diagram_placeholder && activeSection.diagram_placeholder !== "No diagram for this section." && (
+                    {(activeSection.diagram || activeSection.diagram_placeholder) && activeSection.diagram_placeholder !== "No diagram for this section." && (
                       <li>
                         <a 
                           href="#diagram" 
                           onClick={(e) => { 
                             e.preventDefault(); 
                             document.getElementById('diagram')?.scrollIntoView({ behavior: 'smooth' }); 
-                          }} 
-                          className={`text-sm ${activeSubSection === 'diagram' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
+                          }}
+                          className={`text-sm flex items-center gap-2 ${activeSubSection === 'diagram' ? 'text-[#D97706] font-semibold' : 'text-gray-500 hover:text-gray-900'}`}
                         >
-                          Diagram
+                          <ImageIcon className="w-4 h-4" />
+                          {translations.visualGuide[language]}
                         </a>
                       </li>
                     )}
@@ -450,5 +618,17 @@ export default function App() {
         )}
       </div>
     </div>
+  );
+};
+
+// --- Main App Component with Routing ---
+export default function App() {
+  return (
+    <Router basename="/homa-vidhanam">
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/:manualId" element={<ManualViewer />} />
+      </Routes>
+    </Router>
   );
 }

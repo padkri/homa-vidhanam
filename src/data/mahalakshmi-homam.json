@@ -17,6 +17,7 @@
         "telugu": "పరిచయం",
         "hindi": "परिचय"
       },
+      "source": "https://vedicastrologer.org/homa/regular/mahalakshmi_r_sans-.pdf",
       "steps": [
         {
           "instructions": {
@@ -306,7 +307,7 @@
             "telugu": "౧. ఓం బ్రహ్మణే నమః |\n౨. ఓం యమాయ నమః |\n౩. ఓం సోమాయ నమః |\n౪. ఓం రుద్రాయ నమః |\n౫. ఓం విష్ణవే నమః |\n౬. ఓం ఇంద్రాయ నమః |",
             "devanagari": "१. ॐ ब्रह्मणे नमः ।\n२. ॐ यमाय नमः ।\n३. ॐ सोमाय नमः ।\n४. ॐ रुद्राय नमः ।\n५. ॐ विष्णवे नमः ।\n६. ॐ इन्द्राय नमः ।"
           },
-          "diagram_placeholder": "Figure1_DrawingLines.svg"
+          "diagram": "/diagrams/agni-pratisthapana-6-devata.svg"
         },
         {
           "instructions": {
@@ -382,7 +383,7 @@
             "telugu": "అదితేऽనుమన్యస్వ | అనుమతేऽనుమన్యస్వ | సరస్వతేऽనుమన్యస్వ | దేవ సవితః ప్రసువ |",
             "devanagari": "अदितेऽनुमन्यस्व । अनुमतेऽनुमन्यस्व । सरस्वतेऽनुमन्यस्व । देव सवितः प्रसुव ।"
           },
-          "diagram_placeholder": "Figure2_SprinklingWater.svg"
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
         },
         {
           "instructions": {
@@ -901,7 +902,7 @@
             "telugu": "ఓం పార్షదేభ్యో నమః | బలిం సమర్పయామి |",
             "devanagari": "ॐ पार्षदेभ्यो नमः। बलिं समर्पयामि ।"
           },
-          "diagram_placeholder": "Figure3_Bali.svg"
+          "diagram": "/diagrams/parsha-bali.svg"
         }
       ]
     },
@@ -1033,7 +1034,8 @@
             "english": "adite'nvamaṃsthāḥ | anumate'nvamaṃsthāḥ | sarasvate'nvamaṃsthāḥ | deva savitaḥ prāsāvīḥ |",
             "telugu": "అదితేऽన్వమంస్థాః | అనుమతేऽన్వమంస్థాః | సరస్వతేऽన్వమంస్థాః | దేవ సవితః ప్రాసావీః |",
             "devanagari": "अदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः। सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।"
-          }
+          },
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
         },
         {
           "instructions": {
