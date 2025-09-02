@@ -207,8 +207,8 @@
     {
       "id": 5,
       "title": {
-        "english": "Services to the Main Deity (Upacharas)",
-        "telugu": "ప్రధాన దేవతకు సేవలు (ఉపచారాలు)",
+        "english": "Services to the Main Deity",
+        "telugu": "ప్రధాన దేవతకు సేవలు",
         "hindi": "मुख्य देवता की सेवाएं (उपचार)"
       },
       "instructions": {
@@ -327,8 +327,8 @@
     {
       "id": 8,
       "title": {
-        "english": "Poornahuti (Complete Offering)",
-        "telugu": "పూర్ణాహుతి (సంపూర్ణ సమర్పణ)",
+        "english": "Poornahuti",
+        "telugu": "పూర్ణాహుతి",
         "hindi": "पूर्णाहुति (पूर्ण आहुति)"
       },
       "instructions": {

@@ -23,6 +23,24 @@
       "name": "Kartikeya Homam",
       "filename": "kartikey-homam.json",
       "description": "Traditional Kartikeya Homam manual for victory and strength"
+    },
+    {
+      "id": "dattatreya-homam",
+      "name": "Dattatreya Homam",
+      "filename": "dattatreya-homam.json",
+      "description": "Traditional Dattatreya Homam manual for wisdom and divine blessings"
+    },
+    {
+      "id": "saraswati-homam",
+      "name": "Saraswati Homam",
+      "filename": "saraswati-homam.json",
+      "description": "Traditional Saraswati Homam manual for knowledge and learning"
+    },
+    {
+      "id": "mahalakshmi-homam",
+      "name": "Mahalakshmi Homam",
+      "filename": "mahalakshmi-homam.json",
+      "description": "Traditional Mahalaxmi Homam manual for wealth and prosperity"
     }
   ],
   "defaultManual": "siva-homam"
