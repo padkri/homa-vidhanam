@@ -1,22 +1,31 @@
 {
   "files": {
     "main.css": "/homa-vidhanam/static/css/main.6ba21151.css",
-    "main.js": "/homa-vidhanam/static/js/main.5e17cac2.js",
+    "main.js": "/homa-vidhanam/static/js/main.c57f7054.js",
     "static/js/954.be1b8769.chunk.js": "/homa-vidhanam/static/js/954.be1b8769.chunk.js",
     "static/js/848.a8028c64.chunk.js": "/homa-vidhanam/static/js/848.a8028c64.chunk.js",
+    "static/js/894.fb5763c4.chunk.js": "/homa-vidhanam/static/js/894.fb5763c4.chunk.js",
     "static/js/575.31e0ef9c.chunk.js": "/homa-vidhanam/static/js/575.31e0ef9c.chunk.js",
+    "static/js/823.c2a9b5f1.chunk.js": "/homa-vidhanam/static/js/823.c2a9b5f1.chunk.js",
+    "static/js/50.ddc038de.chunk.js": "/homa-vidhanam/static/js/50.ddc038de.chunk.js",
+    "static/js/742.0cffdd14.chunk.js": "/homa-vidhanam/static/js/742.0cffdd14.chunk.js",
     "static/js/329.428653df.chunk.js": "/homa-vidhanam/static/js/329.428653df.chunk.js",
+    "static/js/422.d90bf6c0.chunk.js": "/homa-vidhanam/static/js/422.d90bf6c0.chunk.js",
     "static/js/395.7d3388a9.chunk.js": "/homa-vidhanam/static/js/395.7d3388a9.chunk.js",
+    "static/js/525.560a6df4.chunk.js": "/homa-vidhanam/static/js/525.560a6df4.chunk.js",
     "static/js/840.d04b0e0d.chunk.js": "/homa-vidhanam/static/js/840.d04b0e0d.chunk.js",
     "static/js/972.4dc7a806.chunk.js": "/homa-vidhanam/static/js/972.4dc7a806.chunk.js",
+    "static/js/318.41a41ced.chunk.js": "/homa-vidhanam/static/js/318.41a41ced.chunk.js",
+    "static/js/687.2b3dfde6.chunk.js": "/homa-vidhanam/static/js/687.2b3dfde6.chunk.js",
+    "static/js/402.4178fa9e.chunk.js": "/homa-vidhanam/static/js/402.4178fa9e.chunk.js",
     "static/js/453.372cf5d0.chunk.js": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js",
     "index.html": "/homa-vidhanam/index.html",
     "main.6ba21151.css.map": "/homa-vidhanam/static/css/main.6ba21151.css.map",
-    "main.5e17cac2.js.map": "/homa-vidhanam/static/js/main.5e17cac2.js.map",
+    "main.c57f7054.js.map": "/homa-vidhanam/static/js/main.c57f7054.js.map",
     "453.372cf5d0.chunk.js.map": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ba21151.css",
-    "static/js/main.5e17cac2.js"
+    "static/js/main.c57f7054.js"
   ]
 }
