@@ -1,4 +1,14 @@
 {
+  "title": {
+    "english": "Kartikeya Homam",
+    "telugu": "కార్తికేయ హోమం",
+    "hindi": "कार्तिकेय होम"
+  },
+  "author": {
+    "english": "P V R Narasimha Rao",
+    "telugu": "P V R Narasimha Rao",
+    "hindi": "P V R Narasimha Rao"
+  },
   "sections": [
     {
       "id": 0,

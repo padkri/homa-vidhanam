@@ -18,11 +18,11 @@
       "filename": "chandi-homam.json",
       "description": "Traditional Chandi Homam manual for invoking the Divine Mother"
     },
-      {
+    {
       "id": "kartikeya-homam",
-      "name": "kartikeya Homam",
-      "filename": "√-homam.json",
-      "description": "Traditional Chandi Homam manual for invoking the Divine Mother"
+      "name": "Kartikeya Homam",
+      "filename": "kartikey-homam.json",
+      "description": "Traditional Kartikeya Homam manual for victory and strength"
     }
   ],
   "defaultManual": "siva-homam"
