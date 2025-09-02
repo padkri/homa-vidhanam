@@ -1,0 +1,740 @@
+{
+  "title": {
+    "english": "Simple Sri Rama Homa",
+    "telugu": "సరళ శ్రీ రామ హోమం",
+    "hindi": "सरल श्री राम होम"
+  },
+  "author": {
+    "english": "P V R Narasimha Rao",
+    "telugu": "పి వి ఆర్ నరసింహ రావు",
+    "hindi": "पी वी आर नरसिम्हा राव"
+  },
+  "sections": [
+    {
+      "id": 0,
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "devanagari": "परिचय"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Lord Sri Rama is an incarnation of detached adherence of dharma.",
+              "His homa can be done every day or every weekend or on Sukla Navami tithi or on Punarvasu naskahatra."
+            ],
+            "telugu": [
+              "శ్రీరాముడు ధర్మబద్ధమైన వైరాగ్యానికి ప్రతిరూపం.",
+              "ఆయన హోమాన్ని ప్రతిరోజూ లేదా ప్రతి వారాంతంలో లేదా శుక్ల నవమి తిథి నాడు లేదా పునర్వసు నక్షత్రం నాడు చేయవచ్చు."
+            ],
+            "hindi": [
+              "भगवान श्री राम धर्म के प्रति अनासक्त निष्ठा के अवतार हैं।",
+              "उनका होम हर दिन या हर सप्ताहांत या शुक्ल नवमी तिथि पर या पुनर्वसु नक्षत्र पर किया जा सकता है।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī mahāgaṇapataye namaḥ\nom śrī gurubhyo namaḥ\nom ṛṣibhyo namaḥ",
+            "telugu": "ఓం శ్రీ మహాగణపతయే నమః\nఓం శ్రీ గురుభ్యో నమః\nఓం ఋషిభ్యో నమః",
+            "devanagari": "ॐ श्री महागणपतये नमः\nॐ श्री गुरुभ्यो नमः\nॐ ऋषिभ्यो नमः"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": {
+        "english": "Preparation",
+        "telugu": "తయారీ",
+        "devanagari": "तैयारी"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Find a standard homa kunda or a small vessel made of copper, silver, bronze, or steel.",
+              "You will need ghee (clarified butter) or sesame oil, a cup and spoon for the ghee, and another tumbler and spoon for water.",
+              "Keep a matchbox and camphor ready.",
+              "For offerings, prepare small pieces of dry coconut (copra), dry twigs, dried cowdung pieces, sesame seeds, and plain unsalted nuts like cashews or almonds."
+            ],
+            "telugu": [
+              "ఒక ప్రామాణిక హోమ కుండం లేదా రాగి, వెండి, కంచు లేదా ఉక్కుతో చేసిన చిన్న పాత్రను తీసుకోండి.",
+              "మీకు నెయ్యి లేదా నువ్వుల నూనె, నెయ్యి కోసం ఒక కప్పు మరియు చెంచా, మరియు నీటి కోసం మరొక గ్లాసు మరియు చెంచా అవసరం.",
+              "ఒక అగ్గిపెట్టె మరియు కర్పూరం సిద్ధంగా ఉంచుకోండి.",
+              "ఆహుతుల కోసం, ఎండు కొబ్బరి (కొబ్బరి చిప్ప) చిన్న ముక్కలు, ఎండు పుల్లలు, ఎండిన ఆవు పేడ ముక్కలు, నువ్వులు, మరియు జీడిపప్పు లేదా బాదం వంటి ఉప్పులేని గింజలను సిద్ధం చేసుకోండి."
+            ],
+            "hindi": [
+              "एक मानक होम कुंड या तांबे, चांदी, कांसे या स्टील से बना एक छोटा बर्तन खोजें।",
+              "आपको घी या तिल का तेल, घी के लिए एक कप और चम्मच, और पानी के लिए एक और गिलास और चम्मच की आवश्यकता होगी।",
+              "एक माचिस और कपूर तैयार रखें।",
+              "आहुतियों के लिए, सूखे नारियल (खोपरा) के छोटे टुकड़े, सूखी टहनियाँ, सूखे गोबर के उपले, तिल, और काजू या बादाम जैसे सादे बिना नमक वाले मेवे तैयार करें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "english": "Precautions",
+        "telugu": "జాగ్రత్తలు",
+        "devanagari": "सावधानियां"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Do not consume meat, alcohol, or drugs on the previous day. Sleep well and get up early on the day of the homa.",
+              "Take a bath and wear clean, comfortable clothes. A calm state of mind is more important than traditional attire.",
+              "Ideally, perform the homa outdoors. If indoors, ensure there is enough ventilation to avoid smoke accumulation.",
+              "Take fire safety precautions and keep inflammable substances away from the homa area."
+            ],
+            "telugu": [
+              "ముందు రోజు మాంసం, మద్యం లేదా మాదకద్రవ్యాలు సేవించవద్దు. బాగా నిద్రపోయి, హోమం రోజున త్వరగా లేవండి.",
+              "స్నానం చేసి, శుభ్రమైన, సౌకర్యవంతమైన బట్టలు ధరించండి. సాంప్రదాయ దుస్తుల కంటే ప్రశాంతమైన మానసిక స్థితి ముఖ్యం.",
+              "హోమాన్ని ఆరుబయట చేయడం ఉత్తమం. గదిలో చేస్తుంటే, పొగ చేరకుండా తగినంత వెంటిలేషన్ ఉండేలా చూసుకోండి.",
+              "అగ్ని భద్రతా జాగ్రత్తలు తీసుకోండి మరియు మండే పదార్థాలను హోమం ప్రాంతానికి దూరంగా ఉంచండి."
+            ],
+            "hindi": [
+              "पिछले दिन मांस, शराब या नशीली दवाओं का सेवन न करें। अच्छी नींद लें और होम के दिन जल्दी उठें।",
+              "स्नान करें और साफ, आरामदायक कपड़े पहनें। पारंपरिक परिधान से अधिक महत्वपूर्ण मन की शांत अवस्था है।",
+              "आदर्श रूप से, होम बाहर करें। यदि घर के अंदर कर रहे हैं, तो सुनिश्चित करें कि धुआं जमा होने से बचाने के लिए पर्याप्त वेंटिलेशन हो।",
+              "अग्नि सुरक्षा सावधानियां बरतें और ज्वलनशील पदार्थों को होम क्षेत्र से दूर रखें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "english": "Pre-Fire Stage",
+        "telugu": "అగ్ని-పూర్వ దశ",
+        "devanagari": "अग्नि-पूर्व चरण"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Sit facing east with the homa kunda in front of you. Think of Mother Earth with gratitude for bearing your weight."
+            ],
+            "telugu": [
+              "తూర్పు ముఖంగా కూర్చుని, మీ ముందు హోమ కుండం ఉంచుకోండి. మీ భారాన్ని మోస్తున్న భూమాతకు కృతజ్ఞతలు తెలుపుకోండి."
+            ],
+            "hindi": [
+              "पूर्व की ओर मुख करके बैठें और होम कुंड को अपने सामने रखें। आपका भार सहन करने के लिए पृथ्वी माता का कृतज्ञता से ध्यान करें।"
+            ]
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Clean your palm, pour some water in your palm 3 times and drink it after saying the following mantras."
+            ],
+            "telugu": [
+              "మీ అరచేతిని శుభ్రం చేసుకొని, మూడుసార్లు అరచేతిలో నీరు పోసుకుని, ఈ క్రింది మంత్రాలను పఠించిన తర్వాత త్రాగండి."
+            ],
+            "hindi": [
+              "अपनी हथेली साफ करें, अपनी हथेली में 3 बार थोड़ा पानी डालें और निम्नलिखित मंत्रों को कहने के बाद उसे पी लें।"
+            ]
+          },
+          "slokas": {
+            "english": "(1) om keśavāya svāhā\n(2) om nārāyaṇāya svāhā\n(3) om mādhavāya svāhā",
+            "telugu": "(1) ఓం కేశవాయ స్వాహా\n(2) ఓం నారాయణాయ స్వాహా\n(3) ఓం మాధవాయ స్వాహా",
+            "devanagari": "(१) ॐ केशवाय स्वाहा\n(२) ॐ नारायणाय स्वाहा\n(३) ॐ माधवाय स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Light a lamp and think of the fire in it with gratitude. While saying any mantra you like (or just focusing on your breath), breathe in and out calmly. You can do alternate nostril breathing or normal breathing. Stop when your mind is calm."
+            ],
+            "telugu": [
+              "ఒక దీపం వెలిగించి, దానిలోని అగ్నిని కృతజ్ఞతతో స్మరించుకోండి. మీకు నచ్చిన మంత్రాన్ని జపిస్తూ (లేదా మీ శ్వాసపై దృష్టి పెడుతూ), ప్రశాంతంగా శ్వాస తీసుకోండి. మీరు అనులోమ విలోమ ప్రాణాయామం లేదా సాధారణ శ్వాస చేయవచ్చు. మీ మనస్సు ప్రశాంతంగా ఉన్నప్పుడు ఆపండి."
+            ],
+            "hindi": [
+              "एक दीपक जलाएं और उसमें मौजूद अग्नि का कृतज्ञता से ध्यान करें। अपनी पसंद का कोई भी मंत्र कहते हुए (या सिर्फ अपनी सांस पर ध्यान केंद्रित करते हुए), शांति से सांस अंदर और बाहर लें। आप अनुलोम-विलोम प्राणायाम या सामान्य श्वास कर सकते हैं। जब आपका मन शांत हो जाए तो रुक जाएं।"
+            ]
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Place some water in your right palm. If you are not comfortable with Sanskrit, say this: 'For the establishment of Dharma on earth and for the well-being and peace of all people, I shall do a Sri Rama Homa within my abilities.' If you are comfortable with Sanskrit, say the following mantra. After saying it, drop the water in front of you."
+            ],
+            "telugu": [
+              "మీ కుడి అరచేతిలో కొంచెం నీరు తీసుకోండి. మీకు సంస్కృతం సౌకర్యంగా లేకపోతే, ఇలా చెప్పండి: 'భూలోకంలో ధర్మ స్థాపన కోసం మరియు సర్వజనుల సుఖ శాంతుల కోసం, నేను యథాశక్తి శ్రీ రామ హోమం చేస్తాను.' మీకు సంస్కృతం సౌకర్యంగా ఉంటే, ఈ క్రింది మంత్రాన్ని చెప్పండి. చెప్పిన తర్వాత, నీటిని మీ ముందు వదలండి."
+            ],
+            "hindi": [
+              "अपनी दाहिनी हथेली में थोड़ा पानी लें। यदि आप संस्कृत में सहज नहीं हैं, तो यह कहें: 'पृथ्वी पर धर्म की स्थापना के लिए और सभी लोगों की भलाई और शांति के लिए, मैं अपनी क्षमताओं के भीतर एक श्री राम होम करूंगा।' यदि आप संस्कृत में सहज हैं, तो निम्नलिखित मंत्र कहें। इसे कहने के बाद, पानी अपने सामने गिरा दें।"
+            ]
+          },
+          "slokas": {
+            "english": "bhūloke dharma sthāpanārthaṁ sarveṣāṁ janānāṁ sukha śānti siddhayarthaṁ śrīrāma homakarma yathāśakti kariṣye",
+            "telugu": "భూలోకే ధర్మ స్థాపనార్థం సర్వేషాం జనానాం సుఖ శాంతి సిద్ధయర్థం శ్రీరామ హోమకర్మ యథాశక్తి కరిష్యే",
+            "devanagari": "भूलोके धर्म स्थापनार्थं सर्वेषां जनानां सुख शान्ति सिद्धयर्थं श्रीराम होमकर्म यथाशक्ति करिष्ये"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Place a couple of copra pieces (or twigs) in the homa kunda and light them with a matchstick (use camphor for ease if you have), while saying the following mantra and imagining that the Holy Fire will cooperate in this ritual."
+            ],
+            "telugu": [
+              "హోమ కుండంలో రెండు కొబ్బరి ముక్కలు (లేదా పుల్లలు) ఉంచి, అగ్గిపుల్లతో వెలిగించండి (సులభంగా ఉండటానికి కర్పూరం వాడండి), ఈ క్రింది మంత్రాన్ని పఠిస్తూ, పవిత్రాగ్ని ఈ క్రతువులో సహకరిస్తుందని భావించండి."
+            ],
+            "hindi": [
+              "होम कुंड में कुछ खोपरे के टुकड़े (या टहनियाँ) रखें और उन्हें माचिस से जलाएं (आसानी के लिए कपूर का उपयोग करें), निम्नलिखित मंत्र का जाप करते हुए और यह कल्पना करते हुए कि पवित्र अग्नि इस अनुष्ठान में सहयोग करेगी।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvarom",
+            "telugu": "ఓం భూర్భువస్సువరోం",
+            "devanagari": "ॐ भूर्भुवस्सुवरोम्"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Offer drops of ghee in the fire 8 times while saying this mantra and imagining that the fire is becoming holy and stronger."
+            ],
+            "telugu": [
+              "ఈ మంత్రాన్ని పఠిస్తూ 8 సార్లు అగ్నిలో నెయ్యి చుక్కలను సమర్పించండి, అగ్ని పవిత్రంగా మరియు బలంగా మారుతోందని భావించండి."
+            ],
+            "hindi": [
+              "इस मंत्र का जाप करते हुए आग में 8 बार घी की बूंदें डालें और यह कल्पना करें कि आग पवित्र और मजबूत हो रही है।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "english": "Initial Offerings in Fire",
+        "telugu": "అగ్నిలో ప్రారంభ నైవేద్యాలు",
+        "devanagari": "अग्नि में प्रारंभिक आहुतियाँ"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your consciousness to Prajapati, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ చైతన్యాన్ని ప్రజాపతికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपनी चेतना प्रजापति को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om prajāpataye svāhā",
+            "telugu": "ఓం ప్రజాపతయే స్వాహా",
+            "devanagari": "ॐ प्रजापतये स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your faculty of inspired perception to Indra, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ ప్రేరేపిత గ్రహణ శక్తిని ఇంద్రునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपनी प्रेरित धारणा की क्षमता इंद्र को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om indrāya svāhā",
+            "telugu": "ఓం ఇంద్రాయ స్వాహా",
+            "devanagari": "ॐ इन्द्राय स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your faculty of logical and structured thinking to Agni, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ తార్కిక మరియు నిర్మాణాత్మక ఆలోచనా శక్తిని అగ్నికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपनी तार्किक और संरचित सोच की क्षमता अग्नि को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om agnaye svāhā",
+            "telugu": "ఓం అగ్నయే స్వాహా",
+            "devanagari": "ॐ अग्नये स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your faculty of feeling and intuition to Soma, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ భావన మరియు అంతర్ దృష్టి శక్తిని సోమునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपनी भावना और अंतर्ज्ञान की क्षमता सोम को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om somāya svāhā",
+            "telugu": "ఓం సోమాయ స్వాహా",
+            "devanagari": "ॐ सोमाय स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your awareness of physical, mental and spiritual realms to Prajapati, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ భౌతిక, మానసిక మరియు ఆధ్యాత్మిక రంగాల అవగాహనను ప్రజాపతికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से भौतिक, मानसिक और आध्यात्मिक क्षेत्रों की अपनी जागरूकता प्रजापति को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your ability to plan and avoid obstacles to Ganesha, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా ప్రణాళికలు వేయగల మరియు అడ్డంకులను నివారించగల మీ సామర్థ్యాన్ని గణేశునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से योजना बनाने और बाधाओं से बचने की अपनी क्षमता गणेश को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om gaṁ gaṇapataye namaḥ svāhā",
+            "telugu": "ఓం గం గణపతయే నమః స్వాహా",
+            "devanagari": "ॐ गं गणपतये नमः स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your ability to persist and overcome problems to Varuna, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా పట్టుదలతో సమస్యలను అధిగమించగల మీ సామర్థ్యాన్ని వరుణునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से समस्याओं पर दृढ़ रहने और उन पर काबू पाने की अपनी क्षमता वरुण को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om vaṁ varuṇāya namaḥ svāhā",
+            "telugu": "ఓం వం వరుణాయ నమః స్వాహా",
+            "devanagari": "ॐ वं वरुणाय नमः स्वाहा"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "english": "Services to Main Deity",
+        "telugu": "ప్రధాన దేవతకు సేవలు",
+        "devanagari": "मुख्य देवता की सेवाएं"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Saying this, imagine that lord Sri Rama has entered the Holy Fire and is accepting your offerings."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, శ్రీరాముడు పవిత్రాగ్నిలో ప్రవేశించి మీ నైవేద్యాలను స్వీకరిస్తున్నాడని భావించండి."
+            ],
+            "hindi": [
+              "यह कहते हुए, कल्पना करें कि भगवान श्री राम पवित्र अग्नि में प्रवेश कर चुके हैं और आपकी आहुतियों को स्वीकार कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "atra āgaccha। āvāhito bhava।",
+            "telugu": "అత్ర ఆగచ్ఛ। ఆవాహితో భవ।",
+            "devanagari": "अत्र आगच्छ। आवाहितो भव।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer sandalwood powder in fire (or a drop of ghee in its absence)."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, అగ్నిలో గంధపు పొడిని (లేదా అది లేనప్పుడు ఒక చుక్క నెయ్యి) సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में चंदन पाउडर (या उसकी अनुपस्थिति में घी की एक बूंद) अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om laṁ pṛthivyātmane namaḥ",
+            "telugu": "ఓం లం పృథివ్యాత్మనే నమః",
+            "devanagari": "ॐ लं पृथिव्यात्मने नमः"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a flower or dried flower powder (or a drop of ghee in its absence)."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, ఒక పువ్వు లేదా ఎండిన పువ్వుల పొడిని (లేదా అది లేనప్పుడు ఒక చుక్క నెయ్యి) సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और एक फूल या सूखे फूल का पाउडर (या उसकी अनुपस्थिति में घी की एक बूंद) अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om haṁ ākāśātmane namaḥ",
+            "telugu": "ఓం హం ఆకాశాత్మనే నమః",
+            "devanagari": "ॐ हं आकाशात्मने नमः"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this, light an incense stick and place it near the homa kunda (or offer a drop of ghee in its absence)."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, ఒక అగరుబత్తిని వెలిగించి, హోమ కుండం దగ్గర ఉంచండి (లేదా అది లేనప్పుడు ఒక చుక్క నెయ్యి సమర్పించండి)."
+            ],
+            "hindi": [
+              "यह कहें, एक अगरबत्ती जलाएं और उसे होम कुंड के पास रखें (या उसकी अनुपस्थिति में घी की एक बूंद अर्पित करें)।"
+            ]
+          },
+          "slokas": {
+            "english": "om yaṁ vāyvātmane namaḥ",
+            "telugu": "ఓం యం వాయ్వాత్మనే నమః",
+            "devanagari": "ॐ यं वाय्वात्मने नमः"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and show the lamp to the homa kunda (or offer a drop of ghee in its absence)."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, దీపాన్ని హోమ కుండానికి చూపించండి (లేదా అది లేనప్పుడు ఒక చుక్క నెయ్యి సమర్పించండి)."
+            ],
+            "hindi": [
+              "यह कहें और दीपक को होम कुंड को दिखाएं (या उसकी अनुपस्थिति में घी की एक बूंद अर्पित करें)।"
+            ]
+          },
+          "slokas": {
+            "english": "om raṁ agnyātmane namaḥ",
+            "telugu": "ఓం రం అగ్న్యాత్మనే నమః",
+            "devanagari": "ॐ रं अग्न्यात्मने नमः"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a raisin or piece of a fruit or some unused cooked food in fire (or a drop of ghee in its absence)."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, ఒక ఎండుద్రాక్ష లేదా పండు ముక్క లేదా ఉపయోగించని వండిన ఆహారాన్ని అగ్నిలో సమర్పించండి (లేదా అది లేనప్పుడు ఒక చుక్క నెయ్యి)."
+            ],
+            "hindi": [
+              "यह कहें और आग में एक किशमिश या फल का टुकड़ा या कुछ अप्रयुक्त पका हुआ भोजन (या उसकी अनुपस्थिति में घी की एक बूंद) अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om vaṁ jalātmane namaḥ",
+            "telugu": "ఓం వం జలాత్మనే నమః",
+            "devanagari": "ॐ वं जलात्मने नमः"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "english": "Offerings to Main Deity",
+        "telugu": "ప్రధాన దేవతకు నైవేద్యాలు",
+        "devanagari": "मुख्य देवता को आहुतियाँ"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Say one of the following 4 mantras and offer a drop of ghee (or sesame seeds or nuts) in fire while imagining that Lord Sri Rama is accepting it. You can do this as many times as you can. You can use one mantra for some time and then another, or any other mantras you are attached to."
+            ],
+            "telugu": [
+              "ఈ క్రింది 4 మంత్రాలలో ఒకదాన్ని పఠిస్తూ, శ్రీరాముడు స్వీకరిస్తున్నాడని భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యి (లేదా నువ్వులు లేదా గింజలు) సమర్పించండి. మీకు వీలైనన్ని సార్లు ఇది చేయవచ్చు. మీరు ఒక మంత్రాన్ని కొంతసేపు, తర్వాత మరొక మంత్రాన్ని లేదా మీకు ఇష్టమైన ఇతర మంత్రాలను ఉపయోగించవచ్చు."
+            ],
+            "hindi": [
+              "निम्नलिखित 4 मंत्रों में से एक कहें और आग में घी (या तिल या मेवे) की एक बूंद डालें, यह कल्पना करते हुए कि भगवान श्री राम इसे स्वीकार कर रहे हैं। आप इसे जितनी बार कर सकते हैं, करें। आप कुछ समय के लिए एक मंत्र का उपयोग कर सकते हैं और फिर दूसरे का, या किसी अन्य मंत्र का जिससे आप जुड़े हुए हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī rāma rāma rāma svāhā\nom śrī rāma jaya rāma jaya jaya rāma svāhā\nom namo bhagavate rāmacandrāya svāhā\nom rāmāya rāmabhadrāya rāmacandrāya vedhase | raghunāthāya nāthāya sītāyāḥ pataye namaḥ svāhā",
+            "telugu": "ఓం శ్రీ రామ రామ రామ స్వాహా\nఓం శ్రీ రామ జయ రామ జయ జయ రామ స్వాహా\nఓం నమో భగవతే రామచంద్రాయ స్వాహా\nఓం రామాయ రామభద్రాయ రామచంద్రాయ వేధసే । రఘునాథాయ నాథాయ సీతాయాః పతయే నమః స్వాహా",
+            "devanagari": "ॐ श्री राम राम राम स्वाहा\nॐ श्री राम जय राम जय जय राम स्वाहा\nॐ नमो भगवते रामचन्द्राय स्वाहा\nॐ रामाय रामभद्राय रामचन्द्राय वेधसे । रघुनाथाय नाथाय सीतायाः पतये नमः। स्वाहा।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Don't rush. Imagine that the lord is in the fire, accepting your offerings and mantra. Imagine that his blessings are coming to you. Try to develop that feeling and enjoy it."
+            ],
+            "telugu": [
+              "తొందరపడకండి. భగవంతుడు అగ్నిలో ఉన్నాడని, మీ నైవేద్యాలను మరియు మంత్రాన్ని స్వీకరిస్తున్నాడని ఊహించుకోండి. ఆయన ఆశీస్సులు మీకు అందుతున్నాయని భావించండి. ఆ అనుభూతిని పెంపొందించుకుని ఆనందించడానికి ప్రయత్నించండి."
+            ],
+            "hindi": [
+              "जल्दबाजी न करें। कल्पना करें कि भगवान अग्नि में हैं, आपकी आहुतियों और मंत्र को स्वीकार कर रहे हैं। कल्पना करें कि उनका आशीर्वाद आप तक आ रहा है। उस भावना को विकसित करने और उसका आनंद लेने का प्रयास करें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "english": "Final Offerings in Fire",
+        "telugu": "అగ్నిలో చివరి నైవేద్యాలు",
+        "devanagari": "अग्नि में अंतिम आहुतियाँ"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your physical experiences to Agni, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ భౌతిక అనుభవాలను అగ్నికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने भौतिक अनुभवों को अग्नि को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūḥ agnaye svāhā",
+            "telugu": "ఓం భూః అగ్నయే స్వాహా",
+            "devanagari": "ॐ भूः अग्नये स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your mental experiences to Vayu, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ మానసిక అనుభవాలను వాయువుకు సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने मानसिक अनुभवों को वायु को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhuvaḥ vāyave svāhā",
+            "telugu": "ఓం భువః వాయవే స్వాహా",
+            "devanagari": "ॐ भुवः वायवे स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering your spiritual experiences to Surya, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీ ఆధ్యాత్మిక అనుభవాలను సూర్యునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने आध्यात्मिक अनुभवों को सूर्य को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om suvaḥ sūryāya svāhā",
+            "telugu": "ఓం సువః సూర్యాయ స్వాహా",
+            "devanagari": "ॐ सुवः सूर्याय स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering everything physical, mental and spiritual that is being created inside you, to Prajapati, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీలో సృష్టించబడుతున్న భౌతిక, మానసిక మరియు ఆధ్యాత్మికమైన ప్రతిదాన్నీ ప్రజాపతికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने भीतर सृजित होने वाली हर भौतिक, मानसिक और आध्यात्मिक चीज प्रजापति को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering everything physical, mental and spiritual that is being sustained inside you, to Vishnu, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీలో నిలబెట్టబడుతున్న భౌతిక, మానసిక మరియు ఆధ్యాత్మికమైన ప్రతిదాన్నీ విష్ణువుకు సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने भीतर बनाए रखी जा रही हर भौतिक, मानसिक और आध्यात्मिक चीज विष्णु को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om viṣṇave svāhā",
+            "telugu": "ఓం విష్ణవే స్వాహా",
+            "devanagari": "ॐ विष्णवे स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that you are surrendering everything physical, mental and spiritual that is being destroyed inside you, to Rudra, via Holy Fire."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, పవిత్రాగ్ని ద్వారా మీలో నాశనం చేయబడుతున్న భౌతిక, మానసిక మరియు ఆధ్యాత్మికమైన ప్రతిదాన్నీ రుద్రునికి సమర్పిస్తున్నట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि आप पवित्र अग्नि के माध्यम से अपने भीतर नष्ट हो रही हर भौतिक, मानसिक और आध्यात्मिक चीज रुद्र को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om rudrāya svāhā",
+            "telugu": "ఓం రుద్రాయ స్వాహా",
+            "devanagari": "ॐ रुद्राय स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Take 6 raisins or 6 pieces of a fruit and offer them to the ethereal associates of the deity, who cannot accept via Holy Fire and who like to consume food via the sense of smell. You can throw away this food later or feed it to animals or birds."
+            ],
+            "telugu": [
+              "6 ఎండుద్రాక్షలు లేదా 6 పండు ముక్కలను తీసుకుని, పవిత్రాగ్ని ద్వారా స్వీకరించలేని మరియు వాసన ద్వారా ఆహారాన్ని గ్రహించే దేవత యొక్క గణాలకు సమర్పించండి. ఈ ఆహారాన్ని తర్వాత పారవేయవచ్చు లేదా జంతువులకు లేదా పక్షులకు పెట్టవచ్చు."
+            ],
+            "hindi": [
+              "6 किशमिश या फल के 6 टुकड़े लें और उन्हें देवता के उन दिव्य सहयोगियों को अर्पित करें, जो पवित्र अग्नि के माध्यम से स्वीकार नहीं कर सकते और जो गंध की भावना के माध्यम से भोजन का उपभोग करना पसंद करते हैं। आप इस भोजन को बाद में फेंक सकते हैं या इसे जानवरों या पक्षियों को खिला सकते हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om pārṣadebhyo namaḥ",
+            "telugu": "ఓం పార్షదేభ్యో నమః",
+            "devanagari": "ॐ पार्षदेभ्यो नमः"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "english": "Poornahuti",
+        "telugu": "పూర్ణాహుతి",
+        "devanagari": "पूर्णाहुति"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a big copra piece or a nut or a twig or a big drop of ghee in fire while imagining that you are surrendering your sense of being to Lord Sri Rama."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, మీ అస్తిత్వాన్ని శ్రీరామునికి సమర్పిస్తున్నట్లు భావిస్తూ, అగ్నిలో ఒక పెద్ద కొబ్బరి ముక్క లేదా గింజ లేదా పుల్ల లేదా పెద్ద చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में एक बड़ा खोपरे का टुकड़ा या एक मेवा या एक टहनी या घी की एक बड़ी बूंद डालें, यह कल्पना करते हुए कि आप अपने अस्तित्व की भावना को भगवान श्री राम को समर्पित कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī rāma rāma rāma svāhā",
+            "telugu": "ఓం శ్రీ రామ రామ రామ స్వాహా",
+            "devanagari": "ॐ श्री राम राम राम स्वाहा"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Say this and offer a drop of ghee in fire while imagining that the Holy Fire with seven tongues is pleased."
+            ],
+            "telugu": [
+              "ఇది పఠిస్తూ, సప్తజిహ్వలు గల పవిత్రాగ్ని ప్రసన్నమైనట్లు భావిస్తూ అగ్నిలో ఒక చుక్క నెయ్యిని సమర్పించండి."
+            ],
+            "hindi": [
+              "यह कहें और आग में घी की एक बूंद डालें, यह कल्पना करते हुए कि सात जिह्वाओं वाली पवित्र अग्नि प्रसन्न है।"
+            ]
+          },
+          "slokas": {
+            "english": "om agnaye saptavate svāhā",
+            "telugu": "ఓం అగ్నయే సప్తవతే స్వాహా",
+            "devanagari": "ॐ अग्नये सप्तवते स्वाहा"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "english": "Meditation",
+        "telugu": "ధ్యానం",
+        "devanagari": "ध्यान"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Now, meditate as long as you can, with the following mantra (or any other mantra you like)."
+            ],
+            "telugu": [
+              "ఇప్పుడు, మీకు వీలైనంత సేపు, ఈ క్రింది మంత్రంతో (లేదా మీకు నచ్చిన ఇతర మంత్రంతో) ధ్యానం చేయండి."
+            ],
+            "hindi": [
+              "अब, निम्नलिखित मंत्र (या अपनी पसंद के किसी अन्य मंत्र) के साथ, जब तक आप कर सकते हैं, ध्यान करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī rāma rāma rāma",
+            "telugu": "ఓం శ్రీ రామ రామ రామ",
+            "devanagari": "ॐ श्री राम राम राम"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "At the end, say this while imagining that peace descends on you and others."
+            ],
+            "telugu": [
+              "చివరగా, మీపై మరియు ఇతరులపై శాంతి వర్షిస్తున్నట్లు భావిస్తూ ఇది చెప్పండి."
+            ],
+            "hindi": [
+              "अंत में, यह कहें और कल्पना करें कि आप पर और दूसरों पर शांति उतर रही है।"
+            ]
+          },
+          "slokas": {
+            "english": "om śāntiḥ śāntiḥ śāntiḥ",
+            "telugu": "ఓం శాంతిః శాంతిః శాంతిః",
+            "devanagari": "ॐ शान्तिः शान्तिः शान्तिः"
+          }
+        }
+      ]
+    }
+  ]
+}

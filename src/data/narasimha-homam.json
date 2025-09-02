@@ -1,0 +1,384 @@
+{
+  "title": {
+    "english": "Sri Narasimha Homam",
+    "telugu": "శ్రీ నరసింహ హోమం",
+    "hindi": "श्री नरसिंह होम"
+  },
+  "author": {
+    "english": "P V R Narasimha Rao",
+    "telugu": "పి వి ఆర్ నరసింహ రావు",
+    "hindi": "पी वी आर नरसिम्हा राव"
+  },
+  "sections": [
+    {
+      "id": 0,
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "devanagari": "परिचय"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Welcome to the Sri Narasimha Homam manual. This guide provides a short procedure (Laghu Paddhati) for performing the sacred fire ritual.",
+              "Homam is a powerful Vedic practice for spiritual progress. Chanting mantras while offering substances into the fire has a profound cleansing and calming effect on the mind.",
+              "This manual will guide you through all the necessary steps, from initial preparations to the final offerings, allowing you to perform the homam by yourself."
+            ],
+            "telugu": [
+              "శ్రీ నరసింహ హోమం మార్గదర్శినికి స్వాగతం. ఈ మార్గదర్శిని పవిత్ర అగ్ని కార్యాన్ని నిర్వహించడానికి ఒక సంక్షిప్త విధానాన్ని (లఘు పద్ధతి) అందిస్తుంది.",
+              "ఆధ్యాత్మిక పురోగతికి హోమం ఒక శక్తివంతమైన వైదిక సాధన. అగ్నిలో పదార్థాలను సమర్పిస్తూ మంత్రాలను పఠించడం మనస్సుపై లోతైన శుభ్రపరిచే మరియు శాంతపరిచే ప్రభావాన్ని చూపుతుంది.",
+              "ఈ మార్గదర్శిని, ప్రారంభ సన్నాహాల నుండి చివరి సమర్పణల వరకు అవసరమైన అన్ని దశల ద్వారా మీకు మార్గనిర్దేశం చేస్తుంది, తద్వారా మీరు స్వయంగా హోమం చేసుకోగలుగుతారు."
+            ],
+            "hindi": [
+              "श्री नरसिंह होम पुस्तिका में आपका स्वागत है। यह मार्गदर्शिका पवित्र अग्नि अनुष्ठान करने के लिए एक संक्षिप्त प्रक्रिया (लघु पद्धति) प्रदान करती है।",
+              "होम आध्यात्मिक प्रगति के लिए एक शक्तिशाली वैदिक अभ्यास है। अग्नि में पदार्थ अर्पित करते हुए मंत्रों का जाप करने से मन पर गहरा शुद्धिकरण और शांत प्रभाव पड़ता है।",
+              "यह पुस्तिका आपको प्रारंभिक तैयारियों से लेकर अंतिम आहुतियों तक सभी आवश्यक चरणों के माध्यम से मार्गदर्शन करेगी, जिससे आप स्वयं होम कर सकेंगे।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī mahāgaṇapathaye namaḥ | om śrī gurubhyo namaḥ | om ṛṣibhyo namaḥ |",
+            "telugu": "ఓం శ్రీ మహా గణపతయే నమః | ఓం శ్రీ గురుభ్యో నమః | ఓం ఋషిభ్యో నమః |",
+            "devanagari": "ॐ श्री महागणपतये नमः । ॐ श्री गुरुभ्यो नमः । ॐ ऋषिभ्यो नमः ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": {
+        "english": "Anujnaa",
+        "telugu": "అనుజ్ఞ",
+        "devanagari": "अनुज्ञा"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Before starting, think of Mother Earth, Lord Ganesha, your favorite deity (ishta devata), your parents, the rishis of your lineage (gothra), all rishis, and all your gurus. Mentally request their cooperation for the homam and say the following mantra.",
+              "If you have a 'pavitram' (a ring made of darbha grass or metal), wear it now on your right hand's ring finger. If not, you can use any ring you have after praying to your ishta devata, or proceed without one."
+            ],
+            "telugu": [
+              "ప్రారంభించడానికి ముందు, భూదేవిని, గణేశుడిని, మీ ఇష్టదైవాన్ని, మీ తల్లిదండ్రులను, మీ గోత్ర ఋషులను, సర్వ ఋషులను, మరియు మీ గురువులందరినీ స్మరించుకోండి. హోమానికి వారి సహకారాన్ని మానసికంగా అభ్యర్థించి, ఈ క్రింది మంత్రాన్ని పఠించండి.",
+              "మీ వద్ద 'పవిత్రం' (దర్భ గడ్డితో లేదా లోహంతో చేసిన ఉంగరం) ఉంటే, దానిని ఇప్పుడు మీ కుడి చేతి ఉంగరపు వేలికి ధరించండి. లేకపోతే, మీ ఇష్టదైవానికి ప్రార్థించిన తర్వాత మీ వద్ద ఉన్న ఏదైనా ఉంగరాన్ని ఉపయోగించవచ్చు, లేదా అది లేకుండా కొనసాగవచ్చు."
+            ],
+            "hindi": [
+              "शुरू करने से पहले, पृथ्वी माता, भगवान गणेश, अपने इष्ट देवता, अपने माता-पिता, अपने गोत्र के ऋषियों, सभी ऋषियों और अपने सभी गुरुओं का ध्यान करें। होम के लिए मानसिक रूप से उनके सहयोग का अनुरोध करें और निम्नलिखित मंत्र का जाप करें।",
+              "यदि आपके पास 'पवित्रम्' (कुश घास या धातु से बनी अंगूठी) है, तो उसे अब अपने दाहिने हाथ की अनामिका उंगली में पहनें। यदि नहीं, तो आप अपने इष्ट देवता से प्रार्थना करने के बाद अपनी कोई भी अंगूठी का उपयोग कर सकते हैं, या इसके बिना भी आगे बढ़ सकते हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "om ṛddhyāsma havyairnamasopasadya | mitraṁ devaṁ mitradheyaṁ no astu | anūrādhān haviṣā vardhayantaḥ | śataṁ jīvema śaradaḥ savīrāḥ |",
+            "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య | మిత్రం దేవం మిత్రధేయం నో అస్తు | అనూరాధాన్ హవిషా వర్ధయంతః | శతం జీవేమ శరదః సవీరాః |",
+            "devanagari": "ॐ ऋद्ध्यास्म हव्यैर्नमसोपसद्य । मित्रं देवं मित्रधेयं नो अस्तु । अनूराधान् हविषा वर्धयन्तः । शतं जीवेम शरदः सवीराः ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "english": "Aachamanam",
+        "telugu": "ఆచమనం",
+        "devanagari": "आचमनम्"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Take a little water from the tumbler into your right palm with a spoon. Sip the water after saying the first mantra. Repeat this for the second and third mantras. Imagine that Lord Narasimha within you is receiving this water."
+            ],
+            "telugu": [
+              "గ్లాసు నుండి కొద్దిగా నీటిని చెంచాతో మీ కుడి అరచేతిలోకి తీసుకోండి. మొదటి మంత్రాన్ని చెప్పిన తరువాత నీటిని త్రాగండి. రెండవ మరియు మూడవ మంత్రాలకు కూడా ఇదే విధంగా చేయండి. మీలో ఉన్న నరసింహ స్వామి ఈ నీటిని స్వీకరిస్తున్నారని భావించండి."
+            ],
+            "hindi": [
+              "चम्मच से गिलास से थोड़ा जल अपनी दाहिनी हथेली में लें। पहला मंत्र बोलने के बाद जल का आचमन करें। दूसरे और तीसरे मंत्र के लिए भी यही प्रक्रिया दोहराएं। कल्पना करें कि आपके भीतर स्थित भगवान नरसिंह यह जल प्राप्त कर रहे हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "oṁ keśavāya svāhā | oṁ nārāyaṇāya svāhā | oṁ mādhavāya svāhā |",
+            "telugu": "ఓం కేశవాయ స్వాహా | ఓం నారాయణాయ స్వాహా | ఓం మాధవాయ స్వాహా |",
+            "devanagari": "ॐ केशवाय स्वाहा। ॐ नारायणाय स्वाहा। ॐ माधवाय स्वाहा।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "english": "Vighneswara Pooja",
+        "telugu": "విఘ్నేశ్వర పూజ",
+        "devanagari": "विघ्नेश्वर पूजा"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "To ensure the ritual proceeds without any obstacles, we pray to Lord Ganesha at the beginning. Recite the following verses and mentally pray to Ganesha to remove all obstacles from your homam."
+            ],
+            "telugu": [
+              "యజ్ఞం ఎలాంటి ఆటంకాలు లేకుండా సాగడానికి, ప్రారంభంలో గణేశుడిని ప్రార్థిస్తాము. ఈ క్రింది శ్లోకాలను పఠించి, మీ హోమం నుండి అన్ని అడ్డంకులను తొలగించమని గణేశుడిని మానసికంగా ప్రార్థించండి."
+            ],
+            "hindi": [
+              "यह सुनिश्चित करने के लिए कि अनुष्ठान बिना किसी बाधा के आगे बढ़े, हम शुरुआत में भगवान गणेश की प्रार्थना करते हैं। निम्नलिखित श्लोकों का पाठ करें और मानसिक रूप से गणेश से अपने होम से सभी बाधाओं को दूर करने की प्रार्थना करें।"
+            ]
+          },
+          "slokas": {
+            "english": "śuklāṁbaradharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujaṁ | prasannavadanaṁ dhyāyet sarva vighnopaśāntaye || agajānana padmārkaṁ gajānanamaharniśaṁ | anekadaṁ taṁ bhaktānāṁ ekadantaṁ upāsmahe || vakratuṁḍa mahākāya koṭisūryasamaprabha | nirvighnaṁ kuru me deva sarvakāryeṣu sarvadā ||",
+            "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం | ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే || అగజానన పద్మార్కం గజాననమహర్నిశం | అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే || వక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ | నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ||",
+            "devanagari": "शुक्लांबरधरं विष्णुं शशिवर्णं चतुर्भुजं। प्रसन्नवदनं ध्यायेत् सर्व विघ्नोपशान्तये ॥ अगजानन पद्मार्कं गजाननमहर्निशं । अनेकदं तं भक्तानां एकदन्तं उपास्महे ॥ वक्रतुंड महाकाय कोटिसूर्यसमप्रभ । निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "english": "Praanaayaamam",
+        "telugu": "ప్రాణాయామం",
+        "devanagari": "प्राणायामम्"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Take some akshatas in your left palm and place it on your left lap. Hold your nostrils with your right hand (little and ring fingers on the left nostril, thumb on the right).",
+              "Close the left nostril, and while mentally chanting the Gayatri mantra (or one of the alternatives provided), gently breathe in through the right nostril.",
+              "Close the right nostril as well and hold your breath, chanting the mantra again.",
+              "Open the left nostril and breathe out, chanting the mantra for a third time.",
+              "Now, breathe in through the left nostril, chanting the mantra.",
+              "Close both nostrils and hold your breath, chanting the mantra again.",
+              "Finally, open the right nostril and breathe out, chanting the mantra for the sixth time.",
+              "Throughout this process, contemplate the formless supreme Brahman or your favorite deity filling the entire universe and the air you are breathing."
+            ],
+            "telugu": [
+              "కొన్ని అక్షతలను మీ ఎడమ అరచేతిలో తీసుకుని మీ ఎడమ ఒడిలో ఉంచండి. మీ కుడి చేతితో మీ ముక్కును పట్టుకోండి (చిటికెన, ఉంగరపు వేళ్లను ఎడమ ముక్కుపై, బొటనవేలిని కుడి ముక్కుపై ఉంచండి).",
+              "ఎడమ ముక్కును మూసి, గాయత్రీ మంత్రాన్ని (లేదా అందించిన ప్రత్యామ్నాయాలలో ఒకటి) మానసికంగా జపిస్తూ, కుడి ముక్కు ద్వారా నెమ్మదిగా శ్వాస తీసుకోండి.",
+              "కుడి ముక్కును కూడా మూసి, శ్వాసను బిగపట్టి, మంత్రాన్ని మళ్ళీ జపించండి.",
+              "ఎడమ ముక్కును తెరిచి, మూడవసారి మంత్రాన్ని జపిస్తూ శ్వాస వదలండి.",
+              "ఇప్పుడు, ఎడమ ముక్కు ద్వారా శ్వాస తీసుకుంటూ, మంత్రాన్ని జపించండి.",
+              "రెండు ముక్కులను మూసి, శ్వాసను బిగపట్టి, మంత్రాన్ని మళ్ళీ జపించండి.",
+              "చివరగా, కుడి ముక్కును తెరిచి, ఆరవసారి మంత్రాన్ని జపిస్తూ శ్వాస వదలండి.",
+              "ఈ ప్రక్రియ అంతటా, నిరాకార పరబ్రహ్మాన్ని లేదా మీకు ఇష్టమైన దైవాన్ని ధ్యానించండి, వారు విశ్వమంతటా మరియు మీరు పీల్చే గాలిలో నిండి ఉన్నారని భావించండి."
+            ],
+            "hindi": [
+              "अपनी बाईं हथेली में कुछ अक्षत लें और उसे अपनी बाईं गोद में रखें। अपने दाहिने हाथ से अपनी नासिकाओं को पकड़ें (छोटी और अनामिका उंगलियां बाईं नासिका पर, अंगूठा दाईं ओर)।",
+              "बाईं नासिका को बंद करें, और मानसिक रूप से गायत्री मंत्र (या दिए गए विकल्पों में से एक) का जाप करते हुए, दाहिनी नासिका से धीरे-धीरे सांस लें।",
+              "दाहिनी नासिका को भी बंद करें और अपनी सांस रोकें, फिर से मंत्र का जाप करें।",
+              "बाईं नासिका खोलें और सांस छोड़ें, तीसरी बार मंत्र का जाप करें।",
+              "अब, बाईं नासिका से सांस लें, मंत्र का जाप करें।",
+              "दोनों नासिकाएं बंद करें और अपनी सांस रोकें, फिर से मंत्र का जाप करें।",
+              "अंत में, दाहिनी नासिका खोलें और सांस छोड़ें, छठी बार मंत्र का जाप करें।",
+              "इस पूरी प्रक्रिया के दौरान, निराकार परब्रह्म या अपने इष्ट देवता का चिंतन करें जो पूरे ब्रह्मांड और आपके द्वारा ली जा रही सांस में व्याप्त हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "Alternative Mantras: oṁ namo bhagavate vāsudevāya | oṁ namaḥ śivāya | oṁ gaṁ gaṇapataye namaḥ |",
+            "telugu": "ప్రత్యామ్నాయ మంత్రాలు: ఓం నమో భగవతే వాసుదేవాయ | ఓం నమః శివాయ | ఓం గం గణపతయే నమః |",
+            "devanagari": "वैकल्पिक मंत्र: ॐ नमो भगवते वासुदेवाय । ॐ नमः शिवाय। ॐ गं गणपतये नमः ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "english": "Sankalpam",
+        "telugu": "సంకల్పం",
+        "devanagari": "सङ्कल्पम्"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Declare your intention to perform the homam. Transfer the akshatas from your left hand to your right. Place your empty left palm on your right lap. Place your closed right palm (containing the akshatas) on top of your left palm. Recite the following, stating your intention to perform the homam to please Lord Narasimha.",
+              "After reciting, leave the akshatas in front of the homa kundam or the idol and sprinkle a little water on your palms. Then, light the ghee/oil lamp."
+            ],
+            "telugu": [
+              "హోమం చేయాలనే మీ ఉద్దేశాన్ని ప్రకటించండి. మీ ఎడమ చేతి నుండి అక్షతలను మీ కుడి చేతికి మార్చండి. మీ ఖాళీ ఎడమ అరచేతిని మీ కుడి ఒడిలో ఉంచండి. మీ మూసిన కుడి అరచేతిని (అక్షతలు ఉన్న) మీ ఎడమ అరచేతి పైన ఉంచండి. నరసింహ స్వామిని ప్రసన్నం చేసుకోవడానికి హోమం చేయాలనే మీ ఉద్దేశాన్ని తెలుపుతూ ఈ క్రింది వాటిని పఠించండి.",
+              "పఠించిన తర్వాత, అక్షతలను హోమ కుండం ముందు లేదా విగ్రహం ముందు ఉంచి, మీ అరచేతులపై కొద్దిగా నీరు చల్లుకోండి. తరువాత, నెయ్యి/నూనె దీపాన్ని వెలిగించండి."
+            ],
+            "hindi": [
+              "होम करने के अपने इरादे की घोषणा करें। अक्षत को अपने बाएं हाथ से दाएं हाथ में स्थानांतरित करें। अपनी खाली बाईं हथेली को अपनी दाहिनी गोद में रखें। अपनी बंद दाहिनी हथेली (जिसमें अक्षत हैं) को अपनी बाईं हथेली के ऊपर रखें। निम्नलिखित का पाठ करें, जिसमें भगवान नरसिंह को प्रसन्न करने के लिए होम करने के अपने इरादे का उल्लेख हो।",
+              "पाठ करने के बाद, अक्षत को होम कुंड या मूर्ति के सामने छोड़ दें और अपनी हथेलियों पर थोड़ा पानी छिड़कें। फिर, घी/तेल का दीपक जलाएं।"
+            ]
+          },
+          "slokas": {
+            "english": "om mamopātta samasta duritakṣayadvārā śrī parameśvara prītyartham śrī nṛsiṁha prasāda siddhayartham adya śubhadine śubhamuhūrte śrī nṛsiṁha homakarma yathāśakti kariṣye |",
+            "telugu": "ఓం మమోపాత్త సమస్త దురితక్షయద్వారా శ్రీ పరమేశ్వర ప్రీత్యర్థం శ్రీ నృసింహ ప్రసాద సిద్ధయర్థం అద్య శుభదినే శుభముహూర్తే శ్రీ నృసింహ హోమకర్మ యథాశక్తి కరిష్యే |",
+            "devanagari": "ॐ ममोपात्त समस्त दुरितक्षयद्वारा श्री परमेश्वर प्रीत्यर्थम् श्री नृसिंह प्रसाद सिद्धयर्थम् अद्य शुभदिने शुभमुहूर्ते श्री नृसिंह होमकर्म यथाशक्ति करिष्ये ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "english": "Kalasa Suddhi",
+        "telugu": "కలశ శుద్ధి",
+        "devanagari": "कलश शुद्धि"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Place a few akshatas and a flower into the tumbler of water. Purify the water by chanting the seed syllable 'vam' 11 times."
+            ],
+            "telugu": [
+              "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వును వేయండి. 'వం' అనే బీజాక్షరాన్ని 11 సార్లు జపించి నీటిని శుద్ధి చేయండి."
+            ],
+            "hindi": [
+              "पानी के गिलास में कुछ अक्षत और एक फूल डालें। 'वं' बीजाक्षर का 11 बार जाप करके जल को शुद्ध करें।"
+            ]
+          },
+          "slokas": {
+            "english": "vaṁ",
+            "telugu": "వం",
+            "devanagari": "वं"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Now, recite the following mantra to invoke the sacred essence of the world's major rivers into the water."
+            ],
+            "telugu": [
+              "ఇప్పుడు, ప్రపంచంలోని ప్రధాన నదుల పవిత్ర సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి ఈ క్రింది మంత్రాన్ని పఠించండి."
+            ],
+            "hindi": [
+              "अब, दुनिया की प्रमुख नदियों के पवित्र सार को जल में आमंत्रित करने के लिए निम्नलिखित मंत्र का पाठ करें।"
+            ]
+          },
+          "slokas": {
+            "english": "gaṅge ca yamune caiva godāvari sarasvati | narmade sindhu kāveri jale'smin sannidhiṁ kuru || amṛtaṁ bhavatu",
+            "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి | నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు || అమృతం భవతు",
+            "devanagari": "गंगे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Take a little of the purified water with a flower or spoon and sprinkle it on yourself, the homa kundam, the idol, and all other materials to be used in the homam.",
+              "Using a darbha grass blade, draw six lines on the base of the homa kundam in the order shown in the diagram, reciting the corresponding mantra for each line."
+            ],
+            "telugu": [
+              "శుద్ధి చేసిన నీటిని కొద్దిగా పువ్వుతో లేదా చెంచాతో తీసుకుని, మీ మీద, హోమ కుండం మీద, విగ్రహం మీద మరియు హోమంలో ఉపయోగించే అన్ని ఇతర వస్తువుల మీద చల్లండి.",
+              "ఒక దర్భ గడ్డితో, రేఖాచిత్రంలో చూపిన క్రమంలో హోమ కుండం అడుగున ఆరు గీతలను గీయండి, ప్రతి గీతకు సంబంధించిన మంత్రాన్ని పఠించండి."
+            ],
+            "hindi": [
+              "एक फूल या चम्मच से थोड़ा शुद्ध जल लें और इसे अपने ऊपर, होम कुंड, मूर्ति, और होम में उपयोग होने वाली अन्य सभी सामग्रियों पर छिड़कें।",
+              "एक कुश की पत्ती का उपयोग करके, होम कुंड के आधार पर चित्र में दिखाए गए क्रम में छह रेखाएँ खींचें, प्रत्येक रेखा के लिए संबंधित मंत्र का पाठ करें।"
+            ]
+          },
+          "slokas": {
+            "english": "1. oṁ brahmaṇe namaḥ | 2. oṁ yamāya namaḥ | 3. oṁ somāya namaḥ | 4. oṁ rudrāya namaḥ | 5. oṁ viṣṇave namaḥ | 6. oṁ indrāya namaḥ |",
+            "telugu": "౧. ఓం బ్రహ్మణే నమః | ౨. ఓం యమాయ నమః | ౩. ఓం సోమాయ నమః | ౪. ఓం రుద్రాయ నమః | ౫. ఓం విష్ణవే నమః | ౬. ఓం ఇంద్రాయ నమః |",
+            "devanagari": "१. ॐ ब्रह्मणे नमः । २. ॐ यमाय नमः। ३. ॐ सोमाय नमः । ४. ॐ रुद्राय नमः । ५. ॐ विष्णवे नमः । ६. ॐ इन्द्राय नमः ।"
+          },
+          "diagram_placeholder": "Diagram showing 3 vertical lines (South to North) numbered 1, 2, 3 from center to right, and 3 horizontal lines (West to East) numbered 4, 5, 6 from bottom to top."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "english": "Agni Pratishthaapana",
+        "telugu": "అగ్ని ప్రతిష్ఠాపన",
+        "devanagari": "अग्नि प्रतिष्ठापन"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Place one darbha inside the homa kundam pointing East-West, and another pointing North-South. Light a piece of camphor from the lamp and place it in the center of the kundam while chanting the following mantra. Then, place dry coconut pieces or wood over the camphor to build the fire."
+            ],
+            "telugu": [
+              "ఒక దర్భను హోమ కుండంలో తూర్పు-పడమర దిశగా, మరొకటి ఉత్తర-దక్షిణ దిశగా ఉంచండి. దీపం నుండి కర్పూరం ముక్కను వెలిగించి, ఈ క్రింది మంత్రాన్ని జపిస్తూ కుండం మధ్యలో ఉంచండి. తరువాత, అగ్నిని రాజేయడానికి కర్పూరం మీద ఎండిన కొబ్బరి ముక్కలు లేదా కలపను ఉంచండి."
+            ],
+            "hindi": [
+              "होम कुंड के अंदर एक कुश को पूर्व-पश्चिम की ओर और दूसरे को उत्तर-दक्षिण की ओर रखें। दीपक से कपूर का एक टुकड़ा जलाएं और निम्नलिखित मंत्र का जाप करते हुए उसे कुंड के केंद्र में रखें। फिर, आग बनाने के लिए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें।"
+            ]
+          },
+          "slokas": {
+            "english": "oṁ bhūrbhuvassuvarom |",
+            "telugu": "ఓం భూర్భువస్సువరోం |",
+            "devanagari": "ॐ भूर्भुवस्सुवरोम् ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Pray to the fire god with the following mantra from the Rig Veda. This prayer asks to send away the inauspicious form of fire ('kravyaada') and for the auspicious form ('jaatavedas') to carry the offerings to the gods."
+            ],
+            "telugu": [
+              "ఋగ్వేదం నుండి ఈ క్రింది మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి. ఈ ప్రార్థన అశుభకరమైన అగ్ని రూపాన్ని ('క్రవ్యాద') పంపి, శుభకరమైన రూపం ('జాతవేదస్') దేవతలకు నైవేద్యాలను చేరవేయమని కోరుతుంది."
+            ],
+            "hindi": [
+              "ऋग्वेद के निम्नलिखित मंत्र से अग्नि देव की प्रार्थना करें। यह प्रार्थना अग्नि के अशुभ रूप ('क्रव्याद') को दूर भेजने और शुभ रूप ('जातवेद') द्वारा देवताओं तक आहुतियाँ पहुँचाने का अनुरोध करती है।"
+            ]
+          },
+          "slokas": {
+            "english": "kravyādamagniṁ prahiṇomi dūraṁ yamarājño gacchatu ripravāhaḥ | ihaivāyamitaro jātavedā devebhyo havyaṁ vahatu prajānan |",
+            "telugu": "క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః | ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ |",
+            "devanagari": "क्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः । इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To refine (samskara) the fire, pour 8 drops of ghee into it while chanting the following mantra 8 times."
+            ],
+            "telugu": [
+              "అగ్నికి సంస్కారం చేయడానికి, ఈ క్రింది మంత్రాన్ని 8 సార్లు జపిస్తూ దానిలో 8 చుక్కల నెయ్యి పోయండి."
+            ],
+            "hindi": [
+              "अग्नि का संस्कार करने के लिए, निम्नलिखित मंत्र का 8 बार जाप करते हुए उसमें घी की 8 बूँदें डालें।"
+            ]
+          },
+          "slokas": {
+            "english": "oṁ bhūrbhuvassuvaḥ svāhā |",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా |",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Place darbhas or twigs along the four outer boundaries of the homa kundam (East, South, West, North). Then, sprinkle water on these four boundaries in a clockwise direction starting from the South, as shown in the diagram, reciting the four mantras respectively."
+            ],
+            "telugu": [
+              "హోమ కుండం యొక్క నాలుగు బయటి సరిహద్దుల (తూర్పు, దక్షిణం, పడమర, ఉత్తరం) వెంబడి దర్భలు లేదా కొమ్మలను ఉంచండి. తరువాత, రేఖాచిత్రంలో చూపిన విధంగా దక్షిణం నుండి ప్రారంభించి గడియారపు దిశలో ఈ నాలుగు సరిహద్దులపై నీటిని చల్లండి, వరుసగా నాలుగు మంత్రాలను పఠించండి."
+            ],
+            "hindi": [
+              "होम कुंड की चार बाहरी सीमाओं (पूर्व, दक्षिण, पश्चिम, उत्तर) पर कुश या टहनियाँ रखें। फिर, चित्र में दिखाए अनुसार, दक्षिण से शुरू करते हुए दक्षिणावर्त दिशा में इन चार सीमाओं पर जल छिड़कें, क्रमशः चार मंत्रों का पाठ करते हुए।"
+            ]
+          },
+          "slokas": {
+            "english": "1. adite'numanyasva | 2. anumate'numanyasva | 3. sarasvate'numanyasva | 4. deva savitaḥ prasuva |",
+            "telugu": "౧. అదితేऽనుమన్యస్వ | ౨. అనుమతేऽనుమన్యస్వ | ౩. సరస్వతేऽనుమన్యస్వ | ౪. దేవ సవితః ప్రసువ |",
+            "devanagari": "१. अदितेऽनुमन्यस्व । २. अनुमतेऽनुमन्यस्व । ३. सरस्वतेऽनुमन्यस्व । ४. देव सवितः प्रसुव ।"
+          },
+          "diagram_placeholder": "Diagram of a square Homa Kundam. Arrow 1 points East along the South edge. Arrow 2 points West along the West edge. Arrow 3 points North along the North edge. Arrow 4 points West along the East edge."
+        },
+        {
+          "instructions": {
+            "english": [
+              "Now, pray to Agni (fire god) with the following mantra, asking him to be present and face you."
+            ],
+            "telugu": [
+              "ఇప్పుడు, అగ్ని దేవుడిని ఈ క్రింది మంత్రంతో ప్రార్థించండి, ఆయనను ప్రత్యక్షమై మిమ్మల్ని చూడమని కోరండి."
+            ],
+            "hindi": [
+              "अब, अग्नि देव से निम्नलिखित मंत्र के साथ प्रार्थना करें, उनसे उपस्थित होने और आपकी ओर मुख करने का अनुरोध करें।"
+            ]
+          },
+          "slokas": {
+            "english": "catvāri śṛṅgāstrayo asya pādā dve śīrṣe saptahastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṁ āviveśa | eṣa hi devaḥ pradiśo nu sarvāḥ pūrvī hi jātaḥ sa u garbhe antaḥ | sa vijāyamānaḥ sa janiṣyamāṇaḥ pratyaṅmukhāstiṣṭhati viśvatomukhaḥ | prāṅmukho deva | he agne | mamābhimukho bhava |",
+            "telugu": "చత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య | త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యాం ఆవివేశ | ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వీ హి జాతః స ఉ గర్భే అంతః | స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ముఖాస్తిష్ఠతి విశ్వతోముఖః | ప్రాఙ్ముఖో దేవ | హే అగ్నే | మమాభిముఖో భవ |",
+            "devanagari": "चत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्यां आविवेश । एष हि देवः प्रदिशो नु सर्वाः पूर्वी हि जातः स उ गर्भे अन्तः । स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः । प्राङ्‌मुखो देव । हे अग्ने। ममाभिमुखो भव ।"
+          }
+        }
+      ]
+    }
+  ]
+}

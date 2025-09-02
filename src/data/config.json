@@ -47,6 +47,48 @@
       "name": "Durga Homam",
       "filename": "durga-homam.json",
       "description": "Traditional Durga Homam manual for protection and strength"
+    },
+    {
+      "id": "lalitha-homam",
+      "name": "Lalitha Homam",
+      "filename": "lalitha-homam.json",
+      "description": "Traditional Lalitha Homam manual for grace and beauty"
+    },
+    {
+      "id": "kali-homam",
+      "name": "Kali Homam",
+      "filename": "kali-homam.json",
+      "description": "Traditional Kali Homam manual for empowerment and transformation"
+    },
+    {
+      "id": "taara-homam",
+      "name": "Taaraa Homam",
+      "filename": "tara-homam.json",
+      "description": "Traditional Taaraa Homam manual for guidance and support"
+    },
+    {
+      "id": "srirama-homam",
+      "name": "Sri Rama Homam",
+      "filename": "srirama-homam.json",
+      "description": "Traditional Sri Rama Homam manual by P V R Narasimha Rao"
+    },
+    {
+      "id": "narasimha-homam",
+      "name": "Narasimha Homam",
+      "filename": "narasimha-homam.json",
+      "description": "Traditional Narasimha Homam manual by P V R Narasimha Rao"
+    },
+    {
+      "id": "vishnu-homam",
+      "name": "Vishnu Homam",
+      "filename": "vishnu-homam.json",
+      "description": "Traditional Vishnu Homam manual by P V R Narasimha Rao"
+    },
+    {
+      "id": "hanuman-homam",
+      "name": "Hanuman Homam",
+      "filename": "hanuman-homam.json",
+      "description": "Traditional Hanuman Homam manual by P V R Narasimha Rao"
     }
   ],
   "defaultManual": "siva-homam"
