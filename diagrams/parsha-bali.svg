@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="500" height="450">
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="450" fill="#fdfdfd"/>
+  
+  <!-- Title -->
+  <text x="250" y="30" text-anchor="middle" font-family="serif" font-size="18" font-weight="bold" fill="#333">Parsha Bali Positions</text>
+  
+  <!-- Central Homa Kundam (square) -->
+  <rect x="125" y="100" width="250" height="250" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  
+  <!-- Central text -->
+  <text x="250" y="230" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Homa Kundam</text>
+  
+  <!-- Position 1 - East (midpoint of top side) -->
+  <circle cx="250" cy="65" r="15" fill="#e8f4fd" stroke="#333" stroke-width="2"/>
+  <text x="250" y="70" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">1</text>
+  <text x="250" y="45" text-anchor="middle" font-family="serif" font-size="14" fill="#333">East</text>
+  
+  <!-- Position 2 - West -->
+  <circle cx="250" cy="385" r="15" fill="#e8f4fd" stroke="#333" stroke-width="2"/>
+  <text x="250" y="390" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">2</text>
+  <text x="250" y="410" text-anchor="middle" font-family="serif" font-size="14" fill="#333">West</text>
+  
+  <!-- Position 3 - North -->
+  <circle cx="90" cy="225" r="15" fill="#e8f4fd" stroke="#333" stroke-width="2"/>
+  <text x="90" y="230" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">3</text>
+  <text x="55" y="230" text-anchor="middle" font-family="serif" font-size="14" fill="#333" transform="rotate(-90, 55, 230)">North</text>
+  
+  <!-- Position 4 - South -->
+  <circle cx="410" cy="225" r="15" fill="#e8f4fd" stroke="#333" stroke-width="2"/>
+  <text x="410" y="230" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">4</text>
+  <text x="445" y="230" text-anchor="middle" font-family="serif" font-size="14" fill="#333" transform="rotate(90, 445, 230)">South</text>
+  
+  <!-- Position 5 - East (6/8 from top-right corner) -->
+  <circle cx="200" cy="65" r="15" fill="#ffe8e8" stroke="#333" stroke-width="2"/>
+  <text x="200" y="70" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">5</text>
+  
+  <!-- Position 6 - East (7/8 from top-right corner) -->
+  <circle cx="156" cy="65" r="15" fill="#ffe8e8" stroke="#333" stroke-width="2"/>
+  <text x="156" y="70" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#d97706">6</text>
+  
+  <!-- Legend -->
+  <text x="250" y="420" text-anchor="middle" font-family="serif" font-size="12" fill="#666">Bali offering positions around Homa Kundam</text>
+  <text x="250" y="440" text-anchor="middle" font-family="serif" font-size="12" fill="#666">Blue circles: Main directions | Pink circles: Additional East offerings</text>
+  
+</svg>
