@@ -324,27 +324,51 @@ const ManualViewer = () => {
 
         {/* --- Main Content --- */}
         <main ref={mainContentRef} className="flex-1 w-full h-screen overflow-y-auto p-6 md:p-10 lg:p-12">
-          <header className="flex items-center justify-between mb-8">
-            <button className="lg:hidden z-40" onClick={() => setLeftSidebarOpen(!isLeftSidebarOpen)}>
-              {isLeftSidebarOpen ? <XIcon /> : <MenuIcon />}
-            </button>
-            <div className="flex-1 text-center">
-              {activeSectionId === 0 ? (
-                <div>
-                  <h1 className="text-4xl font-bold mb-2">{homamData.title[language]}</h1>
-                  <p className="text-lg text-gray-600">by {homamData.author[language]}</p>
+          <header className="mb-8">
+            {/* Source link banner */}
+            {homamData.source && (
+              <div className="mb-6 p-4 bg-gradient-to-r from-orange-50 to-amber-50 border border-orange-200 rounded-lg shadow-sm">
+                <div className="flex items-center justify-center space-x-2 text-sm">
+                  <svg className="w-4 h-4 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                  </svg>
+                  <span className="text-orange-800 font-medium">
+                    {language === 'telugu' ? 'మూల గ్రంథం' : language === 'hindi' ? 'मूल ग्रंथ' : 'Source Manual'}:
+                  </span>
+                  <a 
+                    href={homamData.source} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-orange-600 hover:text-orange-800 font-medium underline transition-colors"
+                  >
+                    {language === 'telugu' ? 'PDF ఇక్కడ చూడండి' : language === 'hindi' ? 'PDF यहाँ देखें' : 'View Original PDF'}
+                  </a>
                 </div>
-              ) : (
-                <h1 className="text-3xl font-bold">{activeSection.title[language]}</h1>
-              )}
-            </div>
-             <div className="flex items-center space-x-2">
-              <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">{translations.language[language]}:</label>
-              <select id="language-select" value={language} onChange={(e) => setLanguage(e.target.value)} className="rounded-md border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50">
-                <option value="english">English</option>
-                <option value="telugu">Telugu</option>
-                <option value="hindi">हिन्दी</option>
-              </select>
+              </div>
+            )}
+            
+            <div className="flex items-center justify-between">
+              <button className="lg:hidden z-40" onClick={() => setLeftSidebarOpen(!isLeftSidebarOpen)}>
+                {isLeftSidebarOpen ? <XIcon /> : <MenuIcon />}
+              </button>
+              <div className="flex-1 text-center">
+                {activeSectionId === 0 ? (
+                  <div>
+                    <h1 className="text-4xl font-bold mb-2">{homamData.title[language]}</h1>
+                    <p className="text-lg text-gray-600">by {homamData.author[language]}</p>
+                  </div>
+                ) : (
+                  <h1 className="text-3xl font-bold">{activeSection.title[language]}</h1>
+                )}
+              </div>
+               <div className="flex items-center space-x-2">
+                <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">{translations.language[language]}:</label>
+                <select id="language-select" value={language} onChange={(e) => setLanguage(e.target.value)} className="rounded-md border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50">
+                  <option value="english">English</option>
+                  <option value="telugu">Telugu</option>
+                  <option value="hindi">हिन्दी</option>
+                </select>
+              </div>
             </div>
           </header>
 
