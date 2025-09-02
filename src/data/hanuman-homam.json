@@ -71,10 +71,10 @@
             ]
           },
           "slokas": {
-            "english": "om̐ ṛddhyāsma havyairnamasopasadya | mitraṁ devaṁ mitradheyaṁ no astu | anūrādhān haviṣā vardhayantaḥ | śataṁ jīvema śaradaḥ savīrāḥ |",
-            "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య | మిత్రం దేవం మిత్రధేయం నో అస్తు | అనూరాధాన్ హవిషా వర్ధయంతః | శతం జీవేమ శరదః సవీరాః |",
-            "devanagari": "ॐ ऋद्ध्यास्म हव्यैर्नमसोपसद्य । मित्रं देवं मित्रधेयं नो अस्तु । अनूराधान् हविषा वर्धयन्तः। शतं जीवेम शरदः सवीराः ।"
-          }
+              "english": " Om R^iddhyaasma havyairnamasopasadya |\n mitram devam mitradheyam no astu |\n  anooraadhaan havishaa vardhayantah |\n  shatam jeevema sharadah saveeraah |",
+              "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య |\n  మిత్రం దేవం మిత్రధేయం నో అస్తు |\n  అనూరాధాన్ హవిషా వర్ధయంతః |\n  శతం జీవేమ శరదః సవీరాః |",
+              "devanagari": " ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य |\n  मित्रं देवं मित्रधेयं नो अस्तु |\n  अनूराधान् हविषा वर्धयन्तः |\n  शतं जीवेम शरदः सवीराः |"
+            }
         },
         {
           "instructions": {
@@ -214,19 +214,40 @@
         {
           "instructions": {
             "english": [
-              "Place a few akshatas and a flower in the tumbler of water. Chant the syllable 'vaṁ' 11 times to purify the water. Then, recite the following verse to invite the essence of sacred rivers into the water."
+              "Place a few akshatas and a flower in the tumbler of water.",
+              "Chant the syllable 'vaṁ' 11 times to purify the water."
             ],
             "telugu": [
-              "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి. నీటిని శుద్ధి చేయడానికి 'వం' అనే బీజాక్షరాన్ని 11 సార్లు జపించండి. ఆ తరువాత, పవిత్ర నదుల సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి ఈ క్రింది శ్లోకాన్ని పఠించండి."
+              "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి.",
+              "నీటిని శుద్ధి చేయడానికి 'వం' అనే బీజాక్షరాన్ని 11 సార్లు జపించండి."
             ],
             "hindi": [
-              "पानी के गिलास में कुछ अक्षत और एक फूल रखें। पानी को शुद्ध करने के लिए 'वं' अक्षर का 11 बार जाप करें। फिर, पवित्र नदियों के सार को जल में आमंत्रित करने के लिए निम्नलिखित श्लोक का पाठ करें।"
+              "पानी के गिलास में कुछ अक्षत और एक फूल रखें।",
+              "पानी को शुद्ध करने के लिए 'वं' अक्षर का 11 बार जाप करें।"
             ]
           },
           "slokas": {
-            "english": "vaṁ || gaṅge ca yamune caiva godāvari sarasvati | narmade sindhu kāveri jale'smin sannidhiṁ kuru || amṛtaṁ bhavatu",
-            "telugu": "వం || గంగే చ యమునే చైవ గోదావరి సరస్వతి | నర్మదే సింధు కావేరి జలేऽస్మిన్ సన్నిధిం కురు || అమృతం భవతు",
-            "devanagari": "वं ॥ गंगे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
+            "english": "vaṁ (x11)",
+            "telugu": "వం (x11)",
+            "devanagari": "वं (x11)"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Recite the following verse to invite the essence of sacred rivers into the water."
+            ],
+            "telugu": [
+              "పవిత్ర నదుల సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి ఈ క్రింది శ్లోకాన్ని పఠించండి."
+            ],
+            "hindi": [
+              "पवित्र नदियों के सार को जल में आमंत्रित करने के लिए निम्नलिखित श्लोक का पाठ करें।"
+            ]
+          },
+          "slokas": {
+            "english": "gaṅge ca yamune caiva godāvari sarasvati | narmade sindhu kāveri jale'smin sannidhiṁ kuru || amṛtaṁ bhavatu",
+            "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి | నర్మదే సింధు కావేరి జలేऽస్మిన్ సన్నిధిం కురు || అమృతం భవతు",
+            "devanagari": "गंगे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
           }
         },
         {
@@ -709,7 +730,7 @@
           },
           "slokas": {
             "english": "āvāhito bhava | sthāpito bhava | sannihito bhava | sanniruddho bhava | avakuṇṭhito bhava | deva prasīda prasīda | yāvaddhomāvasānakam | tāvattvaṁ prītibhāvena mūrtau agnau ca sannidhiṁ kuru |",
-            "telugu": "ఆవాహితో భవ | స్థాపిటో భవ | సన్నిహితో భవ | సన్నిరుద్ధో భవ | అవకుంఠితో భవ | దేవ ప్రసీద ప్రసీద | యావద్ధోమావసానకం | తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు |",
+            "telugu": "ఆవాహితో భవ | స్థాపితో భవ | సన్నిహితో భవ | సన్నిరుద్ధో భవ | అవకుంఠితో భవ | దేవ ప్రసీద ప్రసీద | యావద్ధోమావసానకం | తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు |",
             "devanagari": "आवाहितो भव । स्थापितो भव । सन्निहितो भव । सन्निरुद्धो भव । अवकुंठितो भव । देव प्रसीद प्रसीद । यावद्धोमावसानकम् । तावत्त्वं प्रीतिभावेन मूर्तों अग्नौ च सन्निधिं कुरु ।"
           }
         }

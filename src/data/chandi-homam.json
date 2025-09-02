@@ -70,10 +70,10 @@
       },
       "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Om R^iddhyaasma havyairnamasopasadya | mitram devam mitradheyam no astu | anooraadhaan havishaa vardhayantah | shatam jeevema sharadah saveeraah |",
-        "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య । మిత్రం దేవం మిత్రధేయం నో అస్తు । అనూరాధాన్ హవిషా వర్ధయంతః । శతం జీవేమ శరదః సవీరాః ।",
-        "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य । मित्रं देवं मित्रधेयं नो अस्तु। अनूराधान् हविषा वर्धयन्तः। शतं जीवेम शरदः सवीराः ।"
-      }
+              "english": "Om R^iddhyaasma havyairnamasopasadya |\n mitram devam mitradheyam no astu |\n  anooraadhaan havishaa vardhayantah |\n  shatam jeevema sharadah saveeraah |",
+              "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య |\n  మిత్రం దేవం మిత్రధేయం నో అస్తు |\n  అనూరాధాన్ హవిషా వర్ధయంతః |\n  శతం జీవేమ శరదః సవీరాః |",
+              "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य |\n  मित्रं देवं मित्रधेयं नो अस्तु |\n  अनूराधान् हविषा वर्धयन्तः |\n  शतं जीवेम शरदः सवीराः |"
+            }
     },
     {
       "id": 2,
@@ -220,39 +220,57 @@
         "devanagari": "ॐ ममोपात्त समस्त दुरितक्षयद्वारा श्री परमेश्वर प्रीत्यर्थम् श्री महाकाळी महालक्ष्मी महासरस्वती प्रसाद सिद्धयर्थम् अद्य शुभदिने शुभमुहूर्ते श्री चण्डी होमकर्म यथाशक्ति करिष्ये ।"
       }
     },
-    {
+  {
       "id": 6,
       "title": {
         "english": "Water Purification",
         "telugu": "కలశ శుద్ధి",
         "hindi": "कलश शुद्धि"
       },
-      "instructions": {
-        "english": [
-          "Place a few akshatas and a flower into the tumbler of water.",
-          "Chant the syllable 'vam' (वं) 11 times to purify the water.",
-          "Recite the Ganga river invocation mantra to invite the essence of all sacred rivers into the water.",
-          "Sprinkle the purified water on yourself, the homa kundam, the idol, and all other materials for the homam."
-        ],
-        "telugu": [
-          "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి.",
-          "నీటిని శుద్ధి చేయడానికి 'వం' (वं) అనే అక్షరాన్ని 11 సార్లు జపించండి.",
-          "అన్ని పవిత్ర నదుల సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి గంగా నది ఆవాహన మంత్రాన్ని పఠించండి.",
-          "శుద్ధి చేసిన నీటిని మీ మీద, హోమ కుండం మీద, విగ్రహం మీద మరియు హోమం కోసం ఉపయోగించే ఇతర వస్తువులన్నింటిపై చల్లుకోండి."
-        ],
-        "hindi": [
-          "पानी के गिलास में कुछ अक्षत और एक फूल डालें।",
-          "पानी को शुद्ध करने के लिए 'वं' अक्षर का 11 बार जाप करें।",
-          "सभी पवित्र नदियों के सार को जल में आमंत्रित करने के लिए गंगा नदी के आह्वान मंत्र का पाठ करें।",
-          "शुद्ध जल को अपने ऊपर, होम कुंड पर, मूर्ति पर और होम के लिए अन्य सभी सामग्रियों पर छिड़कें।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Vam\nGange cha yamune chaiva godaavari saraswati | Narmade sindhu kaaveri jalesmin sannidhim kuru || Amrutam bhavatu",
-        "telugu": "వం\nగంగే చ యమునే చైవ గోదావరి సరస్వతి । నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥ అమృతం భవతు",
-        "devanagari": "वं\nगंगे च यमुने चैव गोदावरि सरस्वति ।\nनर्मदे सिन्धु कावेरि जलेऽमिन् सन्निधिं कुरु ॥\nअमृतं भवतु"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Place a few akshatas and a flower into the tumbler of water.",
+              "Chant the syllable 'vam' (वं) 11 times to purify the water."
+            ],
+            "telugu": [
+              "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి.",
+              "నీటిని శుద్ధి చేయడానికి 'వం' అనే అక్షరాన్ని 11 సార్లు జపించండి."
+            ],
+            "hindi": [
+              "पानी के गिलास में कुछ अक्षत और एक फूल डालें।",
+              "पानी को शुद्ध करने के लिए 'वं' अक्षर का 11 बार जाप करें।"
+            ]
+          },
+          "slokas": {
+            "english": "Vam",
+            "telugu": "వం",
+            "devanagari": "वं"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Recite the Ganga river invocation mantra to invite the essence of all sacred rivers into the water.",
+              "Sprinkle the purified water on yourself, the homa kundam, the idol, and all other materials for the homam."
+            ],
+            "telugu": [
+              "అన్ని పవిత్ర నదుల సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి గంగా నది ఆవాహన మంత్రాన్ని పఠించండి.",
+              "శుద్ధి చేసిన నీటిని మీ మీద, హోమ కుండం మీద, విగ్రహం మీద మరియు హోమం కోసం ఉపయోగించే ఇతర వస్తువులన్నింటిపై చల్లుకోండి."
+            ],
+            "hindi": [
+              "सभी पवित्र नदियों के सार को जल में आमंत्रित करने के लिए गंगा नदी के आह्वान मंत्र का पाठ करें।",
+              "शुद्ध जल को अपने ऊपर, होम कुंड पर, मूर्ति पर और होम के लिए अन्य सभी सामग्रियों पर छिड़कें।"
+            ]
+          },
+          "slokas": {
+            "english": "Gange cha yamune chaiva godaavari saraswati | Narmade sindhu kaaveri jalesmin sannidhim kuru || Amrutam bhavatu",
+            "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి । నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥ అమృతం భవతు",
+            "devanagari": "गंगे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
+          }
+        }
+      ]
     },
     {
       "id": 7,
@@ -446,9 +464,9 @@
       },
       "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Asya shree praanapratishthaapana mantrasya brahma vishnu maheshwaraa rishayah rigyajussaamaatharvaani chhandaansi shree chandikaa devataa | Aim beejam | Hreem shaktih | Kleem keelakam | ... Bhoorbhuvassuvaromiti digbandhah ||\nShwetaananaa neelabhujaa sushweta stana mandalaa | Rakta madhyaa rakta paadaa neelajanghorurunmadaa || ... Paanapaatram kamandaluh ||\nOm aim hreem kleem yam ram lam vam sham sham sam hamlam ksham | Om hamsah so'ham so'ham hamsah | Shree chandikaayaah praana iha praanah | ... Atra aagachha ||\nAavaahitaa bhava | Sthaapitaa bhava | Sannihitaa bhava | Sanniruddhaa bhava | Avakunthitaa bhava | Devi praseeda praseeda | Devi sarva jagannaayaki yaavaddhomaavasaanakam | Taavattvam preetibhaavena moortaavagnau cha sannidhim kuru ||",
-        "telugu": "అస్య శ్రీ ప్రాణప్రతిష్ఠాపన మంత్రస్య బ్రహ్మ విష్ణు మహేశ్వరా ఋషయః ఋగ్యజుస్సామాథర్వాణి ఛందాంసి శ్రీ చండికా దేవతా । ఐం బీజం। హ్రీం శక్తిః। క్లీం కీలకం । ... భూర్భువస్సువరోమితి దిగ్బంధః ॥\nశ్వేతాననా నీలభుజా సుశ్వేత స్తన మండలా । రక్త మధ్యా రక్త పాదా నీలజంఘోరురున్మదా ॥ ... పానపాత్రం కమండలుః ॥\nఓం ఐం హ్రీం క్లీం యం రం లం వం శం షం సం హంళం క్షం। ఓం హంసః సోऽహం సోऽహం హంసః । శ్రీ చండికాయాః ప్రాణ ఇహ ప్రాణః। ... అత్ర ఆగచ్ఛ ॥\nఆవాహితా భవ । స్థాపితా భవ। సన్నిహితా భవ। సన్నిరుద్ధా భవ। అవకుంఠితా భవ । దేవి ప్రసీద ప్రసీద । దేవి సర్వ జగన్నాయకి యావద్ధోమావసానకమ్ । తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు ॥",
-        "devanagari": "अस्य श्री प्राणप्रतिष्ठापन मंत्रस्य ब्रह्म विष्णु महेश्वरा ऋषयः ऋग्यजुस्सामाथर्वाणि छन्दासि श्री चण्डिका देवता । ऐं बीजं। ह्रीं शक्तिः। क्लीं कीलकं । ... भूर्भुवस्सुवरोमिति दिग्बंधः ॥\nश्वेतानना नीलभुजा सुश्वेत स्तन मण्डला । रक्त मध्या रक्त पादा नीलजंघोरुरुन्मदा ॥ ... पानपात्रं कमण्डलुः ॥\nॐ ऐं ह्रीं क्लीं यं रं लं वंशं षं सं हंळं क्षं। ॐ हंसः सोऽहं सोऽहं हंसः । श्री चण्डिकायाः प्राण इह प्राणः। ... अत्र आगच्छ ॥\nआवाहिता भव । स्थापिता भव। सन्निहिता भव। सन्निरुद्धा भव। अवकुंठिता भव । देवि प्रसीद प्रसीद । देवि सर्व जगन्नायकि यावद्धोमावसानकम् । तावत्त्वं प्रीतिभावेन मूर्तों अग्नौ च सन्निधिं कुरु ।"
+        "english": "Asya shree praanapratishthaapana mantrasya brahma vishnu maheshwaraa rishayah rigyajussaamaatharvaani chhandaansi shree chandikaa devataa | Aim beejam | Hreem shaktih | Kleem keelakam | Aim angushthaabhyaam namah | Hreem tarjaneebhyaam namah | Kleem madhyamaabhyaam namah | Aim anaamikaabhyaam namah | Hreem kanishthikaabhyaam namah | Kleem karatala karaprishthaabhyaam namah | Aim hridayaaya namah | Hreem shirase swaahaa | Kleem shikhaayai vashat | Aim kavachaaya hum | Hreem netratrayaaya vaushat | Kleem astraaya phat | Bhoorbhuvassuvaromiti digbandhah ||\nShwetaananaa neelabhujaa sushweta stana mandalaa | Rakta madhyaa rakta paadaa neelajanghorurunmadaa || Suchitra jaghanaa chitra maalyaambara vibhooshanaa | Chitraanulepanaa kaanti roopa saubhaagyashaalinee || Ashtaadasha bhujaa poojyaa saa sahasrabhujaa satee | Aayudhaanyatra vakshyante dakshinaadhahkara kramaat || Akshamaalaa cha kamalam baanosih kulisham gadaa | Chakram trishoolam parashuh shankho ghantaa cha paashakah || Shaktirdandashcharma chaapam paanapaatram kamandaluh ||\nOm aim hreem kleem yam ram lam vam sham sham sam hamlam ksham | Om hamsah so'ham so'ham hamsah | Shree chandikaayaah praana iha praanah | Jeeva iha sthitah | Sarvendriyaani vaangmanastwak chakshuh shrotra jihwaaghraana praanaapaanavyaanodaana samaanaah ihaivaagatya sukham chiram tishthantu swaahaa | Saannidhyam kurvantu swaahaa | Asunee te punarasmaasu chakshuh punah praanamiha no dehi bhogam | Jyokpashyema sooryamuchcharantamanumate mrilayaa nah swasti | Aim hreem kleem | Kleem hreem aim | Om sree chandikaa praanashaktyai namah | Atra aagachha ||\nAavaahitaa bhava | Sthaapitaa bhava | Sannihitaa bhava | Sanniruddhaa bhava | Avakunthitaa bhava | Devi praseeda praseeda | Devi sarva jagannaayaki yaavaddhomaavasaanakam | Taavattvam preetibhaavena moortaavagnau cha sannidhim kuru ||",
+        "telugu": "అస్య శ్రీ ప్రాణప్రతిష్ఠాపన మంత్రస్య బ్రహ్మ విష్ణు మహేశ్వరా ఋషయః ఋగ్యజుస్సామాథర్వాణి ఛందాంసి శ్రీ చండికా దేవతా । ఐం బీజం। హ్రీం శక్తిః। క్లీం కీలకం । ఐం అంగుష్ఠాభ్యాం నమః। హ్రీం తర్జనీభ్యాం నమః। క్లీం మధ్యమాభ్యాం నమః। ఐం అనామికాభ్యాం నమః । హ్రీం కనిష్ఠికాభ్యాం నమః। క్లీం కరతల కరపృష్ఠాభ్యాం నమః। ఐం హృదయాయ నమః। హ్రీం శిరసే స్వాహా। క్లీం శిఖాయై వషట్ । ఐం కవచాయ హుం । హ్రీం నేత్రత్రయాయ వౌషట్ । క్లీం అస్త్రాయ ఫట్ । భూర్భువస్సువరోమితి దిగ్బంధః ॥\nశ్వేతాననా నీలభుజా సుశ్వేత స్తన మండలా । రక్త మధ్యా రక్త పాదా నీలజంఘోరురున్మదా ॥ సుచిత్ర జఘనా చిత్ర మాల్యాంబర విభూషణా । చిత్రానులేపనా కాంతి రూప సౌభాగ్యశాలినీ ॥ అష్టాదశ భుజా పూజ్యా సా సహస్రభుజా సతీ। ఆయుధాన్యత్ర వక్ష్యంతే దక్షిణాధఃకర క్రమాత్ ॥ అక్షమాలా చ కమలం బాణోऽసిః కులిశం గదా । చక్రం త్రిశూలం పరశుః శంఖో ఘంటా చ పాశకః ॥ శక్తిర్దండశ్చర్మ చాపం పానపాత్రం కమండలుః ॥\nఓం ఐం హ్రీం క్లీం యం రం లం వం శం షం సం హంళం క్షం। ఓం హంసః సోऽహం సోऽహం హంసః । శ్రీ చండికాయాః ప్రాణ ఇహ ప్రాణః। జీవ ఇహ స్థితః । సర్వేంద్రియాణి వాఙ్మనస్త్వక్ చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠन्तु స్వాహా। సాన్నిధ్యం కుర్వంతు స్వాహా। అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం। జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి। ఐం హ్రీం క్లీం। క్లీం హ్రీం ఐం । ఓం శ్రీ చండికా ప్రాణశక్త్యై నమః। అత్ర ఆగచ్ఛ ॥\nఆవాహితా భవ । స్థాపితా భవ। సన్నిహితా భవ। సన్నిరుద్ధా భవ। అవకుంఠితా భవ । దేవి ప్రసీద ప్రసీద । దేవి సర్వ జగన్నాయకి యావద్ధోమావసానకమ్ । తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు ॥",
+        "devanagari": "अस्य श्री प्राणप्रतिष्ठापन मंत्रस्य ब्रह्म विष्णु महेश्वरा ऋषयः ऋग्यजुस्सामाथर्वाणि छन्दासि श्री चण्डिका देवता । ऐं बीजं। ह्रीं शक्तिः। क्लीं कीलकं । ऐं अंगुष्ठाभ्यां नमः। ह्रीं तर्जनीभ्यां नमः। क्लीं मध्यमाभ्यां नमः। ऐं अनामिकाभ्यां नमः । ह्रीं कनिष्ठिकाभ्यां नमः। क्लीं करतल करपृष्ठाभ्यां नमः। ऐं हृदयाय नमः। ह्रीं शिरसे स्वाहा। क्लीं शिखायै वषट् । ऐं कवचाय हुं । ह्रीं नेत्रत्रयाय वौषट् । क्लीं अस्त्राय फट् । भूर्भुवस्सुवरोमिति दिग्बंधः ॥\nश्वेतानना नीलभुजा सुश्वेत स्तन मण्डला । रक्त मध्या रक्त पादा नीलजंघोरुरुन्మदा ॥ सुचित्र जघना चित्र माल्याम्बर विभूषणा । चित्रानुलेपना कान्ति रूप सौभाग्यशालिनी ॥ अष्टादश भुजा पूज्या सा सहस्रभुजा सती। आयुधान्यत्र वक्ष्यन्ते दक्षिणाधःकर क्रमात् ॥ अक्षमाला च कमलं बाणोऽसिः कुलिशं गदा । चक्रं त्रिशूलं परशुः शंखो घण्टा च पाशकः ॥ शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः ॥\nॐ ऐं ह्रीं क्लीं यं रं लं वंशं षं सं हंळं क्षं। ॐ हंसः सोऽहं सोऽहं हंसः । श्री चण्डिकायाः प्राण इह प्राणः। जीव इह स्थितः । सर्वेन्द्रियाणि वाङ्मनस्त्वक् चक्षुः श्रोत्र जिह्वाघ्राण प्राणापानव्यानोदानसमानाः इहैवागत्य सुखं चिरं तिष्ठन्तु स्वाहा। सान्निध्यं कुर्वन्तु स्वाहा। असुनी ते पुनरस्మాसु चक्षुः पुनः प्राणमिह नो देहि भोगं। ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति। ऐं ह्रीं क्लीं। क्लीं ह्रीं ऐं । ॐ श्री चण्डिका प्राणशक्त्यै नमः। अत्र आगच्छ ॥\nआवाहिता भव । स्थापिता भव। सन्निहिता भव। सन्निरुद्धा भव। अवकुंठिता भव । देवि प्रसीद प्रसीद । देवि सर्व जगन्नायकि यावद्धोमावसानकम् । तावत्त्वं प्रीतिभावेन मूर्तों अग्नौ च सन्निधिं कुरु ।"
       }
     },
     {
@@ -497,33 +515,48 @@
     {
       "id": 13,
       "title": {
-        "english": "Offerings to Associates",
-        "telugu": "పరివార దేవత ఆహుతులు",
-        "hindi": "परिवार देवता आहुति"
+        "english": "Parivaara Devata Aahutis (Offerings to Associates)",
+        "telugu": "పరివార దేవతా ఆహుతులు",
+        "devanagari": "परिवार देवता आहुति"
       },
-      "instructions": {
-        "english": [
-          "Make ghee offerings (aahutis) into the fire for the associate deities of Chandi.",
-          "If in a hurry, you can make a single offering for all deities together using the first mantra.",
-          "If time permits, make individual offerings for each deity or group of deities by chanting the longer list of mantras, offering ghee at each 'swaahaa'."
-        ],
-        "telugu": [
-          "చండీ పరివార దేవతలకు అగ్నిలో నెయ్యి ఆహుతులు సమర్పించండి.",
-          "తొందరలో ఉంటే, మొదటి మంత్రాన్ని ఉపయోగించి దేవతలందరికీ కలిపి ఒకే ఆహుతిని సమర్పించవచ్చు.",
-          "సమయం ఉంటే, ప్రతి 'స్వాహా' వద్ద నెయ్యిని సమర్పిస్తూ, పొడవైన మంత్రాల జాబితాను జపిస్తూ ప్రతి దేవతకు లేదా దేవతల సమూహానికి వ్యక్తిగత ఆహుతులను సమర్పించండి."
-        ],
-        "hindi": [
-          "चंडी के सहयोगी देवताओं के लिए अग्नि में घी की आहुति दें।",
-          "जल्दी में होने पर, आप पहले मंत्र का उपयोग करके सभी देवताओं के लिए एक साथ एक ही आहुति दे सकते हैं।",
-          "यदि समय हो, तो प्रत्येक 'स्वाहा' पर घी चढ़ाते हुए, मंत्रों की लंबी सूची का जाप करके प्रत्येक देवता या देवताओं के समूह के लिए अलग-अलग आहुतियाँ दें।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Short version: Om yoginyaadibhyah chandikaa parivaara devataabhyo namah swaahaa ||\nLong version: Om sooryaaya namah swaahaa | Om agnaye namah swaahaa | Om rudraaya namah swaahaa | ... Om yogineebhyo namah swaahaa |",
-        "telugu": "సంక్షిప్త రూపం: ఓం యోగిన్యాదిభ్యః చండికా పరివార దేవతాభ్యో నమః స్వాహా ॥\nదీర్ఘ రూపం: ఓం సూర్యాయ నమః స్వాహా। ఓం అగ్నయే నమః స్వాహా। ఓం రుద్రాయ నమః స్వాహా। ... యోం యోగినీభ్యో నమః స్వాహా।",
-        "devanagari": "संक्षिप्त संस्करण: ॐ योगिन्यादिभ्यः चण्डिका परिवार देवताभ्यो नमः स्वाहा ॥\nलंबा संस्करण: ॐ सूर्याय नमः स्वाहा। ॐ अग्नये नमः स्वाहा। ॐ रुद्राय नमः स्वाहा। ... यों योगिनीभ्यो नमः स्वाहा।"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "If you are in a hurry, you can make a single offering of ghee for all of Chandi's associate deities with the following short mantra."
+            ],
+            "telugu": [
+              "మీరు తొందరలో ఉన్నట్లయితే, ఈ చిన్న మంత్రంతో చండీ పరివార దేవతలందరికీ నెయ్యితో ఒకే ఆహుతిని సమర్పించవచ్చు."
+            ],
+            "hindi": [
+              "यदि आप जल्दी में हैं, तो आप निम्नलिखित संक्षिप्त मंत्र के साथ चंडी के सभी सहयोगी देवताओं के लिए घी की एक ही आहुति दे सकते हैं।"
+            ]
+          },
+          "slokas": {
+            "english": "Om yoginyaadibhyah chandikaa parivaara devataabhyo namah swaahaa ||",
+            "telugu": "ఓం యోగిన్యాదిభ్యః చండికా పరివార దేవతాభ్యో నమః స్వాహా ॥",
+            "devanagari": "ॐ योगिन्यादिभ्यः चण्डिका परिवार देवताभ्यो नमः स्वाहा ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "If you have more time, make individual offerings of ghee for each deity listed below, offering ghee each time 'swaahaa' is chanted."
+            ],
+            "telugu": [
+              "మీకు ఎక్కువ సమయం ఉన్నట్లయితే, 'స్వాహా' అని జపించిన ప్రతిసారీ నెయ్యిని సమర్పిస్తూ, క్రింద ఇవ్వబడిన ప్రతి దేవతకు వ్యక్తిగత ఆహుతులను సమర్పించండి."
+            ],
+            "hindi": [
+              "यदि आपके पास अधिक समय है, तो नीचे सूचीबद्ध प्रत्येक देवता के लिए घी की अलग-अलग आहुतियां दें, हर बार 'स्वाहा' का जाप करने पर घी अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "Om sooryaaya namah swaahaa | Om agnaye namah swaahaa | Om rudraaya namah swaahaa | Om chandraaya namah swaahaa | Om abbhyo namah swaahaa | Om gauryai namah swaahaa | Om mangalaaya namah swaahaa | Om prithivyai namah swaahaa | Om kshetrapaalakaaya namah swaahaa | Om budhaaya namah swaahaa | Om vishnave namah swaahaa | Om naaraayanaaya namah swaahaa | Om brihaspataye namah swaahaa | Om brahmane namah swaahaa | Om indraaya namah swaahaa | Om shukraaya namah swaahaa | Om indraanyai namah swaahaa | Om indramarutvantaaya namah swaahaa | Om shanaishcharaaya namah swaahaa | Om prajaapataye namah swaahaa | Om yamadharma raajaaya namah swaahaa | Om raahave namah swaahaa | Om gomaatre namah swaahaa | Om sarvebhyo namah swaahaa | Om ketave namah swaahaa | Om chitraguptaaya namah swaahaa | Om brahmane namah swaahaa | Om saraswatee brahmaabhyaam namah swaahaa | Om gauree rudraabhyaam namah swaahaa | Om lakshmee hrisheekeshaabhyaam namah swaahaa | Om ashtaadashabhujaayai mahaalakshmyai namah swaahaa | Om dashaananaayai mahaakaalyai namah swaahaa | Om ashtabhujaayai mahaasaraswatyai namah swaahaa | Nam nandaayai namah swaahaa | Ram raktadantikaayai namah swaahaa | Shaam shaakambharye namah swaahaa | Dum durgaayai namah swaahaa | Bheem bheemaayai namah swaahaa | Bhraam bhraamaryai namah swaahaa | Jam jayaayai namah swaahaa | Vim vijayaayai namah swaahaa | Jam jayantyai namah swaahaa | Am aparaajitaayai namah swaahaa | Om simhaaya namah swaahaa | Om mahishaaya namah swaahaa | Braam braahmyai namah swaahaa | Maam maaheshwaryai namah swaahaa | Kaum kaumaryai namah swaahaa | Vaim vaishnavyai namah swaahaa | Vaam vaaraahyai namah swaahaa | Naam naarasimhyai namah swaahaa | Aim aindryai namah swaahaa | Chaam chaamundaayai namah swaahaa | Am asitaanga bhairavaaya namah swaahaa | Rum ruru bhairavaaya namah swaahaa | Cham chanda bhairavaaya namah swaahaa | Krodham krodhana bhairavaaya namah swaahaa | Um unmatta bhairavaaya namah swaahaa | Kam kapaala bhairavaaya namah swaahaa | Bheem bheeshana bhairavaaya namah swaahaa | Sam samhaara bhairavaaya namah swaahaa | Om vishnumaayaayai namah swaahaa | Om chetanaayai namah swaahaa | Om buddhyai namah swaahaa | Om nidraayai namah swaahaa | Om kshudhaayai namah swaahaa | Om chhaayaayai namah swaahaa | Om shaktyai namah swaahaa | Om trishnaayai namah swaahaa | Om kshaantyai namah swaahaa | Om jaatyai namah swaahaa | Om lajjaayai namah swaahaa | Om shaantyai namah swaahaa | Om shraddhaayai namah swaahaa | Om kaantyai namah swaahaa | Om lakshmyai namah swaahaa | Om dhrityai namah swaahaa | Om vrittyai namah swaahaa | Om smrityai namah swaahaa | Om dayaayai namah swaahaa | Om tushtyai namah swaahaa | Om pushtyai namah swaahaa | Om maatre namah swaahaa | Om bhraantyai namah swaahaa | Om chityai namah swaahaa | Lam indraaya namah swaahaa | Ram agnyaye namah swaahaa | Mam yamaaya namah swaahaa | Ksham nirritaye namah swaahaa | Vam varunaaya namah swaahaa | Yam vaayave namah swaahaa | Sam somaaya namah swaahaa | Ham rudraaya namah swaahaa | Aam brahmane namah swaahaa | Hreem sheshaaya namah swaahaa | Vam vajraaya namah swaahaa | Sham shaktyai namah swaahaa | Dam dandaaya namah swaahaa | Kham khadgaaya namah swaahaa | Paam paashaaya namah swaahaa | Am ankushaaya namah swaahaa | Gam gadaayai namah swaahaa | Trim trishoolaaya namah swaahaa | Pam padmaaya namah swaahaa | Cham chakraaya namah swaahaa | Gam ganapataye namah swaahaa | Kshe kshetrapaalakaaya namah swaahaa | Vam vatukaaya namah swaahaa | Yom yogineebhyo namah swaahaa |",
+            "telugu": "ఓం సూర్యాయ నమః స్వాహా। ఓం అగ్నయే నమః స్వాహా। ఓం రుద్రాయ నమః స్వాహా। ఓం చంద్రాయ నమః స్వాహా। ఓం అద్భ్యో నమః స్వాహా। ఓం గౌర్యై నమః స్వాహా। ఓం మంగళాయ నమః స్వాహా। ఓం పృథివ్యై నమః స్వాహా। ఓం క్షేత్రపాలకాయ నమః స్వాహా। ఓం బుధాయ నమః స్వాహా। ఓం విష్ణవే నమః స్వాహా। ఓం నారాయణాయ నమః స్వాహా। ఓం బృహస్పతయే నమః స్వాహా। ఓం బ్రహ్మణే నమః స్వాహా। ఓం ఇంద్రాయ నమః స్వాహా। ఓం శుక్రాయ నమః స్వాహా। ఓం ఇంద్రాణ్యై నమః స్వాహా। ఓం ఇంద్రమరుత్వంతాయ నమః స్వాహా। ఓం శనైశ్చరాయ నమః స్వాహా। ఓం ప్రజాపతయే నమః స్వాహా। ఓం యమధర్మరాజాయ నమః స్వాహా । ఓం రాహవే నమః స్వాహా। ఓం గోమాత్రే నమః స్వాహా। ఓం సర్వేభ్యో నమః స్వాహా । ఓం కేతవే నమః స్వాహా। ఓం చిత్రగుప్తాయ నమః స్వాహా। ఓం బ్రహ్మణే నమః స్వాహా। ఓం సరస్వతీ బ్రహ్మభ్యాం నమః స్వాహా। ఓం గౌరీరుద్రాభ్యాం నమః స్వాహా। ఓం లక్ష్మీ హృషీకేశాభ్యాం నమః స్వాహా। ఓం అష్టాదశభుజాయై మహాలక్ష్మ్యై నమః స్వాహా। ఓం దశాననాయై మహాకాళ్యై నమః స్వాహా। ఓం అష్టభుజాయై మహాసరస్వత్యై నమః స్వాహా । నం నందాయై నమః స్వాహా। రం రక్తదంతికాయై నమః స్వాహా। శాం శాకంభర్యే నమః స్వాహా। దుం దుర్గాయై నమః స్వాహా। భీం భీమాయై నమః స్వాహా। భ్రాం భ్రామర్యై నమః స్వాహా । జం జయాయై నమః స్వాహా। విం విజయాయై నమః స్వాహా। జం జయంత్యై నమః స్వాహా। అం అపరాజితాయై నమః స్వాహా। ॐ సింహాయ నమః స్వాహా। ॐ మహిషాయ నమః స్వాహా । బ్రాం బ్రాహ్మ్యై నమః స్వాహా। మాం మాహేశ్వర్యై నమః స్వాహా। కౌం కౌమార్యై నమః స్వాహా। వైం వైష్ణవ్యై నమః స్వాహా। వాం వారాహ్యై నమః స్వాహా। నాం నారసింహ్యై నమః స్వాహా। ఐం ఐంద్ర్యై నమః స్వాహా। చాం చాముండాయై నమః స్వాహా । అం అసిత్గాం భైరవాయ నమః స్వాహా। రం రురు భైరవాయ నమః స్వాహా। చం చండ భైరవాయ నమః స్వాహా। క్రోధం క్రోధన భైరవాయ నమః స్వాహా। ఉం ఉన్మత్త భైరవాయ నమః స్వాహా। కం కపాల భైరవాయ నమః స్వాహా। భీం భీషణ భైరవాయ నమః స్వాహా। సం సంహార భైరవాయ నమః స్వాహా । ఓం విష్ణుమాయాయై నమః స్వాహా। ఓం చేతనాయై నమః స్వాహా। ఓం బుద్ధ్యై నమః స్వాహా। ఓం నిద్రాయై నమః స్వాహా। ఓం క్షుధాయై నమః స్వాహా। ఓం ఛాయాయై నమః స్వాహా। ఓం శక్త్యై నమః స్వాహా। ఓం తృష్ణాయై నమః స్వాహా। ఓం క్షాంత్యై నమః స్వాహా। ఓం జాత్యై నమః స్వాహా। ఓం లజ్జాయై నమః స్వాహా। ఓం శాంత్యై నమః స్వాహా। ఓం శ్రద్ధాయై నమః స్వాహా। ఓం కాంత్యై నమః స్వాహా। ఓం లక్ష్మ్యై నమః స్వాహా। ఓం ధృత్యై నమః స్వాహా। ఓం వృత్త్యై నమః స్వాహా। ఓం స్మృత్యై నమః స్వాహా। ఓం దయాయై నమః స్వాహా। ఓం తుష్ట్యై నమః స్వాహా। ఓం పుష్ట్యై నమః స్వాహా। ఓం మాత్రే నమః స్వాహా। ఓం భ్రాంత్యై నమః స్వాహా। ఓం చిత్యై నమః స్వాహా । లం ఇంద్రాయ నమః స్వాహా। రం అగ్నయే నమః స్వాహా। మం యమాయ నమః స్వాహా। క్షం నిరృతయే నమః స్వాహా। వం వరుణాయ నమః స్వాహా। యం వాయవే నమః స్వాహా। సం సోమాయ నమః స్వాహా। హం రుద్రాయ నమః స్వాహా। ఆం బ్రహ్మణే నమః స్వాహా। హ్రీం శేషాయ నమః స్వాహా । వం వజ్రాయ నమః స్వాహా। శం శక్త్యై నమః స్వాహా। దం దండాయ నమః స్వాహా। ఖం ఖడ్గాయ నమః స్వాహా। పాం పాశాయ నమః స్వాహా। అం అంకుశాయ నమః స్వాహా। గం గదాయై నమః స్వాహా। త్రిం త్రిశూలాయ నమః స్వాహా। పం పద్మాయ నమః స్వాహా। చం చక్రాయ నమః స్వాహా । గం గణపతయే నమః స్వాహా। క్షే క్షేత్రపాలకాయ నమః స్వాహా। వం వటుకాయ నమః స్వాహా। యోం యోగినీభ్యో నమః స్వాహా।",
+            "devanagari": "ॐ सूर्याय नमः स्वाहा। ॐ अग्नये नमः स्वाहा। ॐ रुद्राय नमः स्वाहा। ॐ चन्द्राय नमः स्वाहा। ॐ अब्भ्यो नमः स्वाहा। ॐ गौर्यै नमः स्वाहा। ॐ मंगळाय नमः स्वाहा। ॐ पृथिव्यै नमः स्वाहा। ॐ क्षेत्रपालकाय नमः स्वाहा। ॐ बुधाय नमः स्वाहा। ॐ विष्णवे नमः स्वाहा। ॐ नारायणाय नमः स्वाहा। ॐ बृहस्पतये नमः स्वाहा। ॐ ब्रह्मणे नमः स्वाहा। ॐ इन्द्राय नमः स्वाहा। ॐ शुक्राय नमः स्वाहा। ॐ इन्द्राण्यै नमः स्वाहा। ॐ इन्द्रमरुत्वन्ताय नमः स्वाहा। ॐ शनैश्चराय नमः स्वाहा। ॐ प्रजापतये नमः स्वाहा। ॐ यमधर्मराजाय नमः स्वाहा । ॐ राहवे नमः स्वाहा। ॐ गोमात्रे नमः स्वाहा। ॐ सर्वेभ्यो नमः स्वाहा । ॐ केतवे नमः स्वाहा। ॐ चित्रगुप्ताय नमः स्वाहा। ॐ ब्रह्मणे नमः स्वाहा। ॐ सरस्वती ब्रह्मभ्यां नमः स्वाहा। ॐ गौरीरुद्राभ्यां नमः स्वाहा। ॐ लक्ष्मी हृषीकेशाभ्यां नमः स्वाहा। ॐ अष्टादशभुजायै महालक्ष्म्यै नमः स्वाहा। ॐ दशाननायै महाकाळ्यै नमः स्वाहा। ॐ अष्टभुजायै महासरस्वत्यै नमः स्वाहा । नं नन्दायै नमः स्वाहा। रं रक्तदन्तिकायै नमः स्वाहा। शां शाकंभर्ये नमः स्वाहा। दुं दुर्गायै नमः स्वाहा। भीं भीमायै नमः स्वाहा। भ्रां भ्रामर्यै नमः स्वाहा । जं जयायै नमः स्वाहा। विं विजयायै नमः स्वाहा। जं जयंत्यै नमः स्वाहा। अं अपराजितायै नमः स्वाहा। ॐ सिंहाय नमः स्वाहा। ॐ महिषाय नमः स्वाहा । ब्रां ब्राह्मयै नमः स्वाहा। मां माहेश्वर्यै नमः स्वाहा। कौं कौमार्यै नमः स्वाहा। वैं वैष्णव्यै नमः स्वाहा। वां वाराद्यै नमः स्वाहा। नां नारसिंधै नमः स्वाहा। ऐं ऐंयै नमः स्वाहा। चां चामुण्डायै नमः स्वाहा । अं असितांग भैरवाय नमः स्वाहा। रुं रुरु भैरवाय नमः स्वाहा। चं चण्ड भैरवाय नमः स्वाहा। क्रोधं क्रोधन भैरवाय नमः स्वाहा। उं उन्मत्त भैरवाय नमः स्वाहा। कं कपाल भैरवाय नमः स्वाहा। भीं भीषण भैरवाय नमः स्वाहा। सं संहार भैरवाय नमः स्वाहा । ॐ विष्णुमायायै नमः स्वाहा। ॐ चेतनायै नमः स्वाहा। ॐ बुद्धयै नमः स्वाहा। ॐ निद्रायै नमः स्वाहा। ॐ क्षुधायै नमः स्वाहा। ॐ छायायै नमः स्वाहा। ॐ शत्क्त्यै नमः स्वाहा। ॐ तृष्णायै नमः स्वाहा। ॐ क्षांत्यै नमः स्वाहा। ॐ जात्यै नमः स्वाहा। ॐ लज्जायै नमः स्वाहा। ॐ शांत्यै नमः स्वाहा। ॐ श्रद्धायै नमः स्वाहा। ॐ कांत्यै नमः स्वाहा। ॐ लक्ष्म्यै नमः स्वाहा। ॐ धृत्यै नमः स्वाहा। ॐ वृत्यै नमः स्वाहा। ॐ स्मृत्यै नमः स्वाहा। ॐ दयायै नमः स्वाहा। ॐ तुष्टयै नमः स्वाहा। ॐ पुष्टयै नमः स्वाहा। ॐ मात्रे नमः स्वाहा। ॐ भ्रांत्यै नमः स्वाहा। ॐ चित्यै नमः स्वाहा । लं इंद्राय नमः स्वाहा। रं अग्न्यये नमः स्वाहा। मं यमाय नमः स्वाहा। क्षं निर्ऋतये नमः स्वाहा। वं वरुणाय नमः स्वाहा। यं वायवे नमः स्वाहा। सं सोमाय नमः स्वाहा। हं रुद्राय नमः स्वाहा। आं ब्रह्मणे नमः स्वाहा। ह्रीं शेषाय नमः स्वाहा । वं वज्राय नमः स्वाहा। शं शत्क्त्यै नमः स्वाहा। दं दण्डाय नमः स्वाहा। खं खड्गाय नमः स्वाहा। पां पाशाय नमः स्वाहा। अं अंकुशाय नमः स्वाहा। गं गदायै नमः स्वाहा। त्रिं त्रिशूलाय नमः स्वाहा। पं पद्माय नमः स्वाहा। चं चक्राय नमः स्वाहा । गं गणपतये नमः स्वाहा। क्षे क्षेत्रपालकाय नमः स्वाहा। वं वटुकाय नमः स्वाहा। यों योगिनीभ्यो नमः स्वाहा।"
+          }
+        }
+      ]
     },
     {
       "id": 14,
@@ -625,9 +658,9 @@
       },
       "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Long Version: Om prajaapate na tvadetaanyanyo... Agnaye svishtakrita idam na mama || Om bhoorbhuvassuvah swaahaa | Prajaapataya idam na mama || ... Om namo rudraaya pashupataye swaahaa | Rudraaya pashupataya idam na mama ||\nShort Version: Om bhooh swaahaa | Agnaye idam na mama || ... Om namo rudraaya pashupataye swaahaa | Rudraaya pashupataya idam na mama ||",
-        "telugu": "దీర్ఘ వెర్షన్: ఓం ప్రజాపతే న త్వదేతాన్యన్యో... అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ... ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ... ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
-        "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो... अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ... ॐ नमो रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥\nसंक्षिप्त संस्करण: ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ... ॐ नमो रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
+        "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajnyah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || asmin homakarmani madhye sambhaavita samasta mantralopa tantralopa kriyaalopa bhaktilopa shraddhaalopa niyamlopa nishthaalopa dravyalopaadi samasta dosha praayashchittaartham sarva praayashchittaahutim hoshyaami | Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||\nShort Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
+        "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुशो యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభාවිත సమస్త మంత్రలోప తంత్రలోప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతిం హోష్యామి। ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
+        "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम् । स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वং हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न। यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन् । यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥\nसंक्षिप्त संस्करण: ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा । प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
       }
     },
     {
