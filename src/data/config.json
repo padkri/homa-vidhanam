@@ -89,6 +89,12 @@
       "name": "Hanuman Homam",
       "filename": "hanuman-homam.json",
       "description": "Traditional Hanuman Homam manual by P V R Narasimha Rao"
+    },
+    {
+      "id": "tarpanam",
+      "name": "Tarpanam",
+      "filename": "tarpanam.json",
+      "description": "Traditional Tarpanam manual by P V R Narasimha Rao"
     }
   ],
   "defaultManual": "siva-homam"

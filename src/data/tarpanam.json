@@ -1,0 +1,515 @@
+{
+  "title": {
+    "english": "Tarpana for Devas, Rishis and Pitris",
+    "telugu": "దేవ, ఋషి మరియు పితృ తర్పణం",
+    "hindi": "देव, ऋषि और पितृ तर्पण"
+  },
+  "author": {
+    "english": "P V R Narasimha Rao",
+    "telugu": "పి వి ఆర్ నరసింహారావు",
+    "hindi": "पी वी आर नरसिम्हा राव"
+  },
+  "sections": [
+    {
+      "id": 0,
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "hindi": "परिचय"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Tarpana is a simple water based ritual for freeing oneself from mental conditioning due to karmik debts to various deceased people, removing various obstructions in one's material and spiritual lives and giving peace, stability, balance and focus to the mind.",
+              "The following materials are needed:",
+              "1. A water pot, ideally made of gold, silver, copper, bronze, brass, or panchalohas. Avoid iron, steel, or clay if possible.",
+              "2. Akshatas: Uncooked plain rice grains mixed with turmeric powder and a drop of ghee or oil. Plain rice is also acceptable.",
+              "3. Black sesame seeds: If unavailable, white or brown sesame seeds, or even akshatas can be used as a substitute.",
+              "4. Darbhas (kusha grass): Three blades to be held in the right palm. If unavailable, a locally available grass can be used, or you may proceed without them.",
+              "5. A Pavitram (ring made of darbha) for the right ring finger. A ring of any gemstone, gold, or silver is an acceptable substitute. If not possible, proceed without it."
+            ],
+            "telugu": [
+              "తర్పణం అనేది మరణించిన వివిధ వ్యక్తులకు ఉన్న కర్మ రుణాలు కారణంగా ఏర్పడిన మానసిక బంధాల నుండి విముక్తి పొందటానికి, ఒకరి భౌతిక మరియు ఆధ్యాత్మిక జీవితాల్లోని వివిధ అడ్డంకులను తొలగించడానికి మరియు మనస్సుకు శాంతి, స్థిరత్వం, సమతుల్యం మరియు ఏకాగ్రతను ఇవ్వడానికి చేసే ఒక సరళమైన నీటి ఆధారిత కర్మ.",
+              "కింది వస్తువులు అవసరం:",
+              "1. నీటి పాత్ర, ఆదర్శంగా బంగారం, వెండి, రాగి, కంచు, ఇత్తడి లేదా పంచలోహాలతో చేసినది. వీలైతే ఇనుము, స్టీల్ లేదా మట్టి పాత్రలను వాడరాదు.",
+              "2. అక్షతలు: పసుపు పొడి మరియు ఒక చుక్క నెయ్యి లేదా నూనెతో కలిపిన పచ్చి బియ్యం. పసుపు లేకపోతే, కేవలం బియ్యం కూడా వాడవచ్చు.",
+              "3. నల్ల నువ్వులు: అందుబాటులో లేకపోతే, తెలుపు లేదా గోధుమ రంగు నువ్వులు, లేదా అక్షతలను ప్రత్యామ్నాయంగా ఉపయోగించవచ్చు.",
+              "4. దర్భలు (కుశ గడ్డి): మూడు దర్భలను కుడి అరచేతిలో పట్టుకోవాలి. అందుబాటులో లేకపోతే, స్థానికంగా లభించే గడ్డిని ఉపయోగించవచ్చు, లేదా వాటిని లేకుండా కొనసాగించవచ్చు.",
+              "5. పవిత్రం (దర్భలతో చేసిన ఉంగరం) కుడి ఉంగరపు వేలికి ధరించాలి. ఏదైనా రత్నం, బంగారం లేదా వెండి ఉంగరం కూడా ఆమోదయోగ్యమైన ప్రత్యామ్నాయం. సాధ్యం కాకపోతే, అది లేకుండా కొనసాగించండి."
+            ],
+            "hindi": [
+              "तर्पण एक सरल जल आधारित अनुष्ठान है जो विभिन्न मृत लोगों के प्रति कर्म ऋण के कारण मानसिक कंडीशनिंग से खुद को मुक्त करने, किसी के भौतिक और आध्यात्मिक जीवन में विभिन्न बाधाओं को दूर करने और मन को शांति, स्थिरता, संतुलन और ध्यान देने के लिए है।",
+              "निम्नलिखित सामग्रियों की आवश्यकता है:",
+              "1. एक पानी का बर्तन, आदर्श रूप से सोना, चांदी, तांबा, कांसा, पीतल या पंचधातु से बना हो। यदि संभव हो तो लोहे, स्टील या मिट्टी से बचें।",
+              "2. अक्षत: बिना पके सादे चावल के दाने हल्दी पाउडर और एक बूंद घी या तेल के साथ मिश्रित। सादे चावल भी स्वीकार्य हैं।",
+              "3. काले तिल: यदि अनुपलब्ध हो, तो सफेद या भूरे तिल, या अक्षत का भी विकल्प के रूप में उपयोग किया जा सकता है।",
+              "4. दर्भ (कुश घास): तीन कुश को दाहिनी हथेली में रखना है। यदि अनुपलब्ध हो, तो स्थानीय रूप से उपलब्ध घास का उपयोग किया जा सकता है, या आप उनके बिना आगे बढ़ सकते हैं।",
+              "5. एक पवित्रम (दर्भ से बनी अंगूठी) दाहिनी अनामिका उंगली के लिए। किसी भी रत्न, सोने या चांदी की अंगूठी एक स्वीकार्य विकल्प है। यदि संभव न हो, तो इसके बिना आगे बढ़ें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": {
+        "english": "Sankalpam",
+        "telugu": "సంకల్పం",
+        "hindi": "संकल्प"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Sit cross-legged. Place your empty left palm on your right knee, facing up.",
+              "Take some akshatas in your right hand, close the fist, and place it on your left palm, with the right fist's palm facing down.",
+              "Recite the following mantra to take a vow (sankalpa) to perform the ritual. It means 'on this auspicious day and auspicious time, I shall perform tarpana to Devas, Rishis and Pitris to the best of my ability'.",
+              "After reciting, drop the akshatas on the ground in front of you."
+            ],
+            "telugu": [
+              "కాళ్ళు మడుచుకుని కూర్చోండి. మీ ఖాళీ ఎడమ అరచేతిని మీ కుడి మోకాలిపై, పైకి చూస్తూ ఉంచండి.",
+              "మీ కుడి చేతిలో కొన్ని అక్షతలు తీసుకుని, పిడికిలి మూసి, దానిని మీ ఎడమ అరచేతిపై ఉంచండి, కుడి పిడికిలి యొక్క అరచేతి క్రిందికి చూస్తూ ఉండాలి.",
+              "ఈ కర్మను చేయడానికి సంకల్పం తీసుకోవడానికి ఈ క్రింది మంత్రాన్ని పఠించండి. దీని అర్థం 'ఈ శుభ దినం మరియు శుభ ముహూర్తంలో, నేను నా శక్తి మేరకు దేవ, ఋషి మరియు పితృ తర్పణం చేస్తాను'.",
+              "పఠించిన తరువాత, అక్షతలను మీ ముందు నేలపై వదలండి."
+            ],
+            "hindi": [
+              "पालथी मारकर बैठें। अपनी खाली बाईं हथेली को अपने दाहिने घुटने पर ऊपर की ओर रखें।",
+              "अपने दाहिने हाथ में कुछ अक्षत लें, मुट्ठी बंद करें, और इसे अपनी बाईं हथेली पर रखें, जिसमें दाहिनी मुट्ठी की हथेली नीचे की ओर हो।",
+              "अनुष्ठान करने का संकल्प लेने के लिए निम्नलिखित मंत्र का पाठ करें। इसका अर्थ है 'इस शुभ दिन और शुभ मुहूर्त पर, मैं अपनी क्षमता के अनुसार देव, ऋषि और पितृ तर्पण करूंगा' ।",
+              "पाठ करने के बाद, अक्षत को अपने सामने जमीन पर गिरा दें।"
+            ]
+          },
+          "slokas": {
+            "english": "om adya śubha dine śubha muhūrte devarṣipitṛprītyarthaṃ devarṣipitṛtarpaṇam yathāśakti kariṣye |",
+            "telugu": "ఓం అద్య శుభ దినే శుభ ముహూర్తే దేవఋషిపితృప్రీత్యర్థం దేవఋషిపితృతర్పణం యథాశక్తి కరిష్యే ।",
+            "devanagari": "ॐ अद्य शुभ दिने शुभ मुहूर्ते देवर्षिपितृप्रीत्यर्थं देवर्षिपितृतर्पणम् यथाशक्ति करिष्ये ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "english": "Deva Tarpana",
+        "telugu": "దేవ తర్పణం",
+        "hindi": "देव तर्पण"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "This is for the satiation of various gods. Sit facing east. Your right knee should be on the ground, and your left knee raised slightly off the ground.",
+              "Put some akshatas into the water pot. Hold the pot on your right palm, cover it with your left palm, and recite the following mantra to invite the divine beings into the water. It means 'may Brahma etc gods and Kashyapa etc sages, may all the great ones who live in the stomach of the cosmic egg of creation come here'."
+            ],
+            "telugu": [
+              "ఇది వివిధ దేవతల తృప్తి కోసం. తూర్పు ముఖంగా కూర్చోండి. మీ కుడి మోకాలు నేలపై ఉండాలి మరియు మీ ఎడమ మోకాలు నేల నుండి కొద్దిగా పైకి లేపి ఉండాలి.",
+              "నీటి పాత్రలో కొన్ని అక్షతలు వేయండి. పాత్రను మీ కుడి అరచేతిలో పట్టుకుని, మీ ఎడమ అరచేతితో మూసి, దైవిక జీవులను నీటిలోకి ఆహ్వానించడానికి ఈ క్రింది మంత్రాన్ని పఠించండి. దీని అర్థం 'బ్రహ్మ మొదలైన దేవతలు మరియు కశ్యప మొదలైన ఋషులు, సృష్టి యొక్క బ్రహ్మాండం గర్భంలో నివసించే గొప్పవారందరూ ఇక్కడకు రండి'."
+            ],
+            "hindi": [
+              "यह विभिन्न देवताओं की तृप्ति के लिए है। पूर्व की ओर मुख करके बैठें। आपका दाहिना घुटना जमीन पर होना चाहिए, और आपका बायां घुटना जमीन से थोड़ा ऊपर उठा हुआ होना चाहिए।",
+              "पानी के बर्तन में कुछ अक्षत डालें। बर्तन को अपनी दाहिनी हथेली पर रखें, इसे अपनी बाईं हथेली से ढकें, और दिव्य प्राणियों को पानी में आमंत्रित करने के लिए निम्नलिखित मंत्र का पाठ करें। इसका अर्थ है 'ब्रह्मा आदि देवता और कश्यप आदि ऋषि, ब्रह्मांड के गर्भ में रहने वाले सभी महानुभाव यहां आएं'।"
+            ]
+          },
+          "slokas": {
+            "english": "brahmādayaḥ surāḥ sarve ṛṣayaḥ kaśyapādayaḥ | āgacchantu mahābhāgā brahmāṇḍodaravartinaḥ ||",
+            "telugu": "బ్రహ్మాదయః సురాః సర్వే ఋషయః కశ్యపాదయం | ఆగచ్ఛన్తు మహాభాగా బ్రహ్మాండోదరవర్తినః ||",
+            "devanagari": "ब्रह्मादयः सुराः सर्वे ऋषयः कश्यपादयः । आगच्छन्तु महाभागा ब्रह्माण्डोदरवर्तिनः ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Now, recite each of the following mantras once.",
+              "For each mantra, pour some water into your open right palm. If using darbhas, they should be placed on your palm with the tips aligned with your fingertips.",
+              "After reciting one mantra, release the water from the tips of your four fingers (area marked '1' in the diagram). This style of offering is known as 'Deva Teertham'."
+            ],
+            "telugu": [
+              "ఇప్పుడు, ఈ క్రింది ప్రతి మంత్రాన్ని ఒకసారి పఠించండి.",
+              "ప్రతి మంత్రం కోసం, మీ తెరిచిన కుడి అరచేతిలో కొంచెం నీరు పోయండి. దర్భలను ఉపయోగిస్తుంటే, వాటిని మీ అరచేతిలో వేళ్ల కొనలతో సమలేఖనం చేసి ఉంచాలి.",
+              "ఒక మంత్రాన్ని పఠించిన తరువాత, మీ నాలుగు వేళ్ల కొనల నుండి నీటిని విడుదల చేయండి (చిత్రంలో '1' అని గుర్తించబడిన ప్రాంతం). ఈ రకమైన సమర్పణను 'దేవ తీర్థం' అంటారు."
+            ],
+            "hindi": [
+              "अब, निम्नलिखित प्रत्येक मंत्र का एक बार पाठ करें।",
+              "प्रत्येक मंत्र के लिए, अपनी खुली दाहिनी हथेली में थोड़ा पानी डालें। यदि दर्भ का उपयोग कर रहे हैं, तो उन्हें आपकी हथेली पर उंगलियों के सिरों के साथ संरेखित करके रखा जाना चाहिए।",
+              "एक मंत्र का पाठ करने के बाद, अपनी चार उंगलियों के सिरों से पानी छोड़ दें (आरेख में '1' के रूप में चिह्नित क्षेत्र)। इस तरह के अर्पण को 'देव तीर्थ' के रूप में जाना जाता है।"
+            ]
+          },
+          "slokas": {
+            "english": "om brahmā tṛpyatām | om viṣṇuḥ tṛpyatām | om rudraḥ tṛpyatām | om prajāpatiḥ tṛpyatām | om devāḥ tṛpyantām | om devyaḥ tṛpyantām | om vasavaḥ tṛpyantām | om rudrāḥ tṛpyantām | om ādityāḥ tṛpyantām | om chandāṃsi tṛpyantām | om vedāḥ tṛpyantām | om ṛṣayaḥ tṛpyantām | om gandharvāḥ tṛpyantām | om apsarasaḥ tṛpyantām | om devānugāḥ tṛpyantām | om nāgāḥ tṛpyantām | om sāgarāḥ tṛpyantām | om parvatāḥ tṛpyantām | om saritaḥ tṛpyantām | om manuṣyāḥ tṛpyantām | om yakṣāḥ tṛpyantām | om rakṣāṃsi tṛpyantām | om piśācāḥ tṛpyantām | om suparṇāḥ tṛpyantām | om bhūtāni tṛpyantām | om paśavaḥ tṛpyantām | om vanaspatayaḥ tṛpyantām | om oṣadhayaḥ tṛpyantām |",
+            "telugu": "ఓం బ్రహ్మా తృప్యతాం | ఓం విష్ణుః తృప్యతాం | ఓం రుద్రః తృప్యతాం | ఓం ప్రజాపతిః తృప్యతాం | ఓం దేవాః తృప్యన్తాం | ఓం దేవ్యః తృప్యన్తాం | ఓం వసవః తృప్యన్తాం | ఓం రుద్రాః తృప్యన్తాం | ఓం ఆదిత్యాః తృప్యన్తాం | ఓం ఛన్దాంసి తృప్యన్తాం | ఓం వేదాః తృప్యన్తాం | ఓం ఋషయః తృప్యన్తాం | ఓం గన్ధర్వాః తృప్యన్తాం | ఓం అప్సరసః తృప్యన్తాం | ఓం దేవానుగాః తృప్యన్తాం | ఓం నాగాః తృప్యన్తాం | ఓం సాగరాః తృప్యన్తాం | ఓం పర్వతాః తృప్యన్తాం | ఓం సరితః తృప్యన్తాం | ఓం మనుష్యాః తృప్యన్తాం | ఓం యక్షాః తృప్యన్తాం | ఓం రక్షాంసి తృప్యన్తాం | ఓం పిశాచాః తృప్యన్తాం | ఓం సుపర్ణాః తృప్యన్తాం | ఓం భూతాని తృప్యన్తాం | ఓం పశవః తృప్యన్తాం | ఓం వనస్పతయః తృప్యన్తాం | ఓం ఓషధయః తృప్యన్తాం |",
+            "devanagari": "ॐ ब्रह्मा तृप्यताम् । ॐ विष्णुः तृप्यताम् । ॐ रुद्रः तृप्यताम् । ॐ प्रजापतिः तृप्यताम् । ॐ देवाः तृप्यन्ताम् । ॐ देव्यः तृप्यन्ताम् । ॐ वसवः तृप्यन्ताम् । ॐ रुद्राः तृप्यन्ताम् । ॐ आदित्याः तृप्यन्ताम् । ॐ छन्दांसि तृप्यन्ताम् । ॐ वेदाः तृप्यन्ताम् । ॐ ऋषयः तृप्यन्ताम् । ॐ गन्धर्वाः तृप्यन्ताम् । ॐ अप्सरसः तृप्यन्ताम् । ॐ देवानुगाः तृप्यन्ताम् । ॐ नागाः तृप्यन्ताम् । ॐ सागराः तृप्यन्ताम् । ॐ पर्वताः तृप्यन्ताम् । ॐ सरितः तृप्यन्ताम् । ॐ मनुष्याः तृप्यन्ताम् । ॐ यक्षाः तृप्यन्ताम् । ॐ रक्षांसि तृप्यन्ताम् । ॐ पिशाचाः तृप्यन्ताम् । ॐ सुपर्णाः तृप्यन्ताम् । ॐ भूतानि तृप्यन्ताम् । ॐ पशवः तृप्यन्ताम् । ॐ वनस्पतयः तृप्यन्ताम् । ॐ ओषधयः तृप्यन्ताम् ।"
+          },
+          "diagram": "/diagrams/deva-tarpanam.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "english": "Rishi Tarpana",
+        "telugu": "ఋషి తర్పణం",
+        "hindi": "ऋषि तर्पण"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Continue to sit facing east with your right knee on the ground.",
+              "Using the same water containing akshatas, offer tarpana in the same manner as for Deva Tarpana (releasing water from the fingertips)."
+            ],
+            "telugu": [
+              "తూర్పు ముఖంగా మీ కుడి మోకాలు నేలపై ఉంచి కూర్చోవడం కొనసాగించండి.",
+              "అక్షతలు ఉన్న అదే నీటిని ఉపయోగించి, దేవ తర్పణం చేసిన విధంగానే (వేళ్ల కొనల నుండి నీటిని విడుదల చేస్తూ) తర్పణం అర్పించండి."
+            ],
+            "hindi": [
+              "पूर्व की ओर मुख करके अपना दाहिना घुटना जमीन पर रखकर बैठना जारी रखें।",
+              "अक्षत युक्त उसी जल का उपयोग करते हुए, देव तर्पण की तरह ही तर्पण करें (उंगलियों के सिरों से जल छोड़ते हुए)।"
+            ]
+          },
+          "slokas": {
+            "english": "om kaśyapaḥ tṛpyatām | om atriḥ tṛpyatām | om vasiṣṭhaḥ tṛpyatām | om viśvāmitraḥ tṛpyatām | om gautamaḥ tṛpyatām | om bharadvājaḥ tṛpyatām | om jamadagniḥ tṛpyatām | om aṃgīrāḥ tṛpyatām | om kutsaḥ tṛpyatām | om bhṛguḥ tṛpyatām |",
+            "telugu": "ఓం కశ్యపః తృప్యతాం | ఓం అత్రిః తృప్యతాం | ఓం వసిష్ఠః తృప్యతాం | ఓం విశ్వామిత్రః తృప్యతాం | ఓం గౌతమః తృప్యతాం | ఓం భరద్వాజః తృప్యతాం | ఓం జమదగ్నిః తృప్యతాం | ఓం అంగీరాః తృప్యతాం | ఓం కుత్సః తృప్యతాం | ఓం భృగుః తృప్యతాం |",
+            "devanagari": "ॐ कश्यपः तृप्यताम् । ॐ अत्रिः तृप्यताम् । ॐ वसिष्ठः तृप्यताम् । ॐ विश्वामित्रः तृप्यताम् । ॐ गौतमः तृप्यताम् । ॐ भरद्वाजः तृप्यताम् । ॐ जमदग्निः तृप्यताम् । ॐ अंगीराः तृप्यताम् । ॐ कुत्सः तृप्यताम् । ॐ भृगुः तृप्यताम् ।"
+          },
+          "diagram": "/diagrams/rishi-tarpanam.png" 
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "english": "Some changes before the next sections",
+        "telugu": "తదుపరి విభాగాలకు ముందు కొన్ని మార్పులు",
+        "hindi": "अगले अनुभागों से पहले कुछ बदलाव"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Sit facing the south direction.",
+              "If you wear a sacred thread (yajnopavita), change it to the reverse position (aprasavya), wearing it over the right shoulder and under the left arm.",
+              "Your left knee should now be in contact with the ground, and your right knee should be raised above the ground.",
+              "Pour some black sesame seeds into the water pot.",
+              "From now on, the style of releasing water changes. For each mantra, release the water from the area of your palm between the thumb and the index finger (area marked '3' in the diagram). This is known as 'Pitri Teertham'."
+            ],
+            "telugu": [
+              "దక్షిణ దిశగా ముఖం చేసి కూర్చోండి.",
+              "మీరు యజ్ఞోపవీతం ధరిస్తే, దానిని అప్రసవ్య స్థితికి మార్చండి, అంటే కుడి భుజంపై నుండి ఎడమ చేయి కిందకు ధరించండి.",
+              "మీ ఎడమ మోకాలు ఇప్పుడు నేలను తాకుతూ ఉండాలి, మరియు మీ కుడి మోకాలు నేల పైకి లేపి ఉండాలి.",
+              "నీటి పాత్రలో కొన్ని నల్ల నువ్వులు పోయండి.",
+              "ఇప్పటి నుండి, నీటిని విడుదల చేసే విధానం మారుతుంది. ప్రతి మంత్రం కోసం, మీ బొటనవేలు మరియు చూపుడు వేలు మధ్య ఉన్న అరచేతి ప్రాంతం నుండి నీటిని విడుదల చేయండి (చిత్రంలో '3' అని గుర్తించబడిన ప్రాంతం). దీనిని 'పితృ తీర్థం' అంటారు."
+            ],
+            "hindi": [
+              "दक्षिण दिशा की ओर मुख करके बैठें।",
+              "यदि आप जनेऊ (यज्ञोपवीत) पहनते हैं, तो इसे उल्टी स्थिति (अपसव्य) में बदल दें, इसे दाहिने कंधे के ऊपर और बाईं बांह के नीचे पहनें।",
+              "अब आपका बायां घुटना जमीन के संपर्क में होना चाहिए, और आपका दाहिना घुटना जमीन से ऊपर उठा होना चाहिए।",
+              "पानी के बर्तन में कुछ काले तिल डालें।",
+              "अब से, पानी छोड़ने की शैली बदल जाएगी। प्रत्येक मंत्र के लिए, अपनी हथेली के अंगूठे और तर्जनी के बीच के क्षेत्र से पानी छोड़ें (आरेख में '3' के रूप में चिह्नित क्षेत्र)। इसे 'पितृ तीर्थ' के रूप में जाना जाता है।"
+            ]
+          },
+          "diagram": "/diagrams/rishi-tarpanam.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "english": "Yama Tarpana",
+        "telugu": "యమ తర్పణం",
+        "hindi": "यम तर्पण"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "These are offerings to Lord Yama, the keeper of dharma. Release water in the new style (from between the thumb and index finger) each time you recite 'namah'. Each mantra is recited three times, so you will make three offerings for each name."
+            ],
+            "telugu": [
+              "ఇవి ధర్మ రక్షకుడైన యమధర్మరాజుకు సమర్పించే నైవేద్యాలు. మీరు 'నమః' అని పఠించిన ప్రతిసారీ కొత్త పద్ధతిలో (బొటనవేలు మరియు చూపుడు వేలు మధ్య నుండి) నీటిని విడుదల చేయండి. ప్రతి మంత్రం మూడుసార్లు పఠించబడుతుంది, కాబట్టి మీరు ప్రతి పేరుకు మూడు సమర్పణలు చేస్తారు."
+            ],
+            "hindi": [
+              "ये धर्म के रक्षक भगवान यम को दी जाने वाली आहुतियाँ हैं। हर बार जब आप 'नमः' का पाठ करें तो नई शैली में (अंगूठे और तर्जनी के बीच से) जल छोड़ें। प्रत्येक मंत्र का तीन बार पाठ किया जाता है, इसलिए आप प्रत्येक नाम के लिए तीन आहुतियाँ देंगे।"
+            ]
+          },
+          "slokas": {
+            "english": "om yamāya namaḥ | om yamāya namaḥ | om yamāya namaḥ | om dharmarājāya namaḥ | om dharmarājāya namaḥ | om dharmarājāya namaḥ | om mṛtyave namaḥ | om mṛtyave namaḥ | om mṛtyave namaḥ | om citraguptāya namaḥ | om citraguptāya namaḥ | om citraguptāya namaḥ |",
+            "telugu": "ఓం యమాయ నమః | ఓం యమాయ నమః | ఓం యమాయ నమః | ఓం ధర్మరాజాయ నమః | ఓం ధర్మరాజాయ నమః | ఓం ధర్మరాజాయ నమః | ఓం మృత్యవే నమః | ఓం మృత్యవే నమః | ఓం మృత్యవే నమః | ఓం చిత్రగుప్తాయ నమః | ఓం చిత్రగుప్తాయ నమః | ఓం చిత్రగుప్తాయ నమః |",
+            "devanagari": "ॐ यमाय नमः । ॐ यमाय नमः । ॐ यमाय नमः । ॐ धर्मराजाय नमः। ॐ धर्मराजाय नमः। ॐ धर्मराजाय नमः । ॐ मृत्यवे नमः । ॐ मृत्यवे नमः । ॐ मृत्यवे नमः । ॐ चित्रगुप्ताय नमः। ॐ चित्रगुप्ताय नमः । ॐ चित्रगुप्ताय नमः ।"
+          },
+          "diagram": "/diagrams/yama-tarpanam.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "english": "Pitri Tarpana",
+        "telugu": "పితృ తర్పణం",
+        "hindi": "पितृ तर्पण"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "These are offerings to deceased ancestors from all lives. First, place the water pot in front of you, bow to it, and recite the following mantra. This means 'may my ancestors come here and accept my water oblations'."
+            ],
+            "telugu": [
+              "ఇవి అన్ని జన్మల నుండి మరణించిన పూర్వీకులకు సమర్పించే నైవేద్యాలు. మొదట, నీటి పాత్రను మీ ముందు ఉంచి, దానికి నమస్కరించి, ఈ క్రింది మంత్రాన్ని పఠించండి. దీని అర్థం 'నా పితృదేవతలు ఇక్కడకు వచ్చి నా జలాంజలిని స్వీకరించండి'."
+            ],
+            "hindi": [
+              "ये सभी जन्मों के मृत पूर्वजों को दी जाने वाली आहुतियाँ हैं। सबसे पहले, पानी का बर्तन अपने सामने रखें, उसे प्रणाम करें, और निम्नलिखित मंत्र का पाठ करें। इसका अर्थ है 'मेरे पितर यहाँ आएँ और मेरे जलांजलि को स्वीकार करें'।"
+            ]
+          },
+          "slokas": {
+            "english": "om āgacchantu me pitaraḥ imaṃ gṛhṇantu jalāṃjalim |",
+            "telugu": "ఓం ఆగచ్ఛన్తు మే పితరః ఇమం గృహణ్ణన్తు జలాంజలిం |",
+            "devanagari": "ॐ आगच्छन्तु मे पितरः इमं गृह्णन्तु जलांजलिम् ।"
+          },
+          "diagram": "/diagrams/pitri-tarpanam.png"
+        },
+        {
+          "instructions": {
+            "english": [
+              "These generic mantras cover all beings with whom you have a strong karmik connection. For the first three generations of paternal and maternal ancestors, make three water offerings for each mantra. For all others, make one offering.",
+              "To beings who played the role of father, father's father, and father's father's father in your various lives:"
+            ],
+            "telugu": [
+              "ఈ సాధారణ మంత్రాలు మీతో బలమైన కర్మ సంబంధం ఉన్న అన్ని జీవులను కవర్ చేస్తాయి. పితృ మరియు మాతృ వంశంలోని మొదటి మూడు తరాల వారికి, ప్రతి మంత్రానికి మూడు నీటి సమర్పణలు చేయండి. మిగతా వారందరికీ, ఒక సమర్పణ చేయండి.",
+              "మీ వివిధ జన్మలలో తండ్రి, తాత, మరియు ముత్తాత పాత్రను పోషించిన జీవులకు:"
+            ],
+            "hindi": [
+              "ये सामान्य मंत्र उन सभी प्राणियों को समाहित करते हैं जिनके साथ आपका एक मजबूत कर्म संबंध है। पैतृक और मातृक पूर्वजों की पहली तीन पीढ़ियों के लिए, प्रत्येक मंत्र के लिए तीन जल आहुतियाँ दें। अन्य सभी के लिए, एक आहुति दें।",
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में पिता, दादा, और परदादा की भूमिका निभाई:"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu pitaraḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu pitāmahāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu prapitāmahāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||",
+            "telugu": "మమ సర్వజన్మసు పితరః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు పితామహాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు ప్రపితామహాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||",
+            "devanagari": "मम सर्वजन्मसु पितरः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥ २ ॥ तेभ्यः स्वधा नमः ॥३॥\nमम सर्वजन्मसु पितामहाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥ २ ॥ तेभ्यः स्वधा नमः ॥३॥\nमम सर्वजन्मसु प्रपितामहाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥२ ॥ तेभ्यः स्वधा नमः ॥३॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To beings who played the role of mother, father's mother, and father's father's mother in your various lives:"
+            ],
+            "telugu": [
+              "మీ వివిధ జన్మలలో తల్లి, నాయనమ్మ, మరియు ముత్తాత భార్య పాత్రను పోషించిన జీవులకు:"
+            ],
+            "hindi": [
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में माता, दादी, और परदादी की भूमिका निभाई:"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu mātaraḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu pitāmahyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu prapitāmahyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||",
+            "telugu": "మమ సర్వజన్మసు మాతరః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు పితామహ్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు ప్రపితామహ్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||",
+            "devanagari": "मम सर्वजन्मसु मातरः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥ २ ॥ ताभ्यः स्वधा नमः ॥३ ॥\nमम सर्वजन्मसु पितामह्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥ २ ॥ ताभ्यः स्वधा नमः ॥३ ॥\nमम सर्वजन्मसु प्रपितामह्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥ २ ॥ ताभ्यः स्वधा नमः ॥३॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To beings who played the role of wife, husband, son, and daughter in your various lives (one offering each):"
+            ],
+            "telugu": [
+              "మీ వివిధ జన్మలలో భార్య, భర్త, కుమారుడు, మరియు కుమార్తె పాత్రను పోషించిన జీవులకు (ఒక్కొక్కరికి ఒక సమర్పణ):"
+            ],
+            "hindi": [
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में पत्नी, पति, पुत्र, और पुत्री की भूमिका निभाई (प्रत्येक के लिए एक आहुति):"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu patnyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu patayaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu putrāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu kanyāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1||",
+            "telugu": "మమ సర్వజన్మసు పత్న్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు పతయః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు పుత్రాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు కన్యాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧||",
+            "devanagari": "मम सर्वजन्मसु पत्न्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु पतयः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु पुत्राः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु कन्याः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To beings who played the role of mother's father, mother's father's father, and mother's father's father's father in your various lives:"
+            ],
+            "telugu": [
+              "మీ వివిధ జన్మలలో తల్లి తండ్రి, తల్లి తాత, మరియు తల్లి ముత్తాత పాత్రను పోషించిన జీవులకు:"
+            ],
+            "hindi": [
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में नाना, परनाना, और वृद्ध-परनाना की भूमिका निभाई:"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu mātāmahāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu pramātāmahāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu vṛddhapramātāmahāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1|| tebhyaḥ svadhā namaḥ ||2|| tebhyaḥ svadhā namaḥ ||3||",
+            "telugu": "మమ సర్వజన్మసు మాతామహాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు ప్రమాతామహాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు వృద్ధప్రమాతామహాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧|| తేభ్యః స్వధా నమః ||౨|| తేభ్యః స్వధా నమః ||౩||",
+            "devanagari": "मम सर्वजन्मसु मातामहाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥ २ ॥ तेभ्यः स्वधा नमः ॥३॥\nमम सर्वजन्मसु प्रमातामहाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥ २ ॥ तेभ्यः स्वधा नमः ॥३॥\nमम सर्वजन्मसु वृद्धप्रमातामहाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥ तेभ्यः स्वधा नमः ॥ २ ॥ तेभ्यः स्वधा नमः ॥३ ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To beings who played the role of mother's mother, mother's father's mother, and mother's father's father's mother in your various lives:"
+            ],
+            "telugu": [
+              "మీ వివిధ జన్మలలో తల్లి తల్లి, తల్లి నాయనమ్మ, మరియు తల్లి ముత్తాత భార్య పాత్రను పోషించిన జీవులకు:"
+            ],
+            "hindi": [
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में नानी, परनानी, और वृद्ध-परनानी की भूमिका निभाई:"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu mātāmahyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu pramātāmahyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||\nmama sarvajanmasu vṛddhapramātāmahyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1|| tābhyaḥ svadhā namaḥ ||2|| tābhyaḥ svadhā namaḥ ||3||",
+            "telugu": "మమ సర్వజన్మసు మాతామహ్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు ప్రమాతామహ్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||\nమమ సర్వజన్మసు వృద్ధప్రమాతామహ్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧|| తాభ్యః స్వధా నమః ||౨|| తాభ్యః స్వధా నమః ||౩||",
+            "devanagari": "मम सर्वजन्मसु मातामह्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥२॥ ताभ्यः स्वधा नमः ॥३ ॥\nमम सर्वजन्मसु प्रमातामह्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥ २ ॥ ताभ्यः स्वधा नमः ॥३॥\nमम सर्वजन्मसु वृद्धप्रमातामह्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥ ताभ्यः स्वधा नमः ॥२॥ ताभ्यः स्वधा नमः ॥३ ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To beings who played the role of brother, sister, guru, friend, a dear one, and one born in the same lineage in your various lives (one offering each):"
+            ],
+            "telugu": [
+              "మీ వివిధ జన్మలలో సోదరుడు, సోదరి, గురువు, స్నేహితుడు, ప్రియమైన వ్యక్తి, మరియు ఒకే వంశంలో జన్మించిన వ్యక్తి పాత్రను పోషించిన జీవులకు (ఒక్కొక్కరికి ఒక సమర్పణ):"
+            ],
+            "hindi": [
+              "उन प्राणियों को जिन्होंने आपके विभिन्न जन्मों में भाई, बहन, गुरु, मित्र, प्रियजन, और एक ही वंश में जन्मे व्यक्ति की भूमिका निभाई (प्रत्येक के लिए एक आहुति):"
+            ]
+          },
+          "slokas": {
+            "english": "mama sarvajanmasu bhrātaraḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu bhaginyaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tābhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu guravaḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu sakhāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu āptajanāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||\nmama sarvajanmasu svakulajātāḥ tṛpyantām idaṃ tilodakaṃ svadhāyibhyaḥ tebhyaḥ svadhā namaḥ ||1||",
+            "telugu": "మమ సర్వజన్మసు భ్రాతరః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు భగిన్యః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తాభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు గురవః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు సఖాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు ఆప్తజనాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||\nమమ సర్వజన్మసు స్వకులజాతాః తృప్యన్తాం ఇదం తిలోదకం స్వధాయిభ్యః తేభ్యః స్వధా నమః ||౧||",
+            "devanagari": "मम सर्वजन्मसु भ्रातरः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु भगिन्यः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः ताभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु गुरवः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु सखाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु आप्तजनाः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥\nमम सर्वजन्मसु स्वकुलजाताः तृप्यन्ताम् इदं तिलोदकं स्वधायिभ्यः तेभ्यः स्वधा नमः ॥१ ॥"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "english": "Customization for Specific Deceased Persons",
+        "telugu": "నిర్దిష్ట మృతుల కోసం అనుకూలీకరణ",
+        "hindi": "विशिष्ट मृत व्यक्तियों के लिए अनुकूलन"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "To offer tarpana to a specific deceased person, use the following templates. Replace 'Gotra', 'Relation', and 'Name' with the appropriate details.",
+              "The Gotra traces the family line to a specific Rishi. If unknown, you can use 'Achyuta' (अच्युत) for Vaishnavas or 'Shiva' (शिव) for Shaivas.",
+              "List A is for paternal/maternal ancestors, who receive three offerings.",
+              "List B is for other relatives, who receive one offering."
+            ],
+            "telugu": [
+              "ఒక నిర్దిష్ట మరణించిన వ్యక్తికి తర్పణం సమర్పించడానికి, ఈ క్రింది టెంప్లేట్‌లను ఉపయోగించండి. 'గోత్ర', 'సంబంధం', మరియు 'పేరు'లను సరైన వివరాలతో భర్తీ చేయండి.",
+              "గోత్రం ఒక నిర్దిష్ట ఋషికి కుటుంబ వంశాన్ని అనుసంధానిస్తుంది. తెలియకపోతే, వైష్ణవులకు 'అచ్యుత' (अच्युत) లేదా శైవులకు 'శివ' (शिव) ఉపయోగించవచ్చు.",
+              "జాబితా A పితృ/మాతృ పూర్వీకుల కోసం, వీరికి మూడు సమర్పణలు అందుతాయి.",
+              "జాబితా B ఇతర బంధువుల కోసం, వీరికి ఒక సమర్పణ అందుతుంది."
+            ],
+            "hindi": [
+              "किसी विशिष्ट मृत व्यक्ति को तर्पण अर्पित करने के लिए, निम्नलिखित टेम्पलेट्स का उपयोग करें। 'गोत्र', 'संबंध', और 'नाम' को उचित विवरण के साथ बदलें।",
+              "गोत्र परिवार की वंश-परंपरा को एक विशिष्ट ऋषि से जोड़ता है। यदि अज्ञात है, तो आप वैष्णवों के लिए 'अच्युत' (अच्युत) या शैवों के लिए 'शिव' (शिव) का उपयोग कर सकते हैं।",
+              "सूची A पैतृक/मातृक पूर्वजों के लिए है, जिन्हें तीन आहुतियाँ मिलती हैं।",
+              "सूची B अन्य रिश्तेदारों के लिए है, जिन्हें एक आहुति मिलती है।"
+            ]
+          },
+          "diagram": "/diagrams/pitri-tarpanam.png"
+        },
+        {
+          "instructions": {
+            "english": [
+              "Template for a man from List A (3 offerings):",
+              "Template for a woman from List A (3 offerings):",
+              "Template for a man from List B (1 offering):",
+              "Template for a woman from List B (1 offering):"
+            ],
+            "telugu": [
+              "జాబితా A నుండి ఒక పురుషుని కోసం టెంప్లేట్ (3 సమర్పణలు):",
+              "జాబితా A నుండి ఒక స్త్రీ కోసం టెంప్లేట్ (3 సమర్పణలు):",
+              "జాబితా B నుండి ఒక పురుషుని కోసం టెంప్లేట్ (1 సమర్పణ):",
+              "జాబితా B నుండి ఒక స్త్రీ కోసం టెంప్లేట్ (1 సమర్పణ):"
+            ],
+            "hindi": [
+              "सूची A से एक पुरुष के लिए टेम्पलेट (3 आहुतियाँ):",
+              "सूची A से एक महिला के लिए टेम्पलेट (3 आहुतियाँ):",
+              "सूची B से एक पुरुष के लिए टेम्पलेट (1 आहुति):",
+              "सूची B से एक महिला के लिए टेम्पलेट (1 आहुति):"
+            ]
+          },
+          "slokas": {
+            "english": "[For Man from List A]: [Gotra] gotraḥ mama [Relation] [Name] tṛpyatām idaṃ tilodakaṃ tasmai svadhā namaḥ ||1|| tasmai svadhā namaḥ ||2|| tasmai svadhā namaḥ ||3||\n[For Woman from List A]: [Gotra] gotrā mama [Relation] [Name] tṛpyatām idaṃ tilodakaṃ tasyai svadhā namaḥ ||1|| tasyai svadhā namaḥ ||2|| tasyai svadhā namaḥ ||3||\n[For Man from List B]: [Gotra] gotraḥ mama [Relation] [Name] tṛpyatām idaṃ tilodakaṃ tasmai svadhā namaḥ ||1||\n[For Woman from List B]: [Gotra] gotrā mama [Relation] [Name] tṛpyatām idaṃ tilodakaṃ tasyai svadhā namaḥ ||1||",
+            "telugu": "[జాబితా A నుండి పురుషుడు]: [గోత్ర] గోత్రః మమ [సంబంధం] [పేరు] తృప్యతాం ఇదం తిలోదకం తస్మై స్వధా నమః ||౧|| తస్మై స్వధా నమః ||౨|| తస్మై స్వధా నమః ||౩||\n[జాబితా A నుండి స్త్రీ]: [గోత్ర] గోత్రా మమ [సంబంధం] [పేరు] తృప్యతాం ఇదం తిలోదకం తస్యై స్వధా నమః ||౧|| తస్యై స్వధా నమః ||౨|| తస్యై స్వధా నమః ||౩||\n[జాబితా B నుండి పురుషుడు]: [గోత్ర] గోత్రః మమ [సంబంధం] [పేరు] తృప్యతాం ఇదం తిలోదకం తస్మై స్వధా నమః ||౧||\n[జాబితా B నుండి స్త్రీ]: [గోత్ర] గోత్రా మమ [సంబంధం] [పేరు] తృప్యతాం ఇదం తిలోదకం తస్యై స్వధా నమః ||౧||",
+            "devanagari": "[सूची A से पुरुष के लिए]: [गोत्र] गोत्रः मम [संबंध] [नाम] तृप्यताम् इदं तिलोदकं तस्मै स्वधा नमः ॥१ ॥ तस्मै स्वधा नमः ॥ २ ॥ तस्मै स्वधा नमः ॥३॥\n[सूची A से महिला के लिए]: [गोत्र] गोत्रा मम [संबंध] [नाम] तृप्यताम् इदं तिलोदकं तस्यै स्वधा नमः ॥१ ॥ तस्यै स्वधा नमः ॥२ ॥ तस्यै स्वधा नमः ॥३॥\n[सूची B से पुरुष के लिए]: [गोत्र] गोत्रः मम [संबंध] [नाम] तृप्यताम् इदं तिलोदकं तस्मै स्वधा नमः ॥१ ॥\n[सूची B से महिला के लिए]: [गोत्र] गोत्रा मम [संबंध] [नाम] तृप्यताम् इदं तिलोदकं तस्यै स्वधा नमः ॥१ ॥"
+          },
+          "diagram": "/diagrams/pitri-tarpanam.png"
+        },
+        {
+          "instructions": {
+            "english": [
+              "Relationship Terms:",
+              "List A (Ancestors): Father: pitā, Mother: mātā, Father's father: pitāmahaḥ, Father's mother: pitāmahī, Father's father's father: prapitāmahaḥ, Father's father's mother: prapitāmahī, Mother's father: mātāmahaḥ, Mother's mother: mātāmahī, Mother's father's father: pramātāmahaḥ, Mother's father's mother: pramātāmahī, Mother's father's father's father: vṛddhapramātāmahaḥ, Mother's father's father's mother: vṛddhapramātāmahī.",
+              "List B (Others): Wife: patnī, Husband: patiḥ, Son: putraḥ, Daughter: kanyā, Brother: bhrātā, Sister: bhaginī, Guru: guruḥ, Friend: sakhā, and others as listed in the manual."
+            ],
+            "telugu": [
+              "సంబంధ వాచకాలు:",
+              "జాబితా A (పూర్వీకులు): తండ్రి: పితా, తల్లి: మాతా, తాత (తండ్రి తండ్రి): పితామహః, నాయనమ్మ: పితామహీ, ముత్తాత: ప్రపితామహః, ముత్తాత భార్య: ప్రపితామహీ, తాత (తల్లి తండ్రి): మాతామహః, అమ్మమ్మ: మాతామహీ, తల్లి తాత: ప్రమాతామహః, తల్లి నాయనమ్మ: ప్రమాతామహీ, తల్లి ముత్తాత: వృద్ధప్రమాతామహః, తల్లి ముత్తాత భార్య: వృద్ధప్రమాతామహీ.",
+              "జాబితా B (ఇతరులు): భార్య: పత్నీ, భర్త: పతిః, కుమారుడు: పుత్రః, కుమార్తె: కన్యా, సోదరుడు: భ్రాతా, సోదరి: భగినీ, గురువు: గురుః, స్నేహితుడు: సఖా, మరియు మాన్యువల్‌లో జాబితా చేయబడిన ఇతరులు."
+            ],
+            "hindi": [
+              "संबंधों के लिए संस्कृत शब्द:",
+              "सूची A (पूर्वज): पिता: पिता, माता: माता, दादा: पितामहः, दादी: पितामही, परदादा: प्रपितामहः, परदादी: प्रपितामही, नाना: मातामहः, नानी: मातामही, परनाना: प्रमातामहः, परनानी: प्रमातामही, वृद्ध-परनाना: वृद्धप्रमातामहः, वृद्ध-परनानी: वृद्धप्रमातामही।",
+              "सूची B (अन्य): पत्नी: पत्नी, पति: पतिः, पुत्र: पुत्रः, पुत्री: कन्या, भाई: भ्राता, बहन: भगिनी, गुरु: गुरुः, मित्र: सखा, और मैनुअल में सूचीबद्ध अन्य।"
+            ]
+          },
+          "diagram": "/diagrams/pitri-tarpanam.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "english": "Conclusion",
+        "telugu": "ముగింపు",
+        "hindi": "निष्कर्ष"
+      },
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "While continuously releasing water in the 'Pitri Teertham' style (between thumb and index finger), recite the following verses."
+            ],
+            "telugu": [
+              "'పితృ తీర్థం' పద్ధతిలో (బొటనవేలు మరియు చూపుడు వేలు మధ్య) నిరంతరం నీటిని విడుదల చేస్తూ, ఈ క్రింది శ్లోకాలను పఠించండి."
+            ],
+            "hindi": [
+              "'पितृ तीर्थ' शैली में (अंगूठे और तर्जनी के बीच) लगातार जल छोड़ते हुए, निम्नलिखित श्लोकों का पाठ करें।"
+            ]
+          },
+          "slokas": {
+            "english": "narakeṣu samasteṣu yātanāsu ca ye sthitāḥ | teṣāṃ āpyāyanāyaitaddīyate salilaṃ mayā ||\nye'bāndhavā bāndhavāśca ye'nyajanmani bāndhavāḥ | te tṛptimakhilā yāntu yaścāsmatto'bhivāṃchati ||",
+            "telugu": "నరకేషు సమస్తేషు యాతనాసు చ యే స్థితాః | తేషాం ఆప్యాయనాయైతద్దీయతే సలిలం మయా ||\nయేऽబాన్ధవా బాన్ధవాశ్చ యేऽన్యజన్మని బాన్ధవాః | తే తృప్తిమఖిలా యాన్తు యశ్చాస్మత్తోऽభివాంఛతి ||",
+            "devanagari": "नरकेषु समस्तेषु यातनासु च ये स्थिताः। तेषां आप्यायनायैतद्दीयते सलिलं मया ॥\nयेऽबान्धवा बान्धवाश्च येऽन्यजन्मनि बान्धवाः । ते तृप्तिमखिला यान्तु यश्चास्मत्तोऽभिवांछति ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Throw away any remaining water in the pot. Return the sacred thread to its normal position (upavita).",
+              "Sit facing east again. Recite the final mantras, thinking that you are surrendering the doership of this action to the Lord. Completely abandon the thought that 'you' performed this ritual."
+            ],
+            "telugu": [
+              "పాత్రలో మిగిలిన నీటిని పారవేయండి. యజ్ఞోపవీతాన్ని దాని సాధారణ స్థితికి (ఉపవీత) తీసుకురండి.",
+              "మళ్ళీ తూర్పు ముఖంగా కూర్చోండి. ఈ కర్మ యొక్క కర్తృత్వాన్ని భగవంతునికి సమర్పిస్తున్నట్లు భావిస్తూ, చివరి మంత్రాలను పఠించండి. 'మీరు' ఈ కర్మను చేసారనే ఆలోచనను పూర్తిగా వదిలివేయండి."
+            ],
+            "hindi": [
+              "बर्तन में बचे हुए पानी को फेंक दें। जनेऊ को उसकी सामान्य स्थिति (उपवीत) में वापस लाएं।",
+              "फिर से पूर्व की ओर मुख करके बैठें। अंतिम मंत्रों का पाठ करें, यह सोचते हुए कि आप इस कर्म का कर्तापन भगवान को समर्पित कर रहे हैं। इस विचार को पूरी तरह से त्याग दें कि 'आपने' यह अनुष्ठान किया है।"
+            ]
+          },
+          "slokas": {
+            "english": "anena yathāśaktikṛtena devarṣipitṛ tarpaṇākhyena karmaṇā bhagavān pitṛsvarūpī janārdana vāsudevaḥ prīyatāṃ na mama | om tat sat | om sarvam śrī kṛṣṇārpaṇamastu | om lokāḥ samastāḥ sukhino bhavantu | om sarve janāḥ sukhino bhavantu | om śāntiḥ śāntiḥ śāntiḥ |",
+            "telugu": "అనేన యథాశక్తికృతేన దేవఋషిపితృ తర్పణాఖ్యేన కర్మణా భగవాన్ పితృస్వరూపీ జనార్దన వాసుదేవః ప్రీయతాం న మమ | ఓం తత్ సత్ | ఓం సర్వం శ్రీ కృష్ణార్పణమస్తు | ఓం లోకాః సమస్తాః సుఖినో భవన్తు | ఓం సర్వే జనాః సుఖినో భవన్తు | ఓం శాన్తిః శాన్తిః శాన్తిః |",
+            "devanagari": "अनेन यथाशक्तिकृतेन देवर्षिपितृ तर्पणाख्येन कर्मणा भगवान् पितृस्वरूपी जनार्दन वासुदेवः प्रीयतां न मम। ॐ तत् सत् । ॐ सर्वम् श्री कृष्णार्पणमस्तु । ॐ लोकाः समस्ताः सुखिनो भवन्तु । ॐ सर्वे जनाः सुखिनो भवन्तु । ॐ शान्तिः शान्तिः शान्तिः ।"
+          }
+        }
+      ]
+    }
+  ]
+}
