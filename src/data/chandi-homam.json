@@ -51,7 +51,7 @@
     {
       "id": 1,
       "title": {
-        "english": "Permission",
+        "english": "Anujnaa",
         "telugu": "అనుజ్ఞ",
         "hindi": "अनुज्ञा"
       },
@@ -102,7 +102,7 @@
       },
       "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Om Keshavaaya swaahaa |\nOm Naaraayanaaya swaahaa |\nOm Maadhavaaya swaahaa |",
+        "english": "om keśavāya svāhā |\nom nārāyaṇāya svāhā |\nom mādhavāya svāhā |",
         "telugu": "ఓం కేశవాయ స్వాహా |\nఓం నారాయణాయ స్వాహా |\nఓం మాధవాయ స్వాహా |",
         "devanagari": "ॐ केशवाय स्वाहा।\nॐ नारायणाय स्वाहा ।\nॐ माधवाय स्वाहा ।"
       }
@@ -130,7 +130,7 @@
       },
       "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Shuklaambaradharam vishnum shashivarnam chaturbhujam | Prasannavadanam dhyaayet sarva vighnopashaantaye ||\nAgajaanana padmaarkam gajaananamaharnisham | Anekadam tam bhaktaanaam ekadantam upaasmahe ||\nVakratunda mahaakaaya kotisooryasamaprabha | Nirvighnam kuru me deva sarvakaaryeshu sarvadaa ||",
+        "english": "śuklāmbaradharam vişnum śaśivarņam caturbhujam prasannavadanam dhyāyet sarva vighnopaśāntaye||\nagajānana padmärkam gajānanamaharniśam anekadam tam bhaktānām ekadantam upāsmahe||\nvakratunda mahākāya koțisūryasamaprabha nirvighnam kuru me deva sarvakāryeşu sarvadā ||",
         "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం । ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే ॥\nఅగజానన పద్మార్కం గజాననమహర్నిశం । అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే ॥\nవక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ । నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ॥",
         "devanagari": "शुक्लांबरधरं विष्णुं शशिवर्णं चतुर्भुजं। प्रसन्नवदनं ध्यायेत् सर्व विघ्नोपशान्तये ॥\nअगजानन पद्मार्क गजाननमहर्निशं । अनेकदं तं भक्तानां एकदन्तं उपास्महे ॥\nवक्रतुंड महाकाय कोटिसूर्यसमप्रभ । निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥"
       }
@@ -138,7 +138,7 @@
     {
       "id": 4,
       "title": {
-        "english": "Restraining the Life Force",
+        "english": "Praanaayaamam",
         "telugu": "ప్రాణాయామం",
         "hindi": "प्राणायाम"
       },
@@ -177,7 +177,6 @@
           "प्रक्रिया के दौरान निराकार परब्रह्म का चिंतन करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "Om namo bhagavate vaasudevaaya | Om namashshivaaya | Om gam ganapataye namah | (Use one of these if Gayatri mantra is not known)",
         "telugu": "ఓం నమో భగవతే వాసుదేవాయ । ఓం నమశ్శివాయ । ఓం గం గణపతయే నమః । (గాయత్రీ మంత్రం తెలియకపోతే వీటిలో ఒకటి ఉపయోగించండి)",
@@ -187,7 +186,7 @@
     {
       "id": 5,
       "title": {
-        "english": "Taking the Vow",
+        "english": "Sankalpam",
         "telugu": "సంకల్పం",
         "hindi": "संकल्प"
       },
@@ -221,7 +220,7 @@
         "devanagari": "ॐ ममोपात्त समस्त दुरितक्षयद्वारा श्री परमेश्वर प्रीत्यर्थम् श्री महाकाळी महालक्ष्मी महासरस्वती प्रसाद सिद्धयर्थम् अद्य शुभदिने शुभमुहूर्ते श्री चण्डी होमकर्म यथाशक्ति करिष्ये ।"
       }
     },
-  {
+    {
       "id": 6,
       "title": {
         "english": "Water Purification",
@@ -270,62 +269,139 @@
             "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి । నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥ అమృతం భవతు",
             "devanagari": "गंगे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
           }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Draw 6 lines on the base of the homakundam with a darbha grass, in the order shown in the diagram, while reciting the six corresponding mantras."
+            ],
+            "telugu": [
+              "చిత్రంలో చూపిన క్రమంలో, ఆరు సంబంధిత మంత్రాలను పఠిస్తూ, ఒక దర్భ గడ్డితో హోమకుండం పునాదిపై 6 గీతలను గీయండి."
+            ],
+            "hindi": [
+              "चित्र में दिखाए गए क्रम में, छह संबंधित मंत्रों का पाठ करते हुए, एक दर्भ घास से होमकुंड के आधार पर 6 रेखाएँ खींचें।"
+            ]
+          },
+          "diagram": "/diagrams/homa-kundam-6-lines.svg",
+          "slokas": {
+              "english": "om brahmane namaḥ | om yamāya namaḥ | om somāya namaḥ | om rudrāya namaḥ | om vişnave namaḥ | om indrāya namaḥ |",
+              "telugu": "ఓం బ్రహ్మణే నమః | ఓం యమాయ నమః | ఓం సోమాయ నమః | ఓం రుద్రాయ నమః | ఓం విష్ణవే నమః | ఓం ఇంద్రాయ నమః |",
+              "devanagari": "ॐ ब्रह्मणे नमः । ॐ यमाय नमः । ॐ सोमाय नमः । ॐ रुद्राय नमः । ॐ विष्णवे नमः । ॐ इन्द्राय नमः ।"
+            }
         }
       ]
     },
     {
       "id": 7,
       "title": {
-        "english": "Fire Installation",
+        "english": "Agni Pratishthaapana",
         "telugu": "అగ్ని ప్రతిష్ఠాపన",
-        "hindi": "अग्नि प्रतिष्ठापना"
+        "devanagari": "अग्नि प्रतिष्ठापन"
       },
-      "instructions": {
-        "english": [
-          "Draw 6 lines on the base of the homakundam with a darbha grass, in the order shown in the diagram, while reciting the six corresponding mantras.",
-          "Place one darbha east-west and another north-south on the base of the kundam.",
-          "Light a piece of camphor from the lamp and place it in the middle of the homa kundam while chanting 'Om bhoorbhuvassuvarom'.",
-          "Place dry coconut pieces or wood over the camphor to build the fire.",
-          "Pray to the fire god with the 'Kravyaadamagnim' mantra to send away the inauspicious fire and welcome the auspicious fire.",
-          "Pour 8 drops of ghee into the fire, chanting 'Om bhoorbhuvassuvah swaahaa' each time.",
-          "Place darbhas or twigs along the four outer boundaries of the homa kundam.",
-          "Sprinkle water on the four outer boundaries in the order and direction shown in the diagram, while reciting the four corresponding mantras.",
-          "Pray to Agni (fire god) with the 'Chatvaari shrungaah' mantra."
-        ],
-        "telugu": [
-          "చిత్రంలో చూపిన క్రమంలో, ఆరు సంబంధిత మంత్రాలను పఠిస్తూ, ఒక దర్భ గడ్డితో హోమకుండం పునాదిపై 6 గీతలను గీయండి.",
-          "కుండం పునాదిపై ఒక దర్భను తూర్పు-పడమరగా మరియు మరొకటి ఉత్తర-దక్షిణంగా ఉంచండి.",
-          "'ఓం భూర్భువస్సువరోం' అని జపిస్తూ దీపం నుండి ఒక కర్పూరం ముక్కను వెలిగించి హోమ కుండం మధ్యలో ఉంచండి.",
-          "నిప్పును పెంచడానికి కర్పూరం మీద ఎండిన కొబ్బరి ముక్కలు లేదా కలపను ఉంచండి.",
-          "అశుభకరమైన అగ్నిని పంపి, శుభకరమైన అగ్నిని స్వాగతించడానికి 'క్రవ్యాదమగ్నిం' మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి.",
-          "ప్రతిసారీ 'ఓం భూర్భువస్సువః స్వాహా' అని జపిస్తూ, అగ్నిలో 8 చుక్కల నెయ్యి పోయండి.",
-          "హోమ కుండం యొక్క నాలుగు బయటి సరిహద్దుల వెంట దర్భలు లేదా కొమ్మలను ఉంచండి.",
-          "చిత్రంలో చూపిన క్రమంలో మరియు దిశలో, నాలుగు సంబంధిత మంత్రాలను పఠిస్తూ, నాలుగు బయటి సరిహద్దులపై నీటిని చల్లుకోండి.",
-          "'చత్వారి శృంగాః' మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి."
-        ],
-        "hindi": [
-          "चित्र में दिखाए गए क्रम में, छह संबंधित मंत्रों का पाठ करते हुए, एक दर्भ घास से होमकुंड के आधार पर 6 रेखाएँ खींचें।",
-          "कुंड के आधार पर एक दर्भ पूर्व-पश्चिम और दूसरा उत्तर-दक्षिण में रखें।",
-          "'ॐ भूर्भुवस्सुवरोम्' का जाप करते हुए दीपक से कपूर का एक टुकड़ा जलाएं और उसे होम कुंड के बीच में रखें।",
-          "आग बनाने के लिए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें।",
-          "अशुभ अग्नि को दूर भेजने और शुभ अग्नि का स्वागत करने के लिए 'क्रव्यादमग्निम्' मंत्र से अग्नि देव से प्रार्थना करें।",
-          "प्रत्येक बार 'ॐ भूर्भुवस्सुवः स्वाहा' का जाप करते हुए आग में घी की 8 बूँदें डालें।",
-          "होम कुंड की चार बाहरी सीमाओं के साथ दर्भ या टहनियाँ रखें।",
-          "चित्र में दिखाए गए क्रम और दिशा में, चार संबंधित मंत्रों का पाठ करते हुए, चार बाहरी सीमाओं पर पानी छिड़कें।",
-          "'चत्वारि शृङ्गाः' मंत्र से अग्नि देव से प्रार्थना करें।"
-        ]
-      },
-      "diagram": "/diagrams/homa-kundam-6-lines.svg",
-      "slokas": {
-        "english": "For drawing lines: Om brahmane namah | Om yamaaya namah | Om somaaya namah | Om rudraaya namah | Om vishnave namah | Om indraaya namah |\nFor fire installation: Om bhoorbhuvassuvarom | Kravyaadamagnim prahinomi dooram yamaraajno gachchatu ripravaahah | ihaivaayamitaro jaatavedaa devebhyo havyam vahatu prajaanan |\nFor refinement: Om bhoorbhuvassuvah swaahaa |\nFor sprinkling water: Aditenumanyasva | anumatenu-manyasva | sarasvatenumanyasva | deva savitah prasuva |\nPrayer to Agni: Chatvaari shrungaastrayo asya paadaa dwe sheershe saptahastaaso asya | tridhaa baddho vishabho roraveeti maho devo martyaa aavivesha | Esha hi devah pradisho nu sarvaah poorvo hi jaatah sa u garbhe antah | sa vijaayamaanah sa janishyamaanah pratyangmukhaastishthati vishwatomukhah | praangmukho deva | he agne | mamaabhimukho bhava |",
-        "telugu": "గీతలు గీయడానికి: ఓం బ్రహ్మణే నమః | ఓం యమాయ నమః | ఓం సోమాయ నమః | ఓం రుద్రాయ నమః | ఓం విష్ణవే నమః | ఓం ఇంద్రాయ నమః |\nఅగ్ని ప్రతిష్ఠాపనకు: ఓం భూర్భువస్సువరోం | క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః । ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ |\nశుద్ధి కోసం: ఓం భూర్భువస్సువః స్వాహా |\nనీరు చల్లడానికి: అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।\nఅగ్ని ప్రార్థన: చత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య । త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ । ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్భే అంతః । స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ముఖాస్తిష్ఠతి విశ్వతోముఖః । ప్రాఙ్ముఖో దేవ । హే అగ్నే । మమాభిముఖో భవ ।",
-        "devanagari": "रेखाओं के लिए: ॐ ब्रह्मणे नमः । ॐ यमाय नमः । ॐ सोमाय नमः । ॐ रुद्राय नमः। ॐ विष्णवे नमः । ॐ इन्द्राय नमः ।\nअग्नि प्रतिष्ठापना के लिए: ॐ भूर्भुवस्सुवरोम्। क्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः । इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।\nसंस्कार के लिए: ॐ भूर्भुवस्सुवः स्वाहा।\nजल छिड़कने के लिए: अदितेऽनुमन्यस्व । अनुमतेऽनुमन्यस्व । सरस्वतेऽनुमन्यस्व । देव सवितः प्रसुव ।\nअग्नि से प्रार्थना: चत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश । एष हि देवः प्रदिशो नु सर्वाः पूर्वो हि जातः स उ गर्भे अन्तः । स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः । प्राङ्‌मुखो देव । हे अग्ने। ममाभिमुखो भव ।"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Place one darbha inside the homa kundam with its tip facing east. Place another with its tip facing north.",
+              "Light a piece of camphor from the lamp and place it in the middle of the homa kundam while reciting the following mantra."
+            ],
+            "telugu": [
+              "ఒక దర్భను హోమ కుండం లోపల దాని కొన తూర్పు వైపు ఉండేలా ఉంచండి. మరొకదాన్ని దాని కొన ఉత్తరం వైపు ఉండేలా ఉంచండి.",
+              "దీపం నుండి ఒక కర్పూరం ముక్కను వెలిగించి, ఈ క్రింది మంత్రాన్ని పఠిస్తూ హోమ కుండం మధ్యలో ఉంచండి."
+            ],
+            "hindi": [
+              "एक दर्भ को होम कुंड के अंदर रखें जिसका सिरा पूर्व की ओर हो। दूसरा रखें जिसका सिरा उत्तर की ओर हो।",
+              "दीपक से कपूर का एक टुकड़ा जलाएं और निम्नलिखित मंत्र का पाठ करते हुए इसे होम कुंड के बीच में रखें।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvarom",
+            "telugu": "ఓం భూర్భువస్సువరోం",
+            "devanagari": "ॐ भूर्भुवस्सुवरोम्"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Place dry coconut pieces or wood over the burning camphor to build the fire. Then, pray to the fire god (Agni), requesting him to carry the offerings to the gods in his auspicious form, 'jaatavedas'."
+            ],
+            "telugu": [
+              "అగ్నిని రాజేయడానికి మండుతున్న కర్పూరంపై ఎండు కొబ్బరి ముక్కలు లేదా సమిధను ఉంచండి. ఆ తర్వాత, అగ్ని దేవుడిని ప్రార్థించండి, మీ నైవేద్యాలను దేవతలకు తన శుభ రూపమైన 'జాతవేదస్' రూపంలో చేరవేయమని కోరండి."
+            ],
+            "hindi": [
+              "आग बनाने के लिए जलते हुए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें। फिर, अग्नि देव से प्रार्थना करें, उनसे अनुरोध करें कि वे देवताओं को अपने शुभ रूप, 'जातवेदस्' में आहुतियाँ पहुँचाएँ।"
+            ]
+          },
+          "slokas": {
+            "english": "kravyādamagnim prahinomi dūram yamarājño gacchatu ripravāhaḥ | ihaivāyamitaro jātavedā devebhyo havyam vahatu prajānan |",
+            "telugu": "క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః | ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ |",
+            "devanagari": "क्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः । इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "To refine the fire (samskara), pour 8 drops of ghee into it while reciting the following mantra 8 times."
+            ],
+            "telugu": [
+              "అగ్నిని శుద్ధి చేయడానికి (సంస్కారం), ఈ క్రింది మంత్రాన్ని 8 సార్లు పఠిస్తూ దానిలో 8 చుక్కల నెయ్యి పోయండి."
+            ],
+            "hindi": [
+              "अग्नि को परिष्कृत (संस्कार) करने के लिए, निम्नलिखित मंत्र का 8 बार पाठ करते हुए उसमें घी की 8 बूँदें डालें।"
+            ]
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā |",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా |",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Place darbhas along the four boundaries of the homa kundam (east, south, west, north).",
+              "Sprinkle water on these four boundaries in the order shown in the diagram, reciting the corresponding mantra for each direction."
+            ],
+            "telugu": [
+              "హోమ కుండం యొక్క నాలుగు సరిహద్దుల (తూర్పు, దక్షిణం, పడమర, ఉత్తరం) వెంబడి దర్భలను ఉంచండి.",
+              "రేఖాచిత్రంలో చూపిన క్రమంలో ఈ నాలుగు సరిహద్దులపై నీటిని చల్లండి, ప్రతి దిశకు సంబంధించిన మంత్రాన్ని పఠిస్తూ."
+            ],
+            "hindi": [
+              "होम कुंड की चार सीमाओं (पूर्व, दक्षिण, पश्चिम, उत्तर) पर दर्भ रखें।",
+              "आरेख में दिखाए गए क्रम में इन चार सीमाओं पर पानी छिड़कें, प्रत्येक दिशा के लिए संबंधित मंत्र का पाठ करते हुए।"
+            ]
+          },
+          "slokas": {
+            "english": "adite'numanyasva | anumate'numanyasva | sarasvate'numanyasva | deva savitaḥ prasuva |",
+            "telugu": "అదితేऽనుమన్యస్వ | అనుమతేऽనుమన్యస్వ | సరస్వతేऽనుమన్యస్వ | దేవ సవితః ప్రసువ |",
+            "devanagari": "अदितेऽनुमन्यस्व । अनुमतेऽनुमन्यस्व । सरस्वतेऽनुमन्यस्व । देव सवितः प्रसुव ।"
+          },
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+        },
+        {
+          "instructions": {
+            "english": [
+              "Pray to Agni with the following mantra, asking him to be present and face you."
+            ],
+            "telugu": [
+              "ఈ క్రింది మంత్రంతో అగ్నిని ప్రార్థించండి, ఆయనను హాజరై మిమ్మల్ని ఎదుర్కోమని అడగండి."
+            ],
+            "hindi": [
+              "निम्नलिखित मंत्र के साथ अग्नि से प्रार्थना करें, उनसे उपस्थित रहने और आपका सामना करने के लिए कहें।"
+            ]
+          },
+          "slokas": {
+            "english": "Chatvaari shrungaastrayo asya paadaa dwe sheershe saptahastaaso asya | tridhaa baddho vishabho roraveeti maho devo martyaa aavivesha | Esha hi devah pradisho nu sarvaah poorvo hi jaatah sa u garbhe antah | sa vijaayamaanah sa janishyamaanah pratyangmukhaastishthati vishwatomukhah | praangmukho deva | he agne | mamaabhimukho bhava |",
+            "telugu": "చత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య । త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ । ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్భే అంతః । స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ముఖాస్తిష్ఠతి విశ్వతోముఖః । ప్రాఙ్ముఖో దేవ । హే అగ్నే । మమాభిముఖో భవ ।",
+            "devanagari": "चत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश । एष हि देवः प्रदिशो नु सर्वाः पूर्वो हि जातः स उ गर्भे अन्तः । स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः । प्राङ्‌मुखो देव । हे अग्ने। ममाभिमुखो भव ।"
+          }
+        }
+      ]
     },
     {
       "id": 8,
       "title": {
-        "english": "Worship of Direction Rulers",
+        "english": "Dikpalaka Pooja",
         "telugu": "దిక్పాలక పూజ",
         "hindi": "दिक्पालक पूजा"
       },
@@ -368,39 +444,102 @@
     {
       "id": 9,
       "title": {
-        "english": "Preliminary Offerings",
+        "english": "Poorvaangam",
         "telugu": "పూర్వాంగం",
         "hindi": "पूर्वांगम्"
       },
-      "instructions": {
-        "english": [
-          "Holding a wooden ladle, offer a drop of ghee for Prajapati, pointing from Northwest to Southeast.",
-          "Offer a drop of ghee for Indra, pointing from Southwest to Northeast.",
-          "Offer ghee to Agni in the middle of the fire.",
-          "Offer ghee to Soma in the upper half of the northern side of the homa kundam.",
-          "Make a 'forgiveness offering' to Prajapati for any mistakes made up to this point."
-        ],
-        "telugu": [
-          "చెక్క గరిటెను పట్టుకుని, వాయువ్యం నుండి ఆగ్నేయం వైపు చూపిస్తూ ప్రజాపతికి ఒక చుక్క నెయ్యిని సమర్పించండి.",
-          "నైరుతి నుండి ఈశాన్యం వైపు చూపిస్తూ ఇంద్రునికి ఒక చుక్క నెయ్యిని సమర్పించండి.",
-          "అగ్ని మధ్యలో అగ్నికి నెయ్యిని సమర్పించండి.",
-          "హోమ కుండం యొక్క ఉత్తర భాగపు పై అర్ధభాగంలో సోమునికి నెయ్యిని సమర్పించండి.",
-          "ఇప్పటివరకు జరిగిన ఏవైనా తప్పులకు ప్రజాపతికి 'క్షమాపణ నైవేద్యం' సమర్పించండి."
-        ],
-        "hindi": [
-          "एक लकड़ी का करछुल पकड़कर, प्रजापति के लिए घी की एक बूंद अर्पित करें, जो उत्तर-पश्चिम से दक्षिण-पूर्व की ओर इंगित हो।",
-          "इंद्र के लिए घी की एक बूंद अर्पित करें, जो दक्षिण-पश्चिम से उत्तर-पूर्व की ओर इंगित हो।",
-          "अग्नि के मध्य में अग्नि को घी अर्पित करें।",
-          "होम कुंड के उत्तरी भाग के ऊपरी आधे हिस्से में सोम को घी अर्पित करें।",
-          "इस बिंदु तक की गई किसी भी गलती के लिए प्रजापति को 'क्षमा अर्पण' करें।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Om prajaapataye swaahaa | Prajaapataya idam na mama ||\nOm indraaya swaahaa | Indraayedam na mama ||\nOm agnaye swaahaa | Agnaye idam na mama ||\nOm somaaya swaahaa | Somaayedam na mama ||\nAarambhaprabhr^iti etat-kshana-paryantam madhye sambhaavita samasta dosha praayashchittaartham sarva praayashchittam hosyaami | Om bhoorbhuvassuvah swaahaa | Prajaapataya idam na mama ||",
-        "telugu": "ఓం ప్రజాపతయే స్వాహా। ప్రజాపతయ ఇదం న మమ ॥\nఓం ఇంద్రాయ స్వాహా। ఇంద్రాయేదం న మమ ॥\nఓం అగ్నయే స్వాహా। అగ్నయ ఇదం న మమ ॥\nఓం సోమాయ స్వాహా । సోమాయేదం న మమ ॥\nఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభාවිත సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి। ఓం భూర్భువస్సువః స్వాహా । ప్రజాపతయ ఇదం న మమ ॥",
-        "devanagari": "ॐ प्रजापतये स्वाहा। प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा। इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा। अग्नय इदं न मम ।\nॐ सोमाय स्वाहा । सोमायेदं न मम ।\nआरंभप्रभृति एतत्क्षणपर्यन्तं मध्ये संभावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा । प्रजापतय इदं न मम ।"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Holding the wooden ladle pointing from northwest to southeast, offer a drop of ghee for Prajapati (progenitor of all beings)."
+            ],
+            "telugu": [
+              "చెక్క గరిటెను వాయువ్యం నుండి ఆగ్నేయం వైపు చూపిస్తూ, ప్రజాపతికి (అన్ని జీవుల సృష్టికర్త) ఒక చుక్క నెయ్యి సమర్పించండి."
+            ],
+            "hindi": [
+              "लकड़ी की करछुल को उत्तर-पश्चिम से दक्षिण-पूर्व की ओर रखते हुए, प्रजापति (सभी प्राणियों के जनक) के लिए घी की एक बूंद अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om prajāpataye svāhā prajāpataya idam na mama |",
+            "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ |",
+            "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Now, pointing the ladle from southwest to northeast, offer a drop of ghee for Indra (ruler of gods)."
+            ],
+            "telugu": [
+              "ఇప్పుడు, గరిటెను నైరుతి నుండి ఈశాన్యం వైపు చూపిస్తూ, ఇంద్రునికి (దేవతల రాజు) ఒక చుక్క నెయ్యి సమర్పించండి."
+            ],
+            "hindi": [
+              "अब, करछुल को दक्षिण-पश्चिम से उत्तर-पूर्व की ओर इंगित करते हुए, इंद्र (देवताओं के शासक) के लिए घी की एक बूंद अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om indrāya svāhā indrāyedam na mama |",
+            "telugu": "ఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ |",
+            "devanagari": "ॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Offer a little ghee to Agni (fire god) in the middle of the fire."
+            ],
+            "telugu": [
+              "అగ్ని (అగ్ని దేవుడు) మధ్యలో కొద్దిగా నెయ్యి సమర్పించండి."
+            ],
+            "hindi": [
+              "अग्नि (अग्नि देव) को आग के बीच में थोड़ा घी अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om agnaye svāhā agnaya idam na mama |",
+            "telugu": "ఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ |",
+            "devanagari": "ॐ अग्नये स्वाहा अग्नय इदं न मम ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Then offer a little ghee to Soma (god of nourishment) in the upper half of the northern side of the homa kundam."
+            ],
+            "telugu": [
+              "ఆ తర్వాత హోమ కుండం యొక్క ఉత్తర భాగంలో పైభాగంలో సోమునికి (పోషణ దేవుడు) కొద్దిగా నెయ్యి సమర్పించండి."
+            ],
+            "hindi": [
+              "फिर होम कुंड के उत्तरी भाग के ऊपरी आधे भाग में सोम (पोषण के देवता) को थोड़ा घी अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om somāya svāhā somāyedam na mama |",
+            "telugu": "ఓం సోమాయ స్వాహా సోమాయేదం న మమ |",
+            "devanagari": "ॐ सोमाय स्वाहा सोमायेदं न मम ।"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Finally, offer a 'forgiveness offering' to Prajapati for any mistakes made so far in the ritual."
+            ],
+            "telugu": [
+              "చివరగా, క్రతువులో ఇప్పటివరకు జరిగిన ఏవైనా తప్పులకు ప్రజాపతికి 'క్షమాపణ నైవేద్యం' సమర్పించండి."
+            ],
+            "hindi": [
+              "अंत में, अनुष्ठान में अब तक हुई किसी भी गलती के लिए प्रजापति को 'क्षमा अर्पण' करें।"
+            ]
+          },
+          "slokas": {
+            "english": "ārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi | om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama |",
+            "telugu": "ఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి | ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ |",
+            "devanagari": "आरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि । ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।"
+          }
+        }
+      ]
     },
     {
       "id": 10,
@@ -439,7 +578,7 @@
     {
       "id": 11,
       "title": {
-        "english": "Invocation of Main Deity",
+        "english": "Praana Pratishthaapanaa",
         "telugu": "ప్రాణ ప్రతిష్ఠాపన",
         "hindi": "प्राण प्रतिष्ठापना"
       },
@@ -473,7 +612,7 @@
     {
       "id": 12,
       "title": {
-        "english": "Five-Service Worship",
+        "english": "Panchopachara Pooja",
         "telugu": "పంచోపచార పూజ",
         "hindi": "पंचोपचार पूजा"
       },
@@ -506,12 +645,117 @@
           "अंत में, 'सभी सेवाओं' (सर्वोपचारान्) का प्रतिनिधित्व करते हुए अक्षत अर्पित करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Lam prithivyaatmikaayai namah | Gandham samarpayaami ||\nHam aakaashaatmikaayai namah | Pushpam samarpayaami ||\nYam vaayvaatmikaayai namah | Dhoopam aaghraapayaami ||\nRam agnyaatmikaayai namah | Deepam darshayaami ||\nVam amritaatmikaayai namah | Naivedyam samarpayaami ||\nSam sarvaatmikaayai namah | Sarvopachaaraan samarpayaami ||",
-        "telugu": "లం పృథివ్యాత్మికాయై నమః । గంధం సమర్పయామి ॥\nహం ఆకాశాత్మికాయై నమః । పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మికాయై నమః। ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మికాయై నమః । దీపం దర్శయామి ॥\nవం అమృతాత్మికాయై నమః । నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మికాయై నమః । సర్వోపచారాన్ సమర్పయామి ॥",
-        "devanagari": "लं पृथिव्यात्मिकायै नमः । गन्धं समर्पयामि ॥\nहं आकाशात्मिकायै नमः । पुष्पं समर्पयामि ॥\nयं वाय्वात्मिकायै नमः। धूपं आघ्रापयामि ॥\nरं अग्न्यात्मिकायै नमः । दीपं दर्शयामि ॥\nवं अमृतात्मिकायै नमः । नैवेद्यं समर्पयामि ॥\nसं सर्वात्मिकायै नमः । सर्वोपचारान् समर्पयामि ॥"
-      }
+      "steps": [
+          {
+            "instructions": {
+              "english": [
+                "Offer sandalwood powder/paste (gandham) to Mahaganapathi in the fire and the idol."
+              ],
+              "telugu": [
+                "అగ్ని మరియు విగ్రహంలో మహాగణపతికి గంధపు పొడి/పేస్ట్ (గంధం) సమర్పించండి."
+              ],
+              "hindi": [
+                "अग्नि और मूर्ति में महागणपति को चंदन पाउडर/पेस्ट (गंधम्) अर्पित करें।"
+              ]
+            },
+            "slokas": {
+              "english": "Lam prithivyaatmikaayai namah | Gandham samarpayaami ||\nHam aakaashaatmikaayai namah | Pushpam samarpayaami ||\nYam vaayvaatmikaayai namah | Dhoopam aaghraapayaami ||\nRam agnyaatmikaayai namah | Deepam darshayaami ||\nVam amritaatmikaayai namah | Naivedyam samarpayaami ||\nSam sarvaatmikaayai namah | Sarvopachaaraan samarpayaami ||",
+              "telugu": "లం పృథివ్యాత్మికాయై నమః । గంధం సమర్పయామి",
+              "devanagari": "लं पृथिव्यात्मिकायै नमः । गन्धं समर्पयामि ॥"
+            }
+          },
+          {
+            "instructions": {
+              "english": [
+                "Offer a flower or flower petal (pushpam)."
+              ],
+              "telugu": [
+                "ఒక పువ్వు లేదా పువ్వు రేకు (పుష్పం) సమర్పించండి."
+              ],
+              "hindi": [
+                "एक फूल या फूल की पंखुड़ी (पुष्पम्) अर्पित करें।"
+              ]
+            },
+            "slokas": {
+              "english": "Ham aakaashaatmikaayai namah | Pushpam samarpayaami ||",
+              "telugu": "హం ఆకాశాత్మికాయై నమః । పుష్పం సమర్పయామి ॥",
+              "devanagari": "हं आकाशात्मिकायै नमः । पुष्पं समर्पयामि ॥"
+            }
+          },
+          {
+            "instructions": {
+              "english": [
+                "Offer incense smoke (dhoopam)."
+              ],
+              "telugu": [
+                "ధూపం (ధూపం) సమర్పించండి."
+              ],
+              "hindi": [
+                "धूप (धूपम्) अर्पित करें।"
+              ]
+            },
+            "slokas": {
+              "english": "Yam vaayvaatmikaayai namah | Dhoopam aaghraapayaami ||",
+              "telugu": "యం వాయ్వాత్మికాయై నమః। ధూపం ఆఘ్రాపయామి ॥",
+              "devanagari": "यं वाय्वात्मिकायै नमः। धूपं आघ्रापयामि ॥"
+            }
+          },
+          {
+            "instructions": {
+              "english": [
+                "Show the light from a lamp (deepam)."
+              ],
+              "telugu": [
+                "దీపం నుండి కాంతిని చూపండి (దీపం)."
+              ],
+              "hindi": [
+                "दीपक से प्रकाश दिखाएं (दीपम्)।"
+              ]
+            },
+            "slokas": {
+              "english": "Ram agnyaatmikaayai namah | Deepam darshayaami ||",
+              "telugu": "రం అగ్న్యాత్మికాయై నమః । దీపం దర్శయామి ॥",
+              "devanagari": "रं अग्न्यात्मिकायै नमः । दीपं दर्शयामि ॥"
+            }
+          },
+          {
+            "instructions": {
+              "english": [
+                "Offer food (naivedyam)."
+              ],
+              "telugu": [
+                "ఆహారం (నైవేద్యం) సమర్పించండి."
+              ],
+              "hindi": [
+                "भोजन (नैवेद्यम्) अर्पित करें।"
+              ]
+            },
+            "slokas": {
+              
+              "english": "Vam amritaatmikaayai namah | Naivedyam samarpayaami ||",
+              "telugu": "వం అమృతాత్మికాయై నమః । నైవేద్యం సమర్పయామి ॥",
+              "devanagari": "वं अमृतात्मिकायै नमः । नैवेद्यं समर्पयामि ॥"
+            }
+          },
+          {
+            "instructions": {
+              "english": [
+                "Offer akshatas, symbolizing the offering of all other services (sarvopacharan)."
+              ],
+              "telugu": [
+                "అక్షతలను సమర్పించండి, ఇది అన్ని ఇతర సేవలను (సర్వోపచారన్) సమర్పించడానికి ప్రతీక."
+              ],
+              "hindi": [
+                "अक्षत अर्पित करें, जो अन्य सभी सेवाओं (सर्वोपचारान्) के अर्पण का प्रतीक है।"
+              ]
+            },
+            "slokas": {
+              "english": "Sam sarvaatmikaayai namah | Sarvopachaaraan samarpayaami ||",
+              "telugu": "సం సర్వాత్మికాయై నమః । సర్వోపచారాన్ సమర్పయామి ॥",
+              "devanagari": "सं सर्वात्मिकायै नमः । सर्वोपचारान् समर्पयामि ॥"
+            }
+          }
+        ]
     },
     {
       "id": 13,
@@ -593,7 +837,7 @@
     {
       "id": 15,
       "title": {
-        "english": "Worship Again",
+        "english": "Punah Pooja",
         "telugu": "పునః పూజ",
         "hindi": "पुनः पूजा"
       },
@@ -627,42 +871,69 @@
     {
       "id": 16,
       "title": {
-        "english": "Concluding Offerings",
+        "english": "Uttaraangam",
         "telugu": "ఉత్తరాంగం",
         "hindi": "उत्तरांगम्"
       },
-      "instructions": {
-        "english": [
-          "This section serves as a vote of thanks and seeks forgiveness for errors. Offer a drop of ghee at each 'swaahaa'.",
-          "Offerings are made to Prajapati, the controllers of the three worlds (Agni for Bhuh, Vayu for Bhuvah, Surya for Suvah), and Agni Svishtakrit (the maker of good offerings).",
-          "Perform praanaayaamam again.",
-          "Make three more offerings to Agni for forgiveness.",
-          "Make final offerings to Vishnu and Rudra.",
-          "A shorter version is also provided for when you are in a hurry."
-        ],
-        "telugu": [
-          "ఈ విభాగం కృతజ్ఞతలు తెలియజేయడానికి మరియు తప్పులకు క్షమాపణ కోరడానికి ఉపయోగపడుతుంది. ప్రతి 'స్వాహా' వద్ద ఒక చుక్క నెయ్యిని సమర్పించండి.",
-          "ప్రజాపతికి, మూడు లోకాల నియంత్రకులకు (భూః కోసం అగ్ని, భువః కోసం వాయువు, సువః కోసం సూర్యుడు), మరియు అగ్ని స్విష్టకృత్‌కు (మంచి నైవేద్యాలు చేసేవాడు) నైవేద్యాలు సమర్పించబడతాయి.",
-          "మళ్ళీ ప్రాణాయామం చేయండి.",
-          "క్షమాపణ కోసం అగ్నికి మరో మూడు నైవేద్యాలు సమర్పించండి.",
-          "విష్ణువు మరియు రుద్రునికి చివరి నైవేద్యాలు సమర్పించండి.",
-          "మీరు తొందరలో ఉన్నప్పుడు ఒక చిన్న వెర్షన్ కూడా అందించబడింది."
-        ],
-        "hindi": [
-          "यह खंड धन्यवाद ज्ञापन और त्रुटियों के लिए क्षमा मांगने का कार्य करता है। प्रत्येक 'स्वाहा' पर घी की एक बूंद अर्पित करें।",
-          "प्रजापति, तीनों लोकों के नियंत्रकों (भूः के लिए अग्नि, भुवः के लिए वायु, सुवः के लिए सूर्य), और अग्नि स्विष्टकृत् (अच्छी आहुति देने वाले) को आहुति दी जाती है।",
-          "फिर से प्राणायाम करें।",
-          "क्षमा के लिए अग्नि को तीन और आहुतियाँ दें।",
-          "विष्णु और रुद्र को अंतिम आहुति दें।",
-          "जल्दी में होने पर एक छोटा संस्करण भी प्रदान किया गया है।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajnyah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || asmin homakarmani madhye sambhaavita samasta mantralopa tantralopa kriyaalopa bhaktilopa shraddhaalopa niyamlopa nishthaalopa dravyalopaadi samasta dosha praayashchittaartham sarva praayashchittaahutim hoshyaami | Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||\nShort Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
-        "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुशो యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభාවිත సమస్త మంత్రలోప తంత్రలోప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతిం హోష్యామి। ఓం భూర్భువస్సువః స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువః స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
-        "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम् । स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वং हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न। यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन् । यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥\nसंक्षिप्त संस्करण: ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा । प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नμο रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Offer ghee drops for Prajapati, for the controllers of the three worlds (Bhuh, Bhuvah, Suvah), for Agni Svishtakrut (the maker of perfect offerings), and finally for Prajapati again."
+            ],
+            "telugu": [
+              "ప్రజాపతికి, మూడు లోకాల నియంత్రకులకు (భూః, భువః, సువః), అగ్ని స్విష్టకృత్‌కు (సంపూర్ణ నైవేద్యాలు చేసేవాడు), మరియు చివరగా మళ్ళీ ప్రజాపతికి నెయ్యి చుక్కలు సమర్పించండి."
+            ],
+            "hindi": [
+              "प्रजापति के लिए, तीनों लोकों के नियंत्रकों (भूः, भुवः, सुवः) के लिए, अग्नि स्विष्टकृत् (उत्तम आहुति बनाने वाले) के लिए, और अंत में फिर से प्रजापति के लिए घी की बूंदें अर्पित करें।"
+            ]
+          },
+          "slokas": {
+            "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvaḥ svāhā | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajñah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Short Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
+            "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్నస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुశో యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభావిత సమస్త మంత్రలొప తంత్రలొప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతి హోష్యామి। ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
+            "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नमो रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Perform Praanaayaamam again.",
+              "Now, make three offerings to Agni, asking for forgiveness for any mistakes committed knowingly or unknowingly."
+            ],
+            "telugu": [
+              "మళ్ళీ ప్రాణాయామం చేయండి.",
+              "ఇప్పుడు, తెలిసి లేదా తెలియక చేసిన ఏవైనా తప్పులకు క్షమాపణ కోరుతూ అగ్నికి మూడు నైవేద్యాలు చేయండి."
+            ],
+            "hindi": [
+              "फिर से प्राणायाम करें।",
+              "अब, अग्नि को तीन आहुतियाँ दें, जाने-अनजाने में हुई किसी भी गलती के लिए क्षमा मांगें।"
+            ]
+          },
+          "slokas": {
+            "english": "anājñātaṁ yadājñātaṁ yajñasya kriyate mithu | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || puruṣasaṁmito yajño yajñaḥ puruṣasaṁmitaḥ | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || yatpākatrā manasā dīnadakṣā na | yajñasya manvate martāsaḥ | agniṣṭaddhotā kratuvidvijānan | yajiṣṭho devān ṛtuśo yajāti | svāhā | agnaya idaṁ na mama ||",
+            "telugu": "అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || యత్పాకత్రా మనసా దీనదక్షా న | యజ్ఞస్య మన్వతే మర్తాసః | అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ | యజిష్ఠో దేవాన్  ऋतुశో యజాతి | స్వాహా | అగ్నయ ఇదం న మమ ||",
+            "devanagari": "अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु । अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Make final offerings to Vishnu and Rudra. After the offering to Rudra, wash your right hand."
+            ],
+            "telugu": [
+              "విష్ణువు మరియు రుద్రునికి చివరి నైవేద్యాలు చేయండి. రుద్రునికి నైవేద్యం సమర్పించిన తరువాత, మీ కుడి చేతిని కడుక్కోండి."
+            ],
+            "hindi": [
+              "विष्णु और रुद्र को अंतिम आहुति दें। रुद्र को आहुति देने के बाद, अपना दाहिना हाथ धो लें।"
+            ]
+          },
+          "slokas": {
+            "english": "om śrī vişnave svāhā | vişnave paramātmana idam na mama ||\nom namo rudrāya paśupataye svāhā | rudrāya paśupataya idam na mama |",
+            "telugu": "ఓం శ్రీ విష్ణవే స్వాహా | విష్ణవే పరమాత్మన ఇదం న మమ ||\nఓం నమో రుద్రాయ పశుపతయే స్వాహా | రుద్రాయ పశుపతయ ఇదం న మమ |",
+            "devanagari": "ॐ श्री विष्णवे स्वाहा । विष्णवे परमात्मन इदं न मम ॥\nॐ नमो रुद्राय पशुपतये स्वाहा । रुद्राय पशुपतय इदं न मम ।"
+          }
+        }
+      ]
     },
     {
       "id": 17,
@@ -735,39 +1006,51 @@
     {
       "id": 19,
       "title": {
-        "english": "Complete Offering",
+        "english": "Poornaahuti",
         "telugu": "పూర్ణాహుతి",
         "hindi": "पूर्णाहुति"
       },
-      "instructions": {
-        "english": [
-          "Prepare the 'poornaahuti' (complete offering). This is typically a dry coconut half (or a full coconut) filled with a coin, turmeric, sandalwood, kumkum, akshatas, and samples of other offered materials.",
-          "Place the poornaahuti on a wooden ladle.",
-          "Recite the mantras for poornaahuti.",
-          "Carefully place the poornaahuti into the fire. This act symbolizes the complete surrender of one's ego.",
-          "While or after placing it, recite the 'Brahmaarpanam' mantra, contemplating complete surrender to the Divine."
-        ],
-        "telugu": [
-          "'పూర్ణాహుతి' (పూర్తి నైవేద్యం) సిద్ధం చేయండి. ఇది సాధారణంగా ఒక నాణెం, పసుపు, గంధం, కుంకుమ, అక్షతలు మరియు ఇతర సమర్పించిన వస్తువుల నమూనాలతో నింపిన ఎండిన కొబ్బరి సగం (లేదా పూర్తి కొబ్బరికాయ).",
-          "పూర్ణాహుతిని చెక్క గరిటెపై ఉంచండి.",
-          "పూర్ణాహుతి కోసం మంత్రాలను పఠించండి.",
-          "పూర్ణాహుతిని జాగ్రత్తగా అగ్నిలో ఉంచండి. ఈ చర్య ఒకరి అహంకారం యొక్క పూర్తి సమర్పణను సూచిస్తుంది.",
-          "దానిని ఉంచుతున్నప్పుడు లేదా ఉంచిన తర్వాత, దైవానికి పూర్తి సమర్పణను ధ్యానిస్తూ 'బ్రహ్మార్పణం' మంత్రాన్ని పఠించండి."
-        ],
-        "hindi": [
-          "'पूर्णाहुति' (पूर्ण आहुति) तैयार करें। यह आम तौर पर एक सूखा नारियल का आधा हिस्सा (या एक पूरा नारियल) होता है जिसमें एक सिक्का, हल्दी, चंदन, कुमकुम, अक्षत और अन्य अर्पित सामग्रियों के नमूने भरे होते हैं।",
-          "पूर्णाहुति को एक लकड़ी के करछुल पर रखें।",
-          "पूर्णाहुति के लिए मंत्रों का पाठ करें।",
-          "पूर्णाहुति को सावधानी से अग्नि में रखें। यह क्रिया किसी के अहंकार के पूर्ण समर्पण का प्रतीक है।",
-          "इसे रखते समय या रखने के बाद, परमात्मा के प्रति पूर्ण समर्पण का चिंतन करते हुए 'ब्रह्मार्पणम्' मंत्र का पाठ करें।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Om poornaahutimuttamaam juhoti | Sarvam vai poornaahutih | Sarvamevaapnoti | Atho iyam vai poornaahutih | Asyaameva pratitishthati ||\nOm poornamadah poornamidam poornaatpoornamudachyate | Poornasya poornamaadaaya poornamevaavashishyate ||\nOm aim hreem kleem chaamundaayai vichche vaushat ||\nOm brahmaarpanam brahmahavir brahmaagnau brahmanaa hutam | Brahmaiva tena gantavyam brahma karma samaadhinaa ||",
-        "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి । సర్వం వై పూర్ణాహుతిః । సర్వమేవాప్నోతి । అథో ఇయం వై పూర్ణాహుతిః । అస్యామేవ ప్రతితిష్ఠతి ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే । పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం ఐం హ్రీం క్లీం చాముండాయై విచ్చే వౌషట్ ॥\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం । బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
-        "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति । सर्वं वै पूर्णाहुतिः । सर्वमेवाप्नोति । अथो इयं वै पूर्णाहुतिः । अस्यामेव प्रतितिष्ठति ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट् ॥\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं । ब्रह्मैव तेन गन्तव्यм ब्रह्म कर्म समाधिना ॥"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Prepare the Poornaahuti offering. For a simple homam, this can be a dry coconut half filled with a coin, akshatas, and powders (sandalwood, turmeric, kumkum). This symbolizes the offering of one's head or ego.",
+              "Place the offering on the wooden ladle, recite the following mantra, and then carefully place it in the fire with your hand."
+            ],
+            "telugu": [
+              "పూర్ణాహుతి నైవేద్యం సిద్ధం చేయండి. ఒక సాధారణ హోమం కోసం, ఇది ఒక నాణెం, అక్షతలు, మరియు పొడులతో (గంధం, పసుపు, కుంకుమ) నింపిన ఎండు కొబ్బరి చిప్ప కావచ్చు. ఇది ఒకరి తల లేదా అహంకారాన్ని సమర్పించడాన్ని సూచిస్తుంది.",
+              "నైవేద్యాన్ని చెక్క గరిటెపై ఉంచి, ఈ క్రింది మంత్రాన్ని పఠించి, ఆపై దానిని జాగ్రత్తగా మీ చేతితో అగ్నిలో ఉంచండి."
+            ],
+            "hindi": [
+              "पूर्णाहुति की आहुति तैयार करें। एक साधारण होम के लिए, यह एक सूखा नारियल का आधा हिस्सा हो सकता है जिसमें एक सिक्का, अक्षत और पाउडर (चंदन, हल्दी, कुमकुम) भरा हो। यह किसी के सिर या अहंकार के अर्पण का प्रतीक है।",
+              "आहुति को लकड़ी की करछुल पर रखें, निम्नलिखित मंत्र का पाठ करें, और फिर इसे सावधानी से अपने हाथ से आग में रखें।"
+            ]
+          },
+          "slokas": {
+            "english": "Om poornaahutimuttamaam juhoti | Sarvam vai poornaahutih | Sarvamevaapnoti | Atho iyam vai poornaahutih | Asyaameva pratitishthati ||\nOm poornamadah poornamidam poornaatpoornamudachyate | Poornasya poornamaadaaya poornamevaavashishyate ||\nOm aim hreem kleem chaamundaayai vichche vaushat ||",
+            "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి । సర్వం వై పూర్ణాహుతిః । సర్వమేవాప్నోతి । అథో ఇయం వై పూర్ణాహుతిః । అస్యామేవ ప్రతితిష్ఠతి ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే । పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం ఐం హ్రీం క్లీం చాముండాయై విచ్చే వౌషట్ ॥\n",
+            "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति । सर्वं वै पूर्णाहुतिः । सर्वमेवाप्नोति । अथो इयं वै पूर्णाहुतिः । अस्यामेव प्रतितिष्ठति ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट् ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "As you place the offering, recite the Brahmārpanam mantra, contemplating complete surrender to Mahaganapathi."
+            ],
+            "telugu": [
+              "నైవేద్యం ఉంచుతున్నప్పుడు, మహాగణపతికి సంపూర్ణ శరణాగతిని ధ్యానిస్తూ బ్రహ్మార్పణం మంత్రాన్ని పఠించండి."
+            ],
+            "hindi": [
+              "आहुति देते समय, महागणपति के प्रति पूर्ण समर्पण का ध्यान करते हुए ब्रह्मार्पणम् मंत्र का पाठ करें।"
+            ]
+          },
+          "slokas": {
+            "english": "om brahmārpaņam brahmahavir brahmāgnau brahmaņā hutam brahmaiva tena gantavyam brahma karma samādhinā ||",
+            "telugu": "ఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ||",
+            "devanagari": "ॐ ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥"
+          }
+        }
+      ]
     },
     {
       "id": 20,
@@ -776,32 +1059,58 @@
         "telugu": "ముగింపు మరియు ధ్యానం",
         "hindi": "समापन और ध्यान"
       },
-      "instructions": {
-        "english": [
-          "Make one final offering of ghee to Agni with the 'Sapta te agne' mantra.",
-          "Sprinkle water around the homa kundam again as you did at the beginning, but using the four new 'Anvamansthaah' mantras.",
-          "As the poornaahuti burns, sit still with a straight back and meditate. This is considered the most potent time for meditation during the ritual.",
-          "Focus on your favorite deity or mantra for at least 5-10 minutes."
-        ],
-        "telugu": [
-          "'సప్త తే అగ్నే' మంత్రంతో అగ్నికి చివరిగా నెయ్యిని సమర్పించండి.",
-          "ప్రారంభంలో చేసినట్లుగా మళ్ళీ హోమ కుండం చుట్టూ నీటిని చల్లుకోండి, కానీ నాలుగు కొత్త 'అన్వమంస్థాః' మంత్రాలను ఉపయోగించి.",
-          "పూర్ణాహుతి కాలుతున్నప్పుడు, నిటారుగా కూర్చుని ధ్యానం చేయండి. ఆచార సమయంలో ధ్యానానికి ఇది అత్యంత శక్తివంతమైన సమయంగా పరిగణించబడుతుంది.",
-          "కనీసం 5-10 నిమిషాల పాటు మీకు ఇష్టమైన దేవత లేదా మంత్రంపై దృష్టి పెట్టండి."
-        ],
-        "hindi": [
-          "'सप्त ते अग्ने' मंत्र के साथ अग्नि को घी की एक अंतिम आहुति दें।",
-          "होम कुंड के चारों ओर फिर से पानी छिड़कें जैसा कि आपने शुरुआत में किया था, लेकिन चार नए 'अन्वमंस्थाः' मंत्रों का उपयोग करते हुए।",
-          "जैसे ही पूर्णाहुति जलती है, सीधी पीठ करके बैठें और ध्यान करें। इसे अनुष्ठान के दौरान ध्यान के लिए सबसे शक्तिशाली समय माना जाता है।",
-          "कम से कम 5-10 मिनट के लिए अपने पसंदीदा देवता या मंत्र पर ध्यान केंद्रित करें।"
-        ]
-      },
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg",
-      "slokas": {
-        "english": "Sapta te agne samidhah saptajihvaah sapta rishayassaptah dhaama priyaani | Sapta hotraa sapta dhaatvaa yajantisaptayoneeraaprinaswaa ghritena swaahaa | Agnaye saptavata idam na mama ||\nAdite'nvamansthaah | Anumate'nvamansthaah | Sarasvate'nvamansthaah | Deva savitah praasaaveeh |",
-        "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి । సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా। అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః। అనుమతేऽన్వమంస్థాః। సరస్వతేऽన్వమంస్థాః। దేవ సవితః ప్రాసావీః ।",
-        "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्तः धाम प्रियाणि । सप्त होत्रा सप्त धात्वा यजन्तिसप्तयोनीरापृणस्वा घृतेन स्वाहा। अग्नये सप्तवत इदं न मम ॥\nअदितेऽन्वमंस्थाः। अनुमतेऽन्वमंस्थाः। सरस्वतेऽन्वमंस्थाः। देव सवितः प्रासावीः ।"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "Make a final offering of ghee to Agni, who has carried all the offerings to the gods."
+            ],
+            "telugu": [
+              "దేవతలకు అన్ని నైవేద్యాలను చేరవేసిన అగ్నికి చివరిగా నెయ్యి నైవేద్యం చేయండి."
+            ],
+            "hindi": [
+              "अग्नि को घी की अंतिम आहुति दें, जिसने सभी आहुतियों को देवताओं तक पहुँचाया है।"
+            ]
+          },
+          "slokas": {
+            "english": "sapta te agne samidhaḥ saptajihvāḥ sapta rşayassaptah dhāma priyāņil sapta hotrā sapta dhātvā yajantisaptayonīrāprņasvā ghṛtena svāhā agnaye saptavata idam na mama ||",
+            "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణిల్ సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా అగ్నయే సప్తవత ఇదం న మమ ||",
+            "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्त धाम प्रियाणि। सप्त होत्रा सप्तधा त्वा यजन्ति सप्त योनीरापृणस्वा घृतेन स्वाहा। अग्नये सप्तवत इदं न मम ॥"
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "Sprinkle water around the homa kundam again as you did at the beginning, but using the following four mantras."
+            ],
+            "telugu": [
+              "ప్రారంభంలో చేసినట్లుగా మళ్ళీ హోమ కుండం చుట్టూ నీరు చల్లండి, కానీ ఈ క్రింది నాలుగు మంత్రాలను ఉపయోగించి."
+            ],
+            "hindi": [
+              "होम कुंड के चारों ओर फिर से पानी छिड़कें जैसा कि आपने शुरुआत में किया था, लेकिन निम्नलिखित चार मंत्रों का उपयोग करते हुए।"
+            ]
+          },
+          "slokas": {
+            "english": "adite'nvamamsthāḥ | anumate'nvamamsthāḥ | sarasvate'nvamamsthāḥ | deva savitah prāsāvīḥ |",
+            "telugu": "అదితేऽన్వమంస్థాః | అనుమతేऽన్వమంస్థాః | సరస్వతేऽన్వమంస్థాః | దేవ సవితః ప్రాసావీః |",
+            "devanagari": "अदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः । सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।"
+          },
+          "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+        },
+        {
+          "instructions": {
+            "english": [
+              "The time when the poornaahuti burns is the best time for meditation. Sit still with a straight back and meditate on your favorite deity and mantra for at least 5-10 minutes with maximum focus."
+            ],
+            "telugu": [
+              "పూర్ణాహుతి కాలుతున్న సమయం ధ్యానానికి ఉత్తమ సమయం. నిటారుగా వెనుకభాగంతో నిశ్శబ్దంగా కూర్చుని, మీకు ఇష్టమైన దేవత మరియు మంత్రాన్ని గరిష్ట ఏకాగ్రతతో కనీసం 5-10 నిమిషాలు ధ్యానించండి."
+            ],
+            "hindi": [
+              "जब पूर्णाहुति जलती है, वह ध्यान के लिए सबसे अच्छा समय है। सीधी पीठ के साथ स्थिर बैठें और अपने पसंदीदा देवता और मंत्र पर अधिकतम ध्यान के साथ कम से-कम 5-10 मिनट तक ध्यान करें।"
+            ]
+          }
+        }
+      ]
     },
     {
       "id": 21,
@@ -810,40 +1119,39 @@
         "telugu": "రక్షా",
         "hindi": "रक्षा"
       },
-      "instructions": {
-        "english": [
-          "Take the darbhas that were placed on the western boundary of the homa kundam.",
-          "Apply a little ghee to them and light their tips in the fire.",
-          "Remove them from the fire and let them burn completely in a separate container.",
-          "The resulting black ash is called 'rakshaa' (protection).",
-          "Apply a little rakshaa to the idol's forehead, then to your own forehead and others for protection. It can be stored for future use."
-        ],
-        "telugu": [
-          "హోమ కుండం యొక్క పశ్చిమ సరిహద్దులో ఉంచిన దర్భలను తీసుకోండి.",
-          "వాటికి కొద్దిగా నెయ్యి రాసి, వాటి చివరలను అగ్నిలో వెలిగించండి.",
-          "వాటిని అగ్ని నుండి తీసివేసి, వేరే పాత్రలో పూర్తిగా కాలిపోయేలా చేయండి.",
-          "ఫలితంగా వచ్చే నల్ల బూడిదను 'రక్ష' (రక్షణ) అంటారు.",
-          "విగ్రహం యొక్క నుదుటిపై, ఆపై రక్షణ కోసం మీ నుదుటిపై మరియు ఇతరుల నుదుటిపై కొద్దిగా రక్షను పూయండి. భవిష్యత్ ఉపయోగం కోసం నిల్వ చేయవచ్చు."
-        ],
-        "hindi": [
-          "होम कुंड की पश्चिमी सीमा पर रखे गए दर्भों को लें।",
-          "उन पर थोड़ा घी लगाएं और उनके सिरों को आग में जलाएं।",
-          "उन्हें आग से हटा दें और उन्हें एक अलग पात्र में पूरी तरह से जलने दें।",
-          "परिणामी काली राख को 'रक्षा' (सुरक्षा) कहा जाता है।",
-          "मूर्ति के माथे पर, फिर सुरक्षा के लिए अपने माथे और दूसरों के माथे पर थोड़ी रक्षा लगाएं। इसे भविष्य में उपयोग के लिए संग्रहीत किया जा सकता है।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "No specific slokas are mentioned for this step.",
-        "telugu": "ఈ దశకు నిర్దిష్ట శ్లోకాలు పేర్కొనబడలేదు.",
-        "hindi": "इस चरण के लिए किसी विशिष्ट श्लोक का उल्लेख नहीं किया गया है।"
-      }
+      "steps": [
+        {
+          "instructions": {
+            "english": [
+              "To make 'rakshaa' (protective ash), take the darbhas that were placed on the western side of the homa kundam. Apply a little ghee to them, light them in the fire, and then let them burn completely in a separate container. This step is optional."
+            ],
+            "telugu": [
+              "'రక్షా' (రక్షక బూడిద) చేయడానికి, హోమ కుండం యొక్క పడమర వైపు ఉంచిన దర్భలను తీసుకోండి. వాటికి కొద్దిగా నెయ్యి రాసి, వాటిని అగ్నిలో వెలిగించి, ఆపై వాటిని వేరే పాత్రలో పూర్తిగా కాలిపోయేలా చేయండి. ఈ దశ ఐచ్ఛికం."
+            ],
+            "hindi": [
+              "'रक्षा' (सुरक्षात्मक राख) बनाने के लिए, होम कुंड के पश्चिमी तरफ रखे गए दर्भों को लें। उन पर थोड़ा घी लगाएं, उन्हें आग में जलाएं, और फिर उन्हें एक अलग बर्तन में पूरी तरह से जलने दें। यह चरण वैकल्पिक है।"
+            ]
+          }
+        },
+        {
+          "instructions": {
+            "english": [
+              "You can apply a little of this ash to the idol's forehead and then to your own for protection."
+            ],
+            "telugu": [
+              "మీరు ఈ బూడిదను కొద్దిగా విగ్రహం నుదుటిపై మరియు ఆ తర్వాత రక్షణ కోసం మీ నుదుటిపై పూయవచ్చు."
+            ],
+            "hindi": [
+              "आप इस राख का थोड़ा सा हिस्सा मूर्ति के माथे पर और फिर सुरक्षा के लिए अपने माथे पर लगा सकते हैं।"
+            ]
+          }
+        }
+      ]
     },
     {
       "id": 22,
       "title": {
-        "english": "Farewell",
+        "english": "Udvaasana",
         "telugu": "ఉద్వాసన",
         "hindi": "उद्वासन"
       },
@@ -870,7 +1178,6 @@
           "अग्नि देव को विदाई देने के लिए अंतिम मंत्र का पाठ करें और उन्हें प्रणाम करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "Asmaadagneh shreemahaaganapatim yathaasthanam pratishthaapayaami ||\nAsmaanmoorteshcha agneshcha shree chandikaadeveem yathaasthanam pratishthaapayaami ||\nAgne naya supathaa raaye asmaan vishwaani deva vayunaani vidwaan | Yuyodhyasmajjuhuraanameno bhooyishthaam te nama uktim vidhema | Agnaye namah ||",
         "telugu": "అస్మాదగ్నేః శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ॥\nఅస్మాన్మూర్తేశ్చ అగ్నేశ్చ శ్రీ చండికాదేవీం యథాస్థానం ప్రతిష్ఠాపయామి ॥\nఅగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ । యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమ । అగ్నయే నమః ॥",
@@ -907,84 +1214,10 @@
           "संपूर्ण कार्य श्री कृष्ण को समर्पित करें और तीन शांति मंत्रों (शांतिः) के साथ समाप्त करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
-        "english": "Mantraheenam kriyaaheenam bhaktiheenam hutaashana | Yadhbhutam tu mayaa deva paripoorna tadastu te ||\nPraayashchittaanyasheshaani tapah karmaatmakaani vai | Yaani teshaamasheshaanaam shree krishnasmaranam param || Shree krishna krishna krishna ||\nKaayena vaachaa manasendriyairvaa buddhyaatmanaa vaa prakriteh swabhaavaat | Karomi yadyat sakalam parasmai naaraayanaayeti samarpayaami ||\nAnena divya mangala homena bhagavatee sarvaatmikaa shree chandikaadevee preeyataam | Om tatsat | Sarvam shree krishnaarpanamastu | Om shaantih shaantih shaantih ||",
+        "english": "mantrahīnam kriyāhīnam bhaktihīnam hutāśana yaddhutam tu mayā deva paripūrņam tadastu te |\nprāyaścittānyaśeṣāņi tapaḥ karmātmakāni vail yāni teşāmaśeṣāṇāṁ śrī kṛṣṇasmaraņam param || śrī kṛṣṇa kṛṣṇa kṛṣṇa |\nkāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt karomi yadyat sakalam parasmai nārāyaṇāyeti samarpayāmi ||",
         "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన । యద్భుతం తు మయా దేవ పరిపూర్ణ తదస్తు తే ॥\nప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై। యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ॥\nకాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్। కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥\nఅనేన దివ్య మంగళ హోమేన భగవతీ సర్వాత్మికా శ్రీ చండికాదేవీ ప్రీయతామ్ । ఓం తత్సత్। సర్వం శ్రీ కృష్ణార్పణమస్తు । ఓం శాంతిః శాంతిః శాంతిః ॥",
         "devanagari": "मंत्रहीनं क्रियाहीनं भक्तिहीनं हुताशन । यद्भुतं तु मया देव परिपूर्ण तदस्तु ते ॥\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै। यानि तेषामशेषाणां श्री कृष्णस्मरणं परं ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात्। करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥\nअनेन दिव्य मंगळ होमेन भगवती सर्वात्मिका श्री चण्डिकादेवी प्रीयताम् । ॐ तत्सत्। सर्वम् श्री कृष्णार्पणमस्तु । ॐ शान्तिः शान्तिः शान्तिः ।"
-      }
-    },
-    {
-      "id": 24,
-      "title": {
-        "english": "Sixteen-Service Worship",
-        "telugu": "షోడశోపచార పూజ (అనుబంధం ఎ)",
-        "hindi": "षोडशोपचार पूजा (परिशिष्ट ए)"
-      },
-      "instructions": {
-        "english": [
-          "This is an elaborate, optional worship with 16 services. Perform each step by reciting the mantra and imagining the action.",
-          "1. Asanam: Offer a seat.",
-          "2. Paadyam: Wash the feet.",
-          "3. Arghyam: Wash the hands.",
-          "4. Aachamaniyam: Offer water for sipping.",
-          "5. Snanam: Give a bath.",
-          "6. Vastraani: Offer clothes.",
-          "7. Yajnopaveetam: Offer the sacred thread.",
-          "8. Aabharanaani: Offer jewelry.",
-          "9. Gandhaan: Offer scents (sandalwood, turmeric, kumkum).",
-          "10. Pushpaani: Offer flowers.",
-          "11. Dhoopam: Offer incense.",
-          "12. Deepam: Offer a lamp.",
-          "13. Naivedyam: Offer food and taamboolam (paan).",
-          "14. Karpoora Neerajanam: Offer camphor light.",
-          "15. Mantrapushpam: Offer a flower with mantras.",
-          "16. Pradakshina Namaskaran: Offer circumambulation and prostrations."
-        ],
-        "telugu": [
-          "ఇది 16 సేవలతో కూడిన విస్తృతమైన, ఐచ్ఛిక పూజ. మంత్రాన్ని పఠిస్తూ, చర్యను ఊహించుకుంటూ ప్రతి దశను చేయండి.",
-          "1. ఆసనం: ఆసనాన్ని సమర్పించండి.",
-          "2. పాద్యం: పాదాలను కడగండి.",
-          "3. అర్ఘ్యం: చేతులను కడగండి.",
-          "4. ఆచమనీయం: ఆచమనం కోసం నీటిని సమర్పించండి.",
-          "5. స్నానం: స్నానం చేయించండి.",
-          "6. వస్త్రాణి: వస్త్రాలను సమర్పించండి.",
-          "7. యజ్ఞోపవీతం: యజ్ఞోపవీతాన్ని సమర్పించండి.",
-          "8. ఆభరణాని: ఆభరణాలను సమర్పించండి.",
-          "9. గంధాన్: సుగంధాలను (గంధం, పసుపు, కుంకుమ) సమర్పించండి.",
-          "10. పుష్పాణి: పువ్వులను సమర్పించండి.",
-          "11. ధూపం: ధూపాన్ని సమర్పించండి.",
-          "12. దీపం: దీపాన్ని సమర్పించండి.",
-          "13. నైవేద్యం: ఆహారం మరియు తాంబూలం (పాన్) సమర్పించండి.",
-          "14. కర్పూర నీరాజనం: కర్పూర కాంతిని సమర్పించండి.",
-          "15. మంత్రపుష్పం: మంత్రాలతో పువ్వును సమర్పించండి.",
-          "16. ప్రదక్షిణ నమస్కారాన్: ప్రదక్షిణ మరియు నమస్కారాలను సమర్పించండి."
-        ],
-        "hindi": [
-          "यह 16 सेवाओं के साथ एक विस्तृत, वैकल्पिक पूजा है। प्रत्येक चरण को मंत्र का पाठ करके और क्रिया की कल्पना करके करें।",
-          "1. आसनम्: आसन अर्पित करें।",
-          "2. पाद्यम्: पैर धोएं।",
-          "3. अर्घ्यम्: हाथ धोएं।",
-          "4. आचमनीयम्: आचमन के लिए जल अर्पित करें।",
-          "5. स्नानम्: स्नान कराएं।",
-          "6. वस्त्राणि: वस्त्र अर्पित करें।",
-          "7. यज्ञोपवीतम्: यज्ञोपवीत अर्पित करें।",
-          "8. आभरणानि: आभूषण अर्पित करें।",
-          "9. गन्धान्: सुगंध (चंदन, हल्दी, कुमकुम) अर्पित करें।",
-          "10. पुष्पाणि: फूल अर्पित करें।",
-          "11. धूपम्: धूप अर्पित करें।",
-          "12. दीपम्: दीपक अर्पित करें।",
-          "13. नैवेद्यम्: भोजन और ताम्बूलम् (पान) अर्पित करें।",
-          "14. कर्पूर नीराजनम्: कपूर की रोशनी अर्पित करें।",
-          "15. मंत्रपुष्पम्: मंत्रों के साथ फूल अर्पित करें।",
-          "16. प्रदक्षिण नमस्कारान्: परिक्रमा और प्रणाम अर्पित करें।"
-        ]
-      },
-      "diagram_placeholder": "No diagram for this section.",
-      "slokas": {
-        "english": "Om namashchandikaayai | Aasanam samarpayaami ||\nOm namashchandikaayai | Paadayoh paadyam samarpayaami ||\nOm namashchandikaayai | Hastayoh arghyam samarpayaami ||\nOm namashchandikaayai | Mukhe shuddhaachamaneeyam samarpayaami ||\nOm namashchandikaayai | Snapayaami | Snaanaanantaram aachamaneeyam samarpayaami ||\nOm namashchandikaayai | Vastraani dhaarayaami ||\nOm namashchandikaayai | Yajnopaveetam samarpayaami ||\nOm namashchandikaayai | Aabharanaani samarpayaami ||\nOm namashchandikaayai | Gandhaan dhaarayaami | Haridraa kunkumam samarpayaami | Akshataan samarpayaami ||\nOm namashchandikaayai | Pushpaani samarpayaami ||\nOm namashchandikaayai | Dhoopam aaghraapayaami ||\nOm namashchandikaayai | Deepam darshayaami | Aachamaneeyam samarpayaami ||\nOm namashchandikaayai | Naivedyam samarpayaami | Taamboolam samarpayaami ||\nOm namashchandikaayai | Karpooraneeraajanam samarpayaami ||\nOm namashchandikaayai | Mantrapushpam samarpayaami ||\nOm namashchandikaayai | Pradakshina namaskaaraan samarpayaami ||",
-        "telugu": "ఓం నమశ్చండికాయై । ఆసనం సమర్పయామి ॥\nఓం నమశ్చండికాయై । పాదయోః పాద్యం సమర్పయామి ॥\nఓం నమశ్చండికాయై । హస్తయోః అర్ఘ్యం సమర్పయామి ॥\nఓం నమశ్చండికాయై । ముఖే శుద్ధాచమనీయం సమర్పయామి ॥\nఓం నమశ్చండికాయై । స్నపయామి। స్నానానంతరం ఆచమనీయం సమర్పయామి ॥\nఓం నమశ్చండికాయై । వస్త్రాణి ధారయామి ॥\nఓం నమశ్చండికాయై । యజ్ఞోపవీతం సమర్పయామి ॥\nఓం నమశ్చండికాయై । ఆభరణాని సమర్పయామి ॥\nఓం నమశ్చండికాయై । గంధాన్ ధారయామి। హరిద్రా కుంకుమం సమర్పయామి। అక్షతాన్ సమర్పయామి ॥\nఓం నమశ్చండికాయై । పుష్పాణి సమర్పయామి ॥\nఓం నమశ్చండికాయై । ధూపం ఆఘ్రాపయామి।\nఓం నమశ్చండికాయై । దీపం దర్శయామి। ఆచమనీయం సమర్పయామి ॥\nఓం నమశ్చండికాయై । నైవేద్యం సమర్పయామి । తాంబూలం సమర్పయామి ॥\nఓం నమశ్చండికాయై । కర్పూరనీరాజనం సమర్పయామి ॥\nఓం నమశ్చండికాయై । మంత్రపుష్పం సమర్పయామి ॥\nఓం నమశ్చండికాయై । ప్రదక్షిణ నమస్కారాన్ సమర్పయామి ॥",
-        "devanagari": "ॐ नमश्चण्डिकायै । आसनं समर्पयामि ॥\nॐ नमश्चण्डिकायै । पादयोः पाद्यं समर्पयामि ॥\nॐ नमश्चण्डिकायै । हस्तयोः अर्घ्यं समर्पयामि ॥\nॐ नमश्चण्डिकायै । मुखे शुद्धाचमनीयं समर्पयामि ॥\nॐ नमश्चण्डिकायै । स्नपयामि। स्नानानन्तरं आचमनीयं समर्पयामि ॥\nॐ नमश्चण्डिकायै । वस्त्राणि धारयामि ॥\nॐ नमश्चण्डिकायै । यज्ञोपवीतं समर्पयामि ॥\nॐ नमश्चण्डिकायै । आभरणानि समर्पयामि ॥\nॐ नमश्चण्डिकायै । गन्धान् धारयामि। हरिद्रा कुंकुमं समर्पयामि। अक्षतान् समर्पयामि ॥\nॐ नमश्चण्डिकायै । पुष्पाणि समर्पयामि ॥\nॐ नमश्चण्डिकायै । धूपं आघ्रापयामि।\nॐ नमश्चण्डिकायै । दीपं दर्शयामि। आचमनीयं समर्पयामि ॥\nॐ नमश्चण्डिकायै । नैवेद्यं समर्पयामि । ताम्बूलं समर्पयामि ॥\nॐ नमश्चण्डिकायै । कर्पूरनीराजनं समर्पयामि ॥\nॐ नमश्चण्डिकायै । मन्त्रपुष्पं समर्पयामि ॥\nॐ नमश्चण्डिकायै । प्रदक्षिण नमस्कारान् समर्पयामि ॥"
       }
     }
   ]
