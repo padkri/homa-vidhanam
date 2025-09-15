@@ -2,6 +2,11 @@ import React, { useState, useEffect, useRef } from 'react';
 import { BrowserRouter as Router, Routes, Route, useParams, useNavigate, Link } from 'react-router-dom';
 import { loadManual, getAvailableManuals } from './dataLoader';
 
+// --- Helper: Format sloka text with line breaks ---
+const formatSloka = (text) => {
+  return text.replace(/\|\|?/g, '$&\n');
+};
+
 // --- Helper: Icon Components ---
 const MenuIcon = (props) => (
   <svg {...props} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -96,6 +101,7 @@ const ManualViewer = () => {
   const [activeSubSection, setActiveSubSection] = useState('instructions');
   const [language, setLanguage] = useState('english');
   const [isLeftSidebarOpen, setLeftSidebarOpen] = useState(false);
+  const [showInstructions, setShowInstructions] = useState(true);
   const [availableManuals, setAvailableManuals] = useState([]);
   
   // Translation object for UI text
@@ -134,6 +140,11 @@ const ManualViewer = () => {
       english: 'Language',
       telugu: 'భాష',
       hindi: 'भाषा'
+    },
+    showInstructions: {
+      english: 'Show Instructions',
+      telugu: 'సూచనలను చూపించు',
+      hindi: 'निर्देश दिखाएं'
     }
   };
   
@@ -361,13 +372,25 @@ const ManualViewer = () => {
                   <h1 className="text-3xl font-bold">{activeSection.title[language]}</h1>
                 )}
               </div>
-               <div className="flex items-center space-x-2">
-                <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">{translations.language[language]}:</label>
-                <select id="language-select" value={language} onChange={(e) => setLanguage(e.target.value)} className="rounded-md border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50">
-                  <option value="english">English</option>
-                  <option value="telugu">Telugu</option>
-                  <option value="hindi">हिन्दी</option>
-                </select>
+               <div className="flex items-center space-x-4">
+                <div className="flex items-center space-x-2">
+                  <label htmlFor="language-select" className="text-sm font-medium hidden sm:block">{translations.language[language]}:</label>
+                  <select id="language-select" value={language} onChange={(e) => setLanguage(e.target.value)} className="rounded-md border-gray-300 shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50">
+                    <option value="english">English</option>
+                    <option value="telugu">Telugu</option>
+                    <option value="hindi">हिन्दी</option>
+                  </select>
+                </div>
+                <div className="flex items-center space-x-2">
+                  <input 
+                    id="instructions-toggle" 
+                    type="checkbox" 
+                    checked={showInstructions} 
+                    onChange={(e) => setShowInstructions(e.target.checked)}
+                    className="rounded border-gray-300 text-[#FFDAB9] shadow-sm focus:border-[#FFDAB9] focus:ring focus:ring-[#FFDAB9] focus:ring-opacity-50"
+                  />
+                  <label htmlFor="instructions-toggle" className="text-sm font-medium hidden sm:block">{translations.showInstructions[language]}</label>
+                </div>
               </div>
             </div>
           </header>
@@ -405,7 +428,7 @@ const ManualViewer = () => {
                         {translations.invocation[language]}
                       </h3>
                       <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                        {activeSection.steps[0].slokas[language === 'hindi' ? 'devanagari' : language]}
+                        {formatSloka(activeSection.steps[0].slokas[language === 'hindi' ? 'devanagari' : language])}
                       </p>
                     </div>
                   )
@@ -417,7 +440,7 @@ const ManualViewer = () => {
                         {translations.invocation[language]}
                       </h3>
                       <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                        {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
+                        {formatSloka(activeSection.slokas[language === 'hindi' ? 'devanagari' : language])}
                       </p>
                     </div>
                   )
@@ -434,38 +457,12 @@ const ManualViewer = () => {
                         {translations.step[language]} {stepIndex + 1}
                       </h3>
                       
-                      {/* Instructions */}
-                      <div className="mb-6">
-                        <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
-                          <GuruIcon className="text-blue-600" /> {translations.instructions[language]}
-                        </h4>
-                        <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
-                          {step.instructions[language].map((inst, i) => (
-                            <li key={i}>{inst}</li>
-                          ))}
-                        </ul>
-                      </div>
-
-                      {/* Slokas if available */}
-                      {step.slokas && (
-                        <div className="mb-6">
-                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
-                            <MantraIcon className="text-amber-600" />
-                            {translations.mantra[language]}
-                          </h4>
-                          <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
-                            <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                              {step.slokas[language === 'hindi' ? 'devanagari' : language]}
-                            </p>
-                          </div>
-                        </div>
-                      )}
-
                       {/* Diagram if available */}
                       {(step.diagram || step.diagram_placeholder) && step.diagram_placeholder !== "No diagram for this step." && (
                         <div className="mb-6">
                           <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
                             <ImageIcon className="text-gray-600" />
+                            {translations.visualGuide[language]}
                           </h4>
                           <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg flex items-center justify-center" style={{minHeight: '300px'}}>
                             {step.diagram ? (
@@ -489,37 +486,42 @@ const ManualViewer = () => {
                           </div>
                         </div>
                       )}
+
+                      {/* Instructions */}
+                      {showInstructions && (
+                        <div className="mb-6">
+                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
+                            <GuruIcon className="text-blue-600" /> {translations.instructions[language]}
+                          </h4>
+                          <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
+                            {step.instructions[language].map((inst, i) => (
+                              <li key={i}>{inst}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {/* Slokas if available */}
+                      {step.slokas && (
+                        <div className="mb-6">
+                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
+                            <MantraIcon className="text-amber-600" />
+                            {translations.mantra[language]}
+                          </h4>
+                          <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
+                            <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                              {formatSloka(step.slokas[language === 'hindi' ? 'devanagari' : language])}
+                            </p>
+                          </div>
+                        </div>
+                      )}
                     </div>
                   ))
                 ) : (
                   // Legacy format
                   <>
-                    <div id="instructions" className="content-section mb-12">
-                      <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
-                        <GuruIcon className="text-blue-600" />
-                        {translations.instructions[language]}
-                      </h3>
-                      <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
-                        {activeSection.instructions && activeSection.instructions[language].map((inst, i) => <li key={i}>{inst}</li>)}
-                      </ul>
-                    </div>
-
-                    {activeSection.slokas && (
-                      <div id="sloka" className="content-section mb-12">
-                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
-                          <MantraIcon className="text-amber-600" />
-                          {translations.mantra[language]}
-                        </h3>
-                        <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
-                          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                            {activeSection.slokas[language === 'hindi' ? 'devanagari' : language]}
-                          </p>
-                        </div>
-                      </div>
-                    )}
-
                     {(activeSection.diagram || activeSection.diagram_placeholder) && activeSection.diagram_placeholder !== "No diagram for this section." && (
-                      <div id="diagram" className="content-section">
+                      <div id="diagram" className="content-section mb-12">
                         <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
                           <ImageIcon className="text-gray-600" />
                           {translations.visualGuide[language]}
@@ -543,6 +545,32 @@ const ManualViewer = () => {
                           ) : (
                             <p className="text-gray-500 p-4 text-center">{activeSection.diagram_placeholder}</p>
                           )}
+                        </div>
+                      </div>
+                    )}
+
+                    {showInstructions && (
+                      <div id="instructions" className="content-section mb-12">
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
+                          <GuruIcon className="text-blue-600" />
+                          {translations.instructions[language]}
+                        </h3>
+                        <ul className="list-disc list-inside space-y-3 pl-2 leading-relaxed">
+                          {activeSection.instructions && activeSection.instructions[language].map((inst, i) => <li key={i}>{inst}</li>)}
+                        </ul>
+                      </div>
+                    )}
+
+                    {activeSection.slokas && (
+                      <div id="sloka" className="content-section mb-12">
+                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
+                          <MantraIcon className="text-amber-600" />
+                          {translations.mantra[language]}
+                        </h3>
+                        <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
+                          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                            {formatSloka(activeSection.slokas[language === 'hindi' ? 'devanagari' : language])}
+                          </p>
                         </div>
                       </div>
                     )}
