@@ -675,6 +675,23 @@ const ManualViewer = () => {
 
 // --- Main App Component with Routing ---
 export default function App() {
+  useEffect(() => {
+    // GitHub Pages SPA redirect handling
+    // Check to see if we are being redirected from a 404 page
+    const query = window.location.search;
+    if (query.slice(1).split('&')[0] === '') {
+      return;
+    }
+    
+    if (query.startsWith('?/')) {
+      // Remove the leading ?/ and convert back to a normal path
+      const route = query.slice(2).replace(/&/g, '?').replace(/~and~/g, '&');
+      if (route) {
+        window.history.replaceState(null, null, window.location.pathname + route);
+      }
+    }
+  }, []);
+
   return (
     <Router basename="/homa-vidhanam">
       <Routes>
