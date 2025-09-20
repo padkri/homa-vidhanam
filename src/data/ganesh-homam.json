@@ -44,9 +44,9 @@
             ]
           },
           "slokas": {
-            "english": "Om Sri MahaaGanapathaye Namah | Om Sri Gurubhyo Namah | Om Rishibhyo Namah |",
-            "telugu": "ఓం శ్రీ మహాగణపతయే నమః | ఓం శ్రీ గురుభ్యో నమః | ఓం ఋషిభ్యో నమః |",
-            "devanagari": "ॐ श्री महागणपतये नमः । ॐ श्री गुरुभ्यो नमः । ॐ ऋषिभ्यो नमः ।"
+            "english": "Om Sri MahaaGanapathaye Namah ।Om Sri Gurubhyo Namah ।Om Rishibhyo Namah ।",
+            "telugu": "ఓం శ్రీ మహాగణపతయే నమః ।ఓం శ్రీ గురుభ్యో నమః ।ఓం ఋషిభ్యో నమః ।",
+            "devanagari": "ॐ श्री महागणपतये नमः ।ॐ श्री गुरुभ्यो नमः ।ॐ ऋषिभ्यो नमः ।"
           }
         }
       ]
@@ -75,9 +75,9 @@
               ]
             },
             "slokas": {
-              "english": "Om R^iddhyaasma havyairnamasopasadya | mitram devam mitradheyam no astu |  anooraadhaan havishaa vardhayantah |  shatam jeevema sharadah saveeraah |",
-              "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య |  మిత్రం దేవం మిత్రధేయం నో అస్తు |  అనూరాధాన్ హవిషా వర్ధయంతః |  శతం జీవేమ శరదః సవీరాః |",
-              "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य |  मित्रं देवं मित्रधेयं नो अस्तु |  अनूराधान् हविषा वर्धयन्तः |  शतं जीवेम शरदः सवीराः |"
+              "english": "Om R^iddhyaasma havyairnamasopasadya ।mitram devam mitradheyam no astu । anooraadhaan havishaa vardhayantah । shatam jeevema sharadah saveeraah ।",
+              "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య । మిత్రం దేవం మిత్రధేయం నో అస్తు । అనూరాధాన్ హవిషా వర్ధయంతః । శతం జీవేమ శరదః సవీరాః ।",
+              "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य । मित्रं देवं मित्रधेयं नो अस्तु । अनूराधान् हविषा वर्धयन्तः । शतं जीवेम शरदः सवीराः ।"
             }
           },
           {
@@ -89,7 +89,7 @@
                 "మీ దగ్గర 'పవిత్రం' (దర్భతో చేసిన ఉంగరం లేదా ప్రత్యేక లోహపు ఉంగరం) ఉంటే, దానిని ఇప్పుడు మీ కుడి చేతి ఉంగరపు వేలికి ధరించండి. లేకపోతే, మీ ఇష్ట దేవతను ప్రార్థించిన తర్వాత మీ దగ్గర ఉన్న ఏదైనా ఉంగరాన్ని ఉపయోగించవచ్చు, లేదా ఏమీ లేకుండా కొనసాగించవచ్చు."
               ],
               "hindi": [
-                "यदि आपके पास 'पवित्रम्' (दर्भ से बनी अंगूठी या एक विशेष धातु की अंगूठी) है, तो इसे अब अपने दाहिने हाथ की अनामिका उंगली में पहनें। यदि नहीं, तो आप अपने इष्ट देवता से प्रार्थना करने के बाद अपनी किसी भी अंगूठी का उपयोग कर सकते हैं, या बस आगे बढ़ सकते हैं।"
+                "यदि आपके पास 'पवित्रम्' (दर्भ से बनी अंगूठी या एक विशेष धातु की अंगूठी) है, तो इसे अब अपने दाहिने हाथ की अनामिका उंगली में पहनें।यदि नहीं, तो आप अपने इष्ट देवता से प्रार्थना करने के बाद अपनी किसी भी अंगूठी का उपयोग कर सकते हैं, या बस आगे बढ़ सकते हैं।"
               ]
             }
           }
@@ -122,8 +122,8 @@
               ]
             },
             "slokas": {
-              "english": "om keśavāya svāhā |om nārāyaṇāya svāhā |om mādhavāya svāhā |",
-              "telugu": "ఓం కేశవాయ స్వాహా |ఓం నారాయణాయ స్వాహా |ఓం మాధవాయ స్వాహా |",
+              "english": "om keśavāya svāhā ।om nārāyaṇāya svāhā ।om mādhavāya svāhā ।",
+              "telugu": "ఓం కేశవాయ స్వాహా ।ఓం నారాయణాయ స్వాహా ।ఓం మాధవాయ స్వాహా ।",
               "devanagari": "ॐ केशवाय स्वाहा ।\nॐ नारायणाय स्वाहा ।\nॐ माधवाय स्वाहा ।"
             }
           }
@@ -146,12 +146,12 @@
                 "పూజలో ఎలాంటి ఆటంకాలు కలగకుండా ఉండాలంటే ముందుగా గణేశుడిని ప్రార్థించాలి. ఈ క్రింది శ్లోకాలను చదవండి."
               ],
               "hindi": [
-                "पूजा में कोई बाधा न आए, इसके लिए हमें शुरुआत में गणेश जी की प्रार्थना करनी होगी। निम्नलिखित श्लोकों को पढ़ें।"
+                "पूजा में कोई बाधा न आए, इसके लिए हमें शुरुआत में गणेश जी की प्रार्थना करनी होगी।निम्नलिखित श्लोकों को पढ़ें।"
               ]
             },
             "slokas": {
-              "english": "śuklāmbaradharam vişnum śaśivarņam caturbhujam prasannavadanam dhyāyet sarva vighnopaśāntaye||agajānana padmärkam gajānanamaharniśam anekadam tam bhaktānām ekadantam upāsmahe||vakratunda mahākāya koțisūryasamaprabha nirvighnam kuru me deva sarvakāryeşu sarvadā ||",
-              "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే|| అగజానన పద్మార్కం గజాననమహర్నిశం అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే|| వక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ||",
+              "english": "śuklāmbaradharam vişnum śaśivarņam caturbhujam prasannavadanam dhyāyet sarva vighnopaśāntaye॥agajānana padmärkam gajānanamaharniśam anekadam tam bhaktānām ekadantam upāsmahe॥vakratunda mahākāya koțisūryasamaprabha nirvighnam kuru me deva sarvakāryeşu sarvadā ॥",
+              "telugu": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం ప్రసన్నవదనం ధ్యాయేత్ సర్వ విఘ్నోపశాంతయే॥ అగజానన పద్మార్కం గజాననమహర్నిశం అనేకదం తం భక్తానాం ఏకదంతం ఉపాస్మహే॥ వక్రతుండ మహాకాయ కోటిసూర్యసమప్రభ నిర్విఘ్నం కురు మే దేవ సర్వకార్యేషు సర్వదా ॥",
               "devanagari": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥\nअगजाननपद्मार्कं गजाननमहर्निशम् अनेकदं तं भक्तानामेकदन्तमुपास्महे॥\nवक्रतुण्ड महाकाय कोटिसूर्यसमप्रभ निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥"
             }
           },
@@ -199,7 +199,7 @@
                 "చివరగా, కుడి నాసికను తెరిచి, శ్వాసను వదులుతూ ఆరవసారి మంత్రాన్ని జపించండి."
               ],
               "hindi": [
-                "कुछ अक्षत अपनी बाईं हथेली में लें और उसे अपनी बाईं गोद में रखें। अपने दाहिने हाथ से अपनी नाक को पकड़ें।",
+                "कुछ अक्षत अपनी बाईं हथेली में लें और उसे अपनी बाईं गोद में रखें।अपने दाहिने हाथ से अपनी नाक को पकड़ें।",
                 "बाईं नासिका को बंद करें, और दाहिनी नासिका से धीरे-धीरे सांस लेते हुए, नीचे दिए गए मंत्रों में से एक का मानसिक रूप से जाप करें।",
                 "दाहिनी नासिका को बंद करें, सांस रोकें, और फिर से मानसिक रूप से मंत्र का जाप करें।",
                 "बाईं नासिका खोलें और सांस छोड़ते हुए तीसरी बार मंत्र का जाप करें।",
@@ -209,9 +209,9 @@
               ]
             },
             "slokas": {
-              "english": "om namo bhagavate väsudevāya | om namaśśivāya | om gam ganapataye namaḥ |",
-              "telugu": "ఓం నమో భగవతే వాసుదేవాయ | ఓం నమశ్శివాయ | ఓం గం గణపతయే నమః |",
-              "devanagari": "ॐ नमो भगवते वासुदेवाय । ॐ नमश्शिवाय । ॐ गं गणपतये नमः ।"
+              "english": "om namo bhagavate väsudevāya ।om namaśśivāya ।om gam ganapataye namaḥ ।",
+              "telugu": "ఓం నమో భగవతే వాసుదేవాయ ।ఓం నమశ్శివాయ ।ఓం గం గణపతయే నమః ।",
+              "devanagari": "ॐ नमो भगवते वासुदेवाय ।ॐ नमश्शिवाय ।ॐ गं गणपतये नमः ।"
             }
           }
         ]
@@ -235,7 +235,7 @@
                 "మహా గణపతిని ప్రసన్నం చేసుకోవడానికి మీ శక్తి మేరకు ఈ హోమం చేస్తున్నారని మానసికంగా ధృవీకరించుకుని, ఈ క్రింది వాటిని పఠించండి:"
               ],
               "hindi": [
-                "होम करने के अपने इरादे की घोषणा करें। अक्षत को अपने दाहिने हाथ में स्थानांतरित करें। अपनी बंद दाहिनी हथेली (जिसमें अक्षत हैं) को अपनी खुली बाईं हथेली पर रखें।",
+                "होम करने के अपने इरादे की घोषणा करें।अक्षत को अपने दाहिने हाथ में स्थानांतरित करें।अपनी बंद दाहिनी हथेली (जिसमें अक्षत हैं) को अपनी खुली बाईं हथेली पर रखें।",
                 "मानसिक रूप से पुष्टि करें कि आप महा गणपति को प्रसन्न करने के लिए अपनी पूरी क्षमता से यह होम कर रहे हैं, और निम्नलिखित का पाठ करें:"
               ]
             },
@@ -277,7 +277,7 @@
                 "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి. నీటిని శుద్ధి చేయడానికి, ఈ క్రింది అక్షరాన్ని 11 సార్లు జపించండి."
               ],
               "hindi": [
-                "पानी के गिलास में कुछ अक्षत और एक फूल रखें। पानी को शुद्ध करने के लिए, निम्नलिखित अक्षर का 11 बार जाप करें।"
+                "पानी के गिलास में कुछ अक्षत और एक फूल रखें।पानी को शुद्ध करने के लिए, निम्नलिखित अक्षर का 11 बार जाप करें।"
               ]
             },
             "slokas": {
@@ -299,9 +299,9 @@
               ]
             },
             "slokas": {
-              "english": "gange ca yamune caiva godāvari sarasvati | narmade sindhu kaveri jale'smin sannidhim kuru || amṛtaṁ bhavatu",
-              "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి | నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు || అమృతం భవతు",
-              "devanagari": "गङ्गे च यमुने चैव गोदावरि सरस्वति । नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
+              "english": "gange ca yamune caiva godāvari sarasvati ।narmade sindhu kaveri jale'smin sannidhim kuru ॥ amṛtaṁ bhavatu",
+              "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి ।నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥ అమృతం భవతు",
+              "devanagari": "गङ्गे च यमुने चैव गोदावरि सरस्वति ।नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु"
             }
           },
           {
@@ -320,9 +320,9 @@
               ]
             },
             "slokas": {
-              "english": "om brahmane namaḥ | om yamāya namaḥ | om somāya namaḥ | om rudrāya namaḥ | om vişnave namaḥ | om indrāya namaḥ |",
-              "telugu": "ఓం బ్రహ్మణే నమః | ఓం యమాయ నమః | ఓం సోమాయ నమః | ఓం రుద్రాయ నమః | ఓం విష్ణవే నమః | ఓం ఇంద్రాయ నమః |",
-              "devanagari": "ॐ ब्रह्मणे नमः । ॐ यमाय नमः । ॐ सोमाय नमः । ॐ रुद्राय नमः । ॐ विष्णवे नमः । ॐ इन्द्राय नमः ।"
+              "english": "om brahmane namaḥ ।om yamāya namaḥ ।om somāya namaḥ ।om rudrāya namaḥ ।om vişnave namaḥ ।om indrāya namaḥ ।",
+              "telugu": "ఓం బ్రహ్మణే నమః ।ఓం యమాయ నమః ।ఓం సోమాయ నమః ।ఓం రుద్రాయ నమః ।ఓం విష్ణవే నమః ।ఓం ఇంద్రాయ నమః ।",
+              "devanagari": "ॐ ब्रह्मणे नमः ।ॐ यमाय नमः ।ॐ सोमाय नमः ।ॐ रुद्राय नमः ।ॐ विष्णवे नमः ।ॐ इन्द्राय नमः ।"
             },
             "diagram": "/diagrams/homa-kundam-6-lines.svg"
           }
@@ -347,7 +347,7 @@
                 "దీపం నుండి ఒక కర్పూరం ముక్కను వెలిగించి, ఈ క్రింది మంత్రాన్ని పఠిస్తూ హోమ కుండం మధ్యలో ఉంచండి."
               ],
               "hindi": [
-                "एक दर्भ को होम कुंड के अंदर रखें जिसका सिरा पूर्व की ओर हो। दूसरा रखें जिसका सिरा उत्तर की ओर हो।",
+                "एक दर्भ को होम कुंड के अंदर रखें जिसका सिरा पूर्व की ओर हो।दूसरा रखें जिसका सिरा उत्तर की ओर हो।",
                 "दीपक से कपूर का एक टुकड़ा जलाएं और निम्नलिखित मंत्र का पाठ करते हुए इसे होम कुंड के बीच में रखें।"
               ]
             },
@@ -366,12 +366,12 @@
                 "అగ్నిని రాజేయడానికి మండుతున్న కర్పూరంపై ఎండు కొబ్బరి ముక్కలు లేదా సమిధను ఉంచండి. ఆ తర్వాత, అగ్ని దేవుడిని ప్రార్థించండి, మీ నైవేద్యాలను దేవతలకు తన శుభ రూపమైన 'జాతవేదస్' రూపంలో చేరవేయమని కోరండి."
               ],
               "hindi": [
-                "आग बनाने के लिए जलते हुए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें। फिर, अग्नि देव से प्रार्थना करें, उनसे अनुरोध करें कि वे देवताओं को अपने शुभ रूप, 'जातवेदस्' में आहुतियाँ पहुँचाएँ।"
+                "आग बनाने के लिए जलते हुए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें।फिर, अग्नि देव से प्रार्थना करें, उनसे अनुरोध करें कि वे देवताओं को अपने शुभ रूप, 'जातवेदस्' में आहुतियाँ पहुँचाएँ।"
               ]
             },
             "slokas": {
-              "english": "kravyādamagnim prahinomi dūram yamarājño gacchatu ripravāhaḥ | ihaivāyamitaro jātavedā devebhyo havyam vahatu prajānan |",
-              "telugu": "క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః | ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ |",
+              "english": "kravyādamagnim prahinomi dūram yamarājño gacchatu ripravāhaḥ ।ihaivāyamitaro jātavedā devebhyo havyam vahatu prajānan ।",
+              "telugu": "క్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః ।ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ ।",
               "devanagari": "क्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः । इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।"
             }
           },
@@ -388,8 +388,8 @@
               ]
             },
             "slokas": {
-              "english": "om bhūrbhuvassuvaḥ svāhā |",
-              "telugu": "ఓం భూర్భువస్సువః స్వాహా |",
+              "english": "om bhūrbhuvassuvaḥ svāhā ।",
+              "telugu": "ఓం భూర్భువస్సువః స్వాహా ।",
               "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा ।"
             }
           },
@@ -409,8 +409,8 @@
               ]
             },
             "slokas": {
-              "english": "adite'numanyasva | anumate'numanyasva | sarasvate'numanyasva | deva savitaḥ prasuva |",
-              "telugu": "అదితేऽనుమన్యస్వ | అనుమతేऽనుమన్యస్వ | సరస్వతేऽనుమన్యస్వ | దేవ సవితః ప్రసువ |",
+              "english": "adite'numanyasva । anumate'numanyasva । sarasvate'numanyasva । deva savitaḥ prasuva ।",
+              "telugu": "అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।",
               "devanagari": "अदितेऽनुमन्यस्व । अनुमतेऽनुमन्यस्व । सरस्वतेऽनुमन्यस्व । देव सवितः प्रसुव ।"
             },
             "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
@@ -428,7 +428,7 @@
               ]
             },
             "slokas": {
-              "english": "Chatvaari shrungaastrayo asya paadaa dwe sheershe saptahastaaso asya | tridhaa baddho vishabho roraveeti maho devo martyaa aavivesha | Esha hi devah pradisho nu sarvaah poorvo hi jaatah sa u garbhe antah | sa vijaayamaanah sa janishyamaanah pratyangmukhaastishthati vishwatomukhah | praangmukho deva | he agne | mamaabhimukho bhava |",
+              "english": "Chatvaari shrungaastrayo asya paadaa dwe sheershe saptahastaaso asya । tridhaa baddho vishabho roraveeti maho devo martyaa aavivesha । Esha hi devah pradisho nu sarvaah poorvo hi jaatah sa u garbhe antah । sa vijaayamaanah sa janishyamaanah pratyangmukhaastishthati vishwatomukhah । praangmukho deva । he agne । mamaabhimukho bhava ।",
               "telugu": "చత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య । త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ । ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్భే అంతః । స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ముఖాస్తిష్ఠతి విశ్వతోముఖః । ప్రాఙ్ముఖో దేవ । హే అగ్నే । మమాభిముఖో భవ ।",
               "devanagari": "चत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश । एष हि देवः प्रदिशो नु सर्वाः पूर्वो हि जातः स उ गर्भे अन्तः । स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः । प्राङ्‌मुखो देव । हे अग्ने। ममाभिमुखो भव ।"
             }
@@ -465,8 +465,8 @@
               ]
             },
             "slokas": {
-              "english": "om indrāya namaḥ | om agnaye namaḥ | om yamāya namaḥ | om nirṛtaye namaḥ | om varuņāya namaḥ | om vāyave namaḥ | om somāya namaḥ | om īśānāya namaḥ | om brahmane namaḥ | om śeṣāya namaḥ | om agnaye namaḥ | om atmane namaḥ |",
-              "telugu": "ఓం ఇంద్రాయ నమః | ఓం అగ్నయే నమః | ఓం యమాయ నమః | ఓం నిరృతయే నమః | ఓం వరుణాయ నమః | ఓం వాయవే నమః | ఓం సోమాయ నమః | ఓం ఈశానాయ నమః | ఓం బ్రహ్మణే నమః | ఓం శేషాయ నమః | ఓం అగ్నయే నమః | ఓం ఆత్మనే నమః |",
+              "english": "om indrāya namaḥ । om agnaye namaḥ । om yamāya namaḥ । om nirṛtaye namaḥ । om varuņāya namaḥ । om vāyave namaḥ । om somāya namaḥ । om īśānāya namaḥ । om brahmane namaḥ । om śeṣāya namaḥ । om agnaye namaḥ । om atmane namaḥ ।",
+              "telugu": "ఓం ఇంద్రాయ నమః । ఓం అగ్నయే నమః । ఓం యమాయ నమః । ఓం నిరృతయే నమః । ఓం వరుణాయ నమః । ఓం వాయవే నమః । ఓం సోమాయ నమః । ఓం ఈశానాయ నమః । ఓం బ్రహ్మణే నమః । ఓం శేషాయ నమః । ఓం అగ్నయే నమః । ఓం ఆత్మనే నమః ।",
               "devanagari": "ॐ इन्द्राय नमः । ॐ अग्नये नमः । ॐ यमाय नमः । ॐ निरृतये नमः । ॐ वरुणाय नमः । ॐ वायवे नमः । ॐ सोमाय नमः । ॐ ईशानाय नमः । ॐ ब्रह्मणे नमः । ॐ शेषाय नमः । ॐ अग्नये नमः । ॐ आत्मने नमः ।"
             },
             "diagram": "/diagrams/dikpalakas.svg"
@@ -494,8 +494,8 @@
               ]
             },
             "slokas": {
-              "english": "om prajāpataye svāhā prajāpataya idam na mama |",
-              "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ |",
+              "english": "om prajāpataye svāhā prajāpataya idam na mama ।",
+              "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ ।",
               "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।"
             }
           },
@@ -512,8 +512,8 @@
               ]
             },
             "slokas": {
-              "english": "om indrāya svāhā indrāyedam na mama |",
-              "telugu": "ఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ |",
+              "english": "om indrāya svāhā indrāyedam na mama ।",
+              "telugu": "ఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ ।",
               "devanagari": "ॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।"
             }
           },
@@ -530,8 +530,8 @@
               ]
             },
             "slokas": {
-              "english": "om agnaye svāhā agnaya idam na mama |",
-              "telugu": "ఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ |",
+              "english": "om agnaye svāhā agnaya idam na mama ।",
+              "telugu": "ఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ ।",
               "devanagari": "ॐ अग्नये स्वाहा अग्नय इदं न मम ।"
             }
           },
@@ -548,8 +548,8 @@
               ]
             },
             "slokas": {
-              "english": "om somāya svāhā somāyedam na mama |",
-              "telugu": "ఓం సోమాయ స్వాహా సోమాయేదం న మమ |",
+              "english": "om somāya svāhā somāyedam na mama ।",
+              "telugu": "ఓం సోమాయ స్వాహా సోమాయేదం న మమ ।",
               "devanagari": "ॐ सोमाय स्वाहा सोमायेदं न मम ।"
             }
           },
@@ -566,8 +566,8 @@
               ]
             },
             "slokas": {
-              "english": "ārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi | om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama |",
-              "telugu": "ఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి | ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ |",
+              "english": "ārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi । om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama ।",
+              "telugu": "ఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి । ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ ।",
               "devanagari": "आरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि । ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।"
             }
           }
@@ -594,8 +594,8 @@
               ]
             },
             "slokas": {
-              "english": "asya śrī mahāganapati prāņapratisthāpana mantrasya ganaka ṛṣiḥ nicṛdgāyatri chandaḥ śrī mahā ganapatirdevatāl glāṁ bījam glīṁ śaktiḥ | glaum kīlakam | gām angusthābhyām namaḥ gīm tarjanībhyām namaḥ| güm madhyamābhyām namaḥ| gaim anāmikābhyām namaḥ gaum kanişṭhikābhyām namaḥ | gaḥ karatala karapṛṣṭhābhyām namah | gām hṛdayāya namaḥ | gīṁ śirase svāhā gūṁ śikhāyai vaşaț gaim kavacāya hum | gaum netratrayāya vauşat gah astrāya phat | bhūrbhuvassuvaromiti digbandhaḥ |",
-              "telugu": "అస్య శ్రీ మహాగణపతి ప్రాణప్రతిష్ఠాపన మంత్రస్య గణక ఋషిః నిచృద్గాయత్రీ చ్చందః శ్రీ మహా గణపతిర్దేవతా| గ్లాం బీజం గ్లీం శక్తిః | గ్లౌం కీలకం | గాం అంగుష్ఠాభ్యాం నమః గీం తర్జనీభ్యాం నమః| గూం మధ్యమాభ్యాం నమః| గైం అనామికాభ్యాం నమః గౌం కనిష్ఠికాభ్యాం నమః | గః కరతల కరపృష్ఠాభ్యాం నమః | గాం హృదయాయ నమః | గీం శిరసే స్వాహా గూం శిఖాయై వషట్ గైం కవచాయ హుం | గౌం నేత్రత్రయాయ వౌషట్ గః అస్త్రాయ ఫట్ | భూర్భువస్సువరోమితి దిగ్బంధః |",
+              "english": "asya śrī mahāganapati prāņapratisthāpana mantrasya ganaka ṛṣiḥ nicṛdgāyatri chandaḥ śrī mahā ganapatirdevatāl glāṁ bījam glīṁ śaktiḥ । glaum kīlakam । gām angusthābhyām namaḥ gīm tarjanībhyām namaḥ। güm madhyamābhyām namaḥ। gaim anāmikābhyām namaḥ gaum kanişṭhikābhyām namaḥ । gaḥ karatala karapṛṣṭhābhyām namah । gām hṛdayāya namaḥ । gīṁ śirase svāhā gūṁ śikhāyai vaşaț gaim kavacāya hum । gaum netratrayāya vauşat gah astrāya phat । bhūrbhuvassuvaromiti digbandhaḥ ।",
+              "telugu": "అస్య శ్రీ మహాగణపతి ప్రాణప్రతిష్ఠాపన మంత్రస్య గణక ఋషిః నిచృద్గాయత్రీ చ్చందః శ్రీ మహా గణపతిర్దేవతా। గ్లాం బీజం గ్లీం శక్తిః । గ్లౌం కీలకం । గాం అంగుష్ఠాభ్యాం నమః గీం తర్జనీభ్యాం నమః। గూం మధ్యమాభ్యాం నమః। గైం అనామికాభ్యాం నమః గౌం కనిష్ఠికాభ్యాం నమః । గః కరతల కరపృష్ఠాభ్యాం నమః । గాం హృదయాయ నమః । గీం శిరసే స్వాహా గూం శిఖాయై వషట్ గైం కవచాయ హుం । గౌం నేత్రత్రయాయ వౌషట్ గః అస్త్రాయ ఫట్ । భూర్భువస్సువరోమితి దిగ్బంధః ।",
               "devanagari": "अस्य श्री महागणपति प्राणप्रतिष्ठापन मन्त्रस्य गणक ऋषिः निचृद्गायत्री छन्दः श्री महा गणपतिर्देवता। ग्लां बीजं ग्लीं शक्तिः । ग्लौं कीलकम् । गां अंगुष्ठाभ्यां नमः गीं तर्जनीभ्यां नमः। गूं मध्यमाभ्यां नमः। गैं अनामिकाभ्यां नमः गौं कनिष्ठिकाभ्यां नमः । गः करतल करपृष्ठाभ्यां नमः । गां हृदयाय नमः । गीं शिरसे स्वाहा गूं शिखायै वषट् गैं कवचाय हुम् । गौं नेत्रत्रयाय वौषट् गः अस्त्राय फट् । भूर्भुवस्सुवरोमिति दिग्बन्धः ।"
             }
           },
@@ -612,8 +612,8 @@
               ]
             },
             "slokas": {
-               "english": "om ām hrīṁ krom yam ram lam vam śam şam sam ham lam kşam | om hamsah so'ham so'ham hamsaḥ śrī mahāganapateḥ prāņa iha prāṇaḥ jīva iha sthitaḥ sarvendriyāņi vānmanaścakşuḥ śrotra jihvāghrāņa prāṇāpānavyānodānasamānāḥ ihaivāgatya sukham ciram tişthantu svāhā sānnidhyam kurvantu svāhā | asunī te punarasmāsu cakşuḥ punaḥ prāņamiha no dehi bhogam jyokpaśyema sūryamuccarantamanumate mrļayā naḥ svasti | ām hrīṁ krom krom hrīm ām | ām hrīṁ krom krom hrīm ām ām hrīṁ krom krom hrīm ām ām hrīṁ krom krom hrīm ām | om śrī mahāganapati prāṇaśaktyai namaḥ |",
-              "telugu": "ఓం ఆం హ్రీం క్రోం యం రం లం వం శం షం సం హం లం క్షం | ఓం హంసః సోऽహం సోऽహం హంసః శ్రీ మహాగణపతేః ప్రాణ ఇహ ప్రాణః జీవ ఇహ స్థితః సర్వేంద్రియాణి వాఙ్మనశ్చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠంతు స్వాహా సాన్నిధ్యం కుర్వంతు స్వాహా | అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి | ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం | ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం | ఓం శ్రీ మహాగణపతి ప్రాణశక్త్యై నమః |",
+               "english": "om ām hrīṁ krom yam ram lam vam śam şam sam ham lam kşam । om hamsah so'ham so'ham hamsaḥ śrī mahāganapateḥ prāņa iha prāṇaḥ jīva iha sthitaḥ sarvendriyāņi vānmanaścakşuḥ śrotra jihvāghrāņa prāṇāpānavyānodānasamānāḥ ihaivāgatya sukham ciram tişthantu svāhā sānnidhyam kurvantu svāhā । asunī te punarasmāsu cakşuḥ punaḥ prāņamiha no dehi bhogam jyokpaśyema sūryamuccarantamanumate mrļayā naḥ svasti । ām hrīṁ krom krom hrīm ām । ām hrīṁ krom krom hrīm ām ām hrīṁ krom krom hrīm ām ām hrīṁ krom krom hrīm ām । om śrī mahāganapati prāṇaśaktyai namaḥ ।",
+              "telugu": "ఓం ఆం హ్రీం క్రోం యం రం లం వం శం షం సం హం లం క్షం । ఓం హంసః సోऽహం సోऽహం హంసః శ్రీ మహాగణపతేః ప్రాణ ఇహ ప్రాణః జీవ ఇహ స్థితః సర్వేంద్రియాణి వాఙ్మనశ్చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠంతు స్వాహా సాన్నిధ్యం కుర్వంతు స్వాహా । అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి । ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం । ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం ఆం హ్రీం క్రోం క్రోం హ్రీం ఆం । ఓం శ్రీ మహాగణపతి ప్రాణశక్త్యై నమః ।",
               "devanagari": "ॐ आं ह्रीं क्रों यं रं लं वं शं षं सं हं लं क्षम् । ॐ हंसः सोऽहं सोऽहं हंसः श्री महागणपतेः प्राण इह प्राणः जीव इह स्थितः सर्वेन्द्रियाणि वाङ्मनश्चक्षुः श्रोत्र जिह्वाघ्राण प्राणापानव्यानोदानसमानाः इहैवागत्य सुखं चिरं तिष्ठन्तु स्वाहा सान्निध्यं कुर्वन्तु स्वाहा । असुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगम् ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति । आं ह्रीं क्रों क्रों ह्रीं आं । आं ह्रीं क्रों क्रों ह्रीं आं आं ह्रीं क्रों क्रों ह्रीं आं आं ह्रीं क्रों क्रों ह्रीं आं । ॐ श्री महागणपति प्राणशक्त्यै नमः ।"
             }
           },
@@ -630,8 +630,8 @@
               ]
             },
             "slokas": {
-              "english": "āvāhito bhava | sthāpito bhava | sannihito bhava | sanniruddho bhava | avakunthito bhava | deva prasīda prasīda | deva sarva jagannātha yāvaddhomāvasānakam tāvattvam prītibhāvena mūrtau agnau ca sannidhim kuru |",
-              "telugu": "ఆవాహితో భవ | స్థాపితో భవ | సన్నిహితో భవ | సన్నిరుద్ధో భవ | అవకుంఠితో భవ | దేవ ప్రసీద ప్రసీద | దేవ సర్వ జగన్నాథ యావద్ధోమావసానకం తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు |",
+              "english": "āvāhito bhava । sthāpito bhava । sannihito bhava । sanniruddho bhava । avakunthito bhava । deva prasīda prasīda । deva sarva jagannātha yāvaddhomāvasānakam tāvattvam prītibhāvena mūrtau agnau ca sannidhim kuru ।",
+              "telugu": "ఆవాహితో భవ । స్థాపితో భవ । సన్నిహితో భవ । సన్నిరుద్ధో భవ । అవకుంఠితో భవ । దేవ ప్రసీద ప్రసీద । దేవ సర్వ జగన్నాథ యావద్ధోమావసానకం తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు ।",
               "devanagari": "आवादितो भव । स्थापितो भव । सन्निहितो भव । सन्निरुद्धो भव । अवकुण्ठितो भव । देव प्रसीद प्रसीद । देव सर्व जगन्नाथ यावद्धोमावसानकम् तावत्त्वं प्रीतिभावेन मूर्तौ अग्नौ च सन्निधिं कुरु ।"
             }
           }
@@ -658,8 +658,8 @@
               ]
             },
             "slokas": {
-              "english": "lam pṛthivyātmane namaḥ gandham samarpayāmi |",
-              "telugu": "లం పృథివ్యాత్మనే నమః గంధం సమర్పయామి |",
+              "english": "lam pṛthivyātmane namaḥ gandham samarpayāmi ।",
+              "telugu": "లం పృథివ్యాత్మనే నమః గంధం సమర్పయామి ।",
               "devanagari": "लं पृथिव्यात्मने नमः गन्धं समर्पयामि ।"
             }
           },
@@ -676,8 +676,8 @@
               ]
             },
             "slokas": {
-              "english": "ham ākāśātmane namaḥ | puspam samarpayāmi |",
-              "telugu": "హం ఆకాశాత్మనే నమః | పుష్పం సమర్పయామి |",
+              "english": "ham ākāśātmane namaḥ । puspam samarpayāmi ।",
+              "telugu": "హం ఆకాశాత్మనే నమః । పుష్పం సమర్పయామి ।",
               "devanagari": "हं आकाशात्मने नमः । पुष्पं समर्पयामि ।"
             }
           },
@@ -694,8 +694,8 @@
               ]
             },
             "slokas": {
-              "english": "yaṁ vāyvātmane namaḥ | dhūpam āghrāpayāmi |",
-              "telugu": "యం వాయ్వాత్మనే నమః | ధూపం ఆఘ్రాపయామి |",
+              "english": "yaṁ vāyvātmane namaḥ । dhūpam āghrāpayāmi ।",
+              "telugu": "యం వాయ్వాత్మనే నమః । ధూపం ఆఘ్రాపయామి ।",
               "devanagari": "यं वाय्वात्मने नमः । धूपं आघ्रापयामि ।"
             }
           },
@@ -712,8 +712,8 @@
               ]
             },
             "slokas": {
-              "english": "ram agnyātmane namaḥ| dīpam darśayāmi |",
-              "telugu": "రం అగ్న్యాత్మనే నమః| దీపం దర్శయామి |",
+              "english": "ram agnyātmane namaḥ। dīpam darśayāmi ।",
+              "telugu": "రం అగ్న్యాత్మనే నమః। దీపం దర్శయామి ।",
               "devanagari": "रं अग्न्यात्मने नमः। दीपं दर्शयामि ।"
             }
           },
@@ -730,8 +730,8 @@
               ]
             },
             "slokas": {
-              "english": "vam amṛtātmane namaḥ | naivedyam samarpayāmi |",
-              "telugu": "వం అమృతాత్మనే నమః | నైవేద్యం సమర్పయామి |",
+              "english": "vam amṛtātmane namaḥ । naivedyam samarpayāmi ।",
+              "telugu": "వం అమృతాత్మనే నమః । నైవేద్యం సమర్పయామి ।",
               "devanagari": "वं अमृतात्मने नमः । नैवेद्यं समर्पयामि ।"
             }
           },
@@ -748,8 +748,8 @@
               ]
             },
             "slokas": {
-              "english": "sam sarvātmane namaḥ sarvopacārān samarpayāmi |",
-              "telugu": "సం సర్వాత్మనే నమః సర్వోపచారాన్ సమర్పయామి |",
+              "english": "sam sarvātmane namaḥ sarvopacārān samarpayāmi ।",
+              "telugu": "సం సర్వాత్మనే నమః సర్వోపచారాన్ సమర్పయామి ।",
               "devanagari": "सं सर्वात्मने नमः सर्वोपचारान् समर्पयामि ।"
             }
           }
@@ -776,8 +776,8 @@
               ]
             },
             "slokas": {
-              "english": "om svāhā |om śrīm svāhā |om śrīm hrīṁ svāhā |om śrīm hrīṁ klīm svāhā |om śrīm hrīṁ klīm glaum svāhā |om śrīm hrīṁ klīm glaum gam svāhā |om śrīm hrīṁ klīm glaum gam ganapataye svāhā |om śrīm hrīṁ klīm glaum gam ganapataye varavarada svāhā |om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam svāhā |om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā svāhā |",
-              "telugu": "ఓం స్వాహా |ఓం శ్రీం స్వాహా |ఓం శ్రీం హ్రీం స్వాహా |ఓం శ్రీం హ్రీం క్లీం స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం స్వాహా |ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా స్వాహా |",
+              "english": "om svāhā ।om śrīm svāhā ।om śrīm hrīṁ svāhā ।om śrīm hrīṁ klīm svāhā ।om śrīm hrīṁ klīm glaum svāhā ।om śrīm hrīṁ klīm glaum gam svāhā ।om śrīm hrīṁ klīm glaum gam ganapataye svāhā ।om śrīm hrīṁ klīm glaum gam ganapataye varavarada svāhā ।om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam svāhā ।om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā svāhā ।",
+              "telugu": "ఓం స్వాహా ।ఓం శ్రీం స్వాహా ।ఓం శ్రీం హ్రీం స్వాహా ।ఓం శ్రీం హ్రీం క్లీం స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం స్వాహా ।ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా స్వాహా ।",
               "devanagari": "ॐ स्वाहा ।\nॐ श्रीं स्वाहा ।\nॐ श्रीं ह्रीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं स्वाहा ।\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं मे वशमानय स्वाहा स्वाहा ।"
             }
           }
@@ -817,8 +817,8 @@
               ]
             },
             "slokas": {
-              "english": "om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā |",
-              "telugu": "ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా |",
+              "english": "om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā ।",
+              "telugu": "ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా ।",
               "devanagari": "ॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं मे वशमानय स्वाहा ।"
             }
           },
@@ -835,8 +835,8 @@
               ]
             },
             "slokas": {
-              "english": "om ganānām tvā ganapatim havāmahe kavim kavīnāmupamaśravastamam jyestharājam brahmaņām brahmanaspata naḥ śrņvannūtibhissīda sādanam || svāhā |",
-              "telugu": "ఓం గణానాం త్వా గణపతిం హవామహే కవిం కవీనాముపమశ్రవస్తమం జ్యేష్ఠరాజం బ్రహ్మణాం బ్రహ్మణస్పత నః శృణ్వన్నూతిభిస్సీద సాదనం || స్వాహా |",
+              "english": "om ganānām tvā ganapatim havāmahe kavim kavīnāmupamaśravastamam jyestharājam brahmaņām brahmanaspata naḥ śrņvannūtibhissīda sādanam ॥ svāhā ।",
+              "telugu": "ఓం గణానాం త్వా గణపతిం హవామహే కవిం కవీనాముపమశ్రవస్తమం జ్యేష్ఠరాజం బ్రహ్మణాం బ్రహ్మణస్పత నః శృణ్వన్నూతిభిస్సీద సాదనం ॥ స్వాహా ।",
               "devanagari": "ॐ गणानां त्वा गणपतिं हवामहे कविं कवीनामुपमश्रवस्तमम् ज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत नः शृण्वन्नूतिभिस्सीद सादनम् ॥ स्वाहा ।"
             }
           },
@@ -876,8 +876,8 @@
               ]
             },
             "slokas": {
-              "english": "om gam ganapataye namaḥ| naivedyam samarpayāmi |",
-              "telugu": "ఓం గం గణపతయే నమః| నైవేద్యం సమర్పయామి |",
+              "english": "om gam ganapataye namaḥ। naivedyam samarpayāmi ।",
+              "telugu": "ఓం గం గణపతయే నమః। నైవేద్యం సమర్పయామి ।",
               "devanagari": "ॐ गं गणपतये नमः। नैवेद्यं समर्पयामि ।"
             }
           },
@@ -894,8 +894,8 @@
               ]
             },
             "slokas": {
-              "english": "om gam ganapataye namaḥ | nīrājanam samarpayāmi |",
-              "telugu": "ఓం గం గణపతయే నమః | నీరాజనం సమర్పయామి |",
+              "english": "om gam ganapataye namaḥ । nīrājanam samarpayāmi ।",
+              "telugu": "ఓం గం గణపతయే నమః । నీరాజనం సమర్పయామి ।",
               "devanagari": "ॐ गं गणपतये नमः । नीराजनं समर्पयामि ।"
             }
           },
@@ -935,7 +935,7 @@
               ]
             },
             "slokas": {
-              "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova | yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam | swaahaa | prajaapataya idam na mama || Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || yadasya karmano'tyareericham yadvaanyoonamihaakaram | agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa | agnaye svishtakrita idam na mama || Om bhoorbhuvassuvaḥ svāhā | prajaapataya idam na mama || anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || purushasammito yajnyo yajñah purushasammitah | agne tadasya kalpaya tvam hi vettha yathaatatham | swaahaa | agnaya idam na mama || yatpaakatraa manasaa deenadakshaa na | yajnyasya manvate martaasah | agnishtaddhotaa kratuvidvijaanan | yajishtho devaan ritusho yajaati | swaahaa | agnaya idam na mama || Short Version: Om bhooh swaahaa | agnaya idam na mama || Om bhuvah swaahaa | vaayava idam na mama || Om suvah swaahaa | sooryaayedam na mama || Om bhoorbhuvassuvah swaahaa | prajaapataya idam na mama || Om shree vishnave swaahaa | vishnave paramaatmana idam na mama || Om namo rudraaya pashupataye swaahaa | rudraaya pashupataya idam na mama ||",
+              "english": "Long Version: Om prajaapate na tvadetaanyanyo vishwaa jaataani pari taa babhoova । yatkaamaaste juhumastanno astu vayam syaama patayo rayeenaam । swaahaa । prajaapataya idam na mama ॥ Om bhooh swaahaa । agnaya idam na mama ॥ Om bhuvah swaahaa । vaayava idam na mama ॥ Om suvah swaahaa । sooryaayedam na mama ॥ yadasya karmano'tyareericham yadvaanyoonamihaakaram । agnishtat svishtakridvidwaan sarvam svishtam suhutam karotu swaahaa । agnaye svishtakrita idam na mama ॥ Om bhoorbhuvassuvaḥ svāhā । prajaapataya idam na mama ॥ anaajnyaatam yadaajnyaatam yajnyasya kriyate mithu । agne tadasya kalpaya tvam hi vettha yathaatatham । swaahaa । agnaya idam na mama ॥ purushasammito yajnyo yajñah purushasammitah । agne tadasya kalpaya tvam hi vettha yathaatatham । swaahaa । agnaya idam na mama ॥ yatpaakatraa manasaa deenadakshaa na । yajnyasya manvate martaasah । agnishtaddhotaa kratuvidvijaanan । yajishtho devaan ritusho yajaati । swaahaa । agnaya idam na mama ॥ Short Version: Om bhooh swaahaa । agnaya idam na mama ॥ Om bhuvah swaahaa । vaayava idam na mama ॥ Om suvah swaahaa । sooryaayedam na mama ॥ Om bhoorbhuvassuvah swaahaa । prajaapataya idam na mama ॥ Om shree vishnave swaahaa । vishnave paramaatmana idam na mama ॥ Om namo rudraaya pashupataye swaahaa । rudraaya pashupataya idam na mama ॥",
               "telugu": "దీర్ఘ పద్ధతి: ఓం ప్రజాపతే న త్వదేతాన్యన్యో విశ్వా జాతాని పరి తా బభూవ । యత్కామాస్తే జుహుమస్తన్నో అస్తు వయం స్యామ పతయో రయీణాం। స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ యదస్య కర్మణోऽత్యరీరిచం యద్వాన్యూనమిహాకరం । అగ్నిష్టత్ స్విష్టకృద్విద్వాన్ సర్వం స్విష్టం సుహుతం కరోతు స్వాహా। అగ్నయే స్విష్టకృత ఇదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ అనాజ్ఞాతం యదాజ్ఞాతం యజ్నస్య క్రియతే మిథు। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా। అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః। అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్। స్వాహా। అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న। యజ్ఞస్య మన్వతే మర్తాసః। అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुశో యజాతి । స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా । వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ అస్మిన్ హోమకర్మణి మధ్యే సంభావిత సమస్త మంత్రలొప తంత్రలొప క్రియాలోప భక్తిలోప శ్రద్ధాలోప నియమలోప నిష్ఠాలోప ద్రవ్యలోపాది సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తాహుతి హోష్యామి। ఓం భూర్భువస్సువహ స్వాహా। ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥\nచిన్న వెర్షన్: ఓం భూః స్వాహా। అగ్నయ ఇదం న మమ ॥ ఓం భువః స్వాహా। వాయవ ఇదం న మమ ॥ ఓం సువః స్వాహా। సూర్యాయేదం న మమ ॥ ఓం భూర్భువస్సువహ స్వాహా । ప్రజాపతయ ఇదం న మమ ॥ ఓం శ్రీ విష్ణవే స్వాహా। విష్ణవే పరమాత్మన ఇదం న మమ ॥ ఓం నమో రుద్రాయ పశుపతయే స్వాహా। రుద్రాయ పశుపతయ ఇదం న మమ ॥",
               "devanagari": "लंबा संस्करण: ॐ प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयः स्याम पतयो रयीणाम्। स्वाहा। प्रजापतय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा। वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ यदस्य कर्मणोऽत्यरीरिचं यद्वान्यूनमिहाकरम् । अग्निष्टत् स्विष्टकृद्विद्वान् सर्वं स्विष्टं सुहुतं करोतु स्वाहा। अग्नये स्विष्टकृत इदं न मम ॥ ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥ ॐ भूः स्वाहा। अग्नय इदं न मम ॥ ॐ भुवः स्वाहा । वायव इदं न मम ॥ ॐ सुवः स्वाहा। सूययिदं न मम ॥ अस्मिन् होमकर्मणि मध्ये संभावित समस्त मंत्रलोप तंत्रलोप क्रियालोप भक्तिलोप श्रद्धालोप नियमलोप निष्ठालोप द्रव्यलोपादि समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्ताहुतिं होष्यामि। ॐ भूर्भुवस्सुवः स्वाहा। प्रजापतय इदं न मम ॥ ॐ श्री विष्णवे स्वाहा। विष्णवे परमात्मन इदं न मम ॥ ॐ नमो रुद्राय पशुपतये स्वाहा। रुद्राय पशुपतय इदं न मम ॥"
             }
@@ -956,8 +956,8 @@
               ]
             },
             "slokas": {
-              "english": "anājñātaṁ yadājñātaṁ yajñasya kriyate mithu | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || puruṣasaṁmito yajño yajñaḥ puruṣasaṁmitaḥ | agne tadasya kalpaya tvaṁ hi vettha yathātatham | svāhā | agnaya idaṁ na mama || yatpākatrā manasā dīnadakṣā na | yajñasya manvate martāsaḥ | agniṣṭaddhotā kratuvidvijānan | yajiṣṭho devān ṛtuśo yajāti | svāhā | agnaya idaṁ na mama ||",
-              "telugu": "అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః | అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ | స్వాహా | అగ్నయ ఇదం న మమ || యత్పాకత్రా మనసా దీనదక్షా న | యజ్ఞస్య మన్వతే మర్తాసః | అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ | యజిష్ఠో దేవాన్  ऋतुశో యజాతి | స్వాహా | అగ్నయ ఇదం న మమ ||",
+              "english": "anājñātaṁ yadājñātaṁ yajñasya kriyate mithu । agne tadasya kalpaya tvaṁ hi vettha yathātatham । svāhā । agnaya idaṁ na mama ॥ puruṣasaṁmito yajño yajñaḥ puruṣasaṁmitaḥ । agne tadasya kalpaya tvaṁ hi vettha yathātatham । svāhā । agnaya idaṁ na mama ॥ yatpākatrā manasā dīnadakṣā na । yajñasya manvate martāsaḥ । agniṣṭaddhotā kratuvidvijānan । yajiṣṭho devān ṛtuśo yajāti । svāhā । agnaya idaṁ na mama ॥",
+              "telugu": "అనాజ్ఞాతం యదాజ్ఞాతం యజ్ఞస్య క్రియతే మిథు । అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా । అగ్నయ ఇదం న మమ ॥ పురుషసంమితో యజ్ఞో యజ్ఞః పురుషసంమితః । అగ్నే తదస్య కల్పయ త్వం హి వేత్థ యథాతథమ్ । స్వాహా । అగ్నయ ఇదం న మమ ॥ యత్పాకత్రా మనసా దీనదక్షా న । యజ్ఞస్య మన్వతే మర్తాసః । అగ్నిష్టద్ధోతా క్రతువిద్విజానన్ । యజిష్ఠో దేవాన్  ऋतुశో యజాతి । స్వాహా । అగ్నయ ఇదం న మమ ॥",
               "devanagari": "अनाज्ञातं यदाज्ञातं यज्ञस्य क्रियते मिथु । अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ पुरुषसंमितो यज्ञो यज्ञः पुरुषसंमितः। अग्ने तदस्य कल्पय त्वं हि वेत्थ यथातथम्। स्वाहा। अग्नय इदं न मम ॥ यत्पाकत्रा मनसा दीनदक्षा न । यज्ञस्य मन्वते मर्तासः। अग्निष्टद्धोता क्रतुविद्विजानन्। यजिष्ठो देवान् ऋतुशो यजाति । स्वाहा। अग्नय इदं न मम ॥"
             }
           },
@@ -974,8 +974,8 @@
               ]
             },
             "slokas": {
-              "english": "om śrī vişnave svāhā | vişnave paramātmana idam na mama ||om namo rudrāya paśupataye svāhā | rudrāya paśupataya idam na mama |",
-              "telugu": "ఓం శ్రీ విష్ణవే స్వాహా | విష్ణవే పరమాత్మన ఇదం న మమ ||ఓం నమో రుద్రాయ పశుపతయే స్వాహా | రుద్రాయ పశుపతయ ఇదం న మమ |",
+              "english": "om śrī vişnave svāhā । vişnave paramātmana idam na mama ॥om namo rudrāya paśupataye svāhā । rudrāya paśupataya idam na mama ।",
+              "telugu": "ఓం శ్రీ విష్ణవే స్వాహా । విష్ణవే పరమాత్మన ఇదం న మమ ॥ఓం నమో రుద్రాయ పశుపతయే స్వాహా । రుద్రాయ పశుపతయ ఇదం న మమ ।",
               "devanagari": "ॐ श्री विष्णवे स्वाहा । विष्णवे परमात्मन इदं न मम ॥\nॐ नमो रुद्राय पशुपतये स्वाहा । रुद्राय पशुपतय इदं न मम ।"
             }
           }
@@ -1008,8 +1008,8 @@
               ]
             },
             "slokas": {
-              "english": "om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā | om śrī mahāganapatim tarpayāmi |",
-              "telugu": "ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా | ఓం శ్రీ మహాగణపతిం తర్పయామి |",
+              "english": "om śrīm hrīṁ klīm glaum gam ganapataye varavarada sarvajanam me vaśamānaya svāhā । om śrī mahāganapatim tarpayāmi ।",
+              "telugu": "ఓం శ్రీం హ్రీం క్లీం గ్లౌం గం గణపతయే వరవరద సర్వజనం మే వశమానయ స్వాహా । ఓం శ్రీ మహాగణపతిం తర్పయామి ।",
               "devanagari": "ॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वरवरद सर्वजनं मे वशमानय स्वाहा । ॐ श्री महागणपतिं तर्पयामि ।"
             }
           }
@@ -1036,8 +1036,8 @@
               ]
             },
             "slokas": {
-              "english": "om śrī mahāganapati pārşadebhyo namaḥ balim samarpayāmi |",
-              "telugu": "ఓం శ్రీ మహాగణపతి పార్షదేభ్యో నమః బలిం సమర్పయామి |",
+              "english": "om śrī mahāganapati pārşadebhyo namaḥ balim samarpayāmi ।",
+              "telugu": "ఓం శ్రీ మహాగణపతి పార్షదేభ్యో నమః బలిం సమర్పయామి ।",
               "devanagari": "ॐ श्री महागणपति पार्षदेभ्यो नमः बलिं समर्पयामि ।"
             },
             "diagram": "/diagrams/parsha-bali.svg"
@@ -1065,8 +1065,8 @@
               ]
             },
             "slokas": {
-              "english": "om śaṁ ca me mayaśca me priyam ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadram ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviņam ca me yantă ca me dhartā ca me kşemaśca me dhṛtiśca me viśvam ca me mahaśca me samvicca me jñātram ca me sūśca me prasūśca me sīram ca me layaśca martam ca me'mṛtaṁ ca me'yakşmam ca me'nāmayacca me jīvātuśca me dīrghāyutvaṁ ca me'namitram ca me'bhayam ca me sugam ca me śayanam ca me sūṣā ca me sudinam ca me ||",
-              "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మర్తం చ మేమృతం చ మేయక్ష్మం చ మేనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేనమిత్రం చ మేభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ||",
+              "english": "om śaṁ ca me mayaśca me priyam ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadram ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviņam ca me yantă ca me dhartā ca me kşemaśca me dhṛtiśca me viśvam ca me mahaśca me samvicca me jñātram ca me sūśca me prasūśca me sīram ca me layaśca martam ca me'mṛtaṁ ca me'yakşmam ca me'nāmayacca me jīvātuśca me dīrghāyutvaṁ ca me'namitram ca me'bhayam ca me sugam ca me śayanam ca me sūṣā ca me sudinam ca me ॥",
+              "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మర్తం చ మేమృతం చ మేయక్ష్మం చ మేనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేనమిత్రం చ మేభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
               "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञातं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे ॥"
             }
           }
@@ -1096,7 +1096,7 @@
               ]
             },
             "slokas": {
-              "english": "Om poornaahutimuttamaam juhoti | Sarvam vai poornaahutih | Sarvamevaapnoti | Atho iyam vai poornaahutih | Asyaameva pratitishthati ||Om poornamadah poornamidam poornaatpoornamudachyate | Poornasya poornamaadaaya poornamevaavashishyate ||Om aim hreem kleem chaamundaayai vichche vaushat ||",
+              "english": "Om poornaahutimuttamaam juhoti । Sarvam vai poornaahutih । Sarvamevaapnoti । Atho iyam vai poornaahutih । Asyaameva pratitishthati ॥Om poornamadah poornamidam poornaatpoornamudachyate । Poornasya poornamaadaaya poornamevaavashishyate ॥Om aim hreem kleem chaamundaayai vichche vaushat ॥",
               "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి । సర్వం వై పూర్ణాహుతిః । సర్వమేవాప్నోతి । అథో ఇయం వై పూర్ణాహుతిః । అస్యామేవ ప్రతితిష్ఠతి ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే । పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం ఐం హ్రీం క్లీం చాముండాయై విచ్చే వౌషట్ ॥\n",
               "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति । सर्वं वै पूर्णाहुतिः । सर्वमेवाप्नोति । अथो इयं वै पूर्णाहुतिः । अस्यामेव प्रतितिष्ठति ॥\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट् ॥"
             }
@@ -1114,8 +1114,8 @@
               ]
             },
             "slokas": {
-              "english": "om brahmārpaņam brahmahavir brahmāgnau brahmaņā hutam brahmaiva tena gantavyam brahma karma samādhinā ||",
-              "telugu": "ఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ||",
+              "english": "om brahmārpaņam brahmahavir brahmāgnau brahmaņā hutam brahmaiva tena gantavyam brahma karma samādhinā ॥",
+              "telugu": "ఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
               "devanagari": "ॐ ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥"
             }
           }
@@ -1142,8 +1142,8 @@
               ]
             },
             "slokas": {
-              "english": "sapta te agne samidhaḥ saptajihvāḥ sapta rşayassaptah dhāma priyāņil sapta hotrā sapta dhātvā yajantisaptayonīrāprņasvā ghṛtena svāhā agnaye saptavata idam na mama ||",
-              "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణిల్ సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా అగ్నయే సప్తవత ఇదం న మమ ||",
+              "english": "sapta te agne samidhaḥ saptajihvāḥ sapta rşayassaptah dhāma priyāņil sapta hotrā sapta dhātvā yajantisaptayonīrāprņasvā ghṛtena svāhā agnaye saptavata idam na mama ॥",
+              "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణిల్ సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా అగ్నయే సప్తవత ఇదం న మమ ॥",
               "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्त धाम प्रियाणि। सप्त होत्रा सप्तधा त्वा यजन्ति सप्त योनीरापृणस्वा घृतेन स्वाहा। अग्नये सप्तवत इदं न मम ॥"
             }
           },
@@ -1160,8 +1160,8 @@
               ]
             },
             "slokas": {
-              "english": "adite'nvamamsthāḥ | anumate'nvamamsthāḥ | sarasvate'nvamamsthāḥ | deva savitah prāsāvīḥ |",
-              "telugu": "అదితేऽన్వమంస్థాః | అనుమతేऽన్వమంస్థాః | సరస్వతేऽన్వమంస్థాః | దేవ సవితః ప్రాసావీః |",
+              "english": "adite'nvamamsthāḥ । anumate'nvamamsthāḥ । sarasvate'nvamamsthāḥ । deva savitah prāsāvīḥ ।",
+              "telugu": "అదితేऽన్వమంస్థాః । అనుమతేऽన్వమంస్థాః । సరస్వతేऽన్వమంస్థాః । దేవ సవితః ప్రాసావీః ।",
               "devanagari": "अदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः । सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।"
             },
             "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
@@ -1249,8 +1249,8 @@
               ]
             },
             "slokas": {
-              "english": "asmānmūrteśca agneśca śrīmahāganapatim yathāsthānam pratisthāpayāmi |agne naya supathā rāye asmān viśvāni deva vayunāni vidvān yuyodhyasmajjuhurānameno bhūyişthām te nama uktim vidhemal agnaye namaḥ ||",
-              "telugu": "అస్మాన్మూర్తేశ్చ అగ్నేశ్చ శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి |అగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమల్ అగ్నయే నమః ||",
+              "english": "asmānmūrteśca agneśca śrīmahāganapatim yathāsthānam pratisthāpayāmi ।agne naya supathā rāye asmān viśvāni deva vayunāni vidvān yuyodhyasmajjuhurānameno bhūyişthām te nama uktim vidhemal agnaye namaḥ ॥",
+              "telugu": "అస్మాన్మూర్తేశ్చ అగ్నేశ్చ శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ।అగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమల్ అగ్నయే నమః ॥",
               "devanagari": "अस्मान्मूर्तेश्च अग्नेश्च श्रीमहागणपतिं यथास्थानं प्रतिष्ठापयामि ।\nअग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम। अग्नये नमः ॥"
             }
           }
@@ -1277,8 +1277,8 @@
               ]
             },
             "slokas": {
-              "english": "mantrahīnam kriyāhīnam bhaktihīnam hutāśana yaddhutam tu mayā deva paripūrņam tadastu te |prāyaścittānyaśeṣāņi tapaḥ karmātmakāni vail yāni teşāmaśeṣāṇāṁ śrī kṛṣṇasmaraņam param || śrī kṛṣṇa kṛṣṇa kṛṣṇa |kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt karomi yadyat sakalam parasmai nārāyaṇāyeti samarpayāmi ||",
-              "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన యద్ధుతం తు మయా దేవ పరిపూర్ణం తదస్తు తే |ప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వైల్ యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం || శ్రీ కృష్ణ కృష్ణ కృష్ణ |కాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ||",
+              "english": "mantrahīnam kriyāhīnam bhaktihīnam hutāśana yaddhutam tu mayā deva paripūrņam tadastu te ।prāyaścittānyaśeṣāņi tapaḥ karmātmakāni vail yāni teşāmaśeṣāṇāṁ śrī kṛṣṇasmaraņam param ॥ śrī kṛṣṇa kṛṣṇa kṛṣṇa ।kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt karomi yadyat sakalam parasmai nārāyaṇāyeti samarpayāmi ॥",
+              "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన యద్ధుతం తు మయా దేవ పరిపూర్ణం తదస్తు తే ।ప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వైల్ యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ।కాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥",
               "devanagari": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ।\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै। यानि तेषामशेषाणां श्री कृष्णस्मरणं परम् ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥"
             }
           },
@@ -1295,8 +1295,8 @@
               ]
             },
             "slokas": {
-              "english": "anena divya mangaļa homena bhagavān sarvātmakaḥ śrīmahāganapatiḥ prīyatām om tatsat | sarvam śrī kṛṣṇārpaņamastu | om śāntiḥ śāntiḥ śāntih |",
-              "telugu": ["అనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః శ్రీమహాగణపతిః ప్రీయతాం",  "ఓం తత్సత్ | సర్వం శ్రీ కృష్ణార్పణమస్తు | ఓం శాంతిః శాంతిః శాంతిః |"],
+              "english": "anena divya mangaļa homena bhagavān sarvātmakaḥ śrīmahāganapatiḥ prīyatām om tatsat । sarvam śrī kṛṣṇārpaņamastu । om śāntiḥ śāntiḥ śāntih ।",
+              "telugu": "అనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాాత్మకః శ్రీమహాగణపతిః ప్రీయతాం । ఓం తత్సత్ । సర్వం శ్రీ కృష్ణార్పణమస్తు । ఓం శాంతిః శాంతిః శాంతిః ।",
               "devanagari": "अनेन दिव्य मङ्गल होमेन भगवान् सर्वात्मकः श्रीमहागणपतिः प्रीयताम् ॐ तत्सत् । सर्वं श्री कृष्णार्पणमस्तु । ॐ शान्तिः शान्तिः शान्तिः ।"
             }
           }

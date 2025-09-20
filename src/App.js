@@ -4,7 +4,7 @@ import { loadManual, getAvailableManuals } from './dataLoader';
 
 // --- Helper: Format sloka text with line breaks ---
 const formatSloka = (text) => {
-  return text.replace(/\|\|?/g, '$&\n');
+  return text.replace(/॥/g, '$&\n');
 };
 
 // --- Helper: Icon Components ---
