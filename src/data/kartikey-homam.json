@@ -1,4 +1,10 @@
 {
+  "metadata": {
+    "manual_id": "kartikeya-homam",
+    "version": "1.0.0",
+    "last_validated": "2026-02-12T00:00:00.000Z",
+    "source_pdf_hash": "kartikeya_s_sans"
+  },
   "title": {
     "english": "Kartikeya Homam",
     "telugu": "కార్తికేయ హోమం",
@@ -9,15 +15,17 @@
     "telugu": "P V R Narasimha Rao",
     "hindi": "P V R Narasimha Rao"
   },
+  "source": "https://vedicastrologer.org/homa/simple/kartikeya_s_sans-.pdf",
   "sections": [
     {
       "id": 0,
-      "source": "https://vedicastrologer.org/homa/simple/kartikeya_s_sans-.pdf",
+      "type": "common",
       "title": {
         "english": "Introduction",
         "telugu": "పరిచయం",
         "hindi": "परिचय"
       },
+      "voice_guidance_key": "kartikeya_introduction",
       "instructions": {
         "english": [
           "Welcome to the Simple Kartikeya Homam manual. This guide will take you through the process of performing a traditional Kartikeya Homam.",
@@ -41,20 +49,22 @@
           "प्रत्येक खंड में विस्तृत निर्देश और उचित निष्पादन के लिए कई लिपियों में पवित्र मंत्र (श्लोक) शामिल हैं।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "",
         "telugu": "",
-        "devanagari": ""
+        "devanagari": "",
+        "swara_enabled": false
       }
     },
     {
       "id": 1,
+      "type": "common",
       "title": {
         "english": "Ganapathi Invocation",
         "telugu": "గణపతి ఆవాహన",
         "hindi": "गणपति आवाहन"
       },
+      "voice_guidance_key": "kartikeya_ganapathi_invocation",
       "instructions": {
         "english": [
           "Begin the ritual by chanting the mantra for Lord Ganapathi, the remover of obstacles, to ensure a smooth and successful ceremony."
@@ -66,20 +76,22 @@
           "अनुष्ठान का आरंभ भगवान गणपति, जो बाधाओं को दूर करने वाले हैं, के मंत्र का जाप करके करें, ताकि समारोह सुचारू और सफल हो।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "om śrī mahāgaṇapataye namaḥ",
         "telugu": "ఓం శ్రీ మహాగణపతయే నమః",
-        "devanagari": "ॐ श्री महागणपतये नमः"
+        "devanagari": "ॐ श्री महागणपतये नमः",
+        "swara_enabled": false
       }
     },
     {
       "id": 2,
+      "type": "common",
       "title": {
         "english": "Preparation and Precautions",
         "telugu": "సన్నాహాలు మరియు జాగ్రత్తలు",
         "hindi": "तैयारी और सावधानियाँ"
       },
+      "voice_guidance_key": "kartikeya_preparation",
       "instructions": {
         "english": [
           "Find a standard homa kunda or a small vessel made of copper, silver, bronze, or steel. Clean it thoroughly.",
@@ -116,16 +128,19 @@
       "slokas": {
         "english": "",
         "telugu": "",
-        "devanagari": ""
+        "devanagari": "",
+        "swara_enabled": false
       }
     },
     {
       "id": 3,
+      "type": "common",
       "title": {
         "english": "Pre-Fire Stage: Purification and Sankalpa",
         "telugu": "అగ్ని-పూర్వ దశ: శుద్ధి మరియు సంకల్పం",
         "hindi": "अग्नि-पूर्व चरण: शुद्धि और संकल्प"
       },
+      "voice_guidance_key": "kartikeya_pre_fire_purification",
       "instructions": {
         "english": [
           "Sit facing east with the homa kunda in front of you. Think of Mother Earth with gratitude.",
@@ -159,16 +174,19 @@
       "slokas": {
         "english": "(1) om keśavāya svāhā\n(2) om nārāyaṇāya svāhā\n(3) om mādhavāya svāhā\nbhūloke dharma sthāpanārtha sarveṣāṁ janānāṁ sukha śānti siddhyarthaṁ kārtikeya homakarma yathāśakti kariṣye\nom bhūrbhuvassuvarom\nom bhūrbhuvassuvaḥ svāhā",
         "telugu": "(1) ఓం కేశవాయ స్వాహా\n(2) ఓం నారాయణాయ స్వాహా\n(3) ఓం మాధవాయ స్వాహా\nభూలోకే ధర్మ స్థాపనార్థ సర్వేషాం జనానాం సుఖ శాంతి సిద్ధ్యర్థం కార్తికేయ హోమకర్మ యథాశక్తి కరిష్యే\nఓం భూర్భువస్సువరోమ్\nఓం భూర్భువస్సువః స్వాహా",
-        "devanagari": "(1) ॐ केशवाय स्वाहा\n(2) ॐ नारायणाय स्वाहा\n(3) ॐ माधवाय स्वाहा\nभूलोके धर्म स्थापनार्थ सर्वेषां जनानां सुख शान्ति सिद्ध्यर्थं कार्तिकेय होमकर्म यथाशक्ति करिष्ये\nॐ भूर्भुवस्सुवरोम्\nॐ भूर्भुवस्सुवः स्वाहा"
+        "devanagari": "(1) ॐ केशवाय स्वाहा\n(2) ॐ नारायणाय स्वाहा\n(3) ॐ माधवाय स्वाहा\nभूलोके धर्म स्थापनार्थ सर्वेषां जनानां सुख शान्ति सिद्ध्यर्थं कार्तिकेय होमकर्म यथाशक्ति करिष्ये\nॐ भूर्भुवस्सुवरोम्\nॐ भूर्भुवस्सुवः स्वाहा",
+        "swara_enabled": false
       }
     },
     {
       "id": 4,
+      "type": "common",
       "title": {
         "english": "Initial Offerings in Fire",
         "telugu": "అగ్నిలో ప్రారంభ ఆహుతులు",
         "hindi": "अग्नि में प्रारंभिक आहुतियाँ"
       },
+      "voice_guidance_key": "kartikeya_initial_offerings",
       "instructions": {
         "english": [
           "Offer a drop of ghee to Prajapati, surrendering your consciousness.",
@@ -198,20 +216,22 @@
           "वरुण को दृढ़ रहने और समस्याओं पर काबू पाने की अपनी क्षमता समर्पित करते हुए घी की एक बूंद अर्पित करें।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "om prajāpataye svāhā\nom indrāya svāhā\nom agnaye svāhā\nom somāya svāhā\nom bhūrbhuvassuvaḥ svāhā\nom gaṁ gaṇapataye namaḥ svāhā\nom vaṁ varuṇāya namaḥ svāhā",
         "telugu": "ఓం ప్రజాపతయే స్వాహా\nఓం ఇంద్రాయ స్వాహా\nఓం అగ్నయే స్వాహా\nఓం సోమాయ స్వాహా\nఓం భూర్భువస్సువః స్వాహా\nఓం గం గణపతయే నమః స్వాహా\nఓం వం వరుణాయ నమః స్వాహా",
-        "devanagari": "ॐ प्रजापतये स्वाहा\nॐ इन्द्राय स्वाहा\nॐ अग्नये स्वाहा\nॐ सोमाय स्वाहा\nॐ भूर्भुवस्सुवः स्वाहा\nॐ गं गणपतये नमः स्वाहा\nॐ वं वरुणाय नमः स्वाहा"
+        "devanagari": "ॐ प्रजापतये स्वाहा\nॐ इन्द्राय स्वाहा\nॐ अग्नये स्वाहा\nॐ सोमाय स्वाहा\nॐ भूर्भुवस्सुवः स्वाहा\nॐ गं गणपतये नमः स्वाहा\nॐ वं वरुणाय नमः स्वाहा",
+        "swara_enabled": false
       }
     },
     {
       "id": 5,
+      "type": "pradhana",
       "title": {
         "english": "Services to the Main Deity",
         "telugu": "ప్రధాన దేవతకు సేవలు",
         "hindi": "मुख्य देवता की सेवाएं (उपचार)"
       },
+      "voice_guidance_key": "kartikeya_deity_services",
       "instructions": {
         "english": [
           "Chant the invocation mantra, imagining Lord Kartikeya has entered the Holy Fire.",
@@ -242,16 +262,19 @@
       "slokas": {
         "english": "atra āgaccha।āvāhito bhava।\nom laṁ pṛthivyātmane namaḥ\nom haṁ ākāśātmane namaḥ\nom yaṁ vāyvātmane namaḥ\nom raṁ agnyātmane namaḥ\nom vaṁ jalātmane namaḥ",
         "telugu": "అత్ర ఆగచ్ఛ।ఆవాహితో భవ।\nఓం లం పృథివ్యాత్మనే నమః\nఓం హం ఆకాశాత్మనే నమః\nఓం యం వాయ్వాత్మనే నమః\nఓం రం అగ్న్యాత్మనే నమః\nఓం వం జలాత్మనే నమః",
-        "devanagari": "अत्र आगच्छ।आवाहितो भव।\nॐ लं पृथिव्यात्मने नमः\nॐ हं आकाशात्मने नमः\nॐ यं वाय्वात्मने नमः\nॐ रं अग्न्यात्मने नमः\nॐ वं जलात्मने नमः"
+        "devanagari": "अत्र आगच्छ।आवाहितो भव।\nॐ लं पृथिव्यात्मने नमः\nॐ हं आकाशात्मने नमः\nॐ यं वाय्वात्मने नमः\nॐ रं अग्न्यात्मने नमः\nॐ वं जलात्मने नमः",
+        "swara_enabled": false
       }
     },
     {
       "id": 6,
+      "type": "pradhana",
       "title": {
         "english": "Main Offerings to Lord Kartikeya",
         "telugu": "కార్తికేయ స్వామికి ప్రధాన ఆహుతులు",
         "hindi": "भगवान कार्तिकेय को मुख्य आहुतियाँ"
       },
+      "voice_guidance_key": "kartikeya_main_offerings",
       "instructions": {
         "english": [
           "Chant one of the following mantras and offer a drop of ghee (or sesame seeds or nuts) into the fire.",
@@ -275,20 +298,22 @@
           "अंतिम मंत्र एक वैदिक गायत्री मंत्र है।यदि आप वैदिक स्वर के साथ सहज नहीं हैं तो आप इसे सपाट भी जप सकते हैं।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "om śaravaṇa bhavāya namaḥ।svāhā\nom guruguhāya namaḥ।svāhā\nom kumāragurave namaḥ।svāhā\nom subrahmaṇyāya namaḥ।svāhā\nom skandāya namaḥ।svāhā\nom kārtikeyāya vidmahe śaktihastāya dhīmahi ।tannaḥ skandaḥ pracodayāt।svāhā।",
         "telugu": "ఓం శరవణ భవాయ నమః।స్వాహా\nఓం గురుగుహాయ నమః।స్వాహా\nఓం కుమారగురవే నమః।స్వాహా\nఓం సుబ్రహ్మణ్యాయ నమః।స్వాహా\nఓం స్కందాయ నమః।స్వాహా\nఓం కార్తికేయాయ విద్మహే శక్తిహస్తాయ ధీమహి ।తన్నః స్కందః ప్రచోదయాత్।స్వాహా।",
-        "devanagari": "ॐ शरवण भवाय नमः।स्वाहा\nॐ गुरुगुहाय नमः।स्वाहा\nॐ कुमारगुरवे नमः।स्वाहा\nॐ सुब्रह्मण्याय नमः।स्वाहा\nॐ स्कन्दाय नमः।स्वाहा\nॐ कार्तिकेयाय विद्महे शक्तिहस्ताय धीमहि ।तन्नः स्कन्दः प्रचोदयात्।स्वाहा।"
+        "devanagari": "ॐ शरवण भवाय नमः।स्वाहा\nॐ गुरुगुहाय नमः।स्वाहा\nॐ कुमारगुरवे नमः।स्वाहा\nॐ सुब्रह्मण्याय नमः।स्वाहा\nॐ स्कन्दाय नमः।स्वाहा\nॐ कार्तिकेयाय विद्महे शक्तिहस्ताय धीमहि ।तन्नः स्कन्दः प्रचोदयात्।स्वाहा।",
+        "swara_enabled": false
       }
     },
     {
       "id": 7,
+      "type": "uttara",
       "title": {
         "english": "Final Offerings in Fire",
         "telugu": "అగ్నిలో చివరి ఆహుతులు",
         "hindi": "अग्नि में अंतिम आहुतियाँ"
       },
+      "voice_guidance_key": "kartikeya_final_offerings",
       "instructions": {
         "english": [
           "Offer ghee to Agni, surrendering your physical experiences.",
@@ -318,20 +343,22 @@
           "देवता के सूक्ष्म सहयोगियों (पार्षदों) को 6 किशमिश या फल के टुकड़े अर्पित करें।इस भोजन को बाद में फेंका जा सकता है या जानवरों को खिलाया जा सकता है।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "om bhūḥ agnaye svāhā\nom bhuvaḥ vāyave svāhā\nom suvaḥ sūryāya svāhā\nom bhūrbhuvassuvaḥ svāhā\nom viṣṇave svāhā\nom rudrāya svāhā\nom pārṣadebhyo namaḥ",
         "telugu": "ఓం భూః అగ్నయే స్వాహా\nఓం భువః వాయవే స్వాహా\nఓం సువః సూర్యాయ స్వాహా\nఓం భూర్భువస్సువః స్వాహా\nఓం విష్ణవే స్వాహా\nఓం రుద్రాయ స్వాహా\nఓం పార్షదేభ్యో నమః",
-        "devanagari": "ॐ भूः अग्नये स्वाहा\nॐ भुवः वायवे स्वाहा\nॐ सुवः सूर्याय स्वाहा\nॐ भूर्भुवस्सुवः स्वाहा\nॐ विष्णवे स्वाहा\nॐ रुद्राय स्वाहा\nॐ पार्षदेभ्यो नमः"
+        "devanagari": "ॐ भूः अग्नये स्वाहा\nॐ भुवः वायवे स्वाहा\nॐ सुवः सूर्याय स्वाहा\nॐ भूर्भुवस्सुवः स्वाहा\nॐ विष्णवे स्वाहा\nॐ रुद्राय स्वाहा\nॐ पार्षदेभ्यो नमः",
+        "swara_enabled": false
       }
     },
     {
       "id": 8,
+      "type": "uttara",
       "title": {
         "english": "Poornahuti",
         "telugu": "పూర్ణాహుతి",
         "hindi": "पूर्णाहुति (पूर्ण आहुति)"
       },
+      "voice_guidance_key": "kartikeya_poornahuti",
       "instructions": {
         "english": [
           "Offer a large copra piece, a nut, or a large drop of ghee, surrendering your sense of being to Lord Kartikeya.",
@@ -350,16 +377,19 @@
       "slokas": {
         "english": "om śaravaṇa bhavāya namaḥ।svāhā\nom agnaye saptavate svāhā",
         "telugu": "ఓం శరవణ భవాయ నమః।స్వాహా\nఓం అగ్నయే సప్తవతే స్వాహా",
-        "devanagari": "ॐ शरवण भवाय नमः।स्वाहा\nॐ अग्नये सप्तवते स्वाहा"
+        "devanagari": "ॐ शरवण भवाय नमः।स्वाहा\nॐ अग्नये सप्तवते स्वाहा",
+        "swara_enabled": false
       }
     },
     {
       "id": 9,
+      "type": "uttara",
       "title": {
         "english": "Meditation and Conclusion",
         "telugu": "ధ్యానం మరియు ముగింపు",
         "hindi": "ध्यान और समापन"
       },
+      "voice_guidance_key": "kartikeya_meditation_conclusion",
       "instructions": {
         "english": [
           "Meditate for as long as you can with the given mantra or any mantra you prefer.",
@@ -374,11 +404,11 @@
           "अंत में, शांति मंत्र का तीन बार जाप करें, यह कल्पना करते हुए कि आप पर और सभी प्राणियों पर शांति उतर रही है।"
         ]
       },
-      "diagram_placeholder": "No diagram for this section.",
       "slokas": {
         "english": "om śaravaṇa bhavāya namaḥ\nom śāntiḥ śāntiḥ śāntiḥ",
         "telugu": "ఓం శరవణ భవాయ నమః\nఓం శాంతిః శాంతిః శాంతిః",
-        "devanagari": "ॐ शरवण भवाय नमः\nॐ शान्तिः शान्तिः शान्तिः"
+        "devanagari": "ॐ शरवण भवाय नमः\nॐ शान्तिः शान्तिः शान्तिः",
+        "swara_enabled": false
       }
     }
   ]

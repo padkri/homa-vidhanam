@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "description": "Common ritual sections shared across all homam manuals. Canonical source of truth for spiritual consistency.",
+    "version": "1.0.0",
+    "last_validated": "2026-02-12T00:00:00.000Z"
+  },
+  "sections": {
+    "aachamanam": {
+      "title": {
+        "english": "Aachamanam",
+        "telugu": "ఆచమనం",
+        "hindi": "आचमन"
+      },
+      "instructions": {
+        "english": [
+          "Take a little water from the tumbler into your right hand with a spoon and drink it after saying the first mantra.",
+          "Repeat the process for the second mantra.",
+          "Repeat the process for the third mantra, imagining that Vishnu within you is receiving the water."
+        ],
+        "telugu": [
+          "ఒక చెంచాతో గ్లాసు నుండి కొద్దిగా నీటిని మీ కుడి చేతిలోకి తీసుకుని మొదటి మంత్రాన్ని చెప్పిన తర్వాత త్రాగండి.",
+          "రెండవ మంత్రం కోసం అదే విధానాన్ని పునరావృతం చేయండి.",
+          "మూడవ మంత్రం కోసం అదే విధానాన్ని పునరావృతం చేయండి, మీలోని విష్ణువు ఆ నీటిని స్వీకరిస్తున్నాడని భావించండి."
+        ],
+        "hindi": [
+          "चम्मच से गिलास से थोड़ा सा पानी अपने दाहिने हाथ में लें और पहला मंत्र बोलने के बाद उसे पी लें।",
+          "दूसरे मंत्र के लिए भी यही प्रक्रिया दोहराएं।",
+          "तीसरे मंत्र के लिए भी यही प्रक्रिया दोहराएं, यह कल्पना करते हुए कि आपके भीतर मौजूद विष्णु उस जल को ग्रहण कर रहे हैं।"
+        ]
+      },
+      "slokas": {
+        "english": "om keśavāya svāhā ।\nom nārāyaṇāya svāhā ।\nom mādhavāya svāhā ।",
+        "telugu": "ఓం కేశవాయ స్వాహా ।\nఓం నారాయణాయ స్వాహా ।\nఓం మాధవాయ స్వాహా ।",
+        "devanagari": "ॐ केशवाय स्वाहा ।\nॐ नारायणाय स्वाहा ।\nॐ माधवाय स्वाहा ।",
+        "swara_enabled": false
+      }
+    },
+    "praanaayaamam": {
+      "title": {
+        "english": "Praanaayaamam",
+        "telugu": "ప్రాణాయామం",
+        "hindi": "प्राणायाम"
+      },
+      "instructions": {
+        "english": [
+          "Take some akshatas in the left palm and place it on your left lap.",
+          "Hold your nostrils with your right hand (little and ring finger on the left, thumb on the right).",
+          "Close the left nostril, and while gently breathing in through the right nostril, mentally chant the Gayatri mantra (or an alternative).",
+          "Close the right nostril, retain the breath, and mentally chant the mantra again.",
+          "Open the left nostril, breathe out, and mentally chant the mantra for a third time.",
+          "Breathe in through the left nostril, chanting the mantra.",
+          "Close the left nostril, retain breath, and chant the mantra for the fifth time.",
+          "Breathe out through the right nostril, chanting the mantra for the sixth time.",
+          "Contemplate the formless supreme Brahman during the process."
+        ],
+        "telugu": [
+          "ఎడమ అరచేతిలో కొన్ని అక్షతలు తీసుకుని మీ ఎడమ ఒడిలో ఉంచండి.",
+          "మీ కుడి చేతితో మీ ముక్కుపుటాలను పట్టుకోండి (చిటికెన మరియు ఉంగరపు వేలు ఎడమ వైపు, బొటనవేలు కుడి వైపు).",
+          "ఎడమ ముక్కుపుటాన్ని మూసి, కుడి ముక్కుపుటం ద్వారా మెల్లగా శ్వాస తీసుకుంటూ, గాయత్రీ మంత్రాన్ని (లేదా ప్రత్యామ్నాయ మంత్రాన్ని) మానసికంగా జపించండి.",
+          "కుడి ముక్కుపుటాన్ని మూసి, శ్వాసను నిలిపి, మంత్రాన్ని మళ్ళీ మానసికంగా జపించండి.",
+          "ఎడమ ముక్కుపుటాన్ని తెరిచి, శ్వాసను వదులుతూ, మంత్రాన్ని మూడవసారి మానసికంగా జపించండి.",
+          "ఎడమ ముక్కుపుటం ద్వారా శ్వాస తీసుకుంటూ, మంత్రాన్ని జపించండి.",
+          "ఎడమ ముక్కుపుటాన్ని మూసి, శ్వాసను నిలిపి, ఐదవసారి మంత్రాన్ని జపించండి.",
+          "కుడి ముక్కుపుటం ద్వారా శ్వాసను వదులుతూ, ఆరవసారి మంత్రాన్ని జపించండి.",
+          "ఈ ప్రక్రియ సమయంలో నిరాకార పరబ్రహ్మాన్ని ధ్యానించండి."
+        ],
+        "hindi": [
+          "बाईं हथेली में कुछ अक्षत लें और उसे अपनी बाईं गोद में रखें।",
+          "अपने दाहिने हाथ से अपनी नासिका को पकड़ें (छोटी और अनामिका उंगली बाईं ओर, अंगूठा दाईं ओर)।",
+          "बाईं नासिका को बंद करें, और दाहिनी नासिका से धीरे-धीरे सांस लेते हुए, मानसिक रूप से गायत्री मंत्र (या एक विकल्प) का जाप करें।",
+          "दाहिनी नासिका को बंद करें, सांस रोकें, और फिर से मानसिक रूप से मंत्र का जाप करें।",
+          "बाईं नासिका खोलें, सांस छोड़ें, और तीसरी बार मानसिक रूप से मंत्र का जाप करें।",
+          "बाईं नासिका से सांस लेते हुए मंत्र का जाप करें।",
+          "बाईं नासिका को बंद करें, सांस रोकें, और पांचवीं बार मंत्र का जाप करें।",
+          "दाहिनी नासिका से सांस छोड़ते हुए, छठी बार मंत्र का जाप करें।",
+          "प्रक्रिया के दौरान निराकार परब्रह्म का चिंतन करें।"
+        ]
+      },
+      "slokas": {
+        "english": "om namo bhagavate vāsudevāya ।\nom namaśśivāya ।\nom gaṁ gaṇapataye namaḥ ।",
+        "telugu": "ఓం నమో భగవతే వాసుదేవాయ ।\nఓం నమశ్శివాయ ।\nఓం గం గణపతయే నమః ।",
+        "devanagari": "ॐ नमो भगवते वासुदेवाय ।\nॐ नमश्शिवाय ।\nॐ गं गणपतये नमः ।",
+        "swara_enabled": false
+      }
+    },
+    "kalasa_suddhi": {
+      "title": {
+        "english": "Kalasa Suddhi",
+        "telugu": "కలశ శుద్ధి",
+        "hindi": "कलश शुद्धि"
+      },
+      "instructions": {
+        "english": [
+          "Place a few akshatas and a flower into the tumbler of water.",
+          "Chant the syllable 'vam' (వం / वं) 11 times to purify the water.",
+          "Recite the Ganga river invocation mantra to invite the essence of all sacred rivers into the water.",
+          "Sprinkle the purified water on yourself, the homa kundam, the idol, and all other materials for the homam.",
+          "Draw 6 lines on the base of the homakundam with a darbha grass, in the order shown in the diagram, while reciting the six corresponding mantras."
+        ],
+        "telugu": [
+          "నీటి గ్లాసులో కొన్ని అక్షతలు మరియు ఒక పువ్వు ఉంచండి.",
+          "నీటిని శుద్ధి చేయడానికి 'వం' అనే అక్షరాన్ని 11 సార్లు జపించండి.",
+          "అన్ని పవిత్ర నదుల సారాంశాన్ని నీటిలోకి ఆహ్వానించడానికి గంగా నది ఆవాహన మంత్రాన్ని పఠించండి.",
+          "శుద్ధి చేసిన నీటిని మీ మీద, హోమ కుండం మీద, విగ్రహం మీద మరియు హోమం కోసం ఉపయోగించే ఇతర వస్తువులన్నింటిపై చల్లుకోండి.",
+          "చిత్రంలో చూపిన క్రమంలో, ఆరు సంబంధిత మంత్రాలను పఠిస్తూ, ఒక దర్భ గడ్డితో హోమకుండం పునాదిపై 6 గీతలను గీయండి."
+        ],
+        "hindi": [
+          "पानी के गिलास में कुछ अक्षत और एक फूल डालें।",
+          "पानी को शुद्ध करने के लिए 'वं' अक्षर का 11 बार जाप करें।",
+          "सभी पवित्र नदियों के सार को जल में आमंत्रित करने के लिए गंगा नदी के आह्वान मंत्र का पाठ करें।",
+          "शुद्ध जल को अपने ऊपर, होम कुंड पर, मूर्ति पर और होम के लिए अन्य सभी सामग्रियों पर छिड़कें।",
+          "चित्र में दिखाए गए क्रम में, छह संबंधित मंत्रों का पाठ करते हुए, एक दर्भ घास से होमकुंड के आधार पर 6 रेखाएँ खींचें।"
+        ]
+      },
+      "slokas": {
+        "english": "vaṁ\ngaṁge ca yamune caiva godāvari sarasvati ।narmade sindhu kāveri jale'smin sannidhiṁ kuru ॥ amṛtaṁ bhavatu\nom brahmaṇe namaḥ ।\nom yamāya namaḥ ।\nom somāya namaḥ ।\nom rudrāya namaḥ ।\nom viṣṇave namaḥ ।\nom indrāya namaḥ ।",
+        "telugu": "వం\nగంగే చ యమునే చైవ గోదావరి సరస్వతి ।నర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥ అమృతం భవతు\nఓం బ్రహ్మణే నమః ।\nఓం యమాయ నమః ।\nఓం సోమాయ నమః ।\nఓం రుద్రాయ నమః ।\nఓం విష్ణవే నమః ।\nఓం ఇంద్రాయ నమః ।",
+        "devanagari": "वं\nगंगे च यमुने चैव गोदावरि सरस्वति ।नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु ॥ अमृतं भवतु\nॐ ब्रह्मणे नमः ।\nॐ यमाय नमः ।\nॐ सोमाय नमः ।\nॐ रुद्राय नमः ।\nॐ विष्णवे नमः ।\nॐ इन्द्राय नमः ।",
+        "swara_enabled": false
+      },
+      "diagram": "/diagrams/homa-kundam-6-lines.svg"
+    },
+    "suddhaanna_bali": {
+      "title": {
+        "english": "Suddhaanna Bali",
+        "telugu": "శుద్ధాన్న బలి",
+        "hindi": "शुद्धान्न बलि"
+      },
+      "instructions": {
+        "english": [
+          "Offer a sacrifice (bali) to associated beings (paarshadas).",
+          "Use cooked white rice, banana slices, or fruit slices.",
+          "Place a small amount of the offering in six different places outside the homa kundam, following the order in the diagram.",
+          "The offering locations are: East, West, North, South, and two more on the East side (north of the first one).",
+          "Recite the mantra while offering the bali.",
+          "The remaining rice/fruit used for bali should be thrown away and not consumed."
+        ],
+        "telugu": [
+          "సంబంధిత జీవులకు (పార్షదులకు) బలి (త్యాగం) సమర్పించండి.",
+          "ఉడికించిన తెల్ల అన్నం, అరటి ముక్కలు లేదా పండ్ల ముక్కలను ఉపయోగించండి.",
+          "చిత్రంలోని క్రమాన్ని అనుసరించి, హోమ కుండం వెలుపల ఆరు వేర్వేరు ప్రదేశాలలో చిన్న మొత్తంలో నైవేద్యాన్ని ఉంచండి.",
+          "నైవేద్య స్థానాలు: తూర్పు, పడమర, ఉత్తరం, దక్షిణం మరియు తూర్పు వైపు మరో రెండు (మొదటి దాని ఉత్తరాన).",
+          "బలిని సమర్పిస్తున్నప్పుడు మంత్రాన్ని పఠించండి.",
+          "బలి కోసం ఉపయోగించిన మిగిలిన అన్నం/పండ్లను పారవేయాలి మరియు తినకూడదు."
+        ],
+        "hindi": [
+          "संबद्ध प्राणियों (पार्षदों) को बलि (बलिदान) अर्पित करें।",
+          "पके हुए सफेद चावल, केले के टुकड़े या फलों के टुकड़ों का उपयोग करें।",
+          "आरेख में दिए गए क्रम का पालन करते हुए, होम कुंड के बाहर छह अलग-अलग स्थानों पर थोड़ी मात्रा में प्रसाद रखें।",
+          "प्रसाद के स्थान हैं: पूर्व, पश्चिम, उत्तर, दक्षिण, और पूर्व की ओर दो और (पहले वाले के उत्तर में)।",
+          "बलि चढ़ाते समय मंत्र का जाप करें।",
+          "बलि के लिए उपयोग किए गए शेष चावल/फल को फेंक देना चाहिए और उसका सेवन नहीं करना चाहिए।"
+        ]
+      },
+      "slokas": {
+        "english": "om {deity_prefix} pārṣadebhyo namaḥ ।baliṁ samarpayāmi ।",
+        "telugu": "ఓం {deity_prefix} పార్షదేభ్యో నమః ।బలిం సమర్పయామి ।",
+        "devanagari": "ॐ {deity_prefix} पार्षदेभ्यो नमः ।बलिं समर्पयामि ।",
+        "swara_enabled": false
+      }
+    },
+    "poornaahuti": {
+      "title": {
+        "english": "Poornaahuti",
+        "telugu": "పూర్ణాహుతి",
+        "hindi": "पूर्णाहुति"
+      },
+      "instructions": {
+        "english": [
+          "Prepare the Poornaahuti offering. For a simple homam, this can be a dry coconut half filled with a coin, akshatas, and powders (sandalwood, turmeric, kumkum). This symbolizes the offering of one's head or ego.",
+          "Place the offering on the wooden ladle, recite the following mantra, and then carefully place it in the fire with your hand.",
+          "As you place the offering, recite the Brahmaarpanam mantra, contemplating complete surrender to the deity."
+        ],
+        "telugu": [
+          "పూర్ణాహుతి నైవేద్యం సిద్ధం చేయండి. ఒక సాధారణ హోమం కోసం, ఇది ఒక నాణెం, అక్షతలు, మరియు పొడులతో (గంధం, పసుపు, కుంకుమ) నింపిన ఎండు కొబ్బరి చిప్ప కావచ్చు. ఇది ఒకరి తల లేదా అహంకారాన్ని సమర్పించడాన్ని సూచిస్తుంది.",
+          "నైవేద్యాన్ని చెక్క గరిటెపై ఉంచి, ఈ క్రింది మంత్రాన్ని పఠించి, ఆపై దానిని జాగ్రత్తగా మీ చేతితో అగ్నిలో ఉంచండి.",
+          "నైవేద్యం ఉంచుతున్నప్పుడు, దేవతకు సంపూర్ణ శరణాగతిని ధ్యానిస్తూ బ్రహ్మార్పణం మంత్రాన్ని పఠించండి."
+        ],
+        "hindi": [
+          "पूर्णाहुति की आहुति तैयार करें। एक साधारण होम के लिए, यह एक सूखा नारियल का आधा हिस्सा हो सकता है जिसमें एक सिक्का, अक्षत और पाउडर (चंदन, हल्दी, कुमकुम) भरा हो। यह किसी के सिर या अहंकार के अर्पण का प्रतीक है।",
+          "आहुति को लकड़ी की करछुल पर रखें, निम्नलिखित मंत्र का पाठ करें, और फिर इसे सावधानी से अपने हाथ से आग में रखें।",
+          "आहुति देते समय, देवता के प्रति पूर्ण समर्पण का ध्यान करते हुए ब्रह्मार्पणम् मंत्र का पाठ करें।"
+        ]
+      },
+      "slokas": {
+        "english": "om pūrṇāhutimuttamāṁ juhoti ।sarvaṁ vai pūrṇāhutiḥ ।sarvamevāpnoti ।atho iyaṁ vai pūrṇāhutiḥ ।asyāmeva pratitiṣṭhati ।\nom pūrṇamadaḥ pūrṇamidaṁ pūrṇātpūrṇamudacyate ।pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥\nom {deity_invocation} ।pūrṇāhutiṁ samarpayāmi ।\nom brahmārpaṇaṁ brahmahavir brahmāgnau brahmaṇā hutaṁ ।brahmaiva tena gantavyaṁ brahma karma samādhinā ॥",
+        "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి ।సర్వం వై పూర్ణాహుతిః ।సర్వమేవాప్నోతి ।అథో ఇయం వై పూర్ణాహుతిః ।అస్యామేవ ప్రతితిష్ఠతి ।\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే ।పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం {deity_invocation} ।పూర్ణాహుతిం సమర్పయామి ।\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం ।బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
+        "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः ।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ {deity_invocation} ।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
+        "swara_enabled": false
+      }
+    }
+  }
+}
