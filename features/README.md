@@ -10,6 +10,7 @@ Last synced: 2026-03-01
 | [Schema Normalization](schema-normalization/README.md) | Done | P1 | #2 | `schema-normalization/` |
 | [Multi-language Support](multi-language-support/README.md) | Done | P1 | #3 | `multi-language-support/` |
 | [Manual Collection](manual-collection/README.md) | Done | P2 | #4 | `manual-collection/` |
+| [Sloka Meanings & Metadata](sloka-meanings/README.md) | Open | P1 | #5 | `sloka-meanings/` |
 
 ## By Status
 
@@ -20,6 +21,9 @@ Last synced: 2026-03-01
 
 ### In Progress
 - PDF Parser (#1)
+
+### Open
+- Sloka Meanings & Metadata (#5)
 
 ### In Planning
 
