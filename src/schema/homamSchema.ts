@@ -61,6 +61,7 @@ export const HomamManualSchema = z.object({
   title: MultiLangString,
   author: MultiLangString,
   source: z.string().url().optional().describe("URL to the original source PDF"),
+  video: z.union([z.string().url(), z.literal("")]).optional().describe("YouTube video URL"),
   sections: z.array(SectionSchema),
 });
 
