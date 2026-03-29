@@ -559,28 +559,31 @@
     },
     {
       "id": 18,
-      "type": "pradhana",
+      "type": "uttara",
       "title": {
-        "english": "Vasordhaaraa",
+        "english": "Stream of Excellence",
         "telugu": "వసోర్ధారా",
         "devanagari": "वसोर्धारा",
-        "hindi": "వసోర్ధారా"
+        "hindi": "वसोर्धारा"
       },
       "voice_guidance_key": "ganesh_homam_vasordhaaraa",
       "instructions": {
         "english": [
-          "Pour a slow, continuous stream of ghee onto the burning coconut pieces in the homa kundam while reciting the following verse from 'Rudra Chamakam'."
+          "Take a ladleful of ghee and pour it in a slow, continuous stream onto the burning coconut pieces in the homa kundam.",
+          "While pouring the ghee, recite the third verse from 'Rudra Chamakam'."
         ],
         "telugu": [
-          "'రుద్ర చమకం' నుండి ఈ క్రింది శ్లోకాన్ని పఠిస్తూ హోమ కుండంలో మండుతున్న కొబ్బరి ముక్కలపై నెమ్మదిగా, నిరంతరంగా నెయ్యి ధారగా పోయండి."
+          "ఒక గరిటెడు నెయ్యి తీసుకుని, హోమ కుండంలోని కాలుతున్న కొబ్బరి ముక్కలపై నెమ్మదిగా, నిరంతరాయంగా ధారగా పోయండి.",
+          "నెయ్యి పోస్తున్నప్పుడు, 'రుద్ర చమకం' నుండి మూడవ శ్లోకాన్ని పఠించండి."
         ],
         "hindi": [
-          "'रुद्र चमकम्' से निम्नलिखित श्लोक का पाठ करते हुए होम कुंड में जलते हुए नारियल के टुकड़ों पर घी की एक धीमी, निरंतर धारा डालें।"
+          "एक करछुल घी लें और उसे होम कुंड में जलते हुए नारियल के टुकड़ों पर धीमी, निरंतर धारा में डालें।",
+          "घी डालते समय, 'रुद्र चमकम्' से तीसरे श्लोक का पाठ करें।"
         ]
       },
       "slokas": {
-        "english": "om śaṁ ca me mayaśca me priyam ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadram ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviņam ca me yantă ca me dhartā ca me kşemaśca me dhṛtiśca me viśvam ca me mahaśca me samvicca me jñātram ca me sūśca me prasūśca me sīram ca me layaśca martam ca me'mṛtaṁ ca me'yakşmam ca me'nāmayacca me jīvātuśca me dīrghāyutvaṁ ca me'namitram ca me'bhayam ca me sugam ca me śayanam ca me sūṣā ca me sudinam ca me ॥",
-        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మర్తం చ మేమృతం చ మేయక్ష్మం చ మేనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేనమిత్రం చ మేభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
+        "english": "om śaṃ ca me mayaśca me priyam ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadram ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviṇam ca me yantā ca me dhartā ca me kṣemaśca me dhṛtiśca me viśvam ca me mahaśca me samvicca me jñātram ca me sūśca me prasūśca me sīram ca me layaśca ma rtam ca me'mṛtam ca me'yakṣmam ca me'nāmayamca me jīvātuśca me dīrghāyutvam ca me'namitram ca me'bhayam ca me sugam ca me śayanam ca me sūṣā ca me sudinam ca me ॥",
+        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేऽనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మఋతం చ మేऽమృతం చ మేऽయక్ష్మం చ మేऽనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేऽనమిత్రం చ మేऽభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
         "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञातं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे ॥",
         "swara_enabled": false
       }
