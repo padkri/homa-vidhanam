@@ -61,16 +61,19 @@
       "voice_guidance_key": "tarpanam_simplest_deva_tarpana",
       "instructions": {
         "english": [
-          "Pour water via the tips of 4 fingers (region 1) while pleasing various deities.",
-          "Recite the following mantra once."
+          "This is for the satiation of various gods. Sit facing east. Your right knee should be on the ground, and your left knee raised slightly off the ground.",
+          "Pour some water into your open right palm. If using darbhas, they should be placed on your palm with the tips aligned with your fingertips.",
+          "Recite the following mantra once. After reciting, release the water from the tips of your four fingers (area marked '1' in the diagram). This style of offering is known as 'Deva Teertham'."
         ],
         "telugu": [
-          "వేళ్లతో (region 1) నీటిని వదులుతూ దేవతలను తృప్తిపరచండి.",
-          "ఈ క్రింది మంత్రాన్ని ఒకసారి పఠించండి."
+          "ఇది వివిధ దేవతల తృప్తి కోసం. తూర్పు ముఖంగా కూర్చోండి. మీ కుడి మోకాలు నేలపై ఉండాలి మరియు మీ ఎడమ మోకాలు నేల నుండి కొద్దిగా పైకి లేపి ఉండాలి.",
+          "మీ తెరిచిన కుడి అరచేతిలో కొంచెం నీరు పోయండి. దర్భలను ఉపయోగిస్తుంటే, వాటిని మీ అరచేతిలో వేళ్ల కొనలతో సమలేఖనం చేసి ఉంచాలి.",
+          "ఈ క్రింది మంత్రాన్ని ఒకసారి పఠించండి. పఠించిన తరువాత, మీ నాలుగు వేళ్ల కొనల నుండి నీటిని విడుదల చేయండి (చిత్రంలో '1' అని గుర్తించబడిన ప్రాంతం). ఈ రకమైన సమర్పణను 'దేవ తీర్థం' అంటారు."
         ],
         "hindi": [
-          "अञ्जलि में जल लेकर देवों का ध्यान करते हुए अँगुलियों के अग्रभाग (region 1) से जल गिराएं।",
-          "निम्नलिखित मंत्र एक बार बोलें।"
+          "यह विभिन्न देवताओं की तृप्ति के लिए है। पूर्व की ओर मुख करके बैठें। आपका दाहिना घुटना जमीन पर होना चाहिए, और आपका बायां घुटना जमीन से थोड़ा ऊपर उठा हुआ होना चाहिए।",
+          "अपनी खुली दाहिनी हथेली में थोड़ा पानी डालें। यदि दर्भ का उपयोग कर रहे हैं, तो उन्हें आपकी हथेली पर उंगलियों के सिरों के साथ संरेखित करके रखा जाना चाहिए।",
+          "निम्नलिखित मंत्र एक बार बोलें। पाठ करने के बाद, अपनी चार उंगलियों के सिरों से पानी छोड़ दें (आरेख में '1' के रूप में चिह्नित क्षेत्र)। इस तरह के अर्पण को 'देव तीर्थ' के रूप में जाना जाता है।"
         ]
       },
       "slokas": {
@@ -81,7 +84,8 @@
         "english_accented": "om devā́ḥ tṛpyantām",
         "devanagari_accented": "ॐ देवाः॑ तृप्यन्ताम्",
         "telugu_accented": "ఓం దేవాః॑ తృప్యన్తామ్"
-      }
+      },
+      "diagram": "/diagrams/tarpanam/deva-rishi-tarpanam.png"
     },
     {
       "id": 2,
@@ -94,15 +98,18 @@
       "voice_guidance_key": "tarpanam_simplest_saptarshi_tarpana",
       "instructions": {
         "english": [
-          "Pour water via the tips of 4 fingers (region 1) while pleasing the seven sages.",
+          "Continue to sit facing east with your right knee on the ground.",
+          "Using the same water, offer tarpana in the same manner as for Deva Tarpana (releasing water from the fingertips, area marked '1' in the diagram).",
           "Recite the following mantra once."
         ],
         "telugu": [
-          "వేళ్లతో (region 1) నీటిని వదులుతూ సప్తర్షులను తృప్తిపరచండి.",
+          "తూర్పు ముఖంగా మీ కుడి మోకాలు నేలపై ఉంచి కూర్చోవడం కొనసాగించండి.",
+          "అదే నీటిని ఉపయోగించి, దేవ తర్పణం చేసిన విధంగానే (వేళ్ల కొనల నుండి నీటిని విడుదల చేస్తూ, చిత్రంలో '1' అని గుర్తించబడిన ప్రాంతం) తర్పణం అర్పించండి.",
           "ఈ క్రింది మంత్రాన్ని ఒకసారి పఠించండి."
         ],
         "hindi": [
-          "सप्तर्षियों का ध्यान करते हुए अँगुलियों के अग्रभाग (region 1) से जल गिराएं।",
+          "पूर्व की ओर मुख करके अपना दाहिना घुटना जमीन पर रखकर बैठना जारी रखें।",
+          "उसी जल का उपयोग करते हुए, देव तर्पण की तरह ही तर्पण करें (उंगलियों के सिरों से जल छोड़ते हुए, आरेख में '1' के रूप में चिह्नित क्षेत्र)।",
           "निम्नलिखित मंत्र एक बार बोलें।"
         ]
       },
@@ -114,7 +121,8 @@
         "english_accented": "om saptárṣayaḥ tṛpyantām",
         "devanagari_accented": "ॐ सप्त॑र्षयः तृप्यन्ताम्",
         "telugu_accented": "ఓం సప్త॑ర్షయః తృప్యన్తామ్"
-      }
+      },
+      "diagram": "/diagrams/tarpanam/deva-rishi-tarpanam.png"
     },
     {
       "id": 3,
@@ -128,15 +136,18 @@
       "repeats": 2,
       "instructions": {
         "english": [
-          "Pour water via the region below the little finger (region 2) while pleasing the divine humans and rishis.",
+          "Continue to sit facing east with your right knee on the ground.",
+          "Now the style of releasing water changes. Release the water from below the little finger (area marked '2' in the diagram).",
           "Recite the following mantra and pour water 2 times."
         ],
         "telugu": [
-          "చిటికెన వేలు క్రింద నుండి (region 2) నీటిని వదులుతూ దివ్య మనుష్యులు మరియు ఋషులను తృప్తిపరచండి.",
+          "తూర్పు ముఖంగా మీ కుడి మోకాలు నేలపై ఉంచి కూర్చోవడం కొనసాగించండి.",
+          "ఇప్పుడు నీటిని విడుదల చేసే విధానం మారుతుంది. చిటికెన వేలు క్రింద నుండి నీటిని విడుదల చేయండి (చిత్రంలో '2' అని గుర్తించబడిన ప్రాంతం).",
           "ఈ క్రింది మంత్రాన్ని పఠిస్తూ 2 సార్లు నీటిని వదలండి."
         ],
         "hindi": [
-          "दिव्य मनुष्यों और ऋषियों का ध्यान करते हुए कनिष्ठिका के नीचे (region 2) से जल गिराएं।",
+          "पूर्व की ओर मुख करके अपना दाहिना घुटना जमीन पर रखकर बैठना जारी रखें।",
+          "अब जल छोड़ने की शैली बदल जाएगी। कनिष्ठिका के नीचे से जल छोड़ें (आरेख में '2' के रूप में चिह्नित क्षेत्र)।",
           "निम्नलिखित मंत्र बोलते हुए 2 बार जल गिराएं।"
         ]
       },
@@ -148,7 +159,8 @@
         "english_accented": "om r̥ṣáyo divyá manuṣyā́ḥ tṛpyantām",
         "devanagari_accented": "ॐ ऋष॑यो दि॒व्य म॑नु॒ष्याः॑ तृप्यन्ताम्",
         "telugu_accented": "ఓం ఋష॑యో ది॒వ్య మ॑ను॒ష్యాః॑ తృప్యన్తామ్"
-      }
+      },
+      "diagram": "/diagrams/tarpanam/rishi-tarpanam.png"
     },
     {
       "id": 4,
@@ -162,15 +174,24 @@
       "repeats": 3,
       "instructions": {
         "english": [
-          "Pour water via the region between the index finger and thumb (region 3) while pleasing the ancestors.",
+          "These are offerings to deceased ancestors from all lives. Sit facing the south direction.",
+          "If you wear a sacred thread (yajnopavita), change it to the reverse position (aprasavya), wearing it over the right shoulder and under the left arm.",
+          "Your left knee should now be in contact with the ground, and your right knee should be raised above the ground.",
+          "Release the water from the area of your palm between the thumb and the index finger (area marked '3' in the diagram). This is known as 'Pitri Teertham'.",
           "Recite the following mantra and pour water 3 times."
         ],
         "telugu": [
-          "చూపుడు వేలు మరియు బొటనవేలు మధ్య నుండి (region 3) నీటిని వదులుతూ పితృదేవతలను తృప్తిపరచండి.",
+          "ఇవి అన్ని జన్మల నుండి మరణించిన పూర్వీకులకు సమర్పించే నైవేద్యాలు. దక్షిణ దిశగా ముఖం చేసి కూర్చోండి.",
+          "మీరు యజ్ఞోపవీతం ధరిస్తే, దానిని అప్రసవ్య స్థితికి మార్చండి, అంటే కుడి భుజంపై నుండి ఎడమ చేయి కిందకు ధరించండి.",
+          "మీ ఎడమ మోకాలు ఇప్పుడు నేలను తాకుతూ ఉండాలి, మరియు మీ కుడి మోకాలు నేల పైకి లేపి ఉండాలి.",
+          "మీ బొటనవేలు మరియు చూపుడు వేలు మధ్య ఉన్న అరచేతి ప్రాంతం నుండి నీటిని విడుదల చేయండి (చిత్రంలో '3' అని గుర్తించబడిన ప్రాంతం). దీనిని 'పితృ తీర్థం' అంటారు.",
           "ఈ క్రింది మంత్రాన్ని పఠిస్తూ 3 సార్లు నీటిని వదలండి."
         ],
         "hindi": [
-          "पितरों का ध्यान करते हुए तर्जनी और अँगूठे के बीच (region 3) से जल गिराएं।",
+          "ये सभी जन्मों के मृत पूर्वजों को दी जाने वाली आहुतियाँ हैं। दक्षिण दिशा की ओर मुख करके बैठें।",
+          "यदि आप जनेऊ (यज्ञोपवीत) पहनते हैं, तो इसे उल्टी स्थिति (अपसव्य) में बदल दें, इसे दाहिने कंधे के ऊपर और बाईं बांह के नीचे पहनें।",
+          "अब आपका बायां घुटना जमीन के संपर्क में होना चाहिए, और आपका दाहिना घुटना जमीन से ऊपर उठा होना चाहिए।",
+          "अपनी हथेली के अंगूठे और तर्जनी के बीच के क्षेत्र से पानी छोड़ें (आरेख में '3' के रूप में चिह्नित क्षेत्र)। इसे 'पितृ तीर्थ' के रूप में जाना जाता है।",
           "निम्नलिखित मंत्र बोलते हुए 3 बार जल गिराएं।"
         ]
       },
@@ -182,7 +203,8 @@
         "english_accented": "om pítaraḥ tṛpyantām tebhyáḥ svadhā́ námaḥ",
         "devanagari_accented": "ॐ पित॑रः तृप्यन्ताम् तेभ्यः॑ स्व॒धा नमः॑",
         "telugu_accented": "ఓం పిత॑రః తృప్యన్తామ్ తేభ్యః॑ స్వ॒ధా నమః॑"
-      }
+      },
+      "diagram": "/diagrams/tarpanam/pitri-tarpanam.png"
     },
     {
       "id": 5,
