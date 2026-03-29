@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "manual_id": "tarpanam-simplest",
+    "version": "1.0.0",
+    "last_validated": "2026-03-29T00:00:00.000Z",
+    "source_pdf_hash": "tarpana_ss_sans-"
+  },
+  "title": {
+    "english": "Tarpana for Devas, Rishis and Pitris (Simplest Procedure)",
+    "telugu": "దేవ, ఋషి మరియు పితృ తర్పణం (సరళమైన విధానం)",
+    "hindi": "देव, ऋषि और पितृ तर्पण (सरलतम प्रक्रिया)"
+  },
+  "author": {
+    "english": "P V R Narasimha Rao",
+    "telugu": "పి వి ఆర్ నరసింహారావు",
+    "hindi": "पी वी आर नरसिम्हा राव"
+  },
+  "source": "https://EasyHoma.org",
+  "sections": [
+    {
+      "id": 0,
+      "type": "common",
+      "title": {
+        "english": "Introduction",
+        "telugu": "పరిచయం",
+        "hindi": "परिचय"
+      },
+      "voice_guidance_key": "tarpanam_simplest_introduction",
+      "instructions": {
+        "english": [
+          "This is the simplest procedure for Tarpana — offering water to Devas, Rishis and Pitris.",
+          "You only need a pot of water. Sit comfortably and proceed with the four offerings below.",
+          "Water is poured from different regions of the hand depending on the recipient: fingertips (region 1) for Devas and Saptarshis, below the little finger (region 2) for Rishis, and between the index finger and thumb (region 3) for Pitris."
+        ],
+        "telugu": [
+          "ఇది తర్పణం యొక్క సరళమైన విధానం — దేవతలు, ఋషులు మరియు పితృదేవతలకు నీటి సమర్పణ.",
+          "మీకు ఒక నీటి పాత్ర మాత్రమే అవసరం. సౌకర్యంగా కూర్చుని, క్రింది నాలుగు సమర్పణలతో కొనసాగండి.",
+          "గ్రహీత ఆధారంగా చేతిలోని వేర్వేరు ప్రాంతాల నుండి నీటిని వదలాలి: దేవతలు మరియు సప్తర్షులకు వేళ్ల కొనలు (region 1), ఋషులకు చిటికెన వేలు క్రింద (region 2), పితృదేవతలకు చూపుడు వేలు మరియు బొటనవేలు మధ్య (region 3)."
+        ],
+        "hindi": [
+          "यह तर्पण की सरलतम प्रक्रिया है — देवों, ऋषियों और पितरों को जल अर्पण।",
+          "आपको केवल एक जल पात्र की आवश्यकता है। आराम से बैठें और नीचे दिए गए चार अर्पण करें।",
+          "प्राप्तकर्ता के अनुसार हाथ के विभिन्न भागों से जल गिराया जाता है: देवों और सप्तर्षियों के लिए अँगुलियों के अग्रभाग (region 1), ऋषियों के लिए कनिष्ठिका के नीचे (region 2), और पितरों के लिए तर्जनी और अँगूठे के बीच (region 3)।"
+        ]
+      },
+      "slokas": {
+        "english": "",
+        "telugu": "",
+        "devanagari": "",
+        "swara_enabled": false
+      }
+    },
+    {
+      "id": 1,
+      "type": "pradhana",
+      "title": {
+        "english": "Deva Tarpana",
+        "telugu": "దేవ తర్పణం",
+        "hindi": "देव तर्पण"
+      },
+      "voice_guidance_key": "tarpanam_simplest_deva_tarpana",
+      "instructions": {
+        "english": [
+          "Pour water via the tips of 4 fingers (region 1) while pleasing various deities.",
+          "Recite the following mantra once."
+        ],
+        "telugu": [
+          "వేళ్లతో (region 1) నీటిని వదులుతూ దేవతలను తృప్తిపరచండి.",
+          "ఈ క్రింది మంత్రాన్ని ఒకసారి పఠించండి."
+        ],
+        "hindi": [
+          "अञ्जलि में जल लेकर देवों का ध्यान करते हुए अँगुलियों के अग्रभाग (region 1) से जल गिराएं।",
+          "निम्नलिखित मंत्र एक बार बोलें।"
+        ]
+      },
+      "slokas": {
+        "english": "om devāḥ tṛpyantām",
+        "telugu": "ఓం దేవాః తృప్యన్తామ్",
+        "devanagari": "ॐ देवाः तृप्यन्ताम्",
+        "swara_enabled": true,
+        "english_accented": "om devā́ḥ tṛpyantām",
+        "devanagari_accented": "ॐ देवाः॑ तृप्यन्ताम्",
+        "telugu_accented": "ఓం దేవాః॑ తృప్యన్తామ్"
+      }
+    },
+    {
+      "id": 2,
+      "type": "pradhana",
+      "title": {
+        "english": "Saptarshi Tarpana",
+        "telugu": "సప్తర్షి తర్పణం",
+        "hindi": "सप्तर्षि तर्पण"
+      },
+      "voice_guidance_key": "tarpanam_simplest_saptarshi_tarpana",
+      "instructions": {
+        "english": [
+          "Pour water via the tips of 4 fingers (region 1) while pleasing the seven sages.",
+          "Recite the following mantra once."
+        ],
+        "telugu": [
+          "వేళ్లతో (region 1) నీటిని వదులుతూ సప్తర్షులను తృప్తిపరచండి.",
+          "ఈ క్రింది మంత్రాన్ని ఒకసారి పఠించండి."
+        ],
+        "hindi": [
+          "सप्तर्षियों का ध्यान करते हुए अँगुलियों के अग्रभाग (region 1) से जल गिराएं।",
+          "निम्नलिखित मंत्र एक बार बोलें।"
+        ]
+      },
+      "slokas": {
+        "english": "om saptarṣayaḥ tṛpyantām",
+        "telugu": "ఓం సప్తర్షయః తృప్యన్తామ్",
+        "devanagari": "ॐ सप्तर्षयः तृप्यन्ताम्",
+        "swara_enabled": true,
+        "english_accented": "om saptárṣayaḥ tṛpyantām",
+        "devanagari_accented": "ॐ सप्त॑र्षयः तृप्यन्ताम्",
+        "telugu_accented": "ఓం సప్త॑ర్షయః తృప్యన్తామ్"
+      }
+    },
+    {
+      "id": 3,
+      "type": "pradhana",
+      "title": {
+        "english": "Rishi Tarpana (Divine Humans)",
+        "telugu": "ఋషి తర్పణం (దివ్య మనుష్యులు)",
+        "hindi": "ऋषि तर्पण (दिव्य मनुष्य)"
+      },
+      "voice_guidance_key": "tarpanam_simplest_rishi_tarpana",
+      "repeats": 2,
+      "instructions": {
+        "english": [
+          "Pour water via the region below the little finger (region 2) while pleasing the divine humans and rishis.",
+          "Recite the following mantra and pour water 2 times."
+        ],
+        "telugu": [
+          "చిటికెన వేలు క్రింద నుండి (region 2) నీటిని వదులుతూ దివ్య మనుష్యులు మరియు ఋషులను తృప్తిపరచండి.",
+          "ఈ క్రింది మంత్రాన్ని పఠిస్తూ 2 సార్లు నీటిని వదలండి."
+        ],
+        "hindi": [
+          "दिव्य मनुष्यों और ऋषियों का ध्यान करते हुए कनिष्ठिका के नीचे (region 2) से जल गिराएं।",
+          "निम्नलिखित मंत्र बोलते हुए 2 बार जल गिराएं।"
+        ]
+      },
+      "slokas": {
+        "english": "om r̥ṣayo divya manuṣyāḥ tṛpyantām",
+        "telugu": "ఓం ఋషయో దివ్య మనుష్యాః తృప్యన్తామ్",
+        "devanagari": "ॐ ऋषयो दिव्य मनुष्याः तृप्यन्ताम्",
+        "swara_enabled": true,
+        "english_accented": "om r̥ṣáyo divyá manuṣyā́ḥ tṛpyantām",
+        "devanagari_accented": "ॐ ऋष॑यो दि॒व्य म॑नु॒ष्याः॑ तृप्यन्ताम्",
+        "telugu_accented": "ఓం ఋష॑యో ది॒వ్య మ॑ను॒ష్యాః॑ తృప్యన్తామ్"
+      }
+    },
+    {
+      "id": 4,
+      "type": "pradhana",
+      "title": {
+        "english": "Pitri Tarpana",
+        "telugu": "పితృ తర్పణం",
+        "hindi": "पितृ तर्पण"
+      },
+      "voice_guidance_key": "tarpanam_simplest_pitri_tarpana",
+      "repeats": 3,
+      "instructions": {
+        "english": [
+          "Pour water via the region between the index finger and thumb (region 3) while pleasing the ancestors.",
+          "Recite the following mantra and pour water 3 times."
+        ],
+        "telugu": [
+          "చూపుడు వేలు మరియు బొటనవేలు మధ్య నుండి (region 3) నీటిని వదులుతూ పితృదేవతలను తృప్తిపరచండి.",
+          "ఈ క్రింది మంత్రాన్ని పఠిస్తూ 3 సార్లు నీటిని వదలండి."
+        ],
+        "hindi": [
+          "पितरों का ध्यान करते हुए तर्जनी और अँगूठे के बीच (region 3) से जल गिराएं।",
+          "निम्नलिखित मंत्र बोलते हुए 3 बार जल गिराएं।"
+        ]
+      },
+      "slokas": {
+        "english": "om pitaraḥ tṛpyantām tebhyaḥ svadhā namaḥ",
+        "telugu": "ఓం పితరః తృప్యన్తామ్ తేభ్యః స్వధా నమః",
+        "devanagari": "ॐ पितरः तृप्यन्ताम् तेभ्यः स्वधा नमः",
+        "swara_enabled": true,
+        "english_accented": "om pítaraḥ tṛpyantām tebhyáḥ svadhā́ námaḥ",
+        "devanagari_accented": "ॐ पित॑रः तृप्यन्ताम् तेभ्यः॑ स्व॒धा नमः॑",
+        "telugu_accented": "ఓం పిత॑రః తృప్యన్తామ్ తేభ్యః॑ స్వ॒ధా నమః॑"
+      }
+    },
+    {
+      "id": 5,
+      "type": "uttara",
+      "title": {
+        "english": "Conclusion",
+        "telugu": "ముగింపు",
+        "hindi": "निष्कर्ष"
+      },
+      "voice_guidance_key": "tarpanam_simplest_conclusion",
+      "instructions": {
+        "english": [
+          "Pour out any remaining water. Mentally surrender the doership of this action to the Lord.",
+          "Recite the final peace mantra."
+        ],
+        "telugu": [
+          "మిగిలిన నీటిని పారవేయండి. ఈ కర్మ యొక్క కర్తృత్వాన్ని భగవంతునికి మానసికంగా సమర్పించండి.",
+          "చివరి శాంతి మంత్రాన్ని పఠించండి."
+        ],
+        "hindi": [
+          "शेष जल को बहा दें। इस कर्म का कर्तापन मानसिक रूप से भगवान को समर्पित करें।",
+          "अंतिम शांति मंत्र का पाठ करें।"
+        ]
+      },
+      "slokas": {
+        "english": "om tat sat ।om śāntiḥ śāntiḥ śāntiḥ ।",
+        "telugu": "ఓం తత్ సత్ ।ఓం శాన్తిః శాన్తిః శాన్తిః ।",
+        "devanagari": "ॐ तत् सत् ।ॐ शान्तिः शान्तिः शान्तिः ।",
+        "swara_enabled": false
+      }
+    }
+  ]
+}
