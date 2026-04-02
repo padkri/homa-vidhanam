@@ -504,15 +504,22 @@ const ManualViewer = () => {
                           <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg flex items-center justify-center" style={{minHeight: '300px'}}>
                             {step.diagram ? (
                               <>
-                                <img 
-                                  src={process.env.PUBLIC_URL + step.diagram} 
+                                <img
+                                  key={step.diagram}
+                                  src={process.env.PUBLIC_URL + step.diagram}
                                   alt="Ritual diagram" 
                                   className="max-w-full max-h-full object-contain"
                                   style={{maxHeight: '400px'}}
                                   onError={(e) => {
-                                    console.error('Error loading diagram:', e.target.src);
-                                    e.target.style.display = 'none';
-                                    e.target.nextSibling.style.display = 'block';
+                                    const img = e.target;
+                                    const retryCount = parseInt(img.dataset.retry || '0', 10);
+                                    if (retryCount < 2) {
+                                      img.dataset.retry = String(retryCount + 1);
+                                      setTimeout(() => { img.src = img.src; }, 1000);
+                                    } else {
+                                      img.style.display = 'none';
+                                      if (img.nextSibling) img.nextSibling.style.display = 'block';
+                                    }
                                   }}
                                 />
                                 <p className="text-gray-500 p-4 text-center" style={{display: 'none'}}>Diagram not available</p>
@@ -566,8 +573,9 @@ const ManualViewer = () => {
                         <div className="bg-gray-100 border border-[#E0E0E0] rounded-lg flex items-center justify-center" style={{minHeight: '300px'}}>
                           {activeSection.diagram ? (
                             <>
-                              <img 
-                                src={process.env.PUBLIC_URL + activeSection.diagram} 
+                              <img
+                                key={activeSection.diagram}
+                                src={process.env.PUBLIC_URL + activeSection.diagram}
                                 alt="Ritual diagram" 
                                 className="max-w-full max-h-full object-contain"
                                 style={{maxHeight: '400px'}}
