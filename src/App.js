@@ -165,20 +165,48 @@ const ManualViewer = () => {
     return content?.sloka_groups || [];
   };
 
+  const resolveIllustrationSrc = (src) => {
+    if (!src) return '';
+    return src.startsWith('/') ? `${process.env.PUBLIC_URL}${src}` : src;
+  };
+
+  const getIllustrationAlt = (illustration, fallbackTitle) => {
+    return illustration?.alt?.[language]
+      || illustration?.alt?.english
+      || fallbackTitle
+      || 'Ritual illustration';
+  };
+
   const renderSlokaCards = (content, cardPadding = 'p-6') => {
     const groups = getSlokaGroups(content);
 
     return groups.map((group, index) => {
       const title = group.title?.[language] || (groups.length > 1 ? `${translations.part[language]} ${index + 1}` : '');
+      const illustration = group.illustration;
+      const illustrationSrc = resolveIllustrationSrc(illustration?.src);
 
       return (
         <div key={index} className={`bg-[#FFF8E1] ${cardPadding} rounded-lg border border-[#E0E0E0] shadow-sm`}>
-          {title && (
-            <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
-          )}
-          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-            {formatSloka(group.slokas[slokaLanguage])}
-          </p>
+          <div className={illustrationSrc ? 'md:grid md:grid-cols-[minmax(0,1fr)_minmax(180px,260px)] md:gap-6 md:items-start' : ''}>
+            <div>
+              {title && (
+                <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
+              )}
+              <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                {formatSloka(group.slokas[slokaLanguage])}
+              </p>
+            </div>
+            {illustrationSrc && (
+              <figure className="mt-5 md:mt-0">
+                <img
+                  src={illustrationSrc}
+                  alt={getIllustrationAlt(illustration, title)}
+                  className="w-full max-h-72 object-contain rounded-md border border-amber-200 bg-white"
+                  loading="lazy"
+                />
+              </figure>
+            )}
+          </div>
         </div>
       );
     });

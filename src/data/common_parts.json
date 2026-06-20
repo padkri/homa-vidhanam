@@ -150,6 +150,14 @@
             "telugu": "జల శుద్ధి",
             "hindi": "जल शुद्धि"
           },
+          "illustration": {
+            "src": "/diagrams/kalasa-water-purification.svg",
+            "alt": {
+              "english": "Akshatas and a flower placed in a vessel of water for purification",
+              "telugu": "శుద్ధి కోసం నీటి పాత్రలో ఉంచిన అక్షతలు మరియు పువ్వు",
+              "hindi": "शुद्धि के लिए जल पात्र में रखे अक्षत और फूल"
+            }
+          },
           "slokas": {
             "english": "vaṁ",
             "telugu": "వం",
@@ -162,6 +170,14 @@
             "english": "Sacred Rivers Invocation",
             "telugu": "పవిత్ర నదుల ఆవాహన",
             "hindi": "पवित्र नदियों का आह्वान"
+          },
+          "illustration": {
+            "src": "/diagrams/sacred-rivers-invocation.svg",
+            "alt": {
+              "english": "Sacred rivers invoked into the kalasa water",
+              "telugu": "కలశ జలంలోకి ఆవాహన చేసిన పవిత్ర నదులు",
+              "hindi": "कलश जल में आवाहित पवित्र नदियाँ"
+            }
           },
           "slokas": {
             "english": "gaṁge ca yamune caiva godāvari sarasvati ।\nnarmade sindhu kāveri jale'smin sannidhiṁ kuru ॥\namṛtaṁ bhavatu",
@@ -216,6 +232,14 @@
             "english": "Homa Kundam Lines",
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
+          },
+          "illustration": {
+            "src": "/diagrams/homa-kundam-6-lines.svg",
+            "alt": {
+              "english": "Six lines drawn in the homa kundam with darbha",
+              "telugu": "దర్భతో హోమ కుండంలో గీసిన ఆరు రేఖలు",
+              "hindi": "दर्भ से होम कुंड में खींची गई छह रेखाएँ"
+            }
           },
           "slokas": {
             "english": "om brahmaṇe namaḥ ।\nom yamāya namaḥ ।\nom somāya namaḥ ।\nom rudrāya namaḥ ।\nom viṣṇave namaḥ ।\nom indrāya namaḥ ।",
@@ -333,6 +357,14 @@
             "english": "Homa Kundam Lines",
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
+          },
+          "illustration": {
+            "src": "/diagrams/homa-kundam-6-lines.svg",
+            "alt": {
+              "english": "Six lines drawn in the homa kundam with darbha",
+              "telugu": "దర్భతో హోమ కుండంలో గీసిన ఆరు రేఖలు",
+              "hindi": "दर्भ से होम कुंड में खींची गई छह रेखाएँ"
+            }
           },
           "slokas": {
             "english": "1. oṃ brahmaṇe namaḥ ।\n2. oṃ yamāya namaḥ ।\n3. oṃ somāya namaḥ ।\n4. oṃ rudrāya namaḥ ।\n5. oṃ viṣṇave namaḥ ।\n6. oṃ indrāya namaḥ ।",

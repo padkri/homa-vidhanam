@@ -15,10 +15,16 @@ const SlokaSchema = z.object({
   swara_enabled: z.boolean().default(false).describe("Indicates if Vedic accents are present"),
 });
 
+const IllustrationSchema = z.object({
+  src: z.string().min(1).describe("Path or URL for an image shown with this content"),
+  alt: MultiLangString.optional().describe("Localized alt text for the image"),
+});
+
 // Canonical grouping for one or more mantra boxes
 const SlokaGroupSchema = z.object({
   title: MultiLangString.optional().describe("Optional label for this mantra group"),
   slokas: SlokaSchema,
+  illustration: IllustrationSchema.optional().describe("Optional image shown alongside this mantra group"),
 });
 
 // Deity-specific override slokas (for sections like Poornaahuti, Suddhaanna Bali)
@@ -81,4 +87,4 @@ export const HomamManualSchema = z.object({
 export type HomamManual = z.infer<typeof HomamManualSchema>;
 
 // Re-export sub-schemas for granular validation
-export { MultiLangString, SlokaSchema, SlokaGroupSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema };
+export { MultiLangString, SlokaSchema, SlokaGroupSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema, IllustrationSchema };
