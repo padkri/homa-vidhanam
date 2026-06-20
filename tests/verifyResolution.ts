@@ -14,28 +14,54 @@ function resolveCommonRef(section: any) {
     return section;
   }
 
-  const resolved: any = {
-    ...section,
-    title: common.title,
-    instructions: common.instructions,
-    diagram_placeholder: common.diagram_placeholder || section.diagram_placeholder,
-  };
+  const hydrateSlokas = (slokas: any) => {
+    if (!slokas) return undefined;
 
-  if (section.deity_slokas && common.slokas) {
+    if (!section.deity_slokas) {
+      return { ...slokas };
+    }
+
     const substitute = (text: string, lang: string) => {
-      const deityText = section.deity_slokas[lang] || '';
+      const deityLang = lang === 'devanagari' ? 'devanagari' : lang;
+      const deityText = section.deity_slokas[deityLang] || '';
       return text
         .replace('{deity_invocation}', deityText)
         .replace('{deity_prefix}', deityText);
     };
-    resolved.slokas = {
-      english: substitute(common.slokas.english, 'english'),
-      telugu: substitute(common.slokas.telugu, 'telugu'),
-      devanagari: substitute(common.slokas.devanagari, 'devanagari'),
-      swara_enabled: common.slokas.swara_enabled,
+
+    return {
+      english: substitute(slokas.english, 'english'),
+      telugu: substitute(slokas.telugu, 'telugu'),
+      devanagari: substitute(slokas.devanagari, 'devanagari'),
+      swara_enabled: slokas.swara_enabled,
     };
-  } else {
-    resolved.slokas = { ...common.slokas };
+  };
+
+  const hydrateSlokaGroups = (slokaGroups: any[], fallbackSlokas?: any) => {
+    const groups = slokaGroups?.length ? slokaGroups : (fallbackSlokas ? [{ slokas: fallbackSlokas }] : []);
+
+    return groups.map(group => ({
+      ...group,
+      slokas: hydrateSlokas(group.slokas),
+    }));
+  };
+
+  const resolved: any = {
+    ...section,
+    title: common.title,
+    instructions: common.instructions,
+    diagram: common.diagram || section.diagram,
+    diagram_placeholder: common.diagram_placeholder || section.diagram_placeholder,
+    slokas: hydrateSlokas(common.slokas),
+    sloka_groups: hydrateSlokaGroups(common.sloka_groups, common.slokas),
+  };
+
+  if (common.steps) {
+    resolved.steps = common.steps.map((step: any) => ({
+      ...step,
+      slokas: hydrateSlokas(step.slokas),
+      sloka_groups: hydrateSlokaGroups(step.sloka_groups, step.slokas),
+    }));
   }
 
   delete resolved.common_ref;
@@ -43,8 +69,10 @@ function resolveCommonRef(section: any) {
   return resolved;
 }
 
-// Check the 3 files that have common_ref sections
-const files = ['siva-homam.json', 'chandi-homam.json', 'ganesh-homam.json'];
+// Check every manual that may have common_ref sections
+const files = fs.readdirSync(DATA_DIR)
+  .filter(file => file.endsWith('.json') && file !== 'config.json' && file !== 'common_parts.json')
+  .sort();
 let allOk = true;
 
 for (const file of files) {
@@ -62,10 +90,15 @@ for (const file of files) {
     if (!resolved.instructions?.english) issues.push('missing instructions.english');
     if (!resolved.instructions?.telugu) issues.push('missing instructions.telugu');
     if (!resolved.instructions?.hindi) issues.push('missing instructions.hindi');
-    if (resolved.slokas === undefined) issues.push('missing slokas');
-    if (resolved.slokas && resolved.slokas.english?.includes('{deity_')) issues.push('unresolved {deity_} placeholder in english');
-    if (resolved.slokas && resolved.slokas.telugu?.includes('{deity_')) issues.push('unresolved {deity_} placeholder in telugu');
-    if (resolved.slokas && resolved.slokas.devanagari?.includes('{deity_')) issues.push('unresolved {deity_} placeholder in devanagari');
+    if (!resolved.sloka_groups?.length && resolved.slokas === undefined) issues.push('missing sloka_groups/slokas');
+
+    const allSlokas = [
+      resolved.slokas,
+      ...(resolved.sloka_groups || []).map((group: any) => group.slokas),
+    ].filter(Boolean);
+    if (allSlokas.some((slokas: any) => slokas.english?.includes('{deity_'))) issues.push('unresolved {deity_} placeholder in english');
+    if (allSlokas.some((slokas: any) => slokas.telugu?.includes('{deity_'))) issues.push('unresolved {deity_} placeholder in telugu');
+    if (allSlokas.some((slokas: any) => slokas.devanagari?.includes('{deity_'))) issues.push('unresolved {deity_} placeholder in devanagari');
 
     if (issues.length > 0) {
       console.log(`  FAIL  id=${resolved.id} "${resolved.title?.english || '?'}": ${issues.join(', ')}`);

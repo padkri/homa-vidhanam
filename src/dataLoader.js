@@ -19,6 +19,38 @@ const resolveCommonRef = (section) => {
     return section;
   }
 
+  const hydrateSlokas = (slokas) => {
+    if (!slokas) return undefined;
+
+    if (!section.deity_slokas) {
+      return { ...slokas };
+    }
+
+    const substitute = (text, lang) => {
+      const deityLang = lang === 'devanagari' ? 'devanagari' : lang;
+      const deityText = section.deity_slokas[deityLang] || '';
+      return text
+        .replace('{deity_invocation}', deityText)
+        .replace('{deity_prefix}', deityText);
+    };
+
+    return {
+      english: substitute(slokas.english, 'english'),
+      telugu: substitute(slokas.telugu, 'telugu'),
+      devanagari: substitute(slokas.devanagari, 'devanagari'),
+      swara_enabled: slokas.swara_enabled,
+    };
+  };
+
+  const hydrateSlokaGroups = (slokaGroups, fallbackSlokas) => {
+    const groups = slokaGroups?.length ? slokaGroups : (fallbackSlokas ? [{ slokas: fallbackSlokas }] : []);
+
+    return groups.map(group => ({
+      ...group,
+      slokas: hydrateSlokas(group.slokas),
+    }));
+  };
+
   // Start with common data, overlay manual-specific fields
   const resolved = {
     ...section,
@@ -28,30 +60,47 @@ const resolveCommonRef = (section) => {
     diagram_placeholder: common.diagram_placeholder || section.diagram_placeholder,
   };
 
-  // Handle slokas — substitute deity placeholders if deity_slokas provided
-  if (section.deity_slokas && common.slokas) {
-    const substitute = (text, lang) => {
-      const deityLang = lang === 'devanagari' ? 'devanagari' : lang;
-      const deityText = section.deity_slokas[deityLang] || '';
-      return text
-        .replace('{deity_invocation}', deityText)
-        .replace('{deity_prefix}', deityText);
-    };
-    resolved.slokas = {
-      english: substitute(common.slokas.english, 'english'),
-      telugu: substitute(common.slokas.telugu, 'telugu'),
-      devanagari: substitute(common.slokas.devanagari, 'devanagari'),
-      swara_enabled: common.slokas.swara_enabled,
-    };
-  } else {
-    resolved.slokas = { ...common.slokas };
+  if (common.steps) {
+    resolved.steps = common.steps.map(step => ({
+      ...step,
+      slokas: hydrateSlokas(step.slokas),
+      sloka_groups: hydrateSlokaGroups(step.sloka_groups, step.slokas),
+    }));
   }
+  resolved.slokas = hydrateSlokas(common.slokas);
+  resolved.sloka_groups = hydrateSlokaGroups(common.sloka_groups, common.slokas);
 
   // Remove ref-only fields from the resolved object
   delete resolved.common_ref;
   delete resolved.deity_slokas;
 
   return resolved;
+};
+
+const normalizeSlokaGroups = (content) => {
+  if (!content) return content;
+
+  const sloka_groups = content.sloka_groups?.length
+    ? content.sloka_groups
+    : (content.slokas ? [{ slokas: content.slokas }] : undefined);
+
+  return {
+    ...content,
+    sloka_groups,
+  };
+};
+
+const normalizeSectionSlokaGroups = (section) => {
+  const normalized = normalizeSlokaGroups(section);
+
+  if (!normalized.steps) {
+    return normalized;
+  }
+
+  return {
+    ...normalized,
+    steps: normalized.steps.map(normalizeSlokaGroups),
+  };
 };
 
 /**
@@ -80,7 +129,8 @@ export const loadManual = async (manualId) => {
     // Resolve all common_ref sections
     const resolvedSections = raw.sections.map(resolveCommonRef);
     const sankalpaTexts = await getSankalpaTexts();
-    const sections = enrichSankalpaPlaceholders(resolvedSections, sankalpaTexts);
+    const sections = enrichSankalpaPlaceholders(resolvedSections, sankalpaTexts)
+      .map(normalizeSectionSlokaGroups);
 
     const enrichedData = {
       ...raw,

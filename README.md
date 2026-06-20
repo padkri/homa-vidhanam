@@ -57,11 +57,32 @@ Create a new JSON file in the `src/data/` directory with the following structure
         "telugu": ["Telugu Instruction 1", "Telugu Instruction 2"],
         "hindi": ["Hindi Instruction 1", "Hindi Instruction 2"]
       },
-      "slokas": {
-        "english": "Mantra in Roman script",
-        "telugu": "మంత్ర Telugu script లో",
-        "devanagari": "मंत्र Devanagari script में"
-      },
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Mantra",
+            "telugu": "మంత్రం",
+            "hindi": "मंत्र"
+          },
+          "slokas": {
+            "english": "Mantra in Roman script",
+            "telugu": "మంత్ర Telugu script లో",
+            "devanagari": "मंत्र Devanagari script में"
+          }
+        },
+        {
+          "title": {
+            "english": "Optional Second Mantra",
+            "telugu": "ఐచ్ఛిక రెండవ మంత్రం",
+            "hindi": "वैकल्पिक दूसरा मंत्र"
+          },
+          "slokas": {
+            "english": "Second mantra in Roman script",
+            "telugu": "రెండవ మంత్రం",
+            "devanagari": "दूसरा मंत्र"
+          }
+        }
+      ],
       "diagram_placeholder": "Description of diagram or 'No diagram for this section.'"
     }
     // ... more sections
@@ -92,7 +113,7 @@ Add your new manual to `src/data/config.json`:
 
 - **ID**: Start with 0 for introduction, then 1, 2, 3, etc.
 - **Instructions**: Array of instruction strings for each language
-- **Slokas**: Sanskrit mantras in different scripts
+- **Sloka Groups**: Use `sloka_groups` for Sanskrit mantras in different scripts. One item renders one mantra box; multiple items render multiple separate mantra boxes. The older `slokas` field is still accepted as legacy shorthand and normalized to one group at load time.
 - **Diagrams**: Set to "No diagram for this section." if no diagram is needed
 
 ## Language Support

@@ -131,43 +131,8 @@
     {
       "id": 7,
       "type": "common",
-      "title": {
-        "english": "Agni Pratishthaapana",
-        "telugu": "అగ్ని ప్రతిష్ఠాపన",
-        "devanagari": "अग्नि प्रतिष्ठापन",
-        "hindi": "అగ్ని ప్రతిష్ఠాపన"
-      },
-      "voice_guidance_key": "siva_homam_agni_pratishthaapana",
-      "instructions": {
-        "english": [
-          "Place two darbhas on the base of the homa kundam, one east-west and one north-south. Light a piece of camphor from the lamp and place it in the center, reciting:",
-          "Place dry coconut pieces over the camphor to build the fire. Then pray to the fire god to carry the offerings in his auspicious form, reciting:",
-          "Refine the fire by offering 8 drops of ghee while reciting the following mantra 8 times:",
-          "Place darbhas along the four outer boundaries of the homa kundam. Sprinkle water around the boundaries as shown in the diagram, reciting the corresponding mantra for each side.",
-          "Now pray to Agni with the following mantra:"
-        ],
-        "telugu": [
-          "హోమ కుండం అడుగున రెండు దర్భలను ఉంచండి, ఒకటి తూర్పు-పడమర, మరొకటి ఉత్తర-దక్షిణ. దీపం నుండి కర్పూరం ముక్కను వెలిగించి, మధ్యలో ఉంచి, ఈ మంత్రాన్ని పఠించండి:",
-          "కర్పూరంపై ఎండిన కొబ్బరి ముక్కలను ఉంచి అగ్నిని ప్రజ్వరిల్లజేయండి. ఆపై అగ్ని దేవుడిని తన శుభ రూపంలో ఆహుతులను స్వీకరించమని ప్రార్థిస్తూ ఈ మంత్రాన్ని పఠించండి:",
-          "ఈ క్రింది మంత్రాన్ని 8 సార్లు పఠిస్తూ 8 చుక్కల నెయ్యిని సమర్పించి అగ్నిని సంస్కరించండి:",
-          "హోమ కుండం యొక్క నాలుగు బయటి సరిహద్దుల వెంబడి దర్భలను ఉంచండి. చిత్రంలో చూపిన విధంగా సరిహద్దుల చుట్టూ నీటిని చల్లుతూ, ప్రతి వైపుకు సంబంధించిన మంత్రాన్ని పఠించండి.",
-          "ఇప్పుడు ఈ క్రింది మంత్రంతో అగ్నిని ప్రార్థించండి:"
-        ],
-        "hindi": [
-          "होम कुंड के आधार पर दो दर्भ रखें, एक पूर्व-पश्चिम और एक उत्तर-दक्षिण।दीपक से कपूर का एक टुकड़ा जलाएं और उसे केंद्र में रखते हुए यह मंत्र पढ़ें:",
-          "आग जलाने के लिए कपूर के ऊपर सूखे नारियल के टुकड़े रखें।फिर अग्नि देव से उनके शुभ रूप में आहुतियों को ले जाने के लिए प्रार्थना करते हुए यह मंत्र पढ़ें:",
-          "निम्नलिखित मंत्र का 8 बार पाठ करते हुए घी की 8 बूँदें चढ़ाकर अग्नि का संस्कार करें:",
-          "होम कुंड की चारों बाहरी सीमाओं पर दर्भ रखें।आरेख में दिखाए अनुसार सीमाओं के चारों ओर जल छिड़कें, प्रत्येक दिशा के लिए संबंधित मंत्र का पाठ करते हुए।",
-          "अब निम्नलिखित मंत्र से अग्नि की प्रार्थना करें:"
-        ]
-      },
-      "slokas": {
-        "english": "om bhūrbhuvassuvarom\nkravyādamagnim prahiṇomi dūraṁ yamarājño gachatu ripravāhaḥ ।ihaivāyamitaro jātavedā devebhyo havyaṁ vahatu prajānan ।\nom bhūrbhuvassuvaḥ svāhā ।\nadite'numanyasva ।\nanumate'numanyasva ।\nsarasvate'numanyasva ।\ndeva savitaḥ prasuva ।\ncatvāri śṛṁgāstrayo asya pādā dve śīrṣe saptahastāso asya ।tridhā baddho vṛṣabho roravīti maho devo martyā āviveśa ।eṣa hi devaḥ pradiśo nu sarvāḥ pūrvo hi jātaḥ sa u garne antaḥ ।sa vijāyamānaḥ sa janiṣyamāṇaḥ pratyaṅ‌mukhāstiṣṭhati viśvatomukhaḥ ।prāṅ‌mukho deva ।he agne।mamābhimukho bhava ।",
-        "telugu": "ఓం భూర్భువస్సువరోం\nక్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః ।ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ ।\nఓం భూర్భువస్సువః స్వాహా ।\nఅదితేऽనుమన్యస్వ ।\nఅనుమతేऽనుమన్యస్వ ।\nసరస్వతేऽనుమన్యస్వ ।\nదేవ సవితః ప్రసువ ।\nచత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య ।త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ ।ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్నే అన్తః ।స విజయమానః స జనిష్యమాణః ప్రత్యఙ్‌ముఖాస్తిష్ఠతి విశ్వతోముఖః ।ప్రాఙ్‌ముఖో దేవ ।హే అగ్నే।మమాభిముఖో భవ ।",
-        "devanagari": "ॐ भूर्भुवस्सुवरोम्\nक्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः ।इहैवायमितरो जातवेदा देवेभ्यो हव्यं vahatu prajānan ।\nॐ भूर्भुवस्सुवः स्वाहा ।\nअदितेऽनुमन्यस्व ।\nअनुमतेऽनुमन्यस्व ।\nसरस्वतेऽनुमन्यस्व ।\nदेव सवितः प्रसुव ।\nचत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य ।त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश ।एष हि देवः प्रदिशो नु सर्वाः पूर्वो हि जातः स उ गर्ने अन्तः ।स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः ।प्राङ्‌मुखो देव ।हे अग्ने।ममाभिमुखो भव ।",
-        "swara_enabled": false
-      },
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+      "common_ref": "agni_pratishthaapana",
+      "voice_guidance_key": "siva_homam_agni_pratishthaapana"
     },
     {
       "id": 8,

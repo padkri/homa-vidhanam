@@ -145,12 +145,62 @@ const ManualViewer = () => {
       english: 'Show Instructions',
       telugu: 'సూచనలను చూపించు',
       hindi: 'निर्देश दिखाएं'
+    },
+    part: {
+      english: 'Part',
+      telugu: 'భాగం',
+      hindi: 'भाग'
     }
   };
   
   const mainContentRef = useRef(null);
   const observer = useRef(null);
   const touchStartRef = useRef(null);
+  const slokaLanguage = language === 'hindi' ? 'devanagari' : language;
+
+  const getSlokaGroups = (content) => {
+    return content?.sloka_groups || [];
+  };
+
+  const renderSlokaCards = (content, cardPadding = 'p-6') => {
+    const groups = getSlokaGroups(content);
+
+    return groups.map((group, index) => {
+      const title = group.title?.[language] || (groups.length > 1 ? `${translations.part[language]} ${index + 1}` : '');
+
+      return (
+        <div key={index} className={`bg-[#FFF8E1] ${cardPadding} rounded-lg border border-[#E0E0E0] shadow-sm`}>
+          {title && (
+            <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
+          )}
+          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+            {formatSloka(group.slokas[slokaLanguage])}
+          </p>
+        </div>
+      );
+    });
+  };
+
+  const renderMantraSection = (content, { id, compact = false } = {}) => {
+    if (getSlokaGroups(content).length === 0) return null;
+
+    const Heading = compact ? 'h4' : 'h3';
+    const headingClass = compact
+      ? 'text-lg font-medium mb-3 flex items-center gap-2'
+      : 'text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2';
+
+    return (
+      <div id={id} className={compact ? 'mb-6' : 'content-section mb-12'}>
+        <Heading className={headingClass}>
+          <MantraIcon className="text-amber-600" />
+          {translations.mantra[language]}
+        </Heading>
+        <div className="space-y-4">
+          {renderSlokaCards(content)}
+        </div>
+      </div>
+    );
+  };
 
   // Load initial data based on URL parameter
   useEffect(() => {
@@ -501,30 +551,16 @@ const ManualViewer = () => {
                 </div>
                 
                 {/* Show first step's sloka if available in new format, or legacy sloka */}
-                {activeSection.steps ? (
-                  activeSection.steps[0]?.slokas && (
-                    <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
-                      <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
-                        <MantraIcon className="text-amber-600" />
-                        {translations.invocation[language]}
-                      </h3>
-                      <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                        {formatSloka(activeSection.steps[0].slokas[language === 'hindi' ? 'devanagari' : language])}
-                      </p>
+                {getSlokaGroups(activeSection.steps ? activeSection.steps[0] : activeSection).length > 0 && (
+                  <div>
+                    <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
+                      <MantraIcon className="text-amber-600" />
+                      {translations.invocation[language]}
+                    </h3>
+                    <div className="space-y-4">
+                      {renderSlokaCards(activeSection.steps ? activeSection.steps[0] : activeSection, 'p-8')}
                     </div>
-                  )
-                ) : (
-                  activeSection.slokas && (
-                    <div className="bg-[#FFF8E1] p-8 rounded-lg border border-[#E0E0E0] shadow-sm">
-                      <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
-                        <MantraIcon className="text-amber-600" />
-                        {translations.invocation[language]}
-                      </h3>
-                      <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                        {formatSloka(activeSection.slokas[language === 'hindi' ? 'devanagari' : language])}
-                      </p>
-                    </div>
-                  )
+                  </div>
                 )}
               </div>
             ) : (
@@ -590,20 +626,7 @@ const ManualViewer = () => {
                         </div>
                       )}
 
-                      {/* Slokas if available */}
-                      {step.slokas && (
-                        <div className="mb-6">
-                          <h4 className="text-lg font-medium mb-3 flex items-center gap-2">
-                            <MantraIcon className="text-amber-600" />
-                            {translations.mantra[language]}
-                          </h4>
-                          <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
-                            <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                              {formatSloka(step.slokas[language === 'hindi' ? 'devanagari' : language])}
-                            </p>
-                          </div>
-                        </div>
-                      )}
+                      {renderMantraSection(step, { compact: true })}
                     </div>
                   ))
                 ) : (
@@ -651,19 +674,7 @@ const ManualViewer = () => {
                       </div>
                     )}
 
-                    {activeSection.slokas && (
-                      <div id="sloka" className="content-section mb-12">
-                        <h3 className="text-2xl font-semibold mb-4 border-b border-[#E0E0E0] pb-2 flex items-center gap-2">
-                          <MantraIcon className="text-amber-600" />
-                          {translations.mantra[language]}
-                        </h3>
-                        <div className="bg-[#FFF8E1] p-6 rounded-lg border border-[#E0E0E0] shadow-sm">
-                          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-                            {formatSloka(activeSection.slokas[language === 'hindi' ? 'devanagari' : language])}
-                          </p>
-                        </div>
-                      </div>
-                    )}
+                    {renderMantraSection(activeSection, { id: 'sloka' })}
                   </>
                 )}
               </>
@@ -723,7 +734,7 @@ const ManualViewer = () => {
                         </a>
                       </li>
                     )}
-                    {activeSection.slokas && (
+                    {getSlokaGroups(activeSection).length > 0 && (
                       <li>
                         <a 
                           href="#sloka" 

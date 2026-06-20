@@ -10,6 +10,7 @@ const COMMON_MAP: Record<string, string> = {
   'praanaayaamam': 'praanaayaamam',
   'kalasa suddhi': 'kalasa_suddhi',
   'water purification': 'kalasa_suddhi',
+  'agni pratishthaapana': 'agni_pratishthaapana',
   'suddhaanna bali': 'suddhaanna_bali',
   'pure rice sacrifice': 'suddhaanna_bali',
   'poornaahuti': 'poornaahuti',

@@ -15,6 +15,12 @@ const SlokaSchema = z.object({
   swara_enabled: z.boolean().default(false).describe("Indicates if Vedic accents are present"),
 });
 
+// Canonical grouping for one or more mantra boxes
+const SlokaGroupSchema = z.object({
+  title: MultiLangString.optional().describe("Optional label for this mantra group"),
+  slokas: SlokaSchema,
+});
+
 // Deity-specific override slokas (for sections like Poornaahuti, Suddhaanna Bali)
 const DeitySlokasSchema = z.object({
   english: z.string(),
@@ -32,11 +38,18 @@ const FullSectionSchema = z.object({
     telugu: z.array(z.string()),
     hindi: z.array(z.string()),
   }),
-  slokas: SlokaSchema,
+  slokas: SlokaSchema.optional().describe("Legacy shorthand for a single mantra group"),
+  sloka_groups: z.array(SlokaGroupSchema).optional().describe("Canonical ordered mantra groups rendered as one or more text boxes"),
   diagram: z.string().optional().describe("Path to diagram image (SVG/PNG)"),
   diagram_placeholder: z.string().optional().describe("Text description when no diagram available"),
   voice_guidance_key: z.string().describe("Unique key for Android TTS triggers"),
-});
+}).refine(
+  section => section.slokas || (section.sloka_groups && section.sloka_groups.length > 0),
+  {
+    message: "Either sloka_groups or legacy slokas is required",
+    path: ["sloka_groups"],
+  }
+);
 
 // A referenced section that pulls content from common_parts.json
 const RefSectionSchema = z.object({
@@ -68,4 +81,4 @@ export const HomamManualSchema = z.object({
 export type HomamManual = z.infer<typeof HomamManualSchema>;
 
 // Re-export sub-schemas for granular validation
-export { MultiLangString, SlokaSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema };
+export { MultiLangString, SlokaSchema, SlokaGroupSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema };

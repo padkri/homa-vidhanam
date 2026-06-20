@@ -267,45 +267,8 @@
     {
       "id": 7,
       "type": "common",
-      "title": {
-        "english": "Agni Pratishthaapana",
-        "telugu": "అగ్ని ప్రతిష్ఠాపన",
-        "devanagari": "अग्नि प्रतिष्ठापन",
-        "hindi": "అగ్ని ప్రతిష్ఠాపన"
-      },
-      "voice_guidance_key": "vishnu_homam_agni_pratishthaapana",
-      "instructions": {
-        "english": [
-          "Place one darbha inside the homa kundam facing east-west, and another north-south. Light a piece of camphor and place it in the center of the kundam while chanting. Place dry coconut pieces or wood over the camphor to build the fire.",
-          "Pray to the fire god with this mantra from the Rig Veda. It requests the fire god to repel the inauspicious 'kravyaada' form and carry offerings via the auspicious 'jaatavedas' form.",
-          "Refine the fire by pouring 8 drops of ghee while chanting the following mantra 8 times.",
-          "Place darbhas along the four boundaries of the homa kundam: eastern (tips north), southern (tips east), western (tips north), and northern (tips east). If you perform homam regularly, these can be left in place.",
-          "Sprinkle water outside the homa kundam on its four boundaries as shown in the diagram, reciting the corresponding mantras.",
-          "Pray to Agni with the following mantra, asking him to be present and facing you."
-        ],
-        "telugu": [
-          "ఒక దర్భను హోమ కుండంలో తూర్పు-పడమర ముఖంగా, మరొకటి ఉత్తర-దక్షిణంగా ఉంచండి. కర్పూరం ముక్కను వెలిగించి, జపిస్తూ కుండం మధ్యలో ఉంచండి. అగ్నిని రాజేయడానికి కర్పూరం మీద ఎండిన కొబ్బరి ముక్కలు లేదా కలపను ఉంచండి.",
-          "ఈ ఋగ్వేద మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి. ఇది అశుభ 'క్రవ్యాద' రూపాన్ని తిప్పికొట్టి, శుభ 'జాతవేద' రూపం ద్వారా నైవేద్యాలను చేరవేయమని అగ్ని దేవుడిని అభ్యర్థిస్తుంది.",
-          "ఈ క్రింది మంత్రాన్ని 8 సార్లు జపిస్తూ 8 చుక్కల నెయ్యి పోసి అగ్నిని శుద్ధి చేయండి.",
-          "హోమ కుండం యొక్క నాలుగు సరిహద్దుల వెంబడి దర్భలను ఉంచండి: తూర్పు (కొనలు ఉత్తరం వైపు), దక్షిణం (కొనలు తూర్పు వైపు), పడమర (కొనలు ఉత్తరం వైపు), మరియు ఉత్తరం (కొనలు తూర్పు వైపు). మీరు క్రమం తప్పకుండా హోమం చేస్తే, వీటిని అక్కడే ఉంచవచ్చు.",
-          "రేఖాచిత్రంలో చూపిన విధంగా హోమ కుండం వెలుపల దాని నాలుగు సరిహద్దులపై నీరు చల్లండి, సంబంధిత మంత్రాలను పఠిస్తూ.",
-          "ఈ క్రింది మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి, ఆయనను ప్రత్యక్షమై మీ వైపు ముఖం చేసి ఉండమని అభ్యర్థించండి."
-        ],
-        "hindi": [
-          "एक दर्भ होम कुंड के अंदर पूर्व-पश्चिम की ओर और दूसरा उत्तर-दक्षिण की ओर रखें।कपूर का एक टुकड़ा जलाएं और जाप करते हुए उसे कुंड के केंद्र में रखें।आग बनाने के लिए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी रखें।",
-          "ऋग्वेद के इस मंत्र से अग्नि देव से प्रार्थना करें।यह अग्नि देव से अशुभ 'क्रव्याद' रूप को दूर करने और शुभ 'जातवेद' रूप के माध्यम से आहुतियाँ ले जाने का अनुरोध करता है।",
-          "निम्नलिखित मंत्र का 8 बार जाप करते हुए घी की 8 बूँदें डालकर अग्नि को परिष्कृत करें।",
-          "होम कुंड की चार सीमाओं के साथ दर्भ रखें: पूर्वी (सिरे उत्तर की ओर), दक्षिणी (सिरे पूर्व की ओर), पश्चिमी (सिरे उत्तर की ओर), और उत्तरी (सिरे पूर्व की ओर)।यदि आप नियमित रूप से होम करते हैं, तो इन्हें यथावत छोड़ा जा सकता है।",
-          "आरेख में दिखाए अनुसार होम कुंड के बाहर उसकी चार सीमाओं पर पानी छिड़कें, साथ ही संबंधित मंत्रों का पाठ करें।",
-          "निम्नलिखित मंत्र के साथ अग्नि से प्रार्थना करें, उनसे उपस्थित होने और आपकी ओर मुख करने का अनुरोध करें।"
-        ]
-      },
-      "slokas": {
-        "english": "om bhūrbhuvassuvarom ।\nkravyādamagniṃ prahiṇomi dūraṃ yamarājño gacchatu ripravāhaḥ ।ihaivāyamitaro jātavedā devebhyo havyaṃ vahatu prajānan ।\nom bhūrbhuvassuvaḥ svāhā ।\nadite'numanyasva ।anumate'numanyasva ।sarasvate'numanyasva ।deva savitaḥ prasuva ।\ncatvāri śṛṅgāstrayo asya pādā dve śīrṣe saptahastāso asya ।tridhā baddho vṛṣabho roravīti maho devo martyā āviveśa ।eṣa hi devaḥ pradiśo nu sarvāḥ pūrvī hi jātaḥ sa u garbhe antaḥ ।sa vijāyamānaḥ sa janiṣyamāṇaḥ pratyaṅ mukhāstiṣṭhati viśvatomukhaḥ ।prāṅmukho deva ।he agne ।mamābhimukho bhava ।",
-        "telugu": "ఓం భూర్భువస్సువరోం ।\nక్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః ।ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ ।\nఓం భూర్భువస్సువః స్వాహా ।\nఅదితేऽనుమన్యస్వ ।అనుమతేऽనుమన్యస్వ ।సరస్వతేऽనుమన్యస్వ ।దేవ సవితః ప్రసువ ।\nచత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య ।త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ ।ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వీ హి జాతః స ఉ గర్భే అంతః ।స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్ ముఖాస్తిష్ఠతి విశ్వతోముఖః ।ప్రాఙ్ముఖో దేవ ।హే అగ్నే ।మమాభిముఖో భవ ।",
-        "devanagari": "ॐ भूर्भुवस्सुवरोम् ।\nक्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः ।इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।\nॐ भूर्भुवस्सुवः स्वाहा ।\nअदितेऽनुमन्यस्व ।अनुमतेऽनुमन्यस्व ।सरस्वतेऽनुमन्यस्व ।देव सवितः प्रसुव ।\nचत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य ।त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश ।एष हि देवः प्रदिशो नु सर्वाः पूर्वी हि जातः स उ गर्ने अन्तः ।स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः ।प्राङ्‌मुखो देव ।हे अग्ने।ममाभिमुखो भव ।",
-        "swara_enabled": false
-      }
+      "common_ref": "agni_pratishthaapana",
+      "voice_guidance_key": "vishnu_homam_agni_pratishthaapana"
     },
     {
       "id": 8,

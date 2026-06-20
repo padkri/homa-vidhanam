@@ -79,14 +79,24 @@ const replaceSankalpaPlaceholders = (slokas, sankalpaTexts) => {
   };
 };
 
+const replaceSlokaGroupPlaceholders = (slokaGroups, sankalpaTexts) => (
+  slokaGroups?.map((group) => ({
+    ...group,
+    slokas: replaceSankalpaPlaceholders(group.slokas, sankalpaTexts),
+  }))
+);
+
 export const enrichSankalpaPlaceholders = (sections, sankalpaTexts) => (
   sections.map((section) => {
     if (section.steps) {
       return {
         ...section,
+        slokas: replaceSankalpaPlaceholders(section.slokas, sankalpaTexts),
+        sloka_groups: replaceSlokaGroupPlaceholders(section.sloka_groups, sankalpaTexts),
         steps: section.steps.map((step) => ({
           ...step,
           slokas: replaceSankalpaPlaceholders(step.slokas, sankalpaTexts),
+          sloka_groups: replaceSlokaGroupPlaceholders(step.sloka_groups, sankalpaTexts),
         })),
       };
     }
@@ -94,6 +104,7 @@ export const enrichSankalpaPlaceholders = (sections, sankalpaTexts) => (
     return {
       ...section,
       slokas: replaceSankalpaPlaceholders(section.slokas, sankalpaTexts),
+      sloka_groups: replaceSlokaGroupPlaceholders(section.sloka_groups, sankalpaTexts),
     };
   })
 );

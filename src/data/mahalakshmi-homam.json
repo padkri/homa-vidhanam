@@ -270,48 +270,8 @@
     {
       "id": 7,
       "type": "common",
-      "title": {
-        "english": "Agni Pratishthaapana",
-        "telugu": "అగ్ని ప్రతిష్ఠాపన",
-        "hindi": "अग्नि प्रतिष्ठापन"
-      },
-      "voice_guidance_key": "mahalakshmi_homam_agni_pratishthaapana",
-      "instructions": {
-        "english": [
-          "Using a darbha grass blade, draw six lines on the base of the homa kundam as shown in the diagram, reciting one mantra for each line in the specified order.",
-          "Place one darbha inside the homa kundam pointing east-west, and another pointing north-south. Light a piece of camphor from the lamp and place it in the center of the kundam while reciting the mantra. Then, carefully place dry coconut pieces or wood over the camphor to build the fire.",
-          "Pray to the fire god with the following Rig Veda mantra. This prayer requests that the inauspicious form of fire ('kravyaada') be sent away, and that the auspicious form ('jaatavedas') carry the offerings to the gods.",
-          "To refine (samskara) the fire, pour 8 drops of ghee into it, reciting the following mantra once for each drop.",
-          "Place two or more darbhas (or twigs) along each of the four boundaries of the homa kundam: eastern (tips north), southern (tips east), western (tips north), and northern (tips east).",
-          "Then, sprinkle water along the four boundaries in the order shown in the diagram (south, west, north, east) while reciting the four corresponding mantras.",
-          "Now, offer a prayer to Agni (the fire god) with the following mantra, asking him to be present and face you."
-        ],
-        "telugu": [
-          "దర్భ గడ్డి పోచను ఉపయోగించి, చిత్రంలో చూపిన విధంగా హోమ కుండం యొక్క అడుగున ఆరు గీతలను గీయండి, నిర్దిష్ట క్రమంలో ప్రతి గీతకు ఒక మంత్రాన్ని పఠించండి.",
-          "ఒక దర్భను హోమ కుండంలో తూర్పు-పడమరగా, మరొకటి ఉత్తర-దక్షిణంగా ఉంచండి. దీపం నుండి కర్పూరం ముక్కను వెలిగించి, మంత్రాన్ని పఠిస్తూ కుండం మధ్యలో ఉంచండి. అప్పుడు, అగ్నిని రాజేయడానికి కర్పూరం మీద ఎండిన కొబ్బరి ముక్కలు లేదా కలపను జాగ్రత్తగా ఉంచండి.",
-          "కింది ఋగ్వేద మంత్రంతో అగ్ని దేవుడిని ప్రార్థించండి. ఈ ప్రార్థన అగ్ని యొక్క అశుభ రూపమైన 'క్రవ్యాద'ను పంపివేయమని, మరియు శుభ రూపమైన 'జాతవేదస్' దేవతలకు నైవేద్యాలను తీసుకువెళ్ళమని అభ్యర్థిస్తుంది.",
-          "అగ్నిని సంస్కరించడానికి (సంస్కార), కింది మంత్రాన్ని ప్రతి చుక్కకు ఒకసారి పఠిస్తూ, దానిలో 8 చుక్కల నెయ్యి పోయండి.",
-          "హోమ కుండం యొక్క నాలుగు సరిహద్దుల వెంబడి రెండు లేదా అంతకంటే ఎక్కువ దర్భలను (లేదా కొమ్మలను) ఉంచండి: తూర్పు (కొనలు ఉత్తరం), దక్షిణం (కొనలు తూర్పు), పడమర (కొనలు ఉత్తరం), మరియు ఉత్తరం (కొనలు తూర్పు).",
-          "అప్పుడు, చిత్రంలో చూపిన క్రమంలో (దక్షిణం, పడమర, ఉత్తరం, తూర్పు) నాలుగు సరిహద్దుల వెంబడి నీటిని చల్లుతూ, సంబంధిత నాలుగు మంత్రాలను పఠించండి.",
-          "ఇప్పుడు, కింది మంత్రంతో అగ్ని దేవునికి ప్రార్థన చేయండి, ఆయనను హాజరై మిమ్మల్ని ఎదుర్కోవాలని కోరండి."
-        ],
-        "hindi": [
-          "एक दर्भ घास के ब्लेड का उपयोग करके, होम कुंड के आधार पर चित्र में दिखाए अनुसार छह रेखाएँ खींचें, निर्दिष्ट क्रम में प्रत्येक रेखा के लिए एक मंत्र का पाठ करें।",
-          "होम कुंड के अंदर एक दर्भ को पूर्व-पश्चिम की ओर और दूसरे को उत्तर-दक्षिण की ओर रखें।दीपक से कपूर का एक टुकड़ा जलाएं और मंत्र का पाठ करते हुए उसे कुंड के केंद्र में रखें।फिर, आग बनाने के लिए कपूर के ऊपर सूखे नारियल के टुकड़े या लकड़ी को ध्यान से रखें।",
-          "निम्नलिखित ऋग्वेद मंत्र से अग्नि देव की प्रार्थना करें।यह प्रार्थना अनुरोध करती है कि अग्नि के अशुभ रूप ('क्रव्याद') को दूर भेज दिया जाए, और शुभ रूप ('जातवेद') देवताओं तक आहुतियाँ ले जाए।",
-          "अग्नि को परिष्कृत (संस्कार) करने के लिए, उसमें घी की 8 बूँदें डालें, प्रत्येक बूँद के लिए एक बार निम्नलिखित मंत्र का पाठ करें।",
-          "होम कुंड की चारों सीमाओं के साथ दो या दो से अधिक दर्भ (या टहनियाँ) रखें: पूर्वी (सिरे उत्तर की ओर), दक्षिणी (सिरे पूर्व की ओर), पश्चिमी (सिरे उत्तर की ओर), और उत्तरी (सिरे पूर्व की ओर)।",
-          "फिर, चित्र में दिखाए गए क्रम (दक्षिण, पश्चिम, उत्तर, पूर्व) में चारों सीमाओं पर पानी छिड़कें और चार संबंधित मंत्रों का पाठ करें।",
-          "अब, निम्नलिखित मंत्र के साथ अग्नि (अग्नि देव) से प्रार्थना करें, उनसे उपस्थित रहने और आपका सामना करने के लिए कहें।"
-        ]
-      },
-      "slokas": {
-        "english": "1. oṃ brahmaṇe namaḥ ।\n2. oṃ yamāya namaḥ ।\n3. oṃ somāya namaḥ ।\n4. oṃ rudrāya namaḥ ।\n5. oṃ viṣṇave namaḥ ।\n6. oṃ indrāya namaḥ ।\noṃ bhūrbhuvassuvarom\nkravyādamagniṃ prahiṇomi dūraṃ yamarājño gacchatu ripravāhaḥ ।ihaivāyamitaro jātavedā devebhyo havyaṃ vahatu prajānan ।\noṃ bhūrbhuvassuvaḥ svāhā ।\nadite'numanyasva ।anumate'numanyasva ।sarasvate'numanyasva ।deva savitaḥ prasuva ।\ncatvāri śṛṃgāstrayo asya pādā dve śīrṣe saptahastāso asya ।tridhā baddho vṛṣabho roravīti maho devo martyā āviveśa ।eṣa hi devaḥ pradiśo nu sarvāḥ pūrvo hi jātaḥ sa u garbhe antaḥ ।sa vijāyamānaḥ sa janiṣyamāṇaḥ pratyaṅ‌mukhāstiṣṭhati viśvatomukhaḥ ।prāṅ‌mukho deva ।he agne ।mamābhimukho bhava ।",
-        "telugu": "౧. ఓం బ్రహ్మణే నమః ।\n౨. ఓం యమాయ నమః ।\n౩. ఓం సోమాయ నమః ।\n౪. ఓం రుద్రాయ నమః ।\n౫. ఓం విష్ణవే నమః ।\n౬. ఓం ఇంద్రాయ నమః ।\nఓం భూర్భువస్సువరోం\nక్రవ్యాదమగ్నిం ప్రహిణోమి దూరం యమరాజ్ఞో గచ్ఛతు రిప్రవాహః ।ఇహైవాయమితరో జాతవేదా దేవేభ్యో హవ్యం వహతు ప్రజానన్ ।\nఓం భూర్భువస్సువః స్వాహా ।\nఅదితేऽనుమన్యస్వ ।అనుమతేऽనుమన్యస్వ ।సరస్వతేऽనుమన్యస్వ ।దేవ సవితః ప్రసువ ।\nచత్వారి శృంగాస్త్రయో అస్య పాదా ద్వే శీర్షే సప్తహస్తాసో అస్య ।త్రిధా బద్ధో వృషభో రోరవీతి మహో దేవో మర్త్యా ఆవివేశ ।ఏష హి దేవః ప్రదిశో ను సర్వాః పూర్వో హి జాతః స ఉ గర్భే అంతః ।స విజాయమానః స జనిష్యమాణః ప్రత్యఙ్‌ముఖాస్తిష్ఠతి విశ్వతోముఖః ।ప్రాఙ్‌ముఖో దేవ ।హే అగ్నే ।మమాభిముఖో భవ ।",
-        "devanagari": "१. ॐ ब्रह्मणे नमः ।\n२. ॐ यमाय नमः ।\n३. ॐ सोमाय नमः ।\n४. ॐ रुद्राय नमः ।\n५. ॐ विष्णवे नमः ।\n६. ॐ इन्द्राय नमः ।\nॐ भूर्भुवस्सुवरोम्\nक्रव्यादमग्निं प्रहिणोमि दूरं यमराज्ञो गच्छतु रिप्रवाहः ।इहैवायमितरो जातवेदा देवेभ्यो हव्यं वहतु प्रजानन् ।\nॐ भूर्भुवस्सुवः स्वाहा ।\nअदितेऽनुमन्यस्व ।अनुमतेऽनुमन्यस्व ।सरस्वतेऽनुमन्यस्व ।देव सवितः प्रसुव ।\nचत्वारि शृंगास्त्रयो अस्य पादा द्वे शीर्षे सप्तहस्तासो अस्य ।त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्या आविवेश ।एष हि देवः प्रदिशो नु सर्वाः पूर्वो हि जातः स उ गर्ने अन्तः ।स विजायमानः स जनिष्यमाणः प्रत्यङ्‌मुखास्तिष्ठति विश्वतोमुखः ।प्राङ्‌मुखो देव ।हे अग्ने।ममाभिमुखो भव ।",
-        "swara_enabled": false
-      },
-      "diagram": "/diagrams/agni-pratisthapana-6-devata.svg"
+      "common_ref": "agni_pratishthaapana_with_homa_kundam_lines",
+      "voice_guidance_key": "mahalakshmi_homam_agni_pratishthaapana"
     },
     {
       "id": 8,
