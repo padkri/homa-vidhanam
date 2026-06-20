@@ -59,6 +59,28 @@ const GuruIcon = (props) => (
 
 );
 
+const manualCategoryLabels = {
+  long: 'Long',
+  short: 'Short',
+  sarala: 'Sarala',
+};
+
+const manualCategoryStyles = {
+  long: 'bg-amber-100 text-amber-800 border-amber-200',
+  short: 'bg-sky-100 text-sky-800 border-sky-200',
+  sarala: 'bg-emerald-100 text-emerald-800 border-emerald-200',
+};
+
+const ManualCategoryTag = ({ category }) => {
+  if (!category) return null;
+
+  return (
+    <span className={`inline-flex items-center rounded-full border px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${manualCategoryStyles[category] || 'bg-gray-100 text-gray-700 border-gray-200'}`}>
+      {manualCategoryLabels[category] || category}
+    </span>
+  );
+};
+
 // --- Landing Page Component ---
 const LandingPage = () => {
   const [availableManuals, setAvailableManuals] = useState([]);
@@ -83,7 +105,10 @@ const LandingPage = () => {
               to={`/${manual.id}`}
               className="block p-6 bg-white border border-[#E0E0E0] rounded-lg shadow-sm hover:shadow-md transition-shadow"
             >
-              <h3 className="text-xl font-semibold mb-2">{manual.name}</h3>
+              <div className="mb-2 flex items-start justify-between gap-3">
+                <h3 className="text-xl font-semibold">{manual.name}</h3>
+                <ManualCategoryTag category={manual.category} />
+              </div>
               <p className="text-gray-600 text-sm">{manual.description}</p>
             </Link>
           ))}
@@ -446,6 +471,9 @@ const ManualViewer = () => {
             </div>
             <h2 className="text-xl font-bold">{homamData.title[language]}</h2>
             <p className="text-sm text-gray-600 mt-1">by {homamData.author[language]}</p>
+            <div className="mt-2">
+              <ManualCategoryTag category={availableManuals.find(manual => manual.id === manualId)?.category} />
+            </div>
             
             {availableManuals.length > 1 && (
               <div className="mt-4">
@@ -457,7 +485,7 @@ const ManualViewer = () => {
                 >
                   {availableManuals.map(manual => (
                     <option key={manual.id} value={manual.id}>
-                      {manual.name}
+                      {manual.name}{manual.category ? ` (${manualCategoryLabels[manual.category] || manual.category})` : ''}
                     </option>
                   ))}
                 </select>
