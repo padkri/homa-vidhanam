@@ -351,45 +351,8 @@
     {
       "id": 11,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "devanagari": "पंचोपचार पूजा",
-        "hindi": "పంచోపచార పూజ"
-      },
-      "voice_guidance_key": "ganesh_homam_panchopachara_pooja",
-      "instructions": {
-        "english": [
-          "Offer sandalwood powder/paste (gandham) to Mahaganapathi in the fire and the idol.",
-          "Offer a flower or flower petal (pushpam).",
-          "Offer incense smoke (dhoopam).",
-          "Show the light from a lamp (deepam).",
-          "Offer food (naivedyam).",
-          "Offer akshatas, symbolizing the offering of all other services (sarvopacharan)."
-        ],
-        "telugu": [
-          "అగ్ని మరియు విగ్రహంలో మహాగణపతికి గంధపు పొడి/పేస్ట్ (గంధం) సమర్పించండి.",
-          "ఒక పువ్వు లేదా పువ్వు రేకు (పుష్పం) సమర్పించండి.",
-          "ధూపం (ధూపం) సమర్పించండి.",
-          "దీపం నుండి కాంతిని చూపండి (దీపం).",
-          "ఆహారం (నైవేద్యం) సమర్పించండి.",
-          "అక్షతలను సమర్పించండి, ఇది అన్ని ఇతర సేవలను (సర్వోపచారన్) సమర్పించడానికి ప్రతీక."
-        ],
-        "hindi": [
-          "अग्नि और मूर्ति में महागणपति को चंदन पाउडर/पेस्ट (गंधम्) अर्पित करें।",
-          "एक फूल या फूल की पंखुड़ी (पुष्पम्) अर्पित करें।",
-          "धूप (धूपम्) अर्पित करें।",
-          "दीपक से प्रकाश दिखाएं (दीपम्)।",
-          "भोजन (नैवेद्यम्) अर्पित करें।",
-          "अक्षत अर्पित करें, जो अन्य सभी सेवाओं (सर्वोपचारान्) के अर्पण का प्रतीक है।"
-        ]
-      },
-      "slokas": {
-        "english": "lam pṛthivyātmane namaḥ gandham samarpayāmi ।\nham ākāśātmane namaḥ । puspam samarpayāmi ।\nyaṁ vāyvātmane namaḥ । dhūpam āghrāpayāmi ।\nram agnyātmane namaḥ। dīpam darśayāmi ।\nvam amṛtātmane namaḥ । naivedyam samarpayāmi ।\nsam sarvātmane namaḥ sarvopacārān samarpayāmi ।",
-        "telugu": "లం పృథివ్యాత్మనే నమః గంధం సమర్పయామి ।\nహం ఆకాశాత్మనే నమః । పుష్పం సమర్పయామి ।\nయం వాయ్వాత్మనే నమః । ధూపం ఆఘ్రాపయామి ।\nరం అగ్న్యాత్మనే నమః। దీపం దర్శయామి ।\nవం అమృతాత్మనే నమః । నైవేద్యం సమర్పయామి ।\nసం సర్వాత్మనే నమః సర్వోపచారాన్ సమర్పయామి ।",
-        "devanagari": "लं पृथिव्यात्मने नमः गन्धं समर्पयामि ।\nहं आकाशात्मने नमः । पुष्पं समर्पयामि ।\nयं वाय्वात्मने नमः । धूपं आघ्रापयामि ।\nरं अग्न्यात्मने नमः। दीपं दर्शयामि ।\nवं अमृतात्मने नमः । नैवेद्यं समर्पयामि ।\nसं सर्वात्मने नमः सर्वोपचारान् समर्पयामि ।",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_masculine",
+      "voice_guidance_key": "ganesh_homam_panchopachara_pooja"
     },
     {
       "id": 12,

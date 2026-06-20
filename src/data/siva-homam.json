@@ -299,45 +299,8 @@
     {
       "id": 12,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachaara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "devanagari": "पञ्चोपचार पूजा",
-        "hindi": "పంచోపచార పూజ"
-      },
-      "voice_guidance_key": "siva_homam_panchopachaara_pooja",
-      "instructions": {
-        "english": [
-          "Perform a simple five-service worship (panchopachara pooja). Offer sandalwood powder/paste, turmeric, and kumkum (gandhaṁ).",
-          "Offer a flower or petal (puṣpaṁ).",
-          "Offer incense (dhūpaṁ).",
-          "Show the lamp (dīpaṁ).",
-          "Offer a preliminary food item (naivedyaṁ). If you only have one food item, save it for the main offering later.",
-          "Offer akshatas to signify offering all services (sarvopacārān)."
-        ],
-        "telugu": [
-          "సరళమైన ఐదు సేవల పూజ (పంచోపచార పూజ) చేయండి. గంధం, పసుపు, మరియు కుంకుమను సమర్పించండి.",
-          "ఒక పువ్వు లేదా రేకును (పుష్పం) సమర్పించండి.",
-          "ధూపం సమర్పించండి.",
-          "దీపం చూపండి.",
-          "ఇప్పుడు ఒక నైవేద్యం, ప్రధాన హోమం తరువాత ఇంకో నైవేద్యం సమర్పించాలి. ఒక నైవేద్యమే మీ దగ్గర ఉంటే తరువాత సమర్పించండి.",
-          "సకల సేవలను (సర్వోపచారాన్) సూచిస్తూ అక్షతలను సమర్పించండి."
-        ],
-        "hindi": [
-          "एक सरल पाँच-सेवा वाली पूजा (पंचोपचार पूजा) करें।चंदन, हल्दी और कुमकुम (गंधं) अर्पित करें।",
-          "एक फूल या पंखुड़ी (पुष्पं) अर्पित करें।",
-          "धूप (धूपं) अर्पित करें।",
-          "दीपक (दीपं) दिखाएं।",
-          "अभी एक नैवेद्य अर्पित करें।यदि आपके पास केवल एक ही भोग सामग्री है, तो उसे बाद के मुख्य अर्पण के लिए बचा कर रखें।",
-          "सभी सेवाओं (सर्वोपचारान्) को दर्शाने के लिए अक्षत अर्पित करें।"
-        ]
-      },
-      "slokas": {
-        "english": "laṁ pṛthivyātmane namaḥ ।gandhaṁ samarpayāmi ।\nhaṁ ākāśātmane namaḥ ।puṣpaṁ samarpayāmi ।\nyaṁ vāyvātmane namaḥ।dhūpaṁ āghrāpayāmi ।\nraṁ agnyātmane namaḥ।dīpaṁ darśayāmi ।\nvaṁ amṛtātmane namaḥ।naivedyaṁ samarpayāmi ।\nsaṁ sarvātmane namaḥ ।sarvopacārān samarpayāmi ।",
-        "telugu": "లం పృథివ్యాత్మనే నమః ।గంధం సమర్పయామి ।\nహం ఆకాశాత్మనే నమః ।పుష్పం సమర్పయామి ।\nయం వాయ్వాత్మనే నమః।ధూపం ఆఘ్రాపయామి ।\nరం అగ్న్యాత్మనే నమః।దీపం దర్శయామి ।\nవం అమృతాత్మనే నమః।నైవేద్యం సమర్పయామి ।\nసం సర్వాత్మనే నమః ।సర్వోపచారాన్ సమర్పయామి ।",
-        "devanagari": "लं पृथिव्यात्मने नमः ।गन्धं समर्पयामि ।\nहं आकाशात्मने नमः ।पुष्पं समर्पयामि ।\nयं वाय्वात्मने नमः।धूपं आघ्रापयामि ।\nरं अग्न्यात्मने नमः।दीपं दर्शयामि ।\nवं अमृतात्मने नमः।नैवेद्यं समर्पयामि ।\nसं सर्वात्मने नमः ।सर्वोपचारान् समर्पयामि ।",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_masculine",
+      "voice_guidance_key": "siva_homam_panchopachaara_pooja"
     },
     {
       "id": 13,

@@ -413,45 +413,8 @@
     {
       "id": 12,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachaara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "devanagari": "पञ्चोपचार पूजा",
-        "hindi": "పంచోపచార పూజ"
-      },
-      "voice_guidance_key": "hanuman_homam_panchopachaara_pooja",
-      "instructions": {
-        "english": [
-          "Now, we will offer a simple five-service worship (Panchopachaara Pooja) to Lord Hanuman in the fire and idol. Say the following and offer sandalwood powder/paste, turmeric powder, and kumkum.",
-          "Say the following and offer a flower or flower petal to Lord Hanuman in the fire and the idol.",
-          "Say the following and offer dhoopam (incense). Light the tip of the incense stick, extinguish the flame so only smoke remains, and show the smoke to the fire and the idol.",
-          "Say the following and show the deepam (lamp) to Lord Hanuman in the fire and the idol.",
-          "Say the following and offer a small amount of food (like a fruit or sugar). Show it to the fire and idol, then place a little bit into the fire. The main food offering will be made later.",
-          "Say the following and offer some akshatas to Lord Hanuman. This mantra signifies offering 'all services' to Him."
-        ],
-        "telugu": [
-          "ఇప్పుడు, మనం అగ్నిలో మరియు విగ్రహంలో హనుమంతునికి ఒక సరళమైన ఐదు-సేవల పూజ (పంచోపచార పూజ) చేస్తాము. ఈ క్రింది మంత్రాన్ని చెప్పి గంధపు పొడి/పేస్ట్, పసుపు, మరియు కుంకుమను సమర్పించండి.",
-          "ఈ క్రింది మంత్రాన్ని చెప్పి అగ్నిలో మరియు విగ్రహంలో హనుమంతునికి ఒక పువ్వును లేదా పువ్వు రేకును సమర్పించండి.",
-          "ఈ క్రింది మంత్రాన్ని చెప్పి ధూపం (అగరుబత్తి) సమర్పించండి. అగరుబత్తి కొనను వెలిగించి, మంటను ఆర్పివేయండి, తద్వారా పొగ మాత్రమే మిగిలి ఉంటుంది, మరియు ఆ పొగను అగ్నికి మరియు విగ్రహానికి చూపించండి.",
-          "ఈ క్రింది మంత్రాన్ని చెప్పి అగ్నిలో మరియు విగ్రహంలో హనుమంతునికి దీపం చూపించండి.",
-          "ఈ క్రింది మంత్రాన్ని చెప్పి కొద్ది మొత్తంలో ఆహారాన్ని (పండు లేదా పంచదార వంటివి) సమర్పించండి. దానిని అగ్నికి మరియు విగ్రహానికి చూపించి, ఆ తర్వాత కొద్దిగా అగ్నిలో వేయండి. ప్రధాన ఆహార నైవేద్యం తరువాత చేయబడుతుంది.",
-          "ఈ క్రింది మంత్రాన్ని చెప్పి హనుమంతునికి కొన్ని అక్షతలను సమర్పించండి. ఈ మంత్రం ఆయనకు 'సర్వ సేవలు' సమర్పిస్తున్నట్లు సూచిస్తుంది."
-        ],
-        "hindi": [
-          "अब, हम अग्नि और मूर्ति में भगवान हनुमान को एक सरल पाँच-सेवा पूजा (पंचोपचार पूजा) अर्पित करेंगे।निम्नलिखित कहें और चंदन पाउडर/पेस्ट, हल्दी पाउडर और कुमकुम अर्पित करें।",
-          "निम्नलिखित कहें और अग्नि तथा मूर्ति में भगवान हनुमान को एक फूल या फूल की पंखुड़ी अर्पित करें।",
-          "निम्नलिखित कहें और धूप (अगरबत्ती) अर्पित करें।अगरबत्ती की नोक जलाएं, लौ को बुझा दें ताकि केवल धुआं रह जाए, और धुएं को अग्नि तथा मूर्ति को दिखाएं।",
-          "निम्नलिखित कहें और अग्नि तथा मूर्ति में भगवान हनुमान को दीपक (दीया) दिखाएं।",
-          "निम्नलिखित कहें और थोड़ी मात्रा में भोजन (जैसे फल या चीनी) अर्पित करें।इसे अग्नि और मूर्ति को दिखाएं, फिर थोड़ा सा अग्नि में डालें।मुख्य भोजन प्रसाद बाद में चढ़ाया जाएगा।",
-          "निम्नलिखित कहें और भगवान हनुमान को कुछ अक्षत अर्पित करें।यह मंत्र उन्हें 'सभी सेवाएं' अर्पित करने का प्रतीक है।"
-        ]
-      },
-      "slokas": {
-        "english": "laṁ pṛthivyātmane namaḥ ।gandhaṁ samarpayāmi ।\nhaṁ ākāśātmane namaḥ ।puṣpaṁ samarpayāmi ।\nyaṁ vāyvātmane namaḥ ।dhūpaṁ āghrāpayāmi ।\nraṁ agnyātmane namaḥ ।dīpaṁ darśayāmi ।\nvaṁ amṛtātmane namaḥ ।naivedyaṁ samarpayāmi ।\nsaṁ sarvātmane namaḥ ।sarvopacārān samarpayāmi ।",
-        "telugu": "లం పృథివ్యాత్మనే నమః ।గంధం సమర్పయామి ।\nహం ఆకాశాత్మనే నమః ।పుష్పం సమర్పయామి ।\nయం వాయ్వాత్మనే నమః ।ధూపం ఆఘ్రాపయామి ।\nరం అగ్న్యాత్మనే నమః ।దీపం దర్శయామి ।\nవం అమృతాత్మనే నమః ।నైవేద్యం సమర్పయామి ।\nసం సర్వాత్మనే నమః ।సర్వోపచారాన్ సమర్పయామి ।",
-        "devanagari": "लं पृथिव्यात्मने नमः।गन्धं समर्पयामि ।\nहं आकाशात्मने नमः ।पुष्पं समर्पयामि ।\nयं वाय्वात्मने नमः।धूपं आघ्रापयामि ।\nरं अग्न्यात्मने नमः।दीपं दर्शयामि ।\nवं अमृतात्मने नमः ।नैवेद्यं समर्पयामि ।\nसं सर्वात्मने नमः।सर्वोपचारान् समर्पयामि ।",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_masculine",
+      "voice_guidance_key": "hanuman_homam_panchopachaara_pooja"
     },
     {
       "id": 13,

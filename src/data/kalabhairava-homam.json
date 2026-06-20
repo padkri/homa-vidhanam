@@ -431,30 +431,8 @@
     {
       "id": 13,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachaara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "devanagari": "पञ्चोपचार पूजा",
-        "hindi": "పంచోపచార పూజ"
-      },
-      "voice_guidance_key": "kalabhairava_homam_panchopachaara_pooja",
-      "instructions": {
-        "english": [
-          "Now, offer five services to Kaala Bhairava in the fire and idol. Offer sandalwood paste/powder with 'laṃ', a flower with 'haṃ', incense with 'yaṃ', a lamp with 'raṃ', a food offering with 'vaṃ', and finally, offer akshatas for 'all services' with 'saṃ'."
-        ],
-        "telugu": [
-          "ఇప్పుడు, అగ్ని మరియు విగ్రహంలో కాల భైరవునికి ఐదు సేవలు చేయండి. 'లం' తో గంధం/పొడి, 'హం' తో ఒక పువ్వు, 'యం' తో ధూపం, 'రం' తో దీపం, 'వం' తో నైవేద్యం, మరియు చివరగా, 'సం' తో 'అన్ని సేవల' కోసం అక్షతలను సమర్పించండి."
-        ],
-        "hindi": [
-          "अब, अग्नि और मूर्ति में काल भैरव को पांच सेवाएं प्रदान करें।'लं' के साथ चंदन का लेप/पाउडर, 'हं' के साथ एक फूल, 'यं' के साथ धूप, 'रं' के साथ एक दीपक, 'वं' के साथ भोजन का प्रसाद, और अंत में, 'सं' के साथ 'सभी सेवाओं' के लिए अक्षत चढ़ाएं।"
-        ]
-      },
-      "slokas": {
-        "english": "laṃ pṛthivyātmane namaḥ ।gandhaṃ samarpayāmi ॥\nhaṃ ākāśātmane namaḥ ।puṣpaṃ samarpayāmi ॥\nyaṃ vāyvātmane namaḥ ।dhūpaṃ āghrāpayāmi ॥\nraṃ agnyātmane namaḥ ।dīpaṃ darśayāmi ॥\nvaṃ amṛtātmane namaḥ ।naivedyaṃ samarpayāmi ॥\nsaṃ sarvātmane namaḥ ।sarvopacārān samarpayāmi ॥",
-        "telugu": "లం పృథివ్యాత్మనే నమః ।గంధం సమర్పయామి ॥\nహం ఆకాశాత్మనే నమః ।పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మనే నమః ।ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మనే నమః ।దీపం దర్శయామి ॥\nవం అమృతాత్మనే నమః ।నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మనే నమః ।సర్వోపచారాన్ సమర్పయామి ॥",
-        "devanagari": "लं पृथिव्यात्मने नमः।गन्धं समर्पयामि ॥\nहं आकाशात्मने नमः।पुष्पं समर्पयामि ॥\nयं वाय्वात्मने नमः।धूपं आघ्रापयामि ॥\nरं अग्न्यात्मने नमः।दीपं दर्शयामि ॥\nवं अमृतात्मने नमः ।नैवेद्यं समर्पयामि ॥\nसं सर्वात्मने नमः।सर्वोपचारान् समर्पयामि ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_masculine",
+      "voice_guidance_key": "kalabhairava_homam_panchopachaara_pooja"
     },
     {
       "id": 14,

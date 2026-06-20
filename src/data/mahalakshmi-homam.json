@@ -447,47 +447,8 @@
     {
       "id": 12,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachaara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "hindi": "पञ्चोपचार पूजा"
-      },
-      "voice_guidance_key": "mahalakshmi_homam_panchopachaara_pooja",
-      "instructions": {
-        "english": [
-          "Now, we will offer five essential services (Panchopachaara) to worship Sri Mahalakshmi in the fire and idol. For each step, recite the mantra and make the corresponding offering.",
-          "1. Offer sandalwood powder/paste, turmeric, and kumkum (Gandham).",
-          "2. Offer a flower or flower petal (Pushpam).",
-          "3. Offer incense smoke (Dhoopam).",
-          "4. Show the light from the lamp (Deepam).",
-          "5. Offer a small portion of food, fruit, or sugar (Naivedyam).",
-          "6. Finally, offer akshatas to represent all other services combined (Sarvopacharan)."
-        ],
-        "telugu": [
-          "ఇప్పుడు, శ్రీ మహాలక్ష్మిని అగ్ని మరియు విగ్రహంలో పూజించడానికి మనం ఐదు ముఖ్యమైన సేవలను (పంచోపచార) సమర్పిస్తాము. ప్రతి దశకు, మంత్రాన్ని పఠించి, సంబంధిత నైవేద్యాన్ని సమర్పించండి.",
-          "౧. గంధం పొడి/పేస్ట్, పసుపు, మరియు కుంకుమ సమర్పించండి (గంధం).",
-          "౨. ఒక పువ్వు లేదా పువ్వు రేకు సమర్పించండి (పుష్పం).",
-          "౩. ధూపం పొగను సమర్పించండి (ధూపం).",
-          "౪. దీపం నుండి వెలుగును చూపించండి (దీపం).",
-          "౫. ఆహారం, పండు, లేదా చక్కెరలో చిన్న భాగాన్ని సమర్పించండి (నైవేద్యం).",
-          "౬. చివరగా, అన్ని ఇతర సేవలను కలిపి సూచించడానికి అక్షతలను సమర్పించండి (సర్వోపచారాన్)."
-        ],
-        "hindi": [
-          "अब, हम अग्नि और मूर्ति में श्री महालक्ष्मी की पूजा करने के लिए पांच आवश्यक सेवाएं (पंचोपचार) अर्पित करेंगे।प्रत्येक चरण के लिए, मंत्र का पाठ करें और संबंधित प्रसाद चढ़ाएं।",
-          "१. चंदन पाउडर/पेस्ट, हल्दी और कुमकुम अर्पित करें (गंधम्)।",
-          "२. एक फूल या फूल की पंखुड़ी अर्पित करें (पुष्पम्)।",
-          "३. धूप का धुआं अर्पित करें (धूपम्)।",
-          "४. दीपक से प्रकाश दिखाएं (दीपम्)।",
-          "५. भोजन, फल या चीनी का एक छोटा हिस्सा अर्पित करें (नैवेद्यम्)।",
-          "६. अंत में, अन्य सभी सेवाओं को संयुक्त रूप से दर्शाने के लिए अक्षत अर्पित करें (सर्वोपचारान्)।"
-        ]
-      },
-      "slokas": {
-        "english": "laṃ pṛthivyātmikāyai namaḥ ।gandhaṃ samarpayāmi ॥\nhaṃ ākāśātmikāyai namaḥ ।puṣpaṃ samarpayāmi ॥\nyaṃ vāyvātmikāyai namaḥ ।dhūpaṃ āghrāpayāmi ॥\nraṃ agnyātmikāyai namaḥ ।dīpaṃ darśayāmi ॥\nvaṃ amṛtātmikāyai namaḥ ।naivedyaṃ samarpayāmi ॥\nsaṃ sarvātmikāyai namaḥ ।sarvopacārān samarpayāmi ॥",
-        "telugu": "లం పృథివ్యాత్మికాయై నమః ।గంధం సమర్పయామి ॥\nహం ఆకాశాత్మికాయై నమః ।పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మికాయై నమః ।ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మికాయై నమః ।దీపం దర్శయామి ॥\nవం అమృతాత్మికాయై నమః ।నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మికాయై నమః ।సర్వోపచారాన్ సమర్పయామి ॥",
-        "devanagari": "लं पृथिव्यात्मिकायै नमः ।गन्धं समर्पयामि ॥\nहं आकाशात्मिकायै नमः ।पुष्पं समर्पयामि ॥\nयं वाय्वात्मिकायै नमः।धूपं आघ्रापयामि ॥\nरं अग्न्यात्मिकायै नमः।दीपं दर्शयामि ॥\nवं अमृतात्मिकायै नमः।नैवेद्यं समर्पयामि ॥\nसं सर्वात्मिकायै नमः ।सर्वोपचारान् समर्पयामि ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_feminine",
+      "voice_guidance_key": "mahalakshmi_homam_panchopachaara_pooja"
     },
     {
       "id": 13,

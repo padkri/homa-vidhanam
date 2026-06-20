@@ -482,6 +482,60 @@
         "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः ।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ {deity_invocation} ।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
         "swara_enabled": false
       }
+    },
+    "panchopachara_pooja_masculine": {
+      "title": {
+        "english": "Panchopachara Pooja",
+        "telugu": "పంచోపచార పూజ",
+        "hindi": "पंचोपचार पूजा"
+      },
+      "instructions": {
+        "english": [
+          "Perform panchopachara pooja by offering sandalwood paste, a flower, incense, light, food, and akshatas for all services.",
+          "Recite each mantra and make the corresponding offering."
+        ],
+        "telugu": [
+          "గంధం, పుష్పం, ధూపం, దీపం, నైవేద్యం, మరియు సర్వోపచారాల కోసం అక్షతలను సమర్పిస్తూ పంచోపచార పూజ చేయండి.",
+          "ప్రతి మంత్రాన్ని పఠించి, దానికి సంబంధించిన ఉపచారాన్ని సమర్పించండి."
+        ],
+        "hindi": [
+          "गंध, पुष्प, धूप, दीप, नैवेद्य और सर्वोपचार के लिए अक्षत अर्पित करते हुए पंचोपचार पूजा करें।",
+          "प्रत्येक मंत्र का पाठ करें और उससे संबंधित उपचार अर्पित करें।"
+        ]
+      },
+      "slokas": {
+        "english": "laṁ pṛthivyātmane namaḥ । gandhaṁ samarpayāmi ॥\nhaṁ ākāśātmane namaḥ । puṣpaṁ samarpayāmi ॥\nyaṁ vāyvātmane namaḥ । dhūpaṁ āghrāpayāmi ॥\nraṁ agnyātmane namaḥ । dīpaṁ darśayāmi ॥\nvaṁ amṛtātmane namaḥ । naivedyaṁ samarpayāmi ॥\nsaṁ sarvātmane namaḥ । sarvopacārān samarpayāmi ॥",
+        "telugu": "లం పృథివ్యాత్మనే నమః । గంధం సమర్పయామి ॥\nహం ఆకాశాత్మనే నమః । పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మనే నమః । ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మనే నమః । దీపం దర్శయామి ॥\nవం అమృతాత్మనే నమః । నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మనే నమః । సర్వోపచారాన్ సమర్పయామి ॥",
+        "devanagari": "लं पृथिव्यात्मने नमः । गन्धं समर्पयामि ॥\nहं आकाशात्मने नमः । पुष्पं समर्पयामि ॥\nयं वाय्वात्मने नमः । धूपं आघ्रापयामि ॥\nरं अग्न्यात्मने नमः । दीपं दर्शयामि ॥\nवं अमृतात्मने नमः । नैवेद्यं समर्पयामि ॥\nसं सर्वात्मने नमः । सर्वोपचारान् समर्पयामि ॥",
+        "swara_enabled": false
+      }
+    },
+    "panchopachara_pooja_feminine": {
+      "title": {
+        "english": "Panchopachara Pooja",
+        "telugu": "పంచోపచార పూజ",
+        "hindi": "पंचोपचार पूजा"
+      },
+      "instructions": {
+        "english": [
+          "Perform panchopachara pooja by offering sandalwood paste, a flower, incense, light, food, and akshatas for all services.",
+          "Recite each mantra and make the corresponding offering."
+        ],
+        "telugu": [
+          "గంధం, పుష్పం, ధూపం, దీపం, నైవేద్యం, మరియు సర్వోపచారాల కోసం అక్షతలను సమర్పిస్తూ పంచోపచార పూజ చేయండి.",
+          "ప్రతి మంత్రాన్ని పఠించి, దానికి సంబంధించిన ఉపచారాన్ని సమర్పించండి."
+        ],
+        "hindi": [
+          "गंध, पुष्प, धूप, दीप, नैवेद्य और सर्वोपचार के लिए अक्षत अर्पित करते हुए पंचोपचार पूजा करें।",
+          "प्रत्येक मंत्र का पाठ करें और उससे संबंधित उपचार अर्पित करें।"
+        ]
+      },
+      "slokas": {
+        "english": "laṁ pṛthivyātmikāyai namaḥ । gandhaṁ samarpayāmi ॥\nhaṁ ākāśātmikāyai namaḥ । puṣpaṁ samarpayāmi ॥\nyaṁ vāyvātmikāyai namaḥ । dhūpaṁ āghrāpayāmi ॥\nraṁ agnyātmikāyai namaḥ । dīpaṁ darśayāmi ॥\nvaṁ amṛtātmikāyai namaḥ । naivedyaṁ samarpayāmi ॥\nsaṁ sarvātmikāyai namaḥ । sarvopacārān samarpayāmi ॥",
+        "telugu": "లం పృథివ్యాత్మికాయై నమః । గంధం సమర్పయామి ॥\nహం ఆకాశాత్మికాయై నమః । పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మికాయై నమః । ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మికాయై నమః । దీపం దర్శయామి ॥\nవం అమృతాత్మికాయై నమః । నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మికాయై నమః । సర్వోపచారాన్ సమర్పయామి ॥",
+        "devanagari": "लं पृथिव्यात्मिकायै नमः । गन्धं समर्पयामि ॥\nहं आकाशात्मिकायै नमः । पुष्पं समर्पयामि ॥\nयं वाय्वात्मिकायै नमः । धूपं आघ्रापयामि ॥\nरं अग्न्यात्मिकायै नमः । दीपं दर्शयामि ॥\nवं अमृतात्मिकायै नमः । नैवेद्यं समर्पयामि ॥\nसं सर्वात्मिकायै नमः । सर्वोपचारान् समर्पयामि ॥",
+        "swara_enabled": false
+      }
     }
   }
 }
