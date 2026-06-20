@@ -224,12 +224,47 @@
           "अंत में, अनुष्ठान में अब तक हुई किसी भी गलती के लिए प्रजापति को 'क्षमा अर्पण' करें।"
         ]
       },
-      "slokas": {
-        "english": "om prajāpataye svāhā prajāpataya idam na mama ।\nom indrāya svāhā indrāyedam na mama ।\nom agnaye svāhā agnaya idam na mama ।\nom somāya svāhā somāyedam na mama ।\nārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi । om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama ।",
-        "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా సోమాయేదం న మమ ।\nఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి । ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ ।",
-        "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा अग्नय इदं न मम ।\nॐ सोमाय स्वाहा सोमायेदं न मम ।\nआरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि । ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Prajapatyadi Ajya Ahutis",
+            "telugu": "ప్రజాపత్యాది ఆజ్యాహుతులు",
+            "hindi": "प्रजापत्यादि आज्याहुतियाँ"
+          },
+          "slokas": {
+            "english": "om prajāpataye svāhā prajāpataya idam na mama ।\nom indrāya svāhā indrāyedam na mama ।\nom agnaye svāhā agnaya idam na mama ।\nom somāya svāhā somāyedam na mama ।",
+            "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా సోమాయేదం న మమ ।",
+            "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा अग्नय इदं न मम ।\nॐ सोमाय स्वाहा सोमायेदं न मम ।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Sankalpa",
+            "telugu": "సర్వ ప్రాయశ్చిత్త సంకల్పం",
+            "hindi": "सर्व प्रायश्चित्त संकल्प"
+          },
+          "slokas": {
+            "english": "ārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi ।",
+            "telugu": "ఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి ।",
+            "devanagari": "आरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि ।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Ahuti",
+            "telugu": "సర్వ ప్రాయశ్చిత్త ఆహుతి",
+            "hindi": "सर्व प्रायश्चित्त आहुति"
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama ।",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ ।",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     {
       "id": 10,
