@@ -1,5 +1,6 @@
 import config from './data/config.json';
 import commonParts from './data/common_parts.json';
+import { enrichSankalpaPlaceholders, getSankalpaTexts } from './sankalpaService';
 
 // Cache for loaded manuals
 const manualCache = {};
@@ -78,10 +79,12 @@ export const loadManual = async (manualId) => {
 
     // Resolve all common_ref sections
     const resolvedSections = raw.sections.map(resolveCommonRef);
+    const sankalpaTexts = await getSankalpaTexts();
+    const sections = enrichSankalpaPlaceholders(resolvedSections, sankalpaTexts);
 
     const enrichedData = {
       ...raw,
-      sections: resolvedSections,
+      sections,
       // Preserve manual's own metadata, add config info
       metadata: {
         ...raw.metadata,
