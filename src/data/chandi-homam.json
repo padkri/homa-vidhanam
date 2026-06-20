@@ -60,32 +60,8 @@
     {
       "id": 1,
       "type": "common",
-      "title": {
-        "english": "Anujnaa",
-        "telugu": "అనుజ్ఞ",
-        "hindi": "अनुज्ञा"
-      },
-      "voice_guidance_key": "chandi_homam_anujnaa",
-      "instructions": {
-        "english": [
-          "Before starting the homam, think of Mother Earth, Lord Ganesha, your favorite deity, your parents, the rishis of your lineage, all rishis, and all your gurus.",
-          "Mentally request all the gods to cooperate with your homam while reciting the sloka."
-        ],
-        "telugu": [
-          "హోమం ప్రారంభించే ముందు, భూదేవి, గణేశుడు, మీ ఇష్ట దైవం, మీ తల్లిదండ్రులు, మీ గోత్ర ఋషులు, సర్వ ఋషులు మరియు మీ గురువులందరినీ స్మరించుకోండి.",
-          "శ్లోకాన్ని పఠిస్తూ, మీ హోమానికి సహకరించమని దేవతలందరినీ మానసికంగా ప్రార్థించండి."
-        ],
-        "hindi": [
-          "होम शुरू करने से पहले, पृथ्वी माता, भगवान गणेश, अपने इष्ट देवता, अपने माता-पिता, अपने गोत्र के ऋषियों, सभी ऋषियों और अपने सभी गुरुओं का ध्यान करें।",
-          "श्लोक का पाठ करते समय मानसिक रूप से सभी देवताओं से अपने होम में सहयोग करने का अनुरोध करें।"
-        ]
-      },
-      "slokas": {
-        "english": "Om R^iddhyaasma havyairnamasopasadya ।mitram devam mitradheyam no astu ।anooraadhaan havishaa vardhayantah ।shatam jeevema sharadah saveeraah ।",
-        "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య ।మిత్రం దేవం మిత్రధేయం నో అస్తు ।అనూరాధాన్ హవిషా వర్ధయంతః ।శతం జీవేమ శరదః సవీరాః ।",
-        "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य ।मित्रं देवं मित्रधेयं नो अस्तु ।अनूराधान् हविषा वर्धयन्तः ।शतं जीवेम शरदः सवीराः ।",
-        "swara_enabled": false
-      }
+      "common_ref": "anujnaa",
+      "voice_guidance_key": "chandi_homam_anujnaa"
     },
     {
       "id": 2,

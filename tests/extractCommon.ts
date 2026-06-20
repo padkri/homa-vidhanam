@@ -5,6 +5,7 @@ const DATA_DIR = path.resolve(__dirname, '../src/data');
 
 // Map of English title variants → common_ref key
 const COMMON_MAP: Record<string, string> = {
+  'anujnaa': 'anujnaa',
   'aachamanam': 'aachamanam',
   'purificatory sipping of water': 'aachamanam',
   'praanaayaamam': 'praanaayaamam',

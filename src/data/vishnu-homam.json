@@ -59,33 +59,8 @@
     {
       "id": 1,
       "type": "common",
-      "title": {
-        "english": "Anujnaa",
-        "telugu": "అనుజ్ఞ",
-        "devanagari": "अनुज्ञा",
-        "hindi": "అనుజ్ఞ"
-      },
-      "voice_guidance_key": "vishnu_homam_anujnaa",
-      "instructions": {
-        "english": [
-          "Before starting the homam, think in your mind of Mother Earth who is bearing you, Lord Ganesha who removes obstacles, your ishta devata (favorite deity), your parents, the rishis of your gothra (if you know them), all the rishis and all your gurus.",
-          "If you have a 'pavitram' (a ring made of darbha or a special metal ring), wear it now on your right hand ring finger. If you don't have a pavitram, you can use any ring you have after praying to your ishta devata. If you don't have a ring, proceed without it."
-        ],
-        "telugu": [
-          "హోమం ప్రారంభించే ముందు, మిమ్మల్ని భరిస్తున్న భూమాతను, అడ్డంకులను తొలగించే వినాయకుడిని, మీ ఇష్ట దేవతను, మీ తల్లిదండ్రులను, మీ గోత్ర ఋషులను (మీకు తెలిస్తే), సర్వ ఋషులను మరియు మీ గురువులందరినీ మనస్సులో స్మరించుకోండి.",
-          "మీ వద్ద 'పవిత్రం' (దర్భతో చేసిన ఉంగరం లేదా ప్రత్యేక లోహపు ఉంగరం) ఉంటే, దానిని ఇప్పుడు మీ కుడి చేతి ఉంగరపు వేలికి ధరించండి. మీ వద్ద పవిత్రం లేకపోతే, మీ ఇష్ట దేవతను ప్రార్థించిన తర్వాత మీ వద్ద ఉన్న ఏదైనా ఉంగరాన్ని ఉపయోగించవచ్చు. ఉంగరం లేకపోతే, అది లేకుండానే కొనసాగండి."
-        ],
-        "hindi": [
-          "होम शुरू करने से पहले, अपने मन में पृथ्वी माता, जो आपको धारण करती हैं, भगवान गणेश, जो बाधाओं को दूर करते हैं, आपके इष्ट देवता, आपके माता-पिता, आपके गोत्र के ऋषियों (यदि आप उन्हें जानते हैं), सभी ऋषियों और आपके सभी गुरुओं का ध्यान करें।",
-          "यदि आपके पास 'पवित्रम्' (दर्भ से बनी अंगूठी या एक विशेष धातु की अंगूठी) है, तो उसे अब अपने दाहिने हाथ की अनामिका उंगली में पहनें।यदि आपके पास पवित्रम् नहीं है, तो आप अपने इष्ट देवता से प्रार्थना करने के बाद अपनी कोई भी अंगूठी का उपयोग कर सकते हैं।यदि आपके पास अंगूठी नहीं है, तो इसके बिना आगे बढ़ें।"
-        ]
-      },
-      "slokas": {
-        "english": "om ṛddhyāsma havyairnamasopasadya ।mitraṃ devaṃ mitradheyaṃ no astu ।anūrādhān haviṣā vardhayantaḥ ।śataṃ jīvema śaradaḥ savīrāḥ ।",
-        "telugu": "ఓం బుద్ధ్యాస్మ హవ్యైర్నమసోపసద్య ।మిత్రం దేవం మిత్రధేయం నో అస్తు ।అనూరాధాన్ హవిషా వర్ధయంతః ।శతం జీవేమ శరదః సవీరాః ।",
-        "devanagari": "ॐ ऋद्ध्यास्म हन्यैर्नमसोपसद्य ।मित्रं देवं मित्रधेयं नो अस्तु ।अनुराधान् हविषा वर्धयन्तः ।शतं जीवेम शरदः सवीराः ।",
-        "swara_enabled": false
-      }
+      "common_ref": "anujnaa",
+      "voice_guidance_key": "vishnu_homam_anujnaa"
     },
     {
       "id": 2,

@@ -57,33 +57,8 @@
     {
       "id": 1,
       "type": "common",
-      "title": {
-        "english": "Anujnaa",
-        "telugu": "అనుజ్ఞ",
-        "devanagari": "अनुज्ञा",
-        "hindi": "అనుజ్ఞ"
-      },
-      "voice_guidance_key": "kalabhairava_homam_anujnaa",
-      "instructions": {
-        "english": [
-          "Before starting, mentally seek permission from Mother Earth, Lord Ganesha, your favorite deity (ishta devata), your parents, the rishis of your lineage (gothra), all rishis, and all your gurus. Say the following mantra, requesting the cooperation of all deities.",
-          "If you have a 'pavitram' (a ring made of darbha grass or metal), wear it now on your right-hand ring finger. If not, you can use any ring after praying to your ishta devata, or simply proceed without one."
-        ],
-        "telugu": [
-          "ప్రారంభించే ముందు, భూమాత, గణేశుడు, మీ ఇష్ట దేవత, మీ తల్లిదండ్రులు, మీ గోత్ర ఋషులు, సర్వ ఋషులు, మరియు మీ గురువుల నుండి మానసికంగా అనుమతి తీసుకోండి. అన్ని దేవతల సహకారాన్ని కోరుతూ ఈ క్రింది మంత్రాన్ని చెప్పండి.",
-          "మీ దగ్గర 'పవిత్రం' (దర్భ గడ్డితో లేదా లోహంతో చేసిన ఉంగరం) ఉంటే, దాన్ని ఇప్పుడు మీ కుడి చేతి ఉంగరపు వేలికి ధరించండి. లేకపోతే, మీ ఇష్ట దేవతకు ప్రార్థన చేసిన తర్వాత ఏదైనా ఉంగరాన్ని ఉపయోగించవచ్చు, లేదా ఉంగరం లేకుండానే కొనసాగవచ్చు."
-        ],
-        "hindi": [
-          "शुरू करने से पहले, मानसिक रूप से पृथ्वी माता, भगवान गणेश, अपने इष्ट देवता, अपने माता-पिता, अपने वंश (गोत्र) के ऋषियों, सभी ऋषियों और अपने सभी गुरुओं से अनुमति लें।सभी देवताओं के सहयोग का अनुरोध करते हुए निम्नलिखित मंत्र का जाप करें।",
-          "यदि आपके पास 'पवित्रम्' (कुश घास या धातु से बनी अंगूठी) है, तो इसे अब अपनी दाहिनी हाथ की अनामिका उंगली में पहनें।यदि नहीं, तो आप अपने इष्ट देवता से प्रार्थना करने के बाद किसी भी अंगूठी का उपयोग कर सकते हैं, या बस इसके बिना आगे बढ़ सकते हैं।"
-        ]
-      },
-      "slokas": {
-        "english": "om ṛddhyāsma havyairnamasopasadya ।mitraṃ devaṃ mitradheyaṃ no astu ।anūrādhān haviṣā vardhayantaḥ ।śataṃ jīvema śaradaḥ savīrāḥ ॥",
-        "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య ।మిత్రం దేవం మిత్రధేయం నో అస్తు ।అనూరాధాన్ హవిషా వర్ధయంతః ।శతం జీవేమ శరదః సవీరాః ॥",
-        "devanagari": "ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य ।मित्रं देवं मित्रधेयं नो अस्तु।अनूराधान् हविषा वर्धयन्तः।शतं जीवेम शरदः सवीराः ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "anujnaa",
+      "voice_guidance_key": "kalabhairava_homam_anujnaa"
     },
     {
       "id": 2,

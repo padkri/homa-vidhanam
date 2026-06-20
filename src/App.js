@@ -4,7 +4,10 @@ import { loadManual, getAvailableManuals } from './dataLoader';
 
 // --- Helper: Format sloka text with line breaks ---
 const formatSloka = (text) => {
-  return text.replace(/॥/g, '$&\n');
+  return text
+    .replace(/\s*([।॥])\s*/g, '$1\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
 };
 
 // --- Helper: Icon Components ---
@@ -99,7 +102,7 @@ const ManualViewer = () => {
   const [error, setError] = useState(null);
   const [activeSectionId, setActiveSectionId] = useState(0);
   const [activeSubSection, setActiveSubSection] = useState('instructions');
-  const [language, setLanguage] = useState('english');
+  const [language, setLanguage] = useState('telugu');
   const [isLeftSidebarOpen, setLeftSidebarOpen] = useState(false);
   const [showInstructions, setShowInstructions] = useState(true);
   const [availableManuals, setAvailableManuals] = useState([]);

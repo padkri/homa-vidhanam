@@ -61,33 +61,8 @@
     {
       "id": 1,
       "type": "common",
-      "title": {
-        "english": "Anujnaa",
-        "telugu": "అనుజ్ఞ",
-        "devanagari": "अनुज्ञा",
-        "hindi": "అనుజ్ఞ"
-      },
-      "voice_guidance_key": "hanuman_homam_anujnaa",
-      "instructions": {
-        "english": [
-          "Before starting the homam, think in your mind of Mother Earth who is bearing you, Lord Ganesha who removes obstacles, your ishta devata (favorite deity), your parents, the rishis of your gothra (if you know them), all the rishis and all your gurus. Then say the following, while mentally requesting all the gods to co-operate with your homam.",
-          "If you have a 'pavitram' (a ring made of darbha or a special metal ring), wear it now on your right hand ring finger. If you don't have one, take any ring you have, pray to your ishta devata, and wear it. If you don't have a ring, don't worry and move on."
-        ],
-        "telugu": [
-          "హోమం ప్రారంభించే ముందు, మిమ్మల్ని భరిస్తున్న భూమాతను, అడ్డంకులను తొలగించే గణేశుడిని, మీ ఇష్టదేవతను, మీ తల్లిదండ్రులను, మీ గోత్ర ఋషులను (మీకు తెలిస్తే), ఋషులందరినీ మరియు మీ గురువులందరినీ మనస్సులో స్మరించుకోండి. ఆ తర్వాత, దేవతలందరూ మీ హోమానికి సహకరించాలని మానసికంగా అభ్యర్థిస్తూ ఈ క్రింది శ్లోకాన్ని పఠించండి.",
-          "మీ దగ్గర 'పవిత్రం' (దర్భతో చేసిన ఉంగరం లేదా ప్రత్యేక లోహపు ఉంగరం) ఉంటే, దానిని ఇప్పుడు మీ కుడి చేతి ఉంగరపు వేలికి ధరించండి. మీ దగ్గర అది లేకపోతే, మీ వద్ద ఉన్న ఏదైనా ఉంగరాన్ని తీసుకుని, మీ ఇష్టదేవతకు ప్రార్థించి, ధరించండి. మీ దగ్గర ఉంగరం లేకపోతే, చింతించకండి మరియు తదుపరి దశకు వెళ్ళండి."
-        ],
-        "hindi": [
-          "होम शुरू करने से पहले, अपने मन में पृथ्वी माता का ध्यान करें जो आपको धारण करती हैं, भगवान गणेश जो बाधाओं को दूर करते हैं, आपके इष्ट देवता, आपके माता-पिता, आपके गोत्र के ऋषि (यदि आप उन्हें जानते हैं), सभी ऋषियों और आपके सभी गुरुओं का ध्यान करें।फिर निम्नलिखित कहें, और मानसिक रूप से सभी देवताओं से आपके होम में सहयोग करने का अनुरोध करें।",
-          "यदि आपके पास 'पवित्रम्' (कुश से बनी अंगूठी या एक विशेष धातु की अंगूठी) है, तो इसे अब अपने दाहिने हाथ की अनामिका उंगली में पहनें।यदि आपके पास नहीं है, तो कोई भी अंगूठी लें, अपने इष्ट देवता से प्रार्थना करें और उसे पहनें।यदि आपके पास कोई अंगूठी नहीं है, तो चिंता न करें और आगे बढ़ें।"
-        ]
-      },
-      "slokas": {
-        "english": " Om R^iddhyaasma havyairnamasopasadya ।\n mitram devam mitradheyam no astu ।\n  anooraadhaan havishaa vardhayantah ।\n  shatam jeevema sharadah saveeraah ।",
-        "telugu": "ఓం ఋద్ధ్యాస్మ హవ్యైర్నమసోపసద్య ।\n  మిత్రం దేవం మిత్రధేయం నో అస్తు ।\n  అనూరాధాన్ హవిషా వర్ధయంతః ।\n  శతం జీవేమ శరదః సవీరాః ।",
-        "devanagari": " ॐ ऋद्धयास्म हव्यैर्नमसोपसद्य ।\n  मित्रं देवं मित्रधेयं नो अस्तु ।\n  अनूराधान् हविषा वर्धयन्तः ।\n  शतं जीवेम शरदः सवीराः ।",
-        "swara_enabled": false
-      }
+      "common_ref": "anujnaa",
+      "voice_guidance_key": "hanuman_homam_anujnaa"
     },
     {
       "id": 2,
