@@ -305,12 +305,47 @@
           "महागणपति मंत्र के साथ अग्नि में घी अर्पित करें, 4, 8, या 12 बार दोहराएं।"
         ]
       },
-      "slokas": {
-        "english": "Om gam ganapataye namah ।Asunee te punarasmaasu chakshuh punah praanamiha no dehi bhogam ।Jyokpashyema sooryamuchcharantamanumate mrilayaa nah swasti ।Om sree mahaaganapati praanashaktyai namah ।Atra aagachha ।Aavaahito bhava ।Sthaapito bhava ।Sannihito bhava ।Sanniruddho bhava ।Avakunthito bhava ।Praseeda praseeda ॥Lam prithivyaatmane namah ।Gandham samarpayaami ॥Ham aakaashaatmane namah ।Pushpam samarpayaami ॥Yam vaayvaatmane namah ।Dhoopam aaghraapayaami ॥Ram agnyaatmane namah ।Deepam darshayaami ॥Vam amritaatm ane namah ।Naivedyam samarpayaami ॥Sam sarvaatmane namah ।Sarvopachaaraan samarpayaami ॥Om gam ganapataye namah swaahaa ॥",
-        "telugu": "ఓం గం గణపతయే నమః।అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం।జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి ।ఓం శ్రీ మహాగణపతి ప్రాణశక్త్యై నమః।అత్ర ఆగఛ ।ఆవాహితో భవ ।స్థాపితో భవ ।సన్నిహితో భవ ।సన్నిరుద్ధో భవ ।అవకుంఠితో భవ ।ప్రసీద ప్రసీద ॥ లం పృథివ్యాత్మనే నమః।గంధం సమర్పయామి ॥ హం ఆకాశాత్మనే నమః ।పుష్పం సమర్పయామి ॥ యం వాయ్వాత్మనే నమః।ధూపం ఆఘ్రాపయామి ॥ రం అగ్న్యాత్మనే నమః ।దీపం దర్శయామి ॥ వం అమృతాత్మనే నమః ।నైవేద్యం సమర్పయామి ॥ సం సర్వాత్మనే నమః ।సర్వోపచారాన్ సమర్పయామి ॥ ఓం గం గణపతయే నమః స్వాహా ॥",
-        "devanagari": "ॐ गं गणपतये नमः।असुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगं।ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ।ॐ श्री महागणपति प्राणशक्त्यै नमः।अत्र आगछ ।आवाहितो भव ।स्थापितो भव ।सन्निहितो भव ।सन्निरुद्धो भव ।अवकुंठितो भव ।प्रसीद प्रसीद ॥ लं पृथिव्यात्मने नमः।गन्धं समर्पयामि ॥ हं आकाशात्मने नमः ।पुष्पं समर्पयामि ॥ यं वाय्वात्मने नमः।धूपं आघ्रापयामि ॥ रं अग्न्यात्मने नमः ।दीपं दर्शयामि ॥ वं अमृतात्मने नमः ।नैवेद्यं समर्पयामि ॥ सं सर्वात्मने नमः ।सर्वोपचारान् समर्पयामि ॥ ॐ गं गणपतये नमः स्वाहा ॥",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Mahaganapathi Invocation",
+            "telugu": "మహాగణపతి ఆవాహన",
+            "hindi": "महागणपति आवाहन"
+          },
+          "slokas": {
+            "english": "om gaṁ gaṇapataye namaḥ।\n\nasunī te punarasmāsu cakṣuḥ punaḥ prāṇamiha no dehi bhogam।\njyokpaśyema sūryamuccarantamanumate mṛḷayā naḥ svasti।\nom śrī mahāgaṇapati prāṇaśaktyai namaḥ।\natra āgaccha।\nāvāhito bhava।\nsthāpito bhava।\nsannihito bhava।\nsanniruddho bhava।\navakuṇṭhito bhava।\nprasīda prasīda॥",
+            "telugu": "ఓం గం గణపతయే నమః।\n\nఅసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం।\nజ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి।\nఓం శ్రీ మహాగణపతి ప్రాణశక్త్యై నమః।\nఅత్ర ఆగఛ।\nఆవాహితో భవ।\nస్థాపితో భవ।\nసన్నిహితో భవ।\nసన్నిరుద్ధో భవ।\nఅవకుంఠితో భవ।\nప్రసీద ప్రసీద॥",
+            "devanagari": "ॐ गं गणपतये नमः।\n\nअसुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगम्।\nज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति।\nॐ श्री महागणपति प्राणशक्त्यै नमः।\nअत्र आगच्छ।\nआवाहितो भव।\nस्थापितो भव।\nसन्निहितो भव।\nसन्निरुद्धो भव।\nअवकुण्ठितो भव।\nप्रसीद प्रसीद॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Panchopachara Pooja",
+            "telugu": "పంచోపచార పూజ",
+            "hindi": "पंचोपचार पूजा"
+          },
+          "slokas": {
+            "english": "laṁ pṛthivyātmane namaḥ।\ngandhaṁ samarpayāmi॥\nhaṁ ākāśātmane namaḥ।\npuṣpaṁ samarpayāmi॥\nyaṁ vāyvātmane namaḥ।\ndhūpaṁ āghrāpayāmi॥\nraṁ agnyātmane namaḥ।\ndīpaṁ darśayāmi॥\nvaṁ amṛtātmane namaḥ।\nnaivedyaṁ samarpayāmi॥\nsaṁ sarvātmane namaḥ।\nsarvopacārān samarpayāmi॥",
+            "telugu": "లం పృథివ్యాత్మనే నమః।\nగంధం సమర్పయామి॥\nహం ఆకాశాత్మనే నమః।\nపుష్పం సమర్పయామి॥\nయం వాయ్వాత్మనే నమః।\nధూపం ఆఘ్రాపయామి॥\nరం అగ్న్యాత్మనే నమః।\nదీపం దర్శయామి॥\nవం అమృతాత్మనే నమః।\nనైవేద్యం సమర్పయామి॥\nసం సర్వాత్మనే నమః।\nసర్వోపచారాన్ సమర్పయామి॥",
+            "devanagari": "लं पृथिव्यात्मने नमः।\nगन्धं समर्पयामि॥\nहं आकाशात्मने नमः।\nपुष्पं समर्पयामि॥\nयं वाय्वात्मने नमः।\nधूपं आघ्रापयामि॥\nरं अग्न्यात्मने नमः।\nदीपं दर्शयामि॥\nवं अमृतात्मने नमः।\nनैवेद्यं समर्पयामि॥\nसं सर्वात्मने नमः।\nसर्वोपचारान् समर्पयामि॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Mahaganapathi Homa Offering",
+            "telugu": "మహాగణపతి హోమ ఆహుతి",
+            "hindi": "महागणपति होम आहुति"
+          },
+          "slokas": {
+            "english": "om gaṁ gaṇapataye namaḥ svāhā॥",
+            "telugu": "ఓం గం గణపతయే నమః స్వాహా॥",
+            "devanagari": "ॐ गं गणपतये नमः स्वाहा॥",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     {
       "id": 11,
@@ -341,12 +376,60 @@
           "अंतिम श्लोकों का पाठ करें और होम की समाप्ति तक देवी से स्थापित, उपस्थित और प्रसन्न रहने का अनुरोध करने के लिए मुद्राएं (यदि ज्ञात हो) करें।"
         ]
       },
-      "slokas": {
-        "english": "Asya shree praanapratishthaapana mantrasya brahma vishnu maheshwaraa rishayah rigyajussaamaatharvaani chhandaansi shree chandikaa devataa ।Aim beejam ।Hreem shaktih ।Kleem keelakam ।Aim angushthaabhyaam namah ।Hreem tarjaneebhyaam namah ।Kleem madhyamaabhyaam namah ।Aim anaamikaabhyaam namah ।Hreem kanishthikaabhyaam namah ।Kleem karatala karaprishthaabhyaam namah ।Aim hridayaaya namah ।Hreem shirase swaahaa ।Kleem shikhaayai vashat ।Aim kavachaaya hum ।Hreem netratrayaaya vaushat ।Kleem astraaya phat ।Bhoorbhuvassuvaromiti digbandhah ॥Shwetaananaa neelabhujaa sushweta stana mandalaa ।Rakta madhyaa rakta paadaa neelajanghorurunmadaa ॥Suchitra jaghanaa chitra maalyaambara vibhooshanaa ।Chitraanulepanaa kaanti roopa saubhaagyashaalinee ॥Ashtaadasha bhujaa poojyaa saa sahasrabhujaa satee ।Aayudhaanyatra vakshyante dakshinaadhahkara kramaat ॥Akshamaalaa cha kamalam baanosih kulisham gadaa ।Chakram trishoolam parashuh shankho ghantaa cha paashakah ॥Shaktirdandashcharma chaapam paanapaatram kamandaluh ॥Om aim hreem kleem yam ram lam vam sham sham sam hamlam ksham ।Om hamsah so'ham so'ham hamsah ।Shree chandikaayaah praana iha praanah ।Jeeva iha sthitah ।Sarvendriyaani vaangmanastwak chakshuh shrotra jihwaaghraana praanaapaanavyaanodaana samaanaah ihaivaagatya sukham chiram tishthantu swaahaa ।Saannidhyam kurvantu swaahaa ।Asunee te punarasmaasu chakshuh punah praanamiha no dehi bhogam ।Jyokpashyema sooryamuchcharantamanumate mrilayaa nah swasti ।Aim hreem kleem ।Kleem hreem aim ।Om sree chandikaa praanashaktyai namah ।Atra aagachha ॥Aavaahitaa bhava ।Sthaapitaa bhava ।Sannihitaa bhava ।Sanniruddhaa bhava ।Avakunthitaa bhava ।Devi praseeda praseeda ।Devi sarva jagannaayaki yaavaddhomaavasaanakam ।Taavattvam preetibhaavena moortaavagnau cha sannidhim kuru ॥",
-        "telugu": "అస్య శ్రీ ప్రాణప్రతిష్ఠాపన మంత్రస్య బ్రహ్మ విష్ణు మహేశ్వరా ఋషయః ఋగ్యజుస్సామాథర్వాణి ఛందాంసి శ్రీ చండికా దేవతా ।ఐం బీజం।హ్రీం శక్తిః।క్లీం కీలకం ।ఐం అంగుష్ఠాభ్యాం నమః।హ్రీం తర్జనీభ్యాం నమః।క్లీం మధ్యమాభ్యాం నమః।ఐం అనామికాభ్యాం నమః ।హ్రీం కనిష్ఠికాభ్యాం నమః।క్లీం కరతల కరపృష్ఠాభ్యాం నమః।ఐం హృదయాయ నమః।హ్రీం శిరసే స్వాహా।క్లీం శిఖాయై వషట్ ।ఐం కవచాయ హుం ।హ్రీం నేత్రత్రయాయ వౌషట్ ।క్లీం అస్త్రాయ ఫట్ ।భూర్భువస్సువరోమితి దిగ్బంధః ॥ శ్వేతాననా నీలభుజా సుశ్వేత స్తన మండలా ।రక్త మధ్యా రక్త పాదా నీలజంఘోరురున్మదా ॥ సుచిత్ర జఘనా చిత్ర మాల్యాంబర విభూషణా ।చిత్రానులేపనా కాంతి రూప సౌభాగ్యశాలినీ ॥ అష్టాదశ భుజా పూజ్యా సా సహస్రభుజా సతీ।ఆయుధాన్యత్ర వక్ష్యంతే దక్షిణాధఃకర క్రమాత్ ॥ అక్షమాలా చ కమలం బాణోऽసిః కులిశం గదా ।చక్రం త్రిశూలం పరశుః శంఖో ఘంటా చ పాశకః ॥ శక్తిర్దండశ్చర్మ చాపం పానపాత్రం కమండలుః ॥ ఓం ఐం హ్రీం క్లీం యం రం లం వం శం షం సం హంళం క్షం।ఓం హంసః సోऽహం సోऽహం హంసః ।శ్రీ చండికాయాః ప్రాణ ఇహ ప్రాణః।జీవ ఇహ స్థితః ।సర్వేంద్రియాణి వాఙ్మనస్త్వక్ చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠन्तु స్వాహా।సాన్నిధ్యం కుర్వంతు స్వాహా।అసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం।జ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి।ఐం హ్రీం క్లీం।క్లీం హ్రీం ఐం ।ఓం శ్రీ చండికా ప్రాణశక్త్యై నమః।అత్ర ఆగచ్ఛ ॥ ఆవాహితా భవ ।స్థాపితా భవ।సన్నిహితా భవ।సన్నిరుద్ధా భవ।అవకుంఠితా భవ ।దేవి ప్రసీద ప్రసీద ।దేవి సర్వ జగన్నాయకి యావద్ధోమావసానకమ్ ।తావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు ॥",
-        "devanagari": "अस्य श्री प्राणप्रतिष्ठापन मंत्रस्य ब्रह्म विष्णु महेश्वरा ऋषयः ऋग्यजुस्सामाथर्वाणि छन्दासि श्री चण्डिका देवता ।ऐं बीजं।ह्रीं शक्तिः।क्लीं कीलकं ।ऐं अंगुष्ठाभ्यां नमः।ह्रीं तर्जनीभ्यां नमः।क्लीं मध्यमाभ्यां नमः।ऐं अनामिकाभ्यां नमः ।ह्रीं कनिष्ठिकाभ्यां नमः।क्लीं करतल करपृष्ठाभ्यां नमः।ऐं हृदयाय नमः।ह्रीं शिरसे स्वाहा।क्लीं शिखायै वषट् ।ऐं कवचाय हुं ।ह्रीं नेत्रत्रयाय वौषट् ।क्लीं अस्त्राय फट् ।भूर्भुवस्सुवरोमिति दिग्बंधः ॥ श्वेतानना नीलभुजा सुश्वेत स्तन मण्डला ।रक्त मध्या रक्त पादा नीलजंघोरुरुन्మदा ॥ सुचित्र जघना चित्र माल्याम्बर विभूषणा ।चित्रानुलेपना कान्ति रूप सौभाग्यशालिनी ॥ अष्टादश भुजा पूज्या सा सहस्रभुजा सती।आयुधान्यत्र वक्ष्यन्ते दक्षिणाधःकर क्रमात् ॥ अक्षमाला च कमलं बाणोऽसिः कुलिशं गदा ।चक्रं त्रिशूलं परशुः शंखो घण्टा च पाशकः ॥ शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः ॥ ॐ ऐं ह्रीं क्लीं यं रं लं वंशं षं सं हंळं क्षं।ॐ हंसः सोऽहं सोऽहं हंसः ।श्री चण्डिकायाः प्राण इह प्राणः।जीव इह स्थितः ।सर्वेन्द्रियाणि वाङ्मनस्त्वक् चक्षुः श्रोत्र जिह्वाघ्राण प्राणापानव्यानोदानसमानाः इहैवागत्य सुखं चिरं तिष्ठन्तु स्वाहा।सान्निध्यं कुर्वन्तु स्वाहा।असुनी ते पुनरस्మాसु चक्षुः पुनः प्राणमिह नो देहि भोगं।ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति।ऐं ह्रीं क्लीं।क्लीं ह्रीं ऐं ।ॐ श्री चण्डिका प्राणशक्त्यै नमः।अत्र आगच्छ ॥ आवाहिता भव ।स्थापिता भव।सन्निहिता भव।सन्निरुद्धा भव।अवकुंठिता भव ।देवि प्रसीद प्रसीद ।देवि सर्व जगन्नायकि यावद्धोमावसानकम् ।तावत्त्वं प्रीतिभावेन मूर्तों अग्नौ च सन्निधिं कुरु ।",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Nyasa and Digbandha",
+            "telugu": "న్యాసం మరియు దిగ్బంధం",
+            "hindi": "न्यास और दिग्बन्ध"
+          },
+          "slokas": {
+            "english": "asya śrī prāṇapratiṣṭhāpana mantrasya brahma viṣṇu maheśvarā ṛṣayaḥ ṛgyajussāmātharvāṇi chandāṁsi śrī caṇḍikā devatā।\naiṁ bījam।\nhrīṁ śaktiḥ।\nklīṁ kīlakam।\naiṁ aṅguṣṭhābhyāṁ namaḥ।\nhrīṁ tarjanībhyāṁ namaḥ।\nklīṁ madhyamābhyāṁ namaḥ।\naiṁ anāmikābhyāṁ namaḥ।\nhrīṁ kaniṣṭhikābhyāṁ namaḥ।\nklīṁ karatala karapṛṣṭhābhyāṁ namaḥ।\naiṁ hṛdayāya namaḥ।\nhrīṁ śirase svāhā।\nklīṁ śikhāyai vaṣaṭ।\naiṁ kavacāya huṁ।\nhrīṁ netratrayāya vauṣaṭ।\nklīṁ astrāya phaṭ।\nbhūrbhuvassuvaromiti digbandhaḥ॥",
+            "telugu": "అస్య శ్రీ ప్రాణప్రతిష్ఠాపన మంత్రస్య బ్రహ్మ విష్ణు మహేశ్వరా ఋషయః ఋగ్యజుస్సామాథర్వాణి ఛందాంసి శ్రీ చండికా దేవతా।\nఐం బీజం।\nహ్రీం శక్తిః।\nక్లీం కీలకం।\nఐం అంగుష్ఠాభ్యాం నమః।\nహ్రీం తర్జనీభ్యాం నమః।\nక్లీం మధ్యమాభ్యాం నమః।\nఐం అనామికాభ్యాం నమః।\nహ్రీం కనిష్ఠికాభ్యాం నమః।\nక్లీం కరతల కరపృష్ఠాభ్యాం నమః।\nఐం హృదయాయ నమః।\nహ్రీం శిరసే స్వాహా।\nక్లీం శిఖాయై వషట్।\nఐం కవచాయ హుం।\nహ్రీం నేత్రత్రయాయ వౌషట్।\nక్లీం అస్త్రాయ ఫట్।\nభూర్భువస్సువరోమితి దిగ్బంధః॥",
+            "devanagari": "अस्य श्री प्राणप्रतिष्ठापन मन्त्रस्य ब्रह्म विष्णु महेश्वरा ऋषयः ऋग्यजुस्सामाथर्वाणि छन्दांसि श्री चण्डिका देवता।\nऐं बीजम्।\nह्रीं शक्तिः।\nक्लीं कीलकम्।\nऐं अङ्गुष्ठाभ्यां नमः।\nह्रीं तर्जनीभ्यां नमः।\nक्लीं मध्यमाभ्यां नमः।\nऐं अनामिकाभ्यां नमः।\nह्रीं कनिष्ठिकाभ्यां नमः।\nक्लीं करतल करपृष्ठाभ्यां नमः।\nऐं हृदयाय नमः।\nह्रीं शिरसे स्वाहा।\nक्लीं शिखायै वषट्।\nऐं कवचाय हुं।\nह्रीं नेत्रत्रयाय वौषट्।\nक्लीं अस्त्राय फट्।\nभूर्भुवस्सुवरोमिति दिग्बन्धः॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Dhyana Sloka",
+            "telugu": "ధ్యాన శ్లోకం",
+            "hindi": "ध्यान श्लोक"
+          },
+          "slokas": {
+            "english": "śvetānanā nīlabhujā suśveta stana maṇḍalā।\nrakta madhyā rakta pādā nīlajaṅghorurunmadā॥\nsucitra jaghanā citra mālyāmbara vibhūṣaṇā।\ncitrānulepanā kānti rūpa saubhāgyaśālinī॥\n\naṣṭādaśa bhujā pūjyā sā sahasrabhujā satī।\nāyudhānyatra vakṣyante dakṣiṇādhaḥkara kramāt॥\nakṣamālā ca kamalaṁ bāṇo'siḥ kuliśaṁ gadā।\ncakraṁ triśūlaṁ paraśuḥ śaṅkho ghaṇṭā ca pāśakaḥ॥\nśaktirdaṇḍaścarma cāpaṁ pānapātraṁ kamaṇḍaluḥ॥",
+            "telugu": "శ్వేతాననా నీలభుజా సుశ్వేత స్తన మండలా।\nరక్త మధ్యా రక్త పాదా నీలజంఘోరురున్మదా॥\nసుచిత్ర జఘనా చిత్ర మాల్యాంబర విభూషణా।\nచిత్రానులేపనా కాంతి రూప సౌభాగ్యశాలినీ॥\n\nఅష్టాదశ భుజా పూజ్యా సా సహస్రభుజా సతీ।\nఆయుధాన్యత్ర వక్ష్యంతే దక్షిణాధఃకర క్రమాత్॥\nఅక్షమాలా చ కమలం బాణోऽసిః కులిశం గదా।\nచక్రం త్రిశూలం పరశుః శంఖో ఘంటా చ పాశకః॥\nశక్తిర్దండశ్చర్మ చాపం పానపాత్రం కమండలుః॥",
+            "devanagari": "श्वेतानना नीलभुजा सुश्वेत स्तन मण्डला।\nरक्त मध्या रक्त पादा नीलजङ्घोरुरुन्मदा॥\nसुचित्र जघना चित्र माल्याम्बर विभूषणा।\nचित्रानुलेपना कान्ति रूप सौभाग्यशालिनी॥\n\nअष्टादश भुजा पूज्या सा सहस्रभुजा सती।\nआयुधान्यत्र वक्ष्यन्ते दक्षिणाधःकर क्रमात्॥\nअक्षमाला च कमलं बाणोऽसिः कुलिशं गदा।\nचक्रं त्रिशूलं परशुः शङ्खो घण्टा च पाशकः॥\nशक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Prana Pratishtha Invocation",
+            "telugu": "ప్రాణ ప్రతిష్ఠాపన ఆవాహన",
+            "hindi": "प्राण प्रतिष्ठापन आवाहन"
+          },
+          "slokas": {
+            "english": "om aiṁ hrīṁ klīṁ yaṁ raṁ laṁ vaṁ śaṁ ṣaṁ saṁ haṁ ḻaṁ kṣaṁ।\nom haṁsaḥ so'haṁ so'haṁ haṁsaḥ।\nśrī caṇḍikāyāḥ prāṇa iha prāṇaḥ।\njīva iha sthitaḥ।\nsarvendriyāṇi vāṅmanastvak cakṣuḥ śrotra jihvāghrāṇa prāṇāpānavyānodānasamānāḥ ihaivāgatya sukhaṁ ciraṁ tiṣṭhantu svāhā।\nsānnidhyaṁ kurvantu svāhā।\nasunī te punarasmāsu cakṣuḥ punaḥ prāṇamiha no dehi bhogam।\njyokpaśyema sūryamuccarantamanumate mṛḷayā naḥ svasti।\naiṁ hrīṁ klīṁ।\nklīṁ hrīṁ aiṁ।\nom śrī caṇḍikā prāṇaśaktyai namaḥ।\natra āgaccha॥",
+            "telugu": "ఓం ఐం హ్రీం క్లీం యం రం లం వం శం షం సం హంళం క్షం।\nఓం హంసః సోऽహం సోऽహం హంసః।\nశ్రీ చండికాయాః ప్రాణ ఇహ ప్రాణః।\nజీవ ఇహ స్థితః।\nసర్వేంద్రియాణి వాఙ్మనస్త్వక్ చక్షుః శ్రోత్ర జిహ్వాఘ్రాణ ప్రాణాపానవ్యానోదానసమానాః ఇహైవాగత్య సుఖం చిరం తిష్ఠంతు స్వాహా।\nసాన్నిధ్యం కుర్వంతు స్వాహా।\nఅసునీ తే పునరస్మాసు చక్షుః పునః ప్రాణమిహ నో దేహి భోగం।\nజ్యోక్పశ్యేమ సూర్యముచ్చరంతమనుమతే మృళయా నః స్వస్తి।\nఐం హ్రీం క్లీం।\nక్లీం హ్రీం ఐం।\nఓం శ్రీ చండికా ప్రాణశక్త్యై నమః।\nఅత్ర ఆగచ్ఛ॥",
+            "devanagari": "ॐ ऐं ह्रीं क्लीं यं रं लं वं शं षं सं हंळं क्षं।\nॐ हंसः सोऽहं सोऽहं हंसः।\nश्री चण्डिकायाः प्राण इह प्राणः।\nजीव इह स्थितः।\nसर्वेन्द्रियाणि वाङ्मनस्त्वक् चक्षुः श्रोत्र जिह्वाघ्राण प्राणापानव्यानोदानसमानाः इहैवागत्य सुखं चिरं तिष्ठन्तु स्वाहा।\nसान्निध्यं कुर्वन्तु स्वाहा।\nअसुनी ते पुनरस्मासु चक्षुः पुनः प्राणमिह नो देहि भोगम्।\nज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति।\nऐं ह्रीं क्लीं।\nक्लीं ह्रीं ऐं।\nॐ श्री चण्डिका प्राणशक्त्यै नमः।\nअत्र आगच्छ॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Establishment Request",
+            "telugu": "స్థాపన ప్రార్థన",
+            "hindi": "स्थापन प्रार्थना"
+          },
+          "slokas": {
+            "english": "āvāhitā bhava।\nsthāpitā bhava।\nsannihitā bhava।\nsanniruddhā bhava।\navakuṇṭhitā bhava।\ndevi prasīda prasīda।\ndevi sarva jagannāyaki yāvaddhomāvasānakam।\ntāvattvaṁ prītibhāvena mūrtau agnau ca sannidhiṁ kuru॥",
+            "telugu": "ఆవాహితా భవ।\nస్థాపితా భవ।\nసన్నిహితా భవ।\nసన్నిరుద్ధా భవ।\nఅవకుంఠితా భవ।\nదేవి ప్రసీద ప్రసీద।\nదేవి సర్వ జగన్నాయకి యావద్ధోమావసానకమ్।\nతావత్త్వం ప్రీతిభావేన మూర్తౌ అగ్నౌ చ సన్నిధిం కురు॥",
+            "devanagari": "आवाहिता भव।\nस्थापिता भव।\nसन्निहिता भव।\nसन्निरुद्धा भव।\nअवकुण्ठिता भव।\nदेवि प्रसीद प्रसीद।\nदेवि सर्व जगन्नायकि यावद्धोमावसानकम्।\nतावत्त्वं प्रीतिभावेन मूर्तौ अग्नौ च सन्निधिं कुरु॥",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     {
       "id": 12,
