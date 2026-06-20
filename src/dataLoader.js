@@ -1,9 +1,26 @@
 import config from './data/config.json';
 import commonParts from './data/common_parts.json';
+import illustrations from './data/shared/illustrations.json';
 import { enrichSankalpaPlaceholders, getSankalpaTexts } from './sankalpaService';
 
 // Cache for loaded manuals
 const manualCache = {};
+
+const resolveIllustration = (illustration) => {
+  if (!illustration) return undefined;
+
+  if (typeof illustration !== 'string') {
+    return { ...illustration };
+  }
+
+  const resolved = illustrations[illustration];
+  if (!resolved) {
+    console.warn(`illustration "${illustration}" not found in illustrations.json`);
+    return undefined;
+  }
+
+  return { ...resolved };
+};
 
 /**
  * Resolves a section that references common_parts.json.
@@ -42,11 +59,15 @@ const resolveCommonRef = (section) => {
     };
   };
 
-  const hydrateSlokaGroups = (slokaGroups, fallbackSlokas) => {
-    const groups = slokaGroups?.length ? slokaGroups : (fallbackSlokas ? [{ slokas: fallbackSlokas }] : []);
+  const hydrateSlokaGroups = (slokaGroups, fallbackSlokas, fallbackIllustration) => {
+    const inheritedIllustration = resolveIllustration(fallbackIllustration);
+    const groups = slokaGroups?.length
+      ? slokaGroups
+      : (fallbackSlokas ? [{ illustration: inheritedIllustration, slokas: fallbackSlokas }] : []);
 
     return groups.map(group => ({
       ...group,
+      illustration: resolveIllustration(group.illustration) || group.illustration,
       slokas: hydrateSlokas(group.slokas),
     }));
   };
@@ -64,11 +85,11 @@ const resolveCommonRef = (section) => {
     resolved.steps = common.steps.map(step => ({
       ...step,
       slokas: hydrateSlokas(step.slokas),
-      sloka_groups: hydrateSlokaGroups(step.sloka_groups, step.slokas),
+      sloka_groups: hydrateSlokaGroups(step.sloka_groups, step.slokas, step.sloka_illustration),
     }));
   }
   resolved.slokas = hydrateSlokas(common.slokas);
-  resolved.sloka_groups = hydrateSlokaGroups(common.sloka_groups, common.slokas);
+  resolved.sloka_groups = hydrateSlokaGroups(common.sloka_groups, common.slokas, common.sloka_illustration);
 
   // Remove ref-only fields from the resolved object
   delete resolved.common_ref;
@@ -80,9 +101,13 @@ const resolveCommonRef = (section) => {
 const normalizeSlokaGroups = (content) => {
   if (!content) return content;
 
+  const slokaIllustration = resolveIllustration(content.sloka_illustration);
   const sloka_groups = content.sloka_groups?.length
-    ? content.sloka_groups
-    : (content.slokas ? [{ slokas: content.slokas }] : undefined);
+    ? content.sloka_groups.map(group => ({
+      ...group,
+      illustration: resolveIllustration(group.illustration) || group.illustration,
+    }))
+    : (content.slokas ? [{ illustration: slokaIllustration, slokas: content.slokas }] : undefined);
 
   return {
     ...content,

@@ -194,13 +194,13 @@
           "12 प्रसादों में से प्रत्येक के लिए 12 संगत मंत्रों का पाठ करें।"
         ]
       },
+      "sloka_illustration": "dikpalakas",
       "slokas": {
         "english": "Om indraaya namah ।Om agnaye namah ।Om yamaaya namah ।Om nirr^itaye namah ।Om varunaaya namah ।Om vaayave namah ।Om somaaya namah ।Om eeshaanaaya namah ।Om brahmane namah ।Om sheshaaya namah ।Om agnaye namah ।Om aatmane namah ।",
         "telugu": "ఓం ఇంద్రాయ నమః।ఓం అగ్నయే నమః।ఓం యమాయ నమః।ఓం నిరృతయే నమః।ఓం వరుణాయ నమః।ఓం వాయవే నమః।ఓం సోమాయ నమః।ఓం ఈశానాయ నమః।ఓం బ్రహ్మణే నమః ।ఓం శేషాయ నమః।ఓం అగ్నయే నమః ।ఓం ఆత్మనే నమః ।",
         "devanagari": "ॐ इन्द्राय नमः।ॐ अग्नये नमः।ॐ यमाय नमः।ॐ निर्ऋतये नमः।ॐ वरुणाय नमः।ॐ वायवे नमः।ॐ सोमाय नमः।ॐ ईशानाय नमः।ॐ ब्रह्मणे नमः ।ॐ शेषाय नमः।ॐ अग्नये नमः ।ॐ आत्मने नमः ।",
         "swara_enabled": false
-      },
-      "diagram": "/diagrams/dikpalakas.svg"
+      }
     },
     {
       "id": 9,

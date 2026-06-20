@@ -150,14 +150,7 @@
             "telugu": "జల శుద్ధి",
             "hindi": "जल शुद्धि"
           },
-          "illustration": {
-            "src": "/diagrams/kalasa-water-purification.svg",
-            "alt": {
-              "english": "Akshatas and a flower placed in a vessel of water for purification",
-              "telugu": "శుద్ధి కోసం నీటి పాత్రలో ఉంచిన అక్షతలు మరియు పువ్వు",
-              "hindi": "शुद्धि के लिए जल पात्र में रखे अक्षत और फूल"
-            }
-          },
+          "illustration": "kalasa_water_purification",
           "slokas": {
             "english": "vaṁ",
             "telugu": "వం",
@@ -171,14 +164,7 @@
             "telugu": "పవిత్ర నదుల ఆవాహన",
             "hindi": "पवित्र नदियों का आह्वान"
           },
-          "illustration": {
-            "src": "/diagrams/sacred-rivers-invocation.svg",
-            "alt": {
-              "english": "Sacred rivers invoked into the kalasa water",
-              "telugu": "కలశ జలంలోకి ఆవాహన చేసిన పవిత్ర నదులు",
-              "hindi": "कलश जल में आवाहित पवित्र नदियाँ"
-            }
-          },
+          "illustration": "sacred_rivers_invocation",
           "slokas": {
             "english": "gaṁge ca yamune caiva godāvari sarasvati ।\nnarmade sindhu kāveri jale'smin sannidhiṁ kuru ॥\namṛtaṁ bhavatu",
             "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి ।\nనర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥\nఅమృతం భవతు",
@@ -233,14 +219,7 @@
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
           },
-          "illustration": {
-            "src": "/diagrams/homa-kundam-6-lines.svg",
-            "alt": {
-              "english": "Six lines drawn in the homa kundam with darbha",
-              "telugu": "దర్భతో హోమ కుండంలో గీసిన ఆరు రేఖలు",
-              "hindi": "दर्भ से होम कुंड में खींची गई छह रेखाएँ"
-            }
-          },
+          "illustration": "homa_kundam_lines",
           "slokas": {
             "english": "om brahmaṇe namaḥ ।\nom yamāya namaḥ ।\nom somāya namaḥ ।\nom rudrāya namaḥ ।\nom viṣṇave namaḥ ।\nom indrāya namaḥ ।",
             "telugu": "ఓం బ్రహ్మణే నమః ।\nఓం యమాయ నమః ।\nఓం సోమాయ నమః ।\nఓం రుద్రాయ నమః ।\nఓం విష్ణవే నమః ।\nఓం ఇంద్రాయ నమః ।",
@@ -293,14 +272,7 @@
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
           },
-          "illustration": {
-            "src": "/diagrams/agni-pratisthapana-4-dirs.svg",
-            "alt": {
-              "english": "Four-direction sprinkling order around the homa kundam",
-              "telugu": "హోమ కుండం చుట్టూ నాలుగు దిశల్లో నీరు చల్లే క్రమం",
-              "hindi": "होम कुंड के चारों ओर चार दिशाओं में जल छिड़कने का क्रम"
-            }
-          },
+          "illustration": "agni_parishechana_directions",
           "slokas": {
             "english": "adite'numanyasva । anumate'numanyasva । sarasvate'numanyasva । deva savitaḥ prasuva ।",
             "telugu": "అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।",
@@ -365,14 +337,7 @@
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
           },
-          "illustration": {
-            "src": "/diagrams/homa-kundam-6-lines.svg",
-            "alt": {
-              "english": "Six lines drawn in the homa kundam with darbha",
-              "telugu": "దర్భతో హోమ కుండంలో గీసిన ఆరు రేఖలు",
-              "hindi": "दर्भ से होम कुंड में खींची गई छह रेखाएँ"
-            }
-          },
+          "illustration": "homa_kundam_lines",
           "slokas": {
             "english": "1. oṃ brahmaṇe namaḥ ।\n2. oṃ yamāya namaḥ ।\n3. oṃ somāya namaḥ ।\n4. oṃ rudrāya namaḥ ।\n5. oṃ viṣṇave namaḥ ।\n6. oṃ indrāya namaḥ ।",
             "telugu": "౧. ఓం బ్రహ్మణే నమః ।\n౨. ఓం యమాయ నమః ।\n౩. ఓం సోమాయ నమః ।\n౪. ఓం రుద్రాయ నమః ।\n౫. ఓం విష్ణవే నమః ।\n౬. ఓం ఇంద్రాయ నమః ।",
@@ -425,14 +390,7 @@
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
           },
-          "illustration": {
-            "src": "/diagrams/agni-pratisthapana-4-dirs.svg",
-            "alt": {
-              "english": "Four-direction sprinkling order around the homa kundam",
-              "telugu": "హోమ కుండం చుట్టూ నాలుగు దిశల్లో నీరు చల్లే క్రమం",
-              "hindi": "होम कुंड के चारों ओर चार दिशाओं में जल छिड़कने का क्रम"
-            }
-          },
+          "illustration": "agni_parishechana_directions",
           "slokas": {
             "english": "adite'numanyasva ।anumate'numanyasva ।sarasvate'numanyasva ।deva savitaḥ prasuva ।",
             "telugu": "అదితేऽనుమన్యస్వ ।అనుమతేऽనుమన్యస్వ ।సరస్వతేऽనుమన్యస్వ ।దేవ సవితః ప్రసువ ।",

@@ -1,0 +1,42 @@
+{
+  "agni_parishechana_directions": {
+    "src": "/diagrams/agni-pratisthapana-4-dirs.svg",
+    "alt": {
+      "english": "Four-direction sprinkling order around the homa kundam",
+      "telugu": "హోమ కుండం చుట్టూ నాలుగు దిశల్లో నీరు చల్లే క్రమం",
+      "hindi": "होम कुंड के चारों ओर चार दिशाओं में जल छिड़कने का क्रम"
+    }
+  },
+  "dikpalakas": {
+    "src": "/diagrams/dikpalakas.svg",
+    "alt": {
+      "english": "Dikpalaka offering positions around the homa kundam",
+      "telugu": "హోమ కుండం చుట్టూ దిక్పాలకులకు సమర్పించే స్థానాలు",
+      "hindi": "होम कुंड के चारों ओर दिक्पालक अर्पण स्थान"
+    }
+  },
+  "homa_kundam_lines": {
+    "src": "/diagrams/homa-kundam-6-lines.svg",
+    "alt": {
+      "english": "Six lines drawn in the homa kundam with darbha",
+      "telugu": "దర్భతో హోమ కుండంలో గీసిన ఆరు రేఖలు",
+      "hindi": "दर्भ से होम कुंड में खींची गई छह रेखाएँ"
+    }
+  },
+  "kalasa_water_purification": {
+    "src": "/diagrams/kalasa-water-purification.svg",
+    "alt": {
+      "english": "Akshatas and a flower placed in a vessel of water for purification",
+      "telugu": "శుద్ధి కోసం నీటి పాత్రలో ఉంచిన అక్షతలు మరియు పువ్వు",
+      "hindi": "शुद्धि के लिए जल पात्र में रखे अक्षत और फूल"
+    }
+  },
+  "sacred_rivers_invocation": {
+    "src": "/diagrams/sacred-rivers-invocation.svg",
+    "alt": {
+      "english": "Sacred rivers invoked into the kalasa water",
+      "telugu": "కలశ జలంలోకి ఆవాహన చేసిన పవిత్ర నదులు",
+      "hindi": "कलश जल में आवाहित पवित्र नदियाँ"
+    }
+  }
+}
