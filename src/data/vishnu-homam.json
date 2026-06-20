@@ -636,30 +636,8 @@
     {
       "id": 19,
       "type": "pradhana",
-      "title": {
-        "english": "Vasordhaaraa",
-        "telugu": "వసోర్ధార",
-        "devanagari": "वसोर्धारा",
-        "hindi": "వసోర్ధార"
-      },
-      "voice_guidance_key": "vishnu_homam_vasordhaaraa",
-      "instructions": {
-        "english": [
-          "Take a little ghee into the ladle and pour it slowly in a stream onto the burning materials in the homa kundam while reciting the third verse from 'Rudra Chamakam'. This helps ensure the poornaahuti (final offering) burns well."
-        ],
-        "telugu": [
-          "'రుద్ర చమకం' నుండి మూడవ శ్లోకాన్ని పఠిస్తూ, చెంచాలోకి కొద్దిగా నెయ్యి తీసుకుని, హోమ కుండంలోని మండుతున్న పదార్థాలపై నెమ్మదిగా ధారగా పోయండి. ఇది పూర్ణాహుతి (చివరి ఆహుతి) బాగా మండుతుందని నిర్ధారించడానికి సహాయపడుతుంది."
-        ],
-        "hindi": [
-          "चम्मच में थोड़ा घी लें और 'रुद्र चमकम्' के तीसरे श्लोक का पाठ करते हुए इसे होम कुंड में जलती हुई सामग्री पर धीरे-धीरे एक धारा में डालें।यह सुनिश्चित करने में मदद करता है कि पूर्णाहुति (अंतिम आहुति) अच्छी तरह से जले।"
-        ]
-      },
-      "slokas": {
-        "english": "om śaṃ ca me mayaśca me priyaṃ ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadraṃ ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviṇaṃ ca me yantā ca me dhartā ca me kṣemaśca me dhṛtiśca me viśvaṃ ca me mahaśca me saṃvicca me jñātraṃ ca me sūśca me prasūśca me sīraṃ ca me layaśca maṛtaṃ ca me'mṛtaṃ ca me'yakṣmaṃ ca me'nāmayacca me jīvātuśca me dīrghāyutvaṃ ca me'namitraṃ ca me'bhayaṃ ca me sugaṃ ca me śayanaṃ ca me sūṣā ca me sudinaṃ ca me ॥",
-        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేऽనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మఋతం చ మేऽమృతం చ మేऽయక్ష్మం చ మేऽనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేऽనమిత్రం చ మేऽభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
-        "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञात्रं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मऋतं च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "vasordhaaraa",
+      "voice_guidance_key": "vishnu_homam_vasordhaaraa"
     },
     {
       "id": 20,
