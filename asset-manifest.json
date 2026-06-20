@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homa-vidhanam/static/css/main.8fe0ae5c.css",
-    "main.js": "/homa-vidhanam/static/js/main.2176d7aa.js",
+    "main.js": "/homa-vidhanam/static/js/main.21362eab.js",
     "static/js/954.e568dd5d.chunk.js": "/homa-vidhanam/static/js/954.e568dd5d.chunk.js",
     "static/js/848.306cc232.chunk.js": "/homa-vidhanam/static/js/848.306cc232.chunk.js",
     "static/js/894.1afcaafc.chunk.js": "/homa-vidhanam/static/js/894.1afcaafc.chunk.js",
@@ -23,11 +23,11 @@
     "static/js/453.372cf5d0.chunk.js": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js",
     "index.html": "/homa-vidhanam/index.html",
     "main.8fe0ae5c.css.map": "/homa-vidhanam/static/css/main.8fe0ae5c.css.map",
-    "main.2176d7aa.js.map": "/homa-vidhanam/static/js/main.2176d7aa.js.map",
+    "main.21362eab.js.map": "/homa-vidhanam/static/js/main.21362eab.js.map",
     "453.372cf5d0.chunk.js.map": "/homa-vidhanam/static/js/453.372cf5d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fe0ae5c.css",
-    "static/js/main.2176d7aa.js"
+    "static/js/main.21362eab.js"
   ]
 }
