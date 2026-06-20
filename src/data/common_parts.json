@@ -476,12 +476,215 @@
           "आहुति देते समय, देवता के प्रति पूर्ण समर्पण का ध्यान करते हुए ब्रह्मार्पणम् मंत्र का पाठ करें।"
         ]
       },
-      "slokas": {
-        "english": "om pūrṇāhutimuttamāṁ juhoti ।sarvaṁ vai pūrṇāhutiḥ ।sarvamevāpnoti ।atho iyaṁ vai pūrṇāhutiḥ ।asyāmeva pratitiṣṭhati ।\nom pūrṇamadaḥ pūrṇamidaṁ pūrṇātpūrṇamudacyate ।pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥\nom {deity_invocation} ।pūrṇāhutiṁ samarpayāmi ।\nom brahmārpaṇaṁ brahmahavir brahmāgnau brahmaṇā hutaṁ ।brahmaiva tena gantavyaṁ brahma karma samādhinā ॥",
-        "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి ।సర్వం వై పూర్ణాహుతిః ।సర్వమేవాప్నోతి ।అథో ఇయం వై పూర్ణాహుతిః ।అస్యామేవ ప్రతితిష్ఠతి ।\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే ।పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం {deity_invocation} ।పూర్ణాహుతిం సమర్పయామి ।\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం ।బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
-        "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः ।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ {deity_invocation} ।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Poornaahuti Mahima",
+            "telugu": "పూర్ణాహుతి మహిమ",
+            "hindi": "पूर्णाहुति महिमा"
+          },
+          "slokas": {
+            "english": "om pūrṇāhutimuttamāṁ juhoti।\nsarvaṁ vai pūrṇāhutiḥ।\nsarvamevāpnoti।\natho iyaṁ vai pūrṇāhutiḥ।\nasyāmeva pratitiṣṭhati॥",
+            "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి।\nసర్వం వై పూర్ణాహుతిః।\nసర్వమేవాప్నోతి।\nఅథో ఇయం వై పూర్ణాహుతిః।\nఅస్యామేవ ప్రతితిష్ఠతి॥",
+            "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति।\nसर्वं वै पूर्णाहुतिः।\nसर्वमेवाप्नोति।\nअथो इयं वै पूर्णाहुतिः।\nअस्यामेव प्रतितिष्ठति॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Poornatva Prarthana",
+            "telugu": "పూర్ణత్వ ప్రార్థన",
+            "hindi": "पूर्णत्व प्रार्थना"
+          },
+          "slokas": {
+            "english": "om pūrṇamadaḥ pūrṇamidaṁ pūrṇātpūrṇamudacyate।\npūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate॥",
+            "telugu": "ఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే।\nపూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే॥",
+            "devanagari": "ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Deity Poornaahuti Samarpanam",
+            "telugu": "దేవతా పూర్ణాహుతి సమర్పణం",
+            "hindi": "देवता पूर्णाहुति समर्पणम्"
+          },
+          "slokas": {
+            "english": "om {deity_invocation} pūrṇāhutiṁ samarpayāmi।",
+            "telugu": "ఓం {deity_invocation} పూర్ణాహుతిం సమర్పయామి।",
+            "devanagari": "ॐ {deity_invocation} पूर्णाहुतिं समर्पयामि।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Brahmaarpana Bhaavana",
+            "telugu": "బ్రహ్మార్పణ భావన",
+            "hindi": "ब्रह्मार्पण भावना"
+          },
+          "slokas": {
+            "english": "om brahmārpaṇaṁ brahmahavir brahmāgnau brahmaṇā hutaṁ।\nbrahmaiva tena gantavyaṁ brahma karma samādhinā॥",
+            "telugu": "ఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం।\nబ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా॥",
+            "devanagari": "ॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं।\nब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना॥",
+            "swara_enabled": false
+          }
+        }
+      ]
+    },
+    "winding_up_and_meditation": {
+      "title": {
+        "english": "Winding Up and Meditation",
+        "telugu": "ముగింపు మరియు ధ్యానం",
+        "hindi": "समापन और ध्यान"
+      },
+      "instructions": {
+        "english": [
+          "Make a final offering of ghee to Agni, who has carried all the offerings to the gods.",
+          "Sprinkle water around the homa kundam again as you did at the beginning, using the following mantras.",
+          "As the Poornaahuti burns, sit still with a straight back, close your eyes, and meditate on your favorite deity or mantra for at least 5-10 minutes. This is an essential part of the homam."
+        ],
+        "telugu": [
+          "దేవతలకు అన్ని నైవేద్యాలను చేరవేసిన అగ్నికి చివరిగా నెయ్యి నైవేద్యం చేయండి.",
+          "ప్రారంభంలో చేసినట్లుగా ఈ క్రింది మంత్రాలను ఉపయోగించి హోమ కుండం చుట్టూ మళ్ళీ నీరు చల్లండి.",
+          "పూర్ణాహుతి మండుతున్నప్పుడు, నిటారుగా కూర్చుని, కళ్ళు మూసుకుని, మీకు ఇష్టమైన దేవతపై లేదా మంత్రంపై కనీసం 5-10 నిమిషాలు ధ్యానం చేయండి. ఇది హోమంలో ఒక ముఖ్యమైన భాగం."
+        ],
+        "hindi": [
+          "अग्नि को घी की अंतिम आहुति दें, जिसने सभी आहुतियों को देवताओं तक पहुँचाया है।",
+          "शुरुआत में किए गए क्रम की तरह, निम्नलिखित मंत्रों का उपयोग करके होम कुंड के चारों ओर फिर से जल छिड़कें।",
+          "पूर्णाहुति जलते समय सीधी पीठ के साथ स्थिर बैठें, अपनी आँखें बंद करें, और कम से कम 5-10 मिनट तक अपने प्रिय देवता या मंत्र पर ध्यान करें। यह होम का एक अनिवार्य भाग है।"
+        ]
+      },
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Final Offering to Agni",
+            "telugu": "అగ్నికి చివరి ఆహుతి",
+            "hindi": "अग्नि को अंतिम आहुति"
+          },
+          "slokas": {
+            "english": "sapta te agne samidhaḥ saptajihvāḥ sapta ṛṣayassaptaḥ dhāma priyāṇi।\nsapta hotrā sapta dhātvā yajantisaptayonīrāpṛṇasvā ghṛtena svāhā।\nagnaye saptavata idaṁ na mama॥",
+            "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి।\nసప్త హోత్రా సప్త ధాత్వా యజన్తిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా।\nఅగ్నయే సప్తవత ఇదం న మమ॥",
+            "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्तः धाम प्रियाणि।\nसप्त होत्रा सप्त धात्वा यजन्तिसप्तयोनीरापृणस्वा घृतेन स्वाहा।\nअग्नये सप्तवत इदं न मम॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Water Sprinkling",
+            "telugu": "నీటి పరిషేచనం",
+            "hindi": "जल परिषेचन"
+          },
+          "illustration": "agni_parishechana_directions",
+          "slokas": {
+            "english": "adite'nvamaṁsthāḥ।\nanumate'nvamaṁsthāḥ।\nsarasvate'nvamaṁsthāḥ।\ndeva savitaḥ prāsāvīḥ।",
+            "telugu": "అదితేऽన్వమంస్థాః।\nఅనుమతేऽన్వమంస్థాః।\nసరస్వతేऽన్వమంస్థాః।\nదేవ సవితః ప్రాసావీః।",
+            "devanagari": "अदितेऽन्वमंस्थाः।\nअनुमतेऽन्वमंस्थाः।\nसरस्वतेऽन्वमंस्थाः।\nदेव सवितः प्रासावीः।",
+            "swara_enabled": false
+          }
+        }
+      ],
+      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+    },
+    "udvaasana": {
+      "title": {
+        "english": "Udvaasana",
+        "telugu": "ఉద్వాసన",
+        "hindi": "उद्वासन"
+      },
+      "instructions": {
+        "english": [
+          "Take darbhas and flowers or akshatas. Touch the sides of the homa kundam with the darbhas, then touch the idol, transferring the energy from the fire to the idol.",
+          "Recite the deity dismissal mantras and imagine the deity returning to the proper place.",
+          "Say farewell to Agni with the closing mantra and bow to the fire."
+        ],
+        "telugu": [
+          "దర్భలు మరియు పువ్వులు లేదా అక్షతలు తీసుకోండి. దర్భలతో హోమ కుండం వైపులా తాకి, ఆపై విగ్రహాన్ని తాకండి, అగ్ని నుండి శక్తిని విగ్రహానికి బదిలీ చేయండి.",
+          "దేవతా ఉద్వాసన మంత్రాలను పఠించి, దేవత యథాస్థానానికి తిరిగి వెళ్తున్నట్లు భావించండి.",
+          "ముగింపు మంత్రంతో అగ్ని దేవునికి వీడ్కోలు చెప్పి, అగ్నికి నమస్కరించండి."
+        ],
+        "hindi": [
+          "दर्भ और फूल या अक्षत लें। दर्भों से होम कुंड के किनारों को स्पर्श करें, फिर मूर्ति को स्पर्श करें, अग्नि से ऊर्जा को मूर्ति में स्थानांतरित करें।",
+          "देवता उद्वासन मंत्रों का पाठ करें और कल्पना करें कि देवता अपने यथास्थान लौट रहे हैं।",
+          "समापन मंत्र के साथ अग्नि देव को विदाई दें और अग्नि को प्रणाम करें।"
+        ]
+      },
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Deity Dismissal",
+            "telugu": "దేవతా ఉద్వాసన",
+            "hindi": "देवता उद्वासन"
+          },
+          "slokas": {
+            "english": "asmādagneḥ {deity_invocation} yathāsthānaṁ pratiṣṭhāpayāmi॥\nasmānmūrteśca agneśca {deity_invocation} yathāsthānaṁ pratiṣṭhāpayāmi॥",
+            "telugu": "అస్మాదగ్నేః {deity_invocation} యథాస్థానం ప్రతిష్ఠాపయామి॥\nఅస్మాన్మూర్తేశ్చ అగ్నేశ్చ {deity_invocation} యథాస్థానం ప్రతిష్ఠాపయామి॥",
+            "devanagari": "अस्मादग्नेः {deity_invocation} यथास्थानं प्रतिष्ठापयामि॥\nअस्मान्मूर्तेश्च अग्नेश्च {deity_invocation} यथास्थानं प्रतिष्ठापयामि॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Agni Farewell",
+            "telugu": "అగ్ని వీడ్కోలు",
+            "hindi": "अग्नि विदाई"
+          },
+          "slokas": {
+            "english": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān।\nyuyodhyasmajjuhurāṇameno bhūyiṣṭhāṁ te nama uktiṁ vidhema।\nagnaye namaḥ॥",
+            "telugu": "అగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్।\nయుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమ।\nఅగ్నయే నమః॥",
+            "devanagari": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्।\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम।\nअग्नये नमः॥",
+            "swara_enabled": false
+          }
+        }
+      ]
+    },
+    "conclusion": {
+      "title": {
+        "english": "Conclusion",
+        "telugu": "ముగింపు",
+        "hindi": "समापन"
+      },
+      "instructions": {
+        "english": [
+          "Recite the following verses, surrendering any mistakes in the ritual and the fruits of the action to the divine.",
+          "Conclude by offering the homam to the deity and praying for peace."
+        ],
+        "telugu": [
+          "ఆచారంలో ఏవైనా దోషాలు మరియు కర్మ ఫలాలను దైవానికి సమర్పిస్తూ ఈ క్రింది శ్లోకాలను పఠించండి.",
+          "హోమాన్ని దేవతకు సమర్పించి, శాంతి కోసం ప్రార్థిస్తూ ముగించండి."
+        ],
+        "hindi": [
+          "अनुष्ठान में हुई किसी भी त्रुटि और कर्मफल को दिव्य सत्ता को समर्पित करते हुए निम्नलिखित श्लोकों का पाठ करें।",
+          "होम को देवता को समर्पित करके और शांति की प्रार्थना करते हुए समापन करें।"
+        ]
+      },
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Forgiveness and Surrender",
+            "telugu": "క్షమాపణ మరియు సమర్పణ",
+            "hindi": "क्षमा और समर्पण"
+          },
+          "slokas": {
+            "english": "mantrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ hutāśana yaddhutaṁ tu mayā deva paripūrṇaṁ tadastu te।\nprāyaścittānyaśeṣāṇi tapaḥ karmātmakāni vai yāni teṣāmaśeṣāṇāṁ śrī kṛṣṇasmaraṇaṁ param॥\nśrī kṛṣṇa kṛṣṇa kṛṣṇa।\nkāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt karomi yadyat sakalaṁ parasmai nārāyaṇāyeti samarpayāmi॥",
+            "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన యద్ధుతం తు మయా దేవ పరిపూర్ణం తదస్తు తే।\nప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం॥\nశ్రీ కృష్ణ కృష్ణ కృష్ణ।\nకాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి॥",
+            "devanagari": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन यद्धुतं तु मया देव परिपूर्णं तदस्तु ते।\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै यानि तेषामशेषाणां श्री कृष्णस्मरणं परम्॥\nश्री कृष्ण कृष्ण कृष्ण।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि॥",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Final Dedication",
+            "telugu": "చివరి సమర్పణ",
+            "hindi": "अंतिम समर्पण"
+          },
+          "slokas": {
+            "english": "anena divya maṅgala homena bhagavān sarvātmakaḥ {deity_invocation} prīyatām।\nom tatsat।\nsarvaṁ śrī kṛṣṇārpaṇamastu।\nom śāntiḥ śāntiḥ śāntiḥ।",
+            "telugu": "అనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాాత్మకః {deity_invocation} ప్రీయతాం।\nఓం తత్సత్।\nసర్వం శ్రీ కృష్ణార్పణమస్తు।\nఓం శాంతిః శాంతిః శాంతిః।",
+            "devanagari": "अनेन दिव्य मङ्गल होमेन भगवान् सर्वात्मकः {deity_invocation} प्रीयताम्।\nॐ तत्सत्।\nसर्वं श्री कृष्णार्पणमस्तु।\nॐ शान्तिः शान्तिः शान्तिः।",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     "panchopachara_pooja_masculine": {
       "title": {

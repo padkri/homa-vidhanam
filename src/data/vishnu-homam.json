@@ -642,67 +642,19 @@
     {
       "id": 20,
       "type": "uttara",
-      "title": {
-        "english": "Poornaahuti",
-        "telugu": "పూర్ణాహుతి",
-        "devanagari": "पूर्णाहुति",
-        "hindi": "పూర్ణాహుతి"
-      },
+      "common_ref": "poornaahuti",
       "voice_guidance_key": "vishnu_homam_poornaahuti",
-      "instructions": {
-        "english": [
-          "Prepare the 'complete offering' (Poornaahuti). For a simple homam, take a dry coconut half and place in it a few akshatas, a coin, and powders (sandalwood, turmeric, kumkum). Place this on the ladle, recite the mantra, and carefully place the offering in the fire.",
-          "While placing the poornaahuti in the fire, say the following mantra. Imagine you are completely surrendering yourself and your ego (symbolized by the coconut) to Vishnu."
-        ],
-        "telugu": [
-          "'పూర్ణాహుతి' (సంపూర్ణ నైవేద్యం) సిద్ధం చేయండి. సరళమైన హోమం కోసం, ఒక ఎండిన కొబ్బరి చిప్పను తీసుకుని, అందులో కొన్ని అక్షతలు, ఒక నాణెం, మరియు పొడులు (గంధం, పసుపు, కుంకుమ) ఉంచండి. దీనిని చెంచాపై ఉంచి, మంత్రాన్ని పఠించి, నైవేద్యాన్ని జాగ్రత్తగా అగ్నిలో ఉంచండి.",
-          "పూర్ణాహుతిని అగ్నిలో ఉంచుతున్నప్పుడు, ఈ క్రింది మంత్రాన్ని చెప్పండి. మీరు మిమ్మల్ని మరియు మీ అహంకారాన్ని (కొబ్బరికాయచే సూచించబడింది) పూర్తిగా విష్ణువుకు సమర్పిస్తున్నట్లుగా ఊహించుకోండి."
-        ],
-        "hindi": [
-          "'पूर्ण आहुति' (पूर्ण अर्पण) तैयार करें।एक साधारण होम के लिए, एक सूखा नारियल का आधा हिस्सा लें और उसमें कुछ अक्षत, एक सिक्का, और पाउडर (चंदन, हल्दी, कुमकुम) रखें।इसे चम्मच पर रखें, मंत्र का पाठ करें, और सावधानी से अर्पण को आग में रखें।",
-          "पूर्णाहुति को अग्नि में रखते समय, निम्नलिखित मंत्र कहें।कल्पना करें कि आप अपने आप को और अपने अहंकार (नारियल द्वारा प्रतीक) को पूरी तरह से विष्णु को समर्पित कर रहे हैं।"
-        ]
-      },
-      "slokas": {
-        "english": "om pūrṇāhutimuttamāṃ juhoti ।sarvaṃ vai pūrṇāhutiḥ ।sarvamevāpnoti ।atho iyaṃ vai pūrṇāhutiḥ ।asyāmeva pratitiṣṭhati ॥ om pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate ।pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥ om viṣṇave namaḥ ।pūrṇāhutiṃ samarpayāmi ।\nom brahmārpaṇaṃ brahmahavir brahmāgnau brahmaṇā hutaṃ ।brahmaiva tena gantavyaṃ brahma karma samādhinā ॥",
-        "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి ।సర్వం వై పూర్ణాహుతిః ।సర్వమేవాప్నోతి ।అథో ఇయం వై పూర్ణాహుతిః ।అస్యామేవ ప్రతితిష్ఠతి ॥ ఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే ।పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥ ఓం విష్ణవే నమః ।పూర్ణాహుతిం సమర్పయామి ।\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం ।బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
-        "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ विष्णवे नमः ।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "viṣṇave namaḥ",
+        "telugu": "విష్ణవే నమః",
+        "devanagari": "विष्णवे नमः"
       }
     },
     {
       "id": 21,
       "type": "uttara",
-      "title": {
-        "english": "Winding Up and Meditation",
-        "telugu": "ముగింపు మరియు ధ్యానం",
-        "devanagari": "समापन और ध्यान",
-        "hindi": "ముగింపు మరియు ధ్యానం"
-      },
-      "voice_guidance_key": "vishnu_homam_winding_up_and_meditation",
-      "instructions": {
-        "english": [
-          "The final offering is to Agni, who carried our offerings. Recite the following and offer a drop of ghee.",
-          "Sprinkle water around the homa kundam again as you did at the beginning, but use the following four mantras.",
-          "As the poornaahuti burns, sit still with a straight back and meditate for at least 5-10 minutes. This is an essential part of the homam, as the energy is very potent at this time. Focus on your favorite deity and mantra, and try to immerse yourself fully."
-        ],
-        "telugu": [
-          "చివరి ఆహుతి అగ్నికి, మన ఆహుతులను మోసుకెళ్లినవాడు. ఈ క్రింది వాటిని పఠించి, ఒక చుక్క నెయ్యిని సమర్పించండి.",
-          "మొదట చేసినట్లుగా హోమ కుండం చుట్టూ మళ్ళీ నీరు చల్లండి, కానీ ఈ క్రింది నాలుగు మంత్రాలను ఉపయోగించండి.",
-          "పూర్ణాహుతి మండుతున్నప్పుడు, నిటారుగా కూర్చుని కనీసం 5-10 నిమిషాలు ధ్యానం చేయండి. ఇది హోమంలో ఒక ముఖ్యమైన భాగం, ఎందుకంటే ఈ సమయంలో శక్తి చాలా శక్తివంతంగా ఉంటుంది. మీకు ఇష్టమైన దేవత మరియు మంత్రంపై దృష్టి పెట్టండి మరియు పూర్తిగా లీనమవ్వడానికి ప్రయత్నించండి."
-        ],
-        "hindi": [
-          "अंतिम आहुति अग्नि को है, जिसने हमारी आहुतियों को वहन किया।निम्नलिखित का पाठ करें और घी की एक बूंद अर्पित करें।",
-          "होम कुंड के चारों ओर फिर से पानी छिड़कें जैसा कि आपने शुरुआत में किया था, लेकिन निम्नलिखित चार मंत्रों का उपयोग करें।",
-          "जैसे ही पूर्णाहुति जलती है, सीधी पीठ के साथ स्थिर बैठें और कम से कम 5-10 मिनट तक ध्यान करें।यह होम का एक अनिवार्य हिस्सा है, क्योंकि इस समय ऊर्जा बहुत शक्तिशाली होती है।अपने पसंदीदा देवता और मंत्र पर ध्यान केंद्रित करें, और पूरी तरह से डूबने की कोशिश करें।"
-        ]
-      },
-      "slokas": {
-        "english": "sapta te agne samidhaḥ saptajihvāḥ sapta ṛṣayassaptaḥ dhāma priyāṇi ।sapta hotrā sapta dhātvā yajantisaptayonīrāpṛṇasvā ghṛtena svāhā ।agnaye saptavata idaṃ na mama ॥\nadite'nvamaṃsthāḥ ।anumate'nvamaṃsthāḥ ।sarasvate'nvamaṃsthāḥ ।deva savitaḥ prāsāvīḥ ।",
-        "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి ।సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా ।అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః ।అనుమతేऽన్వమంస్థాః ।సరస్వతేऽన్వమంస్థాః ।దేవ సవితః ప్రాసావీః ।",
-        "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्तः धाम प्रियाणि।सप्त होत्रा सप्त धात्वा यजन्तिसप्तयोनीरापृणस्वा घृतेन स्वाहा।अग्नये सप्तवत इदं न मम ॥\nअदितेऽन्वमंस्थाः।अनुमतेऽन्वमंस्थाः।सरस्वतेऽन्वमंस्थाः ।देव सवितः प्रासावीः ।",
-        "swara_enabled": false
-      }
+      "common_ref": "winding_up_and_meditation",
+      "voice_guidance_key": "vishnu_homam_winding_up_and_meditation"
     },
     {
       "id": 22,
@@ -738,69 +690,23 @@
     {
       "id": 23,
       "type": "uttara",
-      "title": {
-        "english": "Udvaasana",
-        "telugu": "ఉద్వాసన",
-        "devanagari": "उद्वासन",
-        "hindi": "ఉద్వాసన"
-      },
+      "common_ref": "udvaasana",
       "voice_guidance_key": "vishnu_homam_udvaasana",
-      "instructions": {
-        "english": [
-          "Imagine the energy from the homakundam is being transferred back into the idol. You can do this by touching the sides of the kundam and then the idol with darbhas.",
-          "Now, say the following and show your heart with your hands, imagining that Sri Mahaganapathi has exited the fire and returned to your heart.",
-          "Say the following and again show your heart, imagining that Vishnu has exited the fire and the idol and returned to your heart.",
-          "Say goodbye to the fire god. Say the following and bow to the fire."
-        ],
-        "telugu": [
-          "హోమకుండం నుండి శక్తి తిరిగి విగ్రహంలోకి బదిలీ అవుతున్నట్లుగా ఊహించుకోండి. మీరు కుండం వైపులా మరియు ఆ తర్వాత విగ్రహాన్ని దర్భలతో తాకడం ద్వారా ఇది చేయవచ్చు.",
-          "ఇప్పుడు, ఈ క్రింది వాటిని చెప్పి, మీ చేతులతో మీ హృదయాన్ని చూపండి, శ్రీ మహాగణపతి అగ్ని నుండి నిష్క్రమించి మీ హృదయంలోకి తిరిగి వచ్చారని ఊహించుకోండి.",
-          "ఈ క్రింది వాటిని చెప్పి, మళ్ళీ మీ హృదయాన్ని చూపండి, విష్ణువు అగ్ని మరియు విగ్రహం నుండి నిష్క్రమించి మీ హృదయంలోకి తిరిగి వచ్చారని ఊహించుకోండి.",
-          "అగ్ని దేవునికి వీడ్కోలు చెప్పండి. ఈ క్రింది వాటిని చెప్పి, అగ్నికి నమస్కరించండి."
-        ],
-        "hindi": [
-          "कल्पना कीजिए कि होमकुंड से ऊर्जा वापस मूर्ति में स्थानांतरित हो रही है।आप कुंड के किनारों और फिर मूर्ति को दर्भ से छूकर ऐसा कर सकते हैं।",
-          "अब, निम्नलिखित कहें और अपने हाथों से अपने हृदय को दिखाएं, यह कल्पना करते हुए कि श्री महागणपति अग्नि से निकलकर आपके हृदय में वापस आ गए हैं।",
-          "निम्नलिखित कहें और फिर से अपने हृदय को दिखाएं, यह कल्पना करते हुए कि विष्णु अग्नि और मूर्ति से निकलकर आपके हृदय में वापस आ गए हैं।",
-          "अग्नि देव को विदाई दें।निम्नलिखित कहें और अग्नि को प्रणाम करें।"
-        ]
-      },
-      "slokas": {
-        "english": "asmādagneḥ śrīmahāgaṇapatiṃ yathāsthānaṃ pratiṣṭhāpayāmi ।\nasmānmūrteśca agneśca śrīmahāviṣṇuṃ yathāsthānaṃ pratiṣṭhāpayāmi ।\nagne naya supathā rāye asmān viśvāni deva vayunāni vidvān ।yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te nama uktiṃ vidhema ।agnaye namaḥ ॥",
-        "telugu": "అస్మాదగ్నేః శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ।\nఅస్మాన్మూర్తేశ్చ అగ్నేశ్చ శ్రీమహావిష్ణుం యథాస్థానం ప్రతిష్ఠాపయామి ।\nఅగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ ।యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమ ।అగ్నయే నమః ॥",
-        "devanagari": "अस्मादग्नेः श्रीमहागणपतिं यथास्थानं प्रतिष्ठापयामि ।\nअस्मान्मूर्तेश्च अग्नेश्च श्रीमहाविष्णुं यथास्थानं प्रतिष्ठापयामि ।\nअग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ।अग्नये नमः ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "śrīmahāviṣṇuṁ",
+        "telugu": "శ్రీమహావిష్ణుం",
+        "devanagari": "श्रीमहाविष्णुं"
       }
     },
     {
       "id": 24,
       "type": "uttara",
-      "title": {
-        "english": "Conclusion",
-        "telugu": "ముగింపు",
-        "devanagari": "निष्कर्ष",
-        "hindi": "ముగింపు"
-      },
+      "common_ref": "conclusion",
       "voice_guidance_key": "vishnu_homam_conclusion",
-      "instructions": {
-        "english": [
-          "Recite the following three verses, surrendering the action and any errors to the divine. Imagine that Krishna is the true doer, acting through you.",
-          "Say the final lines. Imagine that Sri Vishnu is pleased with your homam. Surrender the doership to Krishna and pray for peace."
-        ],
-        "telugu": [
-          "ఈ క్రింది మూడు శ్లోకాలను పఠించండి, కర్మను మరియు ఏవైనా దోషాలను దైవానికి సమర్పించండి. కృష్ణుడు మీ ద్వారా పనిచేస్తున్న నిజమైన కర్త అని ఊహించుకోండి.",
-          "చివరి పంక్తులను చెప్పండి. శ్రీ విష్ణువు మీ హోమంతో ప్రసన్నుడయ్యారని ఊహించుకోండి. కర్తృత్వాన్ని కృష్ణునికి సమర్పించి, శాంతి కోసం ప్రార్థించండి."
-        ],
-        "hindi": [
-          "निम्नलिखित तीन श्लोकों का पाठ करें, कर्म और किसी भी त्रुटि को परमात्मा को समर्पित करें।कल्पना करें कि कृष्ण ही वास्तविक कर्ता हैं, जो आपके माध्यम से कार्य कर रहे हैं।",
-          "अंतिम पंक्तियाँ कहें।कल्पना करें कि श्री विष्णु आपके होम से प्रसन्न हैं।कर्तापन को कृष्ण को समर्पित करें और शांति के लिए प्रार्थना करें।"
-        ]
-      },
-      "slokas": {
-        "english": "maṃtrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ hutāśana ।yadbhutaṃ tu mayā deva paripūrṇa tadastu te ॥ prāyaścittānyaśeṣāṇi tapaḥ karmātmakāni vai ।yāni teṣāmaśeṣāṇāṃ śrī kṛṣṇasmaraṇaṃ paraṃ ॥ śrī kṛṣṇa kṛṣṇa kṛṣṇa ।kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt ।karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ॥\nanena divya maṃgaḷa homena bhagavān sarvātmakaḥ mahāviṣṇuḥ prīyatām ।om tatsat ।sarvam śrī kṛṣṇārpaṇamastu ।om śāntiḥ śāntiḥ śāntiḥ ।",
-        "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన ।యద్భుతం తు మయా దేవ పరిపూర్ణ తదస్తు తే ॥ ప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై ।యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ।కాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ ।కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥\nఅనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః మహావిష్ణుః ప్రీయతామ్ ।ఓం తత్సత్ ।సర్వం శ్రీ కృష్ణార్పణమస్తు ।ఓం శాంతిః శాంతిః శాంతిః ।",
-        "devanagari": "मंत्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।यद्भुतं तु मया देव परिपूर्ण तदस्तु ते ॥ प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै।यानि तेषामशेषाणां श्री कृष्णस्मरणं परं ॥ श्री कृष्ण कृष्ण कृष्ण ।कायेन वाचा मनसेन्द्रियैर्वा बुद्धयात्मना वा प्रकृतेः स्वभावात् ।करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥\nअनेन दिव्य मंगळ होमेन भगवान् सर्वात्मकः महाविष्णुः प्रीयताम् ।ॐ तत्सत् ।सर्वम् श्री कृष्णार्पणमस्तु ।ॐ शान्तिः शान्तिः शान्तिः ।",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "mahāviṣṇuḥ",
+        "telugu": "మహావిష్ణుః",
+        "devanagari": "महाविष्णुः"
       }
     }
   ]

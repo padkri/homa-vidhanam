@@ -463,37 +463,8 @@
     {
       "id": 20,
       "type": "uttara",
-      "title": {
-        "english": "Winding Up and Meditation",
-        "telugu": "ముగింపు మరియు ధ్యానం",
-        "devanagari": "समापन एवं ध्यानम्",
-        "hindi": "ముగింపు మరియు ధ్యానం"
-      },
-      "voice_guidance_key": "siva_homam_winding_up_and_meditation",
-      "instructions": {
-        "english": [
-          "The final offering is to Agni. Offer a drop of ghee.",
-          "Sprinkle water around the homa kundam again using the following mantras:",
-          "Now, meditate. As the Poornaahuti burns is the best time. Sit still with a straight back, close your eyes, and focus on your favorite deity or mantra for at least 5-10 minutes. This is an essential part of the homam."
-        ],
-        "telugu": [
-          "చివరి ఆహుతి అగ్నికి. ఒక చుక్క నెయ్యిని సమర్పించండి.",
-          "ఈ క్రింది మంత్రాలను ఉపయోగించి హోమ కుండం చుట్టూ మళ్ళీ నీళ్ళు చల్లండి:",
-          "ఇప్పుడు ధ్యానం చేయండి. పూర్ణాహుతి కాలుతున్న సమయం ఉత్తమమైనది. నిటారుగా కూర్చుని, కళ్ళు మూసుకుని, మీకు ఇష్టమైన దేవతపై లేదా మంత్రంపై కనీసం 5-10 నిమిషాలు దృష్టి పెట్టండి. ఇది హోమంలో ఒక ముఖ్యమైన భాగం."
-        ],
-        "hindi": [
-          "अंतिम आहुति अग्नि को है।घी की एक बूंद अर्पित करें।",
-          "निम्नलिखित मंत्रों का उपयोग करके होम कुंड के चारों ओर फिर से जल छिड़कें:",
-          "अब ध्यान करें।पूर्णाहुति जलते समय सबसे अच्छा समय है।सीधी पीठ करके स्थिर बैठें, अपनी आँखें बंद करें, और कम से कम 5-10 मिनट के लिए अपने पसंदीदा देवता या मंत्र पर ध्यान केंद्रित करें।यह होम का एक अनिवार्य हिस्सा है।"
-        ]
-      },
-      "slokas": {
-        "english": "sapta te agne samidhaḥ saptajihvāḥ sapta ṛṣayassaptaḥ dhāma priyāṇi ।sapta hotrā sapta dhātvā yajantisaptayonīrāpṛṇasvā ghṛtena svāhā।agnaye saptavata idaṁ na mama ॥\nadite'nvamaṁsthāḥ ।anumate'nvamaṁsthāḥ ।sarasvate'nvamaṁsthāḥ ।deva savitaḥ prāsāvīḥ ।",
-        "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి ।సప్త హోత్రా సప్త ధాత్వా యజన్తిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా।అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః ।అనుమతేऽన్వమంస్థాః ।సరస్వతేऽన్వమంస్థాః ।దేవ సవితః ప్రాసావీః ।",
-        "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्तः धाम प्रियाणि ।सप्त होत्रा सप्त धात्वा यजन्तिसप्तयोनीरापृणस्वा घृतेन स्वाहा।अग्नये सप्तवत इदं न मम ॥\nअदितेऽन्वमंस्थाः ।अनुमतेऽन्वमंस्थाः ।सरस्वतेऽन्वमंस्थाः ।देव सवितः प्रासावीः ।",
-        "swara_enabled": false
-      },
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+      "common_ref": "winding_up_and_meditation",
+      "voice_guidance_key": "siva_homam_winding_up_and_meditation"
     },
     {
       "id": 21,
@@ -526,72 +497,23 @@
     {
       "id": 22,
       "type": "uttara",
-      "title": {
-        "english": "Udvaasana",
-        "telugu": "ఉద్వాసన",
-        "devanagari": "उद्वासन",
-        "hindi": "ఉద్వాసన"
-      },
+      "common_ref": "udvaasana",
       "voice_guidance_key": "siva_homam_udvaasana",
-      "instructions": {
-        "english": [
-          "Take some darbhas and flowers. Touch the sides of the homakundam and then the idol, imagining the fire's energy transferring to the idol.",
-          "Respectfully dismiss Sri Mahaganapathi from the fire back into your heart.",
-          "Respectfully dismiss Lord Sadashiva from the fire and idol back into your heart.",
-          "Say goodbye to the fire god, Agni, and bow to him."
-        ],
-        "telugu": [
-          "కొన్ని దర్భలు మరియు పువ్వులు తీసుకోండి. హోమకుండం వైపులా మరియు ఆ తర్వాత విగ్రహాన్ని తాకి, అగ్ని శక్తి విగ్రహంలోకి బదిలీ అవుతున్నట్లుగా భావించండి.",
-          "శ్రీ మహాగణపతిని అగ్ని నుండి గౌరవపూర్వకంగా మీ హృదయంలోకి తిరిగి పంపండి.",
-          "సదాశివుడిని అగ్ని నుండి మరియు విగ్రహం నుండి గౌరవపూర్వకంగా మీ హృదయంలోకి తిరిగి పంపండి.",
-          "అగ్ని దేవునికి వీడ్కోలు పలికి, ఆయనకు నమస్కరించండి."
-        ],
-        "hindi": [
-          "कुछ दर्भ और फूल लें।होमकुंड के किनारों और फिर मूर्ति को स्पर्श करें, यह कल्पना करते हुए कि अग्नि की ऊर्जा मूर्ति में स्थानांतरित हो रही है।",
-          "श्री महागणपति को अग्नि से सम्मानपूर्वक अपने हृदय में वापस भेजें।",
-          "भगवान सदाशिव को अग्नि और मूर्ति से सम्मानपूर्वक अपने हृदय में वापस भेजें।",
-          "अग्नि देव को विदाई दें और उन्हें प्रणाम करें।"
-        ]
-      },
-      "slokas": {
-        "english": "asmādagneḥ śrīmahāgaṇapatiṁ yathāsthānaṁ pratiṣṭhāpayāmi ।\nasmānmūrteśca agneśca sadāśivaṁ yathāsthānaṁ pratiṣṭhāpayāmi ।\nagne naya supathā rāye asmān viśvāni deva vayunāni vidvān ।yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṁ te nama uktiṁ vidhema।agnaye namaḥ ॥",
-        "telugu": "అస్మాదగ్నేః శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ।\nఅస్మాన్మూర్తేశ్చ అగ్నేశ్చ సదాశివం యథాస్థానం ప్రతిష్ఠాపయామి ।\nఅగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ ।యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమ।అగ్నయే నమః ॥",
-        "devanagari": "अस्मादग्नेः श्रीमहागणपतिं यथास्थानं प्रतिष्ठापयामि ।\nअस्मान्मूर्तेश्च अग्नेश्च सदाशिवं यथास्थानं प्रतिष्ठापयामि ।\nअग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम।अग्नये नमः ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "sadāśivaṁ",
+        "telugu": "సదాశివం",
+        "devanagari": "सदाशिवं"
       }
     },
     {
       "id": 23,
       "type": "uttara",
-      "title": {
-        "english": "Conclusion",
-        "telugu": "ఉపసంహార",
-        "devanagari": "उपसंहार",
-        "hindi": "ఉపసంహార"
-      },
+      "common_ref": "conclusion",
       "voice_guidance_key": "siva_homam_conclusion",
-      "instructions": {
-        "english": [
-          "Recite the following verses. While you do so, wash a few akshatas from your fingertips into a deposit bowl, thinking that you are surrendering the entire act to Narayana.",
-          "Say the following finally, believing that Lord Sadashiva is pleased. Surrender the doership of the homam to Krishna and pray for peace.",
-          "The naivedyam (food) you offered can be eaten now. The rakshaa (holy ash) can be mixed with a drop of ghee and applied on the forehead."
-        ],
-        "telugu": [
-          "ఈ క్రింది శ్లోకాలను పఠించండి. అలా చేస్తున్నప్పుడు, కొన్ని అక్షతలను మీ వేలికొనల నుండి ఒక పాత్రలోకి కడిగి, మొత్తం కర్మను నారాయణునికి సమర్పిస్తున్నట్లుగా భావించండి.",
-          "చివరగా ఈ క్రింది మంత్రాన్ని చెప్పి, సదాశివుడు ప్రసన్నుడయ్యాడని నమ్మండి. హోమం యొక్క కర్తృత్వాన్ని కృష్ణునికి సమర్పించి, శాంతి కోసం ప్రార్థించండి.",
-          "మీరు సమర్పించిన నైవేద్యం (ఆహారం) ఇప్పుడు తినవచ్చు. రక్షా (పవిత్ర బూడిద)ను ఒక చుక్క నెయ్యితో కలిపి నుదుట ధరించవచ్చు."
-        ],
-        "hindi": [
-          "निम्नलिखित श्लोकों का पाठ करें।ऐसा करते समय, अपनी उंगलियों से कुछ अक्षत एक पात्र में धो लें, यह सोचते हुए कि आप इस पूरे कार्य को नारायण को समर्पित कर रहे हैं।",
-          "अंत में निम्नलिखित कहें, यह विश्वास करते हुए कि भगवान सदाशिव प्रसन्न हैं।होम के कर्तापन को कृष्ण को समर्पित करें और शांति के लिए प्रार्थना करें।",
-          "आपके द्वारा अर्पित नैवेद्य (भोजन) अब खाया जा सकता है।रक्षा (पवित्र भस्म) को घी की एक बूंद के साथ मिलाकर माथे पर लगाया जा सकता है।"
-        ]
-      },
-      "slokas": {
-        "english": "maṁtrahīnaṁ kriyāhīnaṁ bhaktihīnaṁ hutāśana।yadbhutaṁ tu mayā deva paripūrṇa tadastu te ॥\nprāyaścittānyaśeṣāṇi tapaḥ karmātmakāni vai।yāni teṣāmaśeṣāṇāṁ śrī kṛṣṇasmaraṇaṁ paraṁ ॥ śrī kṛṣṇa kṛṣṇa kṛṣṇa ।\nkāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt ।karomi yadyat sakalaṁ parasmai nārāyaṇāyeti samarpayāmi ॥\nanena divya maṁgaḻa homena bhagavān sarvātmakaḥ sadāśivaḥ prīyatām ।\nom tatsat ।sarvam śrī kṛṣṇārpaṇamastu ।om śāntiḥ śāntiḥ śāntiḥ ।",
-        "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన।యద్భుతం తు మయా దేవ పరిపూర్ణ తదస్తు తే ॥\nప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై।యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ।\nకాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ ।కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥\nఅనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః సదాశివః ప్రీయతాం ।\nఓం తత్సత్ ।సర్వం శ్రీ కృష్ణార్పణమస్తు ।ఓం శాంతిః శాంతిః శాంతిః ।",
-        "devanagari": "मंत्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।यद्भुतं तु मया देव परिपूर्ण तदस्तु ते ॥\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै।यानि तेषामशेषाणां श्री कृष्णस्मरणं परं ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥\nअनेन दिव्य मंगळ होमेन भगवान् सर्वात्मकः सदाशिवः प्रीयताम् ।\nॐ तत्सत् ।सर्वम् श्री कृष्णार्पणमस्तु ।ॐ शान्तिः शान्तिः शान्तिः ।",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "sadāśivaḥ",
+        "telugu": "సదాశివః",
+        "devanagari": "सदाशिवः"
       }
     }
   ]
