@@ -106,6 +106,7 @@ const ManualViewer = () => {
   const [isLeftSidebarOpen, setLeftSidebarOpen] = useState(false);
   const [showInstructions, setShowInstructions] = useState(true);
   const [availableManuals, setAvailableManuals] = useState([]);
+  const [imagePreview, setImagePreview] = useState(null);
   
   // Translation object for UI text
   const translations = {
@@ -177,6 +178,10 @@ const ManualViewer = () => {
       || 'Ritual illustration';
   };
 
+  const openImagePreview = (src, alt) => {
+    setImagePreview({ src, alt });
+  };
+
   const renderSlokaCards = (content, cardPadding = 'p-6') => {
     const groups = getSlokaGroups(content);
 
@@ -184,10 +189,11 @@ const ManualViewer = () => {
       const title = group.title?.[language] || (groups.length > 1 ? `${translations.part[language]} ${index + 1}` : '');
       const illustration = group.illustration;
       const illustrationSrc = resolveIllustrationSrc(illustration?.src);
+      const illustrationAlt = getIllustrationAlt(illustration, title);
 
       return (
         <div key={index} className={`bg-[#FFF8E1] ${cardPadding} rounded-lg border border-[#E0E0E0] shadow-sm`}>
-          <div className={illustrationSrc ? 'md:grid md:grid-cols-[minmax(0,1fr)_minmax(180px,260px)] md:gap-6 md:items-start' : ''}>
+          <div className={illustrationSrc ? 'md:grid md:grid-cols-[minmax(0,1fr)_8rem] md:gap-5 md:items-start' : ''}>
             <div>
               {title && (
                 <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
@@ -198,12 +204,19 @@ const ManualViewer = () => {
             </div>
             {illustrationSrc && (
               <figure className="mt-5 md:mt-0">
-                <img
-                  src={illustrationSrc}
-                  alt={getIllustrationAlt(illustration, title)}
-                  className="w-full max-h-72 object-contain rounded-md border border-amber-200 bg-white"
-                  loading="lazy"
-                />
+                <button
+                  type="button"
+                  onClick={() => openImagePreview(illustrationSrc, illustrationAlt)}
+                  className="block w-32 h-32 overflow-hidden rounded-md border border-amber-200 bg-white shadow-sm hover:border-amber-500 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 focus:ring-offset-[#FFF8E1]"
+                  aria-label={`Open ${illustrationAlt}`}
+                >
+                  <img
+                    src={illustrationSrc}
+                    alt={illustrationAlt}
+                    className="w-full h-full object-contain"
+                    loading="lazy"
+                  />
+                </button>
               </figure>
             )}
           </div>
@@ -266,6 +279,19 @@ const ManualViewer = () => {
       initializeApp();
     }
   }, [manualId, navigate]);
+
+  useEffect(() => {
+    if (!imagePreview) return undefined;
+
+    const handleKeyDown = (event) => {
+      if (event.key === 'Escape') {
+        setImagePreview(null);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [imagePreview]);
 
   // Handle manual change via navigation
   const handleManualChange = (newManualId) => {
@@ -801,6 +827,34 @@ const ManualViewer = () => {
           </aside>
         )}
       </div>
+      {imagePreview && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
+          role="dialog"
+          aria-modal="true"
+          aria-label={imagePreview.alt}
+          onClick={() => setImagePreview(null)}
+        >
+          <div
+            className="relative max-h-[90vh] w-full max-w-4xl rounded-lg bg-white p-4 shadow-xl"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <button
+              type="button"
+              onClick={() => setImagePreview(null)}
+              className="absolute right-3 top-3 rounded-full bg-white p-2 text-gray-700 shadow hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-amber-500"
+              aria-label="Close image preview"
+            >
+              <XIcon className="h-5 w-5" />
+            </button>
+            <img
+              src={imagePreview.src}
+              alt={imagePreview.alt}
+              className="mx-auto max-h-[82vh] w-full object-contain"
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 };

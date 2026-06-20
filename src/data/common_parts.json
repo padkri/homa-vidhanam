@@ -293,6 +293,14 @@
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
           },
+          "illustration": {
+            "src": "/diagrams/agni-pratisthapana-4-dirs.svg",
+            "alt": {
+              "english": "Four-direction sprinkling order around the homa kundam",
+              "telugu": "హోమ కుండం చుట్టూ నాలుగు దిశల్లో నీరు చల్లే క్రమం",
+              "hindi": "होम कुंड के चारों ओर चार दिशाओं में जल छिड़कने का क्रम"
+            }
+          },
           "slokas": {
             "english": "adite'numanyasva । anumate'numanyasva । sarasvate'numanyasva । deva savitaḥ prasuva ।",
             "telugu": "అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।",
@@ -313,8 +321,7 @@
             "swara_enabled": false
           }
         }
-      ],
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+      ]
     },
     "agni_pratishthaapana_with_homa_kundam_lines": {
       "title": {
@@ -417,6 +424,14 @@
             "english": "Agni Parishechana",
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
+          },
+          "illustration": {
+            "src": "/diagrams/agni-pratisthapana-4-dirs.svg",
+            "alt": {
+              "english": "Four-direction sprinkling order around the homa kundam",
+              "telugu": "హోమ కుండం చుట్టూ నాలుగు దిశల్లో నీరు చల్లే క్రమం",
+              "hindi": "होम कुंड के चारों ओर चार दिशाओं में जल छिड़कने का क्रम"
+            }
           },
           "slokas": {
             "english": "adite'numanyasva ।anumate'numanyasva ।sarasvate'numanyasva ।deva savitaḥ prasuva ।",
