@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="500" height="450">
+  <rect x="0" y="0" width="500" height="450" fill="#fdfdfd"/>
+
+  <text x="250" y="34" text-anchor="middle" font-family="serif" font-size="18" font-weight="bold" fill="#333">Kalasa Water Purification</text>
+
+  <!-- Tumbler -->
+  <path d="M170 110 L330 110 L305 365 L195 365 Z" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  <path d="M185 165 Q250 145 315 165 L298 340 L202 340 Z" fill="#dbeafe" stroke="#60a5fa" stroke-width="2" opacity="0.9"/>
+  <ellipse cx="250" cy="110" rx="80" ry="18" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <ellipse cx="250" cy="165" rx="64" ry="14" fill="#bfdbfe" stroke="#60a5fa" stroke-width="2"/>
+
+  <!-- Flower -->
+  <circle cx="255" cy="145" r="9" fill="#f59e0b"/>
+  <circle cx="238" cy="141" r="13" fill="#fb7185"/>
+  <circle cx="272" cy="141" r="13" fill="#fb7185"/>
+  <circle cx="248" cy="126" r="13" fill="#fb7185"/>
+  <circle cx="262" cy="126" r="13" fill="#fb7185"/>
+
+  <!-- Akshatas -->
+  <g fill="#facc15" stroke="#a16207" stroke-width="1">
+    <ellipse cx="222" cy="174" rx="5" ry="2" transform="rotate(-20 222 174)"/>
+    <ellipse cx="238" cy="181" rx="5" ry="2" transform="rotate(30 238 181)"/>
+    <ellipse cx="265" cy="178" rx="5" ry="2" transform="rotate(-35 265 178)"/>
+    <ellipse cx="282" cy="171" rx="5" ry="2" transform="rotate(25 282 171)"/>
+    <ellipse cx="252" cy="191" rx="5" ry="2" transform="rotate(10 252 191)"/>
+  </g>
+
+  <!-- Mantra pulse -->
+  <circle cx="250" cy="228" r="38" fill="none" stroke="#d97706" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="250" y="236" text-anchor="middle" font-family="serif" font-size="28" font-weight="bold" fill="#d97706">Vam</text>
+
+  <!-- Step hints -->
+  <text x="250" y="402" text-anchor="middle" font-family="serif" font-size="13" fill="#666">Akshatas and flower are placed in water before chanting</text>
+</svg>

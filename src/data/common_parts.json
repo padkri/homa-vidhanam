@@ -150,6 +150,7 @@
             "telugu": "జల శుద్ధి",
             "hindi": "जल शुद्धि"
           },
+          "illustration": "kalasa_water_purification",
           "slokas": {
             "english": "vaṁ",
             "telugu": "వం",
@@ -163,6 +164,7 @@
             "telugu": "పవిత్ర నదుల ఆవాహన",
             "hindi": "पवित्र नदियों का आह्वान"
           },
+          "illustration": "sacred_rivers_invocation",
           "slokas": {
             "english": "gaṁge ca yamune caiva godāvari sarasvati ।\nnarmade sindhu kāveri jale'smin sannidhiṁ kuru ॥\namṛtaṁ bhavatu",
             "telugu": "గంగే చ యమునే చైవ గోదావరి సరస్వతి ।\nనర్మదే సింధు కావేరి జలేస్మిన్ సన్నిధిం కురు ॥\nఅమృతం భవతు",
@@ -217,6 +219,7 @@
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
           },
+          "illustration": "homa_kundam_lines",
           "slokas": {
             "english": "om brahmaṇe namaḥ ।\nom yamāya namaḥ ।\nom somāya namaḥ ।\nom rudrāya namaḥ ।\nom viṣṇave namaḥ ।\nom indrāya namaḥ ।",
             "telugu": "ఓం బ్రహ్మణే నమః ।\nఓం యమాయ నమః ।\nఓం సోమాయ నమః ।\nఓం రుద్రాయ నమః ।\nఓం విష్ణవే నమః ।\nఓం ఇంద్రాయ నమః ।",
@@ -269,6 +272,7 @@
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
           },
+          "illustration": "agni_parishechana_directions",
           "slokas": {
             "english": "adite'numanyasva । anumate'numanyasva । sarasvate'numanyasva । deva savitaḥ prasuva ।",
             "telugu": "అదితేऽనుమన్యస్వ । అనుమతేऽనుమన్యస్వ । సరస్వతేऽనుమన్యస్వ । దేవ సవితః ప్రసువ ।",
@@ -289,8 +293,7 @@
             "swara_enabled": false
           }
         }
-      ],
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+      ]
     },
     "agni_pratishthaapana_with_homa_kundam_lines": {
       "title": {
@@ -334,6 +337,7 @@
             "telugu": "హోమ కుండం రేఖాంకనం",
             "hindi": "होम कुंड रेखाएँ"
           },
+          "illustration": "homa_kundam_lines",
           "slokas": {
             "english": "1. oṃ brahmaṇe namaḥ ।\n2. oṃ yamāya namaḥ ।\n3. oṃ somāya namaḥ ।\n4. oṃ rudrāya namaḥ ।\n5. oṃ viṣṇave namaḥ ।\n6. oṃ indrāya namaḥ ।",
             "telugu": "౧. ఓం బ్రహ్మణే నమః ।\n౨. ఓం యమాయ నమః ।\n౩. ఓం సోమాయ నమః ।\n౪. ఓం రుద్రాయ నమః ।\n౫. ఓం విష్ణవే నమః ।\n౬. ఓం ఇంద్రాయ నమః ।",
@@ -386,6 +390,7 @@
             "telugu": "అగ్ని పరిషేచన",
             "hindi": "अग्नि परिषेचन"
           },
+          "illustration": "agni_parishechana_directions",
           "slokas": {
             "english": "adite'numanyasva ।anumate'numanyasva ।sarasvate'numanyasva ।deva savitaḥ prasuva ।",
             "telugu": "అదితేऽనుమన్యస్వ ।అనుమతేऽనుమన్యస్వ ।సరస్వతేऽనుమన్యస్వ ।దేవ సవితః ప్రసువ ।",
@@ -475,6 +480,87 @@
         "english": "om pūrṇāhutimuttamāṁ juhoti ।sarvaṁ vai pūrṇāhutiḥ ।sarvamevāpnoti ।atho iyaṁ vai pūrṇāhutiḥ ।asyāmeva pratitiṣṭhati ।\nom pūrṇamadaḥ pūrṇamidaṁ pūrṇātpūrṇamudacyate ।pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥\nom {deity_invocation} ।pūrṇāhutiṁ samarpayāmi ।\nom brahmārpaṇaṁ brahmahavir brahmāgnau brahmaṇā hutaṁ ।brahmaiva tena gantavyaṁ brahma karma samādhinā ॥",
         "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి ।సర్వం వై పూర్ణాహుతిః ।సర్వమేవాప్నోతి ।అథో ఇయం వై పూర్ణాహుతిః ।అస్యామేవ ప్రతితిష్ఠతి ।\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే ।పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం {deity_invocation} ।పూర్ణాహుతిం సమర్పయామి ।\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం ।బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
         "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः ।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ {deity_invocation} ।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
+        "swara_enabled": false
+      }
+    },
+    "panchopachara_pooja_masculine": {
+      "title": {
+        "english": "Panchopachara Pooja",
+        "telugu": "పంచోపచార పూజ",
+        "hindi": "पंचोपचार पूजा"
+      },
+      "instructions": {
+        "english": [
+          "Perform panchopachara pooja by offering sandalwood paste, a flower, incense, light, food, and akshatas for all services.",
+          "Recite each mantra and make the corresponding offering."
+        ],
+        "telugu": [
+          "గంధం, పుష్పం, ధూపం, దీపం, నైవేద్యం, మరియు సర్వోపచారాల కోసం అక్షతలను సమర్పిస్తూ పంచోపచార పూజ చేయండి.",
+          "ప్రతి మంత్రాన్ని పఠించి, దానికి సంబంధించిన ఉపచారాన్ని సమర్పించండి."
+        ],
+        "hindi": [
+          "गंध, पुष्प, धूप, दीप, नैवेद्य और सर्वोपचार के लिए अक्षत अर्पित करते हुए पंचोपचार पूजा करें।",
+          "प्रत्येक मंत्र का पाठ करें और उससे संबंधित उपचार अर्पित करें।"
+        ]
+      },
+      "slokas": {
+        "english": "laṁ pṛthivyātmane namaḥ । gandhaṁ samarpayāmi ॥\nhaṁ ākāśātmane namaḥ । puṣpaṁ samarpayāmi ॥\nyaṁ vāyvātmane namaḥ । dhūpaṁ āghrāpayāmi ॥\nraṁ agnyātmane namaḥ । dīpaṁ darśayāmi ॥\nvaṁ amṛtātmane namaḥ । naivedyaṁ samarpayāmi ॥\nsaṁ sarvātmane namaḥ । sarvopacārān samarpayāmi ॥",
+        "telugu": "లం పృథివ్యాత్మనే నమః । గంధం సమర్పయామి ॥\nహం ఆకాశాత్మనే నమః । పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మనే నమః । ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మనే నమః । దీపం దర్శయామి ॥\nవం అమృతాత్మనే నమః । నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మనే నమః । సర్వోపచారాన్ సమర్పయామి ॥",
+        "devanagari": "लं पृथिव्यात्मने नमः । गन्धं समर्पयामि ॥\nहं आकाशात्मने नमः । पुष्पं समर्पयामि ॥\nयं वाय्वात्मने नमः । धूपं आघ्रापयामि ॥\nरं अग्न्यात्मने नमः । दीपं दर्शयामि ॥\nवं अमृतात्मने नमः । नैवेद्यं समर्पयामि ॥\nसं सर्वात्मने नमः । सर्वोपचारान् समर्पयामि ॥",
+        "swara_enabled": false
+      }
+    },
+    "panchopachara_pooja_feminine": {
+      "title": {
+        "english": "Panchopachara Pooja",
+        "telugu": "పంచోపచార పూజ",
+        "hindi": "पंचोपचार पूजा"
+      },
+      "instructions": {
+        "english": [
+          "Perform panchopachara pooja by offering sandalwood paste, a flower, incense, light, food, and akshatas for all services.",
+          "Recite each mantra and make the corresponding offering."
+        ],
+        "telugu": [
+          "గంధం, పుష్పం, ధూపం, దీపం, నైవేద్యం, మరియు సర్వోపచారాల కోసం అక్షతలను సమర్పిస్తూ పంచోపచార పూజ చేయండి.",
+          "ప్రతి మంత్రాన్ని పఠించి, దానికి సంబంధించిన ఉపచారాన్ని సమర్పించండి."
+        ],
+        "hindi": [
+          "गंध, पुष्प, धूप, दीप, नैवेद्य और सर्वोपचार के लिए अक्षत अर्पित करते हुए पंचोपचार पूजा करें।",
+          "प्रत्येक मंत्र का पाठ करें और उससे संबंधित उपचार अर्पित करें।"
+        ]
+      },
+      "slokas": {
+        "english": "laṁ pṛthivyātmikāyai namaḥ । gandhaṁ samarpayāmi ॥\nhaṁ ākāśātmikāyai namaḥ । puṣpaṁ samarpayāmi ॥\nyaṁ vāyvātmikāyai namaḥ । dhūpaṁ āghrāpayāmi ॥\nraṁ agnyātmikāyai namaḥ । dīpaṁ darśayāmi ॥\nvaṁ amṛtātmikāyai namaḥ । naivedyaṁ samarpayāmi ॥\nsaṁ sarvātmikāyai namaḥ । sarvopacārān samarpayāmi ॥",
+        "telugu": "లం పృథివ్యాత్మికాయై నమః । గంధం సమర్పయామి ॥\nహం ఆకాశాత్మికాయై నమః । పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మికాయై నమః । ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మికాయై నమః । దీపం దర్శయామి ॥\nవం అమృతాత్మికాయై నమః । నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మికాయై నమః । సర్వోపచారాన్ సమర్పయామి ॥",
+        "devanagari": "लं पृथिव्यात्मिकायै नमः । गन्धं समर्पयामि ॥\nहं आकाशात्मिकायै नमः । पुष्पं समर्पयामि ॥\nयं वाय्वात्मिकायै नमः । धूपं आघ्रापयामि ॥\nरं अग्न्यात्मिकायै नमः । दीपं दर्शयामि ॥\nवं अमृतात्मिकायै नमः । नैवेद्यं समर्पयामि ॥\nसं सर्वात्मिकायै नमः । सर्वोपचारान् समर्पयामि ॥",
+        "swara_enabled": false
+      }
+    },
+    "vasordhaaraa": {
+      "title": {
+        "english": "Vasordhaaraa",
+        "telugu": "వసోర్ధారా",
+        "hindi": "वसोर्धारा"
+      },
+      "instructions": {
+        "english": [
+          "Take ghee in a ladle and pour it in a slow, continuous stream onto the burning coconut pieces or wood in the homa kundam.",
+          "While pouring the ghee, recite the third verse from Rudra Chamakam. This prepares the fire for the upcoming Poornaahuti."
+        ],
+        "telugu": [
+          "గరిటెలో నెయ్యి తీసుకుని, హోమ కుండంలో మండుతున్న కొబ్బరి ముక్కలు లేదా సమిధపై నెమ్మదిగా, నిరంతరాయంగా ధారగా పోయండి.",
+          "నెయ్యి పోస్తున్నప్పుడు, రుద్ర చమకం నుండి మూడవ శ్లోకాన్ని పఠించండి. ఇది రాబోయే పూర్ణాహుతి కోసం అగ్నిని సిద్ధం చేస్తుంది."
+        ],
+        "hindi": [
+          "करछुल में घी लेकर उसे होम कुंड में जलते हुए नारियल के टुकड़ों या समिधा पर धीमी, निरंतर धारा में डालें।",
+          "घी डालते समय रुद्र चमकम् से तीसरे श्लोक का पाठ करें। यह आगामी पूर्णाहुति के लिए अग्नि को तैयार करता है।"
+        ]
+      },
+      "slokas": {
+        "english": "om śaṁ ca me mayaśca me priyaṁ ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadraṁ ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviṇaṁ ca me yantā ca me dhartā ca me kṣemaśca me dhṛtiśca me viśvaṁ ca me mahaśca me saṁvicca me jñātraṁ ca me sūśca me prasūśca me sīraṁ ca me layaśca mṛtaṁ ca me'mṛtaṁ ca me'yakṣmaṁ ca me'nāmayacca me jīvātuśca me dīrghāyutvaṁ ca me'namitraṁ ca me'bhayaṁ ca me sugaṁ ca me śayanaṁ ca me sūṣā ca me sudinaṁ ca me ॥",
+        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేऽనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మఋతం చ మేऽమృతం చ మేऽయక్ష్మం చ మేऽనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేऽనమిత్రం చ మేऽభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే॥",
+        "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञात्रं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मऋतं च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे॥",
         "swara_enabled": false
       }
     }

@@ -15,10 +15,21 @@ const SlokaSchema = z.object({
   swara_enabled: z.boolean().default(false).describe("Indicates if Vedic accents are present"),
 });
 
+const IllustrationSchema = z.object({
+  src: z.string().min(1).describe("Path or URL for an image shown with this content"),
+  alt: MultiLangString.optional().describe("Localized alt text for the image"),
+});
+
+const IllustrationRefSchema = z.union([
+  IllustrationSchema,
+  z.string().min(1).describe("Key into src/data/shared/illustrations.json"),
+]);
+
 // Canonical grouping for one or more mantra boxes
 const SlokaGroupSchema = z.object({
   title: MultiLangString.optional().describe("Optional label for this mantra group"),
   slokas: SlokaSchema,
+  illustration: IllustrationRefSchema.optional().describe("Optional image shown alongside this mantra group"),
 });
 
 // Deity-specific override slokas (for sections like Poornaahuti, Suddhaanna Bali)
@@ -39,6 +50,7 @@ const FullSectionSchema = z.object({
     hindi: z.array(z.string()),
   }),
   slokas: SlokaSchema.optional().describe("Legacy shorthand for a single mantra group"),
+  sloka_illustration: IllustrationRefSchema.optional().describe("Optional image attached to the legacy slokas mantra box"),
   sloka_groups: z.array(SlokaGroupSchema).optional().describe("Canonical ordered mantra groups rendered as one or more text boxes"),
   diagram: z.string().optional().describe("Path to diagram image (SVG/PNG)"),
   diagram_placeholder: z.string().optional().describe("Text description when no diagram available"),
@@ -81,4 +93,4 @@ export const HomamManualSchema = z.object({
 export type HomamManual = z.infer<typeof HomamManualSchema>;
 
 // Re-export sub-schemas for granular validation
-export { MultiLangString, SlokaSchema, SlokaGroupSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema };
+export { MultiLangString, SlokaSchema, SlokaGroupSchema, FullSectionSchema, RefSectionSchema, SectionSchema, DeitySlokasSchema, IllustrationSchema, IllustrationRefSchema };

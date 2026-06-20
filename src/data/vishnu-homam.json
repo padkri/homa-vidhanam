@@ -272,13 +272,13 @@
           "अंत में, कुंड के बीच में अग्नि को, और अपने हृदय को स्पर्श करके स्वयं (आत्मान) को प्रसाद चढ़ाएं।इन 12 प्रसादों के लिए 12 मंत्रों का पाठ करें।"
         ]
       },
+      "sloka_illustration": "dikpalakas",
       "slokas": {
         "english": "om indrāya namaḥ ।om agnaye namaḥ ।om yamāya namaḥ ।om nirṛtaye namaḥ ।om varuṇāya namaḥ ।om vāyave namaḥ ।om somāya namaḥ ।om īśānāya namaḥ ।om brahmaṇe namaḥ ।om śeṣāya namaḥ ।om agnaye namaḥ ।om ātmane namaḥ ।",
         "telugu": "ఓం ఇంద్రాయ నమః ।ఓం అగ్నయే నమః ।ఓం యమాయ నమః ।ఓం నిరృతయే నమః ।ఓం వరుణాయ నమః ।ఓం వాయవే నమః ।ఓం సోమాయ నమః ।ఓం ఈశానాయ నమః ।ఓం బ్రహ్మణే నమః ।ఓం శేషాయ నమః ।ఓం అగ్నయే నమః ।ఓం ఆత్మనే నమః ।",
         "devanagari": "ॐ इन्द्राय नमः।ॐ अग्नये नमः।ॐ यमाय नमः।ॐ निर्ऋतये नमः।ॐ वरुणाय नमः।ॐ वायवे नमः।ॐ सोमाय नमः।ॐ ईशानाय नमः ।ॐ ब्रह्मणे नमः।ॐ शेषाय नमः।ॐ अग्नये नमः।ॐ आत्मने नमः।",
         "swara_enabled": false
-      },
-      "diagram": "/diagrams/dikpalakas.svg"
+      }
     },
     {
       "id": 9,
@@ -313,12 +313,47 @@
           "अब तक होम में हुई किसी भी गलती के लिए क्षमा मांगने के लिए प्रजापति को 'क्षमा आहुति' अर्पित करें।"
         ]
       },
-      "slokas": {
-        "english": "om prajāpataye svāhā ।prajāpataya idaṃ na mama ।\nom indrāya svāhā ।indrāyedaṃ na mama ।\nom agnaye svāhā ।agnaya idaṃ na mama ।\nom somāya svāhā ।somāyedaṃ na mama ।\nāraṃbhaprabhṛti etat-kṣaṇa-paryantaṃ madhye saṃbhāvita samasta doṣa prāyaścittārthaṃ sarva prāyaścittaṃ hoṣyāmi ।om bhūrbhuvassuvaḥ svāhā ।prajāpataya idaṃ na mama ।",
-        "telugu": "ఓం ప్రజాపతయే స్వాహా ।ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ।ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా ।అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా ।సోమాయేదం న మమ ।\nఆరంభప్రభృతి ఏతత్-క్షణ-పర్యంతం మధ్యే సంభావిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి ।ఓం భూర్భువస్సువః స్వాహా ।ప్రజాపతయ ఇదం న మమ ।",
-        "devanagari": "ॐ प्रजापतये स्वाहा।प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा।इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा।अग्नय इदं न मम ।\nॐ सोमाय स्वाहा।सोमायेदं न मम ।\nआरंभप्रभृति एतत्क्षणपर्यन्तं मध्ये संभावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि।ॐ भूर्भुवस्सुवः स्वाहा।प्रजापतय इदं न मम ।",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Prajapatyadi Ajya Ahutis",
+            "telugu": "ప్రజాపత్యాది ఆజ్యాహుతులు",
+            "hindi": "प्रजापत्यादि आज्याहुतियाँ"
+          },
+          "slokas": {
+            "english": "om prajāpataye svāhā ।prajāpataya idaṃ na mama ।\nom indrāya svāhā ।indrāyedaṃ na mama ।\nom agnaye svāhā ।agnaya idaṃ na mama ।\nom somāya svāhā ।somāyedaṃ na mama ।",
+            "telugu": "ఓం ప్రజాపతయే స్వాహా ।ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ।ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా ।అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా ।సోమాయేదం న మమ ।",
+            "devanagari": "ॐ प्रजापतये स्वाहा।प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा।इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा।अग्नय इदं न मम ।\nॐ सोमाय स्वाहा।सोमायेदं न मम ।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Sankalpa",
+            "telugu": "సర్వ ప్రాయశ్చిత్త సంకల్పం",
+            "hindi": "सर्व प्रायश्चित्त संकल्प"
+          },
+          "slokas": {
+            "english": "āraṃbhaprabhṛti etat-kṣaṇa-paryantaṃ madhye saṃbhāvita samasta doṣa prāyaścittārthaṃ sarva prāyaścittaṃ hoṣyāmi ।",
+            "telugu": "ఆరంభప్రభృతి ఏతత్-క్షణ-పర్యంతం మధ్యే సంభావిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి ।",
+            "devanagari": "आरंभप्रभृति एतत्क्षणपर्यन्तं मध्ये संभावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Ahuti",
+            "telugu": "సర్వ ప్రాయశ్చిత్త ఆహుతి",
+            "hindi": "सर्व प्रायश्चित्त आहुति"
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā ।prajāpataya idaṃ na mama ।",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా ।ప్రజాపతయ ఇదం న మమ ।",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा।प्रजापतय इदं न मम ।",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     {
       "id": 10,
@@ -409,45 +444,8 @@
     {
       "id": 12,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachaara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "devanagari": "पञ्चोपचार पूजा",
-        "hindi": "పంచోపచార పూజ"
-      },
-      "voice_guidance_key": "vishnu_homam_panchopachaara_pooja",
-      "instructions": {
-        "english": [
-          "Now, we offer a simple 5-service worship (panchopachara pooja) to Vishnu in the fire and idol. Offer sandalwood powder/paste, turmeric, and kumkum.",
-          "Offer a flower or a flower petal to Vishnu.",
-          "Offer dhoopam (incense) to Vishnu. Show the smoke from an incense stick to the fire.",
-          "Show the deepam (lamp) to Vishnu.",
-          "Offer some food (naivedyam) to Vishnu. You can use cooked food, fruit, jaggery, or sugar. Offer a small amount into the fire.",
-          "Offer some akshatas to Vishnu, signifying that you are offering 'all services' to Him."
-        ],
-        "telugu": [
-          "ఇప్పుడు, మనం అగ్నిలో మరియు విగ్రహంలో ఉన్న విష్ణువుకు సరళమైన 5-సేవల పూజ (పంచోపచార పూజ) చేస్తాం. గంధం పొడి/పేస్ట్, పసుపు మరియు కుంకుమ సమర్పించండి.",
-          "విష్ణువుకు ఒక పువ్వు లేదా పువ్వు రేకును సమర్పించండి.",
-          "విష్ణువుకు ధూపం (అగరుబత్తి) సమర్పించండి. అగరుబత్తి నుండి వచ్చే పొగను అగ్నికి చూపండి.",
-          "విష్ణువుకు దీపం చూపండి.",
-          "విష్ణువుకు కొంత ఆహారం (నైవేద్యం) సమర్పించండి. మీరు వండిన ఆహారం, పండు, బెల్లం లేదా చక్కెరను ఉపయోగించవచ్చు. అగ్నిలో కొద్ది మొత్తాన్ని సమర్పించండి.",
-          "విష్ణువుకు కొన్ని అక్షతలను సమర్పించండి, ఇది మీరు ఆయనకు 'సర్వ సేవలను' సమర్పిస్తున్నట్లు సూచిస్తుంది."
-        ],
-        "hindi": [
-          "अब, हम अग्नि और मूर्ति में विष्णु को एक सरल 5-सेवा पूजा (पंचोपचार पूजा) अर्पित करते हैं।चंदन पाउडर/पेस्ट, हल्दी और कुमकुम चढ़ाएं।",
-          "विष्णु को एक फूल या फूल की पंखुड़ी अर्पित करें।",
-          "विष्णु को धूप (अगरबत्ती) अर्पित करें।अगरबत्ती से निकलने वाले धुएं को आग को दिखाएं।",
-          "विष्णु को दीप (दीपक) दिखाएं।",
-          "विष्णु को कुछ भोजन (नैवेद्य) अर्पित करें।आप पके हुए भोजन, फल, गुड़ या चीनी का उपयोग कर सकते हैं।आग में थोड़ी मात्रा में अर्पित करें।",
-          "विष्णु को कुछ अक्षत अर्पित करें, यह दर्शाता है कि आप उन्हें 'सभी सेवाएं' अर्पित कर रहे हैं।"
-        ]
-      },
-      "slokas": {
-        "english": "laṃ pṛthivyātmane namaḥ ।gandhaṃ samarpayāmi ।\nhaṃ ākāśātmane namaḥ ।puṣpaṃ samarpayāmi ।\nyaṃ vāyvātmane namaḥ ।dhūpaṃ āghrāpayāmi ।\nraṃ agnyātmane namaḥ ।dīpaṃ darśayāmi ।\nvaṃ amṛtātmane namaḥ ।naivedyaṃ samarpayāmi ।\nsaṃ sarvātmane namaḥ ।sarvopacārān samarpayāmi ।",
-        "telugu": "లం పృథివ్యాత్మనే నమః ।గంధం సమర్పయామి ।\nహం ఆకాశాత్మనే నమః ।పుష్పం సమర్పయామి ।\nయం వాయ్వాత్మనే నమః ।ధూపం ఆఘ్రాపయామి ।\nరం అగ్న్యాత్మనే నమః ।దీపం దర్శయామి ।\nవం అమృతాత్మనే నమః ।నైవేద్యం సమర్పయామి ।\nసం సర్వాత్మనే నమః ।సర్వోపచారాన్ సమర్పయామి ।",
-        "devanagari": "लं पृथिव्यात्मने नमः।गन्धं समर्पयामि ।\nहं आकाशात्मने नमः ।पुष्पं समर्पयामि ।\nयं वाय्वात्मने नमः।धूपं आघ्रापयामि ।\nरं अग्न्यात्मने नमः।दीपं दर्शयामि ।\nवं अमृतात्मने नमः ।नैवेद्यं समर्पयामि ।\nसं सर्वात्मने नमः ।सर्वोपचारान् समर्पयामि ।",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_masculine",
+      "voice_guidance_key": "vishnu_homam_panchopachaara_pooja"
     },
     {
       "id": 13,
@@ -638,30 +636,8 @@
     {
       "id": 19,
       "type": "pradhana",
-      "title": {
-        "english": "Vasordhaaraa",
-        "telugu": "వసోర్ధార",
-        "devanagari": "वसोर्धारा",
-        "hindi": "వసోర్ధార"
-      },
-      "voice_guidance_key": "vishnu_homam_vasordhaaraa",
-      "instructions": {
-        "english": [
-          "Take a little ghee into the ladle and pour it slowly in a stream onto the burning materials in the homa kundam while reciting the third verse from 'Rudra Chamakam'. This helps ensure the poornaahuti (final offering) burns well."
-        ],
-        "telugu": [
-          "'రుద్ర చమకం' నుండి మూడవ శ్లోకాన్ని పఠిస్తూ, చెంచాలోకి కొద్దిగా నెయ్యి తీసుకుని, హోమ కుండంలోని మండుతున్న పదార్థాలపై నెమ్మదిగా ధారగా పోయండి. ఇది పూర్ణాహుతి (చివరి ఆహుతి) బాగా మండుతుందని నిర్ధారించడానికి సహాయపడుతుంది."
-        ],
-        "hindi": [
-          "चम्मच में थोड़ा घी लें और 'रुद्र चमकम्' के तीसरे श्लोक का पाठ करते हुए इसे होम कुंड में जलती हुई सामग्री पर धीरे-धीरे एक धारा में डालें।यह सुनिश्चित करने में मदद करता है कि पूर्णाहुति (अंतिम आहुति) अच्छी तरह से जले।"
-        ]
-      },
-      "slokas": {
-        "english": "om śaṃ ca me mayaśca me priyaṃ ca me'nukāmaśca me kāmaśca me saumanasaśca me bhadraṃ ca me śreyaśca me vasyaśca me yaśaśca me bhagaśca me draviṇaṃ ca me yantā ca me dhartā ca me kṣemaśca me dhṛtiśca me viśvaṃ ca me mahaśca me saṃvicca me jñātraṃ ca me sūśca me prasūśca me sīraṃ ca me layaśca maṛtaṃ ca me'mṛtaṃ ca me'yakṣmaṃ ca me'nāmayacca me jīvātuśca me dīrghāyutvaṃ ca me'namitraṃ ca me'bhayaṃ ca me sugaṃ ca me śayanaṃ ca me sūṣā ca me sudinaṃ ca me ॥",
-        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేऽనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మఋతం చ మేऽమృతం చ మేऽయక్ష్మం చ మేऽనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేऽనమిత్రం చ మేऽభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
-        "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञात्रं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मऋतं च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "vasordhaaraa",
+      "voice_guidance_key": "vishnu_homam_vasordhaaraa"
     },
     {
       "id": 20,

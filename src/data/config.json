@@ -4,102 +4,119 @@
       "id": "siva-homam",
       "name": "Siva Homam",
       "filename": "siva-homam.json",
+      "category": "long",
       "description": "Traditional Siva Homam manual by P V R Narasimha Rao"
     },
     {
       "id": "ganapathi-homam",
       "name": "Ganesh Homam",
       "filename": "ganesh-homam.json",
+      "category": "long",
       "description": "Traditional Ganesh Homam manual for removing obstacles"
     },
     {
       "id": "chandi-homam",
       "name": "Chandi Homam",
       "filename": "chandi-homam.json",
+      "category": "long",
       "description": "Traditional Chandi Homam manual for invoking the Divine Mother"
     },
     {
       "id": "kartikeya-homam",
       "name": "Kartikeya Homam",
       "filename": "kartikey-homam.json",
+      "category": "short",
       "description": "Traditional Kartikeya Homam manual for victory and strength"
     },
     {
       "id": "dattatreya-homam",
       "name": "Dattatreya Homam",
       "filename": "dattatreya-homam.json",
+      "category": "short",
       "description": "Traditional Dattatreya Homam manual for wisdom and divine blessings"
     },
     {
       "id": "saraswati-homam",
       "name": "Saraswati Homam",
       "filename": "saraswati-homam.json",
+      "category": "short",
       "description": "Traditional Saraswati Homam manual for knowledge and learning"
     },
     {
       "id": "mahalakshmi-homam",
       "name": "Mahalakshmi Homam",
       "filename": "mahalakshmi-homam.json",
+      "category": "long",
       "description": "Traditional Mahalaxmi Homam manual for wealth and prosperity"
     },
     {
       "id": "durga-homam",
       "name": "Durga Homam",
       "filename": "durga-homam.json",
+      "category": "short",
       "description": "Traditional Durga Homam manual for protection and strength"
     },
     {
       "id": "lalitha-homam",
       "name": "Lalitha Homam",
       "filename": "lalitha-homam.json",
+      "category": "sarala",
       "description": "Traditional Lalitha Homam manual for grace and beauty"
     },
     {
       "id": "kali-homam",
       "name": "Kali Homam",
       "filename": "kali-homam.json",
+      "category": "sarala",
       "description": "Traditional Kali Homam manual for empowerment and transformation"
     },
     {
       "id": "taara-homam",
       "name": "Taaraa Homam",
       "filename": "tara-homam.json",
+      "category": "sarala",
       "description": "Traditional Taaraa Homam manual for guidance and support"
     },
     {
       "id": "srirama-homam",
       "name": "Sri Rama Homam",
       "filename": "srirama-homam.json",
+      "category": "sarala",
       "description": "Traditional Sri Rama Homam manual by P V R Narasimha Rao"
     },
     {
       "id": "narasimha-homam",
       "name": "Narasimha Homam",
       "filename": "narasimha-homam.json",
+      "category": "short",
       "description": "Traditional Narasimha Homam manual by P V R Narasimha Rao"
     },
     {
       "id": "vishnu-homam",
       "name": "Vishnu Homam",
       "filename": "vishnu-homam.json",
+      "category": "long",
       "description": "Traditional Vishnu Homam manual by P V R Narasimha Rao"
     },
     {
       "id": "hanuman-homam",
       "name": "Hanuman Homam",
       "filename": "hanuman-homam.json",
+      "category": "long",
       "description": "Traditional Hanuman Homam manual by P V R Narasimha Rao"
     },
     {
       "id": "tarpanam",
       "name": "Tarpanam",
       "filename": "tarpanam.json",
+      "category": "short",
       "description": "Traditional Tarpanam manual by P V R Narasimha Rao"
     },
     {
       "id": "tarpanam-simplest",
       "name": "Tarpanam (Simplest)",
       "filename": "tarpanam-simplest.json",
+      "category": "sarala",
       "description": "Simplest Tarpana procedure for Devas, Rishis and Pitris by P V R Narasimha Rao"
     }
   ],

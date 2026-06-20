@@ -59,6 +59,28 @@ const GuruIcon = (props) => (
 
 );
 
+const manualCategoryLabels = {
+  long: 'Long',
+  short: 'Short',
+  sarala: 'Sarala',
+};
+
+const manualCategoryStyles = {
+  long: 'bg-amber-100 text-amber-800 border-amber-200',
+  short: 'bg-sky-100 text-sky-800 border-sky-200',
+  sarala: 'bg-emerald-100 text-emerald-800 border-emerald-200',
+};
+
+const ManualCategoryTag = ({ category }) => {
+  if (!category) return null;
+
+  return (
+    <span className={`inline-flex items-center rounded-full border px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide ${manualCategoryStyles[category] || 'bg-gray-100 text-gray-700 border-gray-200'}`}>
+      {manualCategoryLabels[category] || category}
+    </span>
+  );
+};
+
 // --- Landing Page Component ---
 const LandingPage = () => {
   const [availableManuals, setAvailableManuals] = useState([]);
@@ -83,7 +105,10 @@ const LandingPage = () => {
               to={`/${manual.id}`}
               className="block p-6 bg-white border border-[#E0E0E0] rounded-lg shadow-sm hover:shadow-md transition-shadow"
             >
-              <h3 className="text-xl font-semibold mb-2">{manual.name}</h3>
+              <div className="mb-2 flex items-start justify-between gap-3">
+                <h3 className="text-xl font-semibold">{manual.name}</h3>
+                <ManualCategoryTag category={manual.category} />
+              </div>
               <p className="text-gray-600 text-sm">{manual.description}</p>
             </Link>
           ))}
@@ -106,6 +131,7 @@ const ManualViewer = () => {
   const [isLeftSidebarOpen, setLeftSidebarOpen] = useState(false);
   const [showInstructions, setShowInstructions] = useState(true);
   const [availableManuals, setAvailableManuals] = useState([]);
+  const [imagePreview, setImagePreview] = useState(null);
   
   // Translation object for UI text
   const translations = {
@@ -165,20 +191,60 @@ const ManualViewer = () => {
     return content?.sloka_groups || [];
   };
 
+  const resolveIllustrationSrc = (src) => {
+    if (!src) return '';
+    return src.startsWith('/') ? `${process.env.PUBLIC_URL}${src}` : src;
+  };
+
+  const getIllustrationAlt = (illustration, fallbackTitle) => {
+    return illustration?.alt?.[language]
+      || illustration?.alt?.english
+      || fallbackTitle
+      || 'Ritual illustration';
+  };
+
+  const openImagePreview = (src, alt) => {
+    setImagePreview({ src, alt });
+  };
+
   const renderSlokaCards = (content, cardPadding = 'p-6') => {
     const groups = getSlokaGroups(content);
 
     return groups.map((group, index) => {
       const title = group.title?.[language] || (groups.length > 1 ? `${translations.part[language]} ${index + 1}` : '');
+      const illustration = group.illustration;
+      const illustrationSrc = resolveIllustrationSrc(illustration?.src);
+      const illustrationAlt = getIllustrationAlt(illustration, title);
 
       return (
         <div key={index} className={`bg-[#FFF8E1] ${cardPadding} rounded-lg border border-[#E0E0E0] shadow-sm`}>
-          {title && (
-            <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
-          )}
-          <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
-            {formatSloka(group.slokas[slokaLanguage])}
-          </p>
+          <div className={illustrationSrc ? 'md:grid md:grid-cols-[minmax(0,1fr)_8rem] md:gap-5 md:items-start' : ''}>
+            <div>
+              {title && (
+                <h4 className="text-base font-semibold mb-3 text-amber-900">{title}</h4>
+              )}
+              <p className="whitespace-pre-wrap leading-loose font-serif text-lg">
+                {formatSloka(group.slokas[slokaLanguage])}
+              </p>
+            </div>
+            {illustrationSrc && (
+              <figure className="mt-5 md:mt-0">
+                <button
+                  type="button"
+                  onClick={() => openImagePreview(illustrationSrc, illustrationAlt)}
+                  className="block w-32 h-32 overflow-hidden rounded-md border border-amber-200 bg-white shadow-sm hover:border-amber-500 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 focus:ring-offset-[#FFF8E1]"
+                  aria-label={`Open ${illustrationAlt}`}
+                >
+                  <img
+                    src={illustrationSrc}
+                    alt={illustrationAlt}
+                    className="w-full h-full object-contain"
+                    loading="lazy"
+                  />
+                </button>
+              </figure>
+            )}
+          </div>
         </div>
       );
     });
@@ -238,6 +304,19 @@ const ManualViewer = () => {
       initializeApp();
     }
   }, [manualId, navigate]);
+
+  useEffect(() => {
+    if (!imagePreview) return undefined;
+
+    const handleKeyDown = (event) => {
+      if (event.key === 'Escape') {
+        setImagePreview(null);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [imagePreview]);
 
   // Handle manual change via navigation
   const handleManualChange = (newManualId) => {
@@ -392,6 +471,9 @@ const ManualViewer = () => {
             </div>
             <h2 className="text-xl font-bold">{homamData.title[language]}</h2>
             <p className="text-sm text-gray-600 mt-1">by {homamData.author[language]}</p>
+            <div className="mt-2">
+              <ManualCategoryTag category={availableManuals.find(manual => manual.id === manualId)?.category} />
+            </div>
             
             {availableManuals.length > 1 && (
               <div className="mt-4">
@@ -403,7 +485,7 @@ const ManualViewer = () => {
                 >
                   {availableManuals.map(manual => (
                     <option key={manual.id} value={manual.id}>
-                      {manual.name}
+                      {manual.name}{manual.category ? ` (${manualCategoryLabels[manual.category] || manual.category})` : ''}
                     </option>
                   ))}
                 </select>
@@ -773,6 +855,34 @@ const ManualViewer = () => {
           </aside>
         )}
       </div>
+      {imagePreview && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
+          role="dialog"
+          aria-modal="true"
+          aria-label={imagePreview.alt}
+          onClick={() => setImagePreview(null)}
+        >
+          <div
+            className="relative max-h-[90vh] w-full max-w-4xl rounded-lg bg-white p-4 shadow-xl"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <button
+              type="button"
+              onClick={() => setImagePreview(null)}
+              className="absolute right-3 top-3 rounded-full bg-white p-2 text-gray-700 shadow hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-amber-500"
+              aria-label="Close image preview"
+            >
+              <XIcon className="h-5 w-5" />
+            </button>
+            <img
+              src={imagePreview.src}
+              alt={imagePreview.alt}
+              className="mx-auto max-h-[82vh] w-full object-contain"
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 };

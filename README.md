@@ -64,6 +64,7 @@ Create a new JSON file in the `src/data/` directory with the following structure
             "telugu": "మంత్రం",
             "hindi": "मंत्र"
           },
+          "illustration": "dikpalakas",
           "slokas": {
             "english": "Mantra in Roman script",
             "telugu": "మంత్ర Telugu script లో",
@@ -114,7 +115,8 @@ Add your new manual to `src/data/config.json`:
 - **ID**: Start with 0 for introduction, then 1, 2, 3, etc.
 - **Instructions**: Array of instruction strings for each language
 - **Sloka Groups**: Use `sloka_groups` for Sanskrit mantras in different scripts. One item renders one mantra box; multiple items render multiple separate mantra boxes. The older `slokas` field is still accepted as legacy shorthand and normalized to one group at load time.
-- **Diagrams**: Set to "No diagram for this section." if no diagram is needed
+- **Sloka Group Illustrations**: Add `illustration` to a sloka group when a mantra box needs its own diagram. Prefer a reusable key from `src/data/shared/illustrations.json`; inline `{ "src": "...", "alt": { ... } }` is also supported. For legacy `slokas`, add `sloka_illustration` at the section level. These render as small in-card previews that open a larger popup when clicked.
+- **Diagrams**: Use section-level `diagram` for one image that applies to the whole section. Set `diagram_placeholder` to "No diagram for this section." if no diagram is needed.
 
 ## Language Support
 

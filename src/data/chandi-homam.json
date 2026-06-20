@@ -194,13 +194,13 @@
           "12 प्रसादों में से प्रत्येक के लिए 12 संगत मंत्रों का पाठ करें।"
         ]
       },
+      "sloka_illustration": "dikpalakas",
       "slokas": {
         "english": "Om indraaya namah ।Om agnaye namah ।Om yamaaya namah ।Om nirr^itaye namah ।Om varunaaya namah ।Om vaayave namah ।Om somaaya namah ।Om eeshaanaaya namah ।Om brahmane namah ।Om sheshaaya namah ।Om agnaye namah ।Om aatmane namah ।",
         "telugu": "ఓం ఇంద్రాయ నమః।ఓం అగ్నయే నమః।ఓం యమాయ నమః।ఓం నిరృతయే నమః।ఓం వరుణాయ నమః।ఓం వాయవే నమః।ఓం సోమాయ నమః।ఓం ఈశానాయ నమః।ఓం బ్రహ్మణే నమః ।ఓం శేషాయ నమః।ఓం అగ్నయే నమః ।ఓం ఆత్మనే నమః ।",
         "devanagari": "ॐ इन्द्राय नमः।ॐ अग्नये नमः।ॐ यमाय नमः।ॐ निर्ऋतये नमः।ॐ वरुणाय नमः।ॐ वायवे नमः।ॐ सोमाय नमः।ॐ ईशानाय नमः।ॐ ब्रह्मणे नमः ।ॐ शेषाय नमः।ॐ अग्नये नमः ।ॐ आत्मने नमः ।",
         "swara_enabled": false
-      },
-      "diagram": "/diagrams/dikpalakas.svg"
+      }
     },
     {
       "id": 9,
@@ -234,12 +234,47 @@
           "अंत में, अनुष्ठान में अब तक हुई किसी भी गलती के लिए प्रजापति को 'क्षमा अर्पण' करें।"
         ]
       },
-      "slokas": {
-        "english": "om prajāpataye svāhā prajāpataya idam na mama ।\nom indrāya svāhā indrāyedam na mama ।\nom agnaye svāhā agnaya idam na mama ।\nom somāya svāhā somāyedam na mama ।\nārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi ।om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama ।",
-        "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా సోమాయేదం న మమ ।\nఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి ।ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ ।",
-        "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा अग्नय इदं न मम ।\nॐ सोमाय स्वाहा सोमायेदं न मम ।\nआरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि ।ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।",
-        "swara_enabled": false
-      }
+      "sloka_groups": [
+        {
+          "title": {
+            "english": "Prajapatyadi Ajya Ahutis",
+            "telugu": "ప్రజాపత్యాది ఆజ్యాహుతులు",
+            "hindi": "प्रजापत्यादि आज्याहुतियाँ"
+          },
+          "slokas": {
+            "english": "om prajāpataye svāhā prajāpataya idam na mama ।\nom indrāya svāhā indrāyedam na mama ।\nom agnaye svāhā agnaya idam na mama ।\nom somāya svāhā somāyedam na mama ।",
+            "telugu": "ఓం ప్రజాపతయే స్వాహా ప్రజాపతయ ఇదం న మమ ।\nఓం ఇంద్రాయ స్వాహా ఇంద్రాయేదం న మమ ।\nఓం అగ్నయే స్వాహా అగ్నయ ఇదం న మమ ।\nఓం సోమాయ స్వాహా సోమాయేదం న మమ ।",
+            "devanagari": "ॐ प्रजापतये स्वाहा प्रजापतय इदं न मम ।\nॐ इन्द्राय स्वाहा इन्द्रायेदं न मम ।\nॐ अग्नये स्वाहा अग्नय इदं न मम ।\nॐ सोमाय स्वाहा सोमायेदं न मम ।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Sankalpa",
+            "telugu": "సర్వ ప్రాయశ్చిత్త సంకల్పం",
+            "hindi": "सर्व प्रायश्चित्त संकल्प"
+          },
+          "slokas": {
+            "english": "ārambhaprabhṛti etatkşanaparyantam madhye sambhāvita samasta dosa prāyaścittārtham sarva prāyaścittam hoşyāmi ।",
+            "telugu": "ఆరంభప్రభృతి ఏతత్క్షణపర్యంతం మధ్యే సంభవిత సమస్త దోష ప్రాయశ్చిత్తార్థం సర్వ ప్రాయశ్చిత్తం హోష్యామి ।",
+            "devanagari": "आरम्भप्रभृति एतत्क्षणपर्यन्तं मध्ये सम्भावित समस्त दोष प्रायश्चित्तार्थं सर्व प्रायश्चित्तं होष्यामि ।",
+            "swara_enabled": false
+          }
+        },
+        {
+          "title": {
+            "english": "Sarva Prayaschitta Ahuti",
+            "telugu": "సర్వ ప్రాయశ్చిత్త ఆహుతి",
+            "hindi": "सर्व प्रायश्चित्त आहुति"
+          },
+          "slokas": {
+            "english": "om bhūrbhuvassuvaḥ svāhā prajāpataya idam na mama ।",
+            "telugu": "ఓం భూర్భువస్సువః స్వాహా ప్రజాపతయ ఇదం న మమ ।",
+            "devanagari": "ॐ भूर्भुवस्सुवः स्वाहा प्रजापतय इदं न मम ।",
+            "swara_enabled": false
+          }
+        }
+      ]
     },
     {
       "id": 10,
@@ -316,65 +351,8 @@
     {
       "id": 12,
       "type": "pradhana",
-      "title": {
-        "english": "Panchopachara Pooja",
-        "telugu": "పంచోపచార పూజ",
-        "hindi": "पंचोपचार पूजा"
-      },
-      "voice_guidance_key": "chandi_homam_panchopachara_pooja",
-      "instructions": {
-        "english": [
-          "Offer five services (Panchopachara Pooja) to Chandi in the fire and the idol:",
-          "1. Offer sandalwood powder/paste (Gandham). You can also offer turmeric and kumkum.",
-          "2. Offer a flower or flower petal (Pushpam).",
-          "3. Offer incense smoke (Dhoopam).",
-          "4. Show the light from the lamp (Deepam).",
-          "5. Offer some food (Naivedyam).",
-          "Finally, offer akshatas, representing 'all services' (Sarvopacharan).",
-          "Offer sandalwood powder/paste (gandham) to Mahaganapathi in the fire and the idol.",
-          "Offer a flower or flower petal (pushpam).",
-          "Offer incense smoke (dhoopam).",
-          "Show the light from a lamp (deepam).",
-          "Offer food (naivedyam).",
-          "Offer akshatas, symbolizing the offering of all other services (sarvopacharan)."
-        ],
-        "telugu": [
-          "అగ్నిలో మరియు విగ్రహంలో చండీకి ఐదు సేవలను (పంచోపచార పూజ) సమర్పించండి:",
-          "1. గంధపు పొడి/పేస్ట్ (గంధం) సమర్పించండి. మీరు పసుపు మరియు కుంకుమ కూడా సమర్పించవచ్చు.",
-          "2. ఒక పువ్వు లేదా పువ్వు రేకు (పుష్పం) సమర్పించండి.",
-          "3. ధూపం పొగను (ధూపం) సమర్పించండి.",
-          "4. దీపం నుండి కాంతిని (దీపం) చూపండి.",
-          "5. కొంత ఆహారాన్ని (నైవేద్యం) సమర్పించండి.",
-          "చివరగా, 'అన్ని సేవలను' (సర్వోపచారన్) సూచిస్తూ అక్షతలను సమర్పించండి.",
-          "అగ్ని మరియు విగ్రహంలో మహాగణపతికి గంధపు పొడి/పేస్ట్ (గంధం) సమర్పించండి.",
-          "ఒక పువ్వు లేదా పువ్వు రేకు (పుష్పం) సమర్పించండి.",
-          "ధూపం (ధూపం) సమర్పించండి.",
-          "దీపం నుండి కాంతిని చూపండి (దీపం).",
-          "ఆహారం (నైవేద్యం) సమర్పించండి.",
-          "అక్షతలను సమర్పించండి, ఇది అన్ని ఇతర సేవలను (సర్వోపచారన్) సమర్పించడానికి ప్రతీక."
-        ],
-        "hindi": [
-          "अग्नि और मूर्ति में चंडी को पांच सेवाएं (पंचोपचार पूजा) अर्पित करें:",
-          "1. चंदन पाउडर/पेस्ट (गंधम) अर्पित करें।आप हल्दी और कुमकुम भी चढ़ा सकते हैं।",
-          "2. एक फूल या फूल की पंखुड़ी (पुष्पम) अर्पित करें।",
-          "3. धूप का धुआं (धूपम) अर्पित करें।",
-          "4. दीपक से प्रकाश (दीपम) दिखाएं।",
-          "5. कुछ भोजन (नैवेद्यम) अर्पित करें।",
-          "अंत में, 'सभी सेवाओं' (सर्वोपचारान्) का प्रतिनिधित्व करते हुए अक्षत अर्पित करें।",
-          "अग्नि और मूर्ति में महागणपति को चंदन पाउडर/पेस्ट (गंधम्) अर्पित करें।",
-          "एक फूल या फूल की पंखुड़ी (पुष्पम्) अर्पित करें।",
-          "धूप (धूपम्) अर्पित करें।",
-          "दीपक से प्रकाश दिखाएं (दीपम्)।",
-          "भोजन (नैवेद्यम्) अर्पित करें।",
-          "अक्षत अर्पित करें, जो अन्य सभी सेवाओं (सर्वोपचारान्) के अर्पण का प्रतीक है।"
-        ]
-      },
-      "slokas": {
-        "english": "Lam prithivyaatmikaayai namah ।Gandham samarpayaami ॥Ham aakaashaatmikaayai namah ।Pushpam samarpayaami ॥Yam vaayvaatmikaayai namah ।Dhoopam aaghraapayaami ॥Ram agnyaatmikaayai namah ।Deepam darshayaami ॥Vam amritaatmikaayai namah ।Naivedyam samarpayaami ॥Sam sarvaatmikaayai namah ।Sarvopachaaraan samarpayaami ॥\nHam aakaashaatmikaayai namah ।Pushpam samarpayaami ॥\nYam vaayvaatmikaayai namah ।Dhoopam aaghraapayaami ॥\nRam agnyaatmikaayai namah ।Deepam darshayaami ॥\nVam amritaatmikaayai namah ।Naivedyam samarpayaami ॥\nSam sarvaatmikaayai namah ।Sarvopachaaraan samarpayaami ॥",
-        "telugu": "లం పృథివ్యాత్మికాయై నమః ।గంధం సమర్పయామి\nహం ఆకాశాత్మికాయై నమః ।పుష్పం సమర్పయామి ॥\nయం వాయ్వాత్మికాయై నమః।ధూపం ఆఘ్రాపయామి ॥\nరం అగ్న్యాత్మికాయై నమః ।దీపం దర్శయామి ॥\nవం అమృతాత్మికాయై నమః ।నైవేద్యం సమర్పయామి ॥\nసం సర్వాత్మికాయై నమః ।సర్వోపచారాన్ సమర్పయామి ॥",
-        "devanagari": "लं पृथिव्यात्मिकायै नमः ।गन्धं समर्पयामि ॥\nहं आकाशात्मिकायै नमः ।पुष्पं समर्पयामि ॥\nयं वाय्वात्मिकायै नमः।धूपं आघ्रापयामि ॥\nरं अग्न्यात्मिकायै नमः ।दीपं दर्शयामि ॥\nवं अमृतात्मिकायै नमः ।नैवेद्यं समर्पयामि ॥\nसं सर्वात्मिकायै नमः ।सर्वोपचारान् समर्पयामि ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "panchopachara_pooja_feminine",
+      "voice_guidance_key": "chandi_homam_panchopachara_pooja"
     },
     {
       "id": 13,
@@ -526,32 +504,8 @@
     {
       "id": 18,
       "type": "uttara",
-      "title": {
-        "english": "Stream of Excellence",
-        "telugu": "వసోర్ధారా",
-        "hindi": "वसोर्धारा"
-      },
-      "voice_guidance_key": "chandi_homam_stream_of_excellence",
-      "instructions": {
-        "english": [
-          "Take a ladleful of ghee and pour it in a slow, continuous stream onto the burning coconut pieces in the homa kundam.",
-          "While pouring the ghee, recite the third verse from 'Rudra Chamakam'."
-        ],
-        "telugu": [
-          "ఒక గరిటెడు నెయ్యి తీసుకుని, హోమ కుండంలోని కాలుతున్న కొబ్బరి ముక్కలపై నెమ్మదిగా, నిరంతరాయంగా ధారగా పోయండి.",
-          "నెయ్యి పోస్తున్నప్పుడు, 'రుద్ర చమకం' నుండి మూడవ శ్లోకాన్ని పఠించండి."
-        ],
-        "hindi": [
-          "एक करछुल घी लें और उसे होम कुंड में जलते हुए नारियल के टुकड़ों पर धीमी, निरंतर धारा में डालें।",
-          "घी डालते समय, 'रुद्र चमकम्' से तीसरे श्लोक का पाठ करें।"
-        ]
-      },
-      "slokas": {
-        "english": "Om sham cha me mayashcha me priyam cha me'nukaamashcha me kaamashcha me saumanasashcha me bhadram cha me shreyashcha me vasyashcha me yashashcha me bhagashcha me dravinam cha me yantaa cha me dhartaa cha me kshemashcha me dhritishcha me vishvam cha me mahashcha me samvichcha me jnaatram cha me sooshcha me prasooshcha me seeram cha me layashcha ma ritam cha me'mritam cha me'yakshmam cha me'naamayamcha me jeevaatushcha me deerghaayutvam cha me'namitram cha me'bhayam cha me sugam cha me shayanam cha me sooshaa cha me sudinam cha me ॥",
-        "telugu": "ఓం శం చ మే మయశ్చ మే ప్రియం చ మేऽనుకామశ్చ మే కామశ్చ మే సౌమనసశ్చ మే భద్రం చ మే శ్రేయశ్చ మే వస్యశ్చ మే యశశ్చ మే భగశ్చ మే ద్రవిణం చ మే యంతా చ మే ధర్తా చ మే క్షేమశ్చ మే ధృతిశ్చ మే విశ్వం చ మే మహశ్చ మే సంవిచ్చ మే జ్ఞాత్రం చ మే సూశ్చ మే ప్రసూశ్చ మే సీరం చ మే లయశ్చ మఋతం చ మేऽమృతం చ మేऽయక్ష్మం చ మేऽనామయచ్చ మే జీవాతుశ్చ మే దీర్ఘాయుత్వం చ మేऽనమిత్రం చ మేऽభయం చ మే సుగం చ మే శయనం చ మే సూషా చ మే సుదినం చ మే ॥",
-        "devanagari": "ॐ शं च मे मयश्च मे प्रियं च मेऽनुकामश्च मे कामश्च मे सौमनसश्च मे भद्रं च मे श्रेयश्च मे वस्यश्च मे यशश्च मे भगश्च मे द्रविणं च मे यन्ता च मे धर्ता च मे क्षेमश्च मे धृतिश्च मे विश्वं च मे महश्च मे संविच्च मे ज्ञात्रं च मे सूश्च मे प्रसूश्च मे सीरं च मे लयश्च मऋतं च मेऽमृतं च मेऽयक्ष्मं च मेऽनामयच्च मे जीवातुश्च मे दीर्घायुत्वं च मेऽनमित्रं च मेऽभयं च मे सुगं च मे शयनं च मे सूषा च मे सुदिनं च मे ॥",
-        "swara_enabled": false
-      }
+      "common_ref": "vasordhaaraa",
+      "voice_guidance_key": "chandi_homam_stream_of_excellence"
     },
     {
       "id": 19,
