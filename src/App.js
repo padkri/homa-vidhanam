@@ -150,6 +150,7 @@ const ManualViewer = () => {
   
   const mainContentRef = useRef(null);
   const observer = useRef(null);
+  const touchStartRef = useRef(null);
 
   // Load initial data based on URL parameter
   useEffect(() => {
@@ -235,6 +236,43 @@ const ManualViewer = () => {
     } else if (direction === 'prev' && currentIndex > 0) {
       handleSectionChange(homamData.sections[currentIndex - 1].id);
     }
+  };
+
+  const shouldIgnoreSwipeTarget = (target) => (
+    target.closest('button, a, input, select, textarea, label')
+  );
+
+  const handleTouchStart = (event) => {
+    if (event.touches.length !== 1 || shouldIgnoreSwipeTarget(event.target)) {
+      touchStartRef.current = null;
+      return;
+    }
+
+    const touch = event.touches[0];
+    touchStartRef.current = {
+      x: touch.clientX,
+      y: touch.clientY
+    };
+  };
+
+  const handleTouchEnd = (event) => {
+    if (!touchStartRef.current || event.changedTouches.length !== 1) return;
+
+    const touch = event.changedTouches[0];
+    const deltaX = touch.clientX - touchStartRef.current.x;
+    const deltaY = touch.clientY - touchStartRef.current.y;
+    const absDeltaX = Math.abs(deltaX);
+    const absDeltaY = Math.abs(deltaY);
+
+    touchStartRef.current = null;
+
+    if (absDeltaX < 60 || absDeltaX < absDeltaY * 1.5) return;
+
+    handleNavigation(deltaX < 0 ? 'next' : 'prev');
+  };
+
+  const handleTouchCancel = () => {
+    touchStartRef.current = null;
   };
 
   // Show loading state
@@ -349,7 +387,13 @@ const ManualViewer = () => {
         </aside>
 
         {/* --- Main Content --- */}
-        <main ref={mainContentRef} className="flex-1 w-full h-screen overflow-y-auto p-6 md:p-10 lg:p-12">
+        <main
+          ref={mainContentRef}
+          className="flex-1 w-full h-screen overflow-y-auto p-6 md:p-10 lg:p-12"
+          onTouchStart={handleTouchStart}
+          onTouchEnd={handleTouchEnd}
+          onTouchCancel={handleTouchCancel}
+        >
           <header className="mb-8">
             {/* Source link banner */}
             {(homamData.source || homamData.video) && (
