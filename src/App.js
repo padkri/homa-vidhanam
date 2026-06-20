@@ -559,7 +559,8 @@ const ManualViewer = () => {
                                     const retryCount = parseInt(img.dataset.retry || '0', 10);
                                     if (retryCount < 2) {
                                       img.dataset.retry = String(retryCount + 1);
-                                      setTimeout(() => { img.src = img.src; }, 1000);
+                                      const retrySrc = img.src;
+                                      setTimeout(() => { img.src = retrySrc; }, 1000);
                                     } else {
                                       img.style.display = 'none';
                                       if (img.nextSibling) img.nextSibling.style.display = 'block';
