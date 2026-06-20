@@ -620,67 +620,19 @@
     {
       "id": 21,
       "type": "uttara",
-      "title": {
-        "english": "Poornaahuti",
-        "telugu": "పూర్ణాహుతి",
-        "devanagari": "पूर्णाहुति",
-        "hindi": "పూర్ణాహుతి"
-      },
+      "common_ref": "poornaahuti",
       "voice_guidance_key": "kalabhairava_homam_poornaahuti",
-      "instructions": {
-        "english": [
-          "Prepare the 'complete offering' (Poornaahuti). For a simple homam, this can be a dry coconut half filled with a coin, akshatas, and samples of offering materials. Place this in the fire while reciting the following mantras. This act symbolizes the complete surrender of one's ego.",
-          "While or after placing the poornaahuti in the fire, chant the following mantra, contemplating that the act, the offering, the fire, and the offerer are all Brahman (the Supreme Being)."
-        ],
-        "telugu": [
-          "'పూర్ణాహుతి'ని సిద్ధం చేసుకోండి. ఒక సాధారణ హోమం కోసం, ఇది ఒక నాణెం, అక్షతలు మరియు నైవేద్య సామగ్రి నమూనాలతో నింపిన ఎండు కొబ్బరి చిప్ప కావచ్చు. ఈ క్రింది మంత్రాలను పఠిస్తూ దీనిని అగ్నిలో ఉంచండి. ఈ చర్య ఒకరి అహంకారం యొక్క పూర్తి సమర్పణను సూచిస్తుంది.",
-          "పూర్ణాహుతిని అగ్నిలో ఉంచేటప్పుడు లేదా తరువాత, ఈ క్రింది మంత్రాన్ని జపించండి, చర్య, నైవేద్యం, అగ్ని మరియు సమర్పించేవాడు అన్నీ బ్రహ్మమే (పరమాత్మ) అని భావించండి."
-        ],
-        "hindi": [
-          "'पूर्ण आहुति' तैयार करें।एक साधारण होम के लिए, यह एक सूखा नारियल का आधा हिस्सा हो सकता है जिसमें एक सिक्का, अक्षत और आहुति सामग्री के नमूने हों।निम्नलिखित मंत्रों का पाठ करते हुए इसे अग्नि में रखें।यह क्रिया किसी के अहंकार के पूर्ण समर्पण का प्रतीक है।",
-          "पूर्णाहुति को अग्नि में रखते समय या उसके बाद, निम्नलिखित मंत्र का जाप करें, यह विचार करते हुए कि कर्म, आहुति, अग्नि और आहुति देने वाला सभी ब्रह्म (परमात्मा) हैं।"
-        ]
-      },
-      "slokas": {
-        "english": "om pūrṇāhutimuttamāṃ juhoti ।sarvaṃ vai pūrṇāhutiḥ ।sarvamevāpnoti ।atho iyaṃ vai pūrṇāhutiḥ ।asyāmeva pratitiṣṭhati ॥\nom pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate ।pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥\nom kāla bhairavāya namaḥ ।pūrṇāhutiṃ samarpayāmi ॥\nom brahmārpaṇaṃ brahmahavir brahmāgnau brahmaṇā hutaṃ ।brahmaiva tena gantavyaṃ brahma karma samādhinā ॥",
-        "telugu": "ఓం పూర్ణాహుతిముత్తమాం జుహోతి ।సర్వం వై పూర్ణాహుతిః ।సర్వమేవాప్నోతి ।అథో ఇయం వై పూర్ణాహుతిః ।అస్యామేవ ప్రతితిష్ఠతి ॥\nఓం పూర్ణమదః పూర్ణమిదం పూర్ణాత్పూర్ణముదచ్యతే ।పూర్ణస్య పూర్ణమాదాయ పూర్ణమేవావశిష్యతే ॥\nఓం కాల భైరవాయ నమః ।పూర్ణాహుతిం సమర్పయామి ॥\nఓం బ్రహ్మార్పణం బ్రహ్మహవిర్ బ్రహ్మాగ్నౌ బ్రహ్మణా హుతం ।బ్రహ్మైవ తేన గంతవ్యం బ్రహ్మ కర్మ సమాధినా ॥",
-        "devanagari": "ॐ पूर्णाहुतिमुत्तमां जुहोति ।सर्वं वै पूर्णाहुतिः ।सर्वमेवाप्नोति ।अथो इयं वै पूर्णाहुतिः ।अस्यामेव प्रतितिष्ठति ।\nॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\nॐ काल भैरवाय नमः।पूर्णाहुतिं समर्पयामि ।\nॐ ब्रह्मार्पणं ब्रह्महविर् ब्रह्माग्नौ ब्रह्मणा हुतं ।ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समाधिना ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "kāla bhairavāya namaḥ",
+        "telugu": "కాల భైరవాయ నమః",
+        "devanagari": "काल भैरवाय नमः"
       }
     },
     {
       "id": 22,
       "type": "uttara",
-      "title": {
-        "english": "Winding Up and Meditation",
-        "telugu": "ముగింపు మరియు ధ్యానం",
-        "devanagari": "समापन और ध्यान",
-        "hindi": "ముగింపు మరియు ధ్యానం"
-      },
-      "voice_guidance_key": "kalabhairava_homam_winding_up_and_meditation",
-      "instructions": {
-        "english": [
-          "Make a final offering of ghee to Agni with the following mantra.",
-          "Sprinkle water around the homa kundam as you did at the beginning, but using the following new set of mantras.",
-          "As the poornaahuti burns, sit still with a straight back and meditate for at least 5-10 minutes. This is a very potent time for meditation."
-        ],
-        "telugu": [
-          "ఈ క్రింది మంత్రంతో అగ్నికి చివరిగా నెయ్యి సమర్పించండి.",
-          "ప్రారంభంలో చేసిన విధంగా హోమ కుండం చుట్టూ నీటిని చల్లండి, కానీ ఈ క్రింది కొత్త మంత్రాలను ఉపయోగించండి.",
-          "పూర్ణాహుతి మండుతున్నప్పుడు, నిటారుగా కూర్చుని కనీసం 5-10 నిమిషాలు ధ్యానం చేయండి. ఇది ధ్యానానికి చాలా శక్తివంతమైన సమయం."
-        ],
-        "hindi": [
-          "निम्नलिखित मंत्र के साथ अग्नि को घी की अंतिम आहुति दें।",
-          "होम कुंड के चारों ओर पानी छिड़कें जैसा कि आपने शुरुआत में किया था, लेकिन निम्नलिखित नए मंत्रों का उपयोग करते हुए।",
-          "जैसे ही पूर्णाहुति जलती है, सीधी पीठ के साथ स्थिर बैठें और कम से-कम 5-10 मिनट तक ध्यान करें।यह ध्यान के लिए एक बहुत ही शक्तिशाली समय है।"
-        ]
-      },
-      "slokas": {
-        "english": "sapta te agne samidhaḥ saptajihvāḥ sapta ṛṣayassaptaḥ dhāma priyāṇi ।sapta hotrā sapta dhātvā yajantisaptayonīrāpṛṇasvā ghṛtena svāhā ।agnaye saptavata idaṃ na mama ॥\nadite'nvamaṃsthāḥ ।anumate'nvamaṃsthāḥ ।sarasvate'nvamaṃsthāḥ ।deva savitaḥ prāsāvīḥ ।",
-        "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణి ।సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా ।అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః ।అనుమతేऽన్వమంస్థాః ।సరస్వతేऽన్వమంస్థాః ।దేవ సవితః ప్రాసావీః ।",
-        "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्तः धाम प्रियाणि।सप्त होत्रा सप्त धात्वा यजन्तिसप्तयोनीरापृणस्वा घृतेन स्वाहा।अग्नये सप्तवत इदं न मम ॥\nअदितेऽन्वमंस्थाः ।अनुमतेऽन्वमंस्थाः।सरस्वतेऽन्वमंस्थाः ।देव सवितः प्रासावीः ।",
-        "swara_enabled": false
-      }
+      "common_ref": "winding_up_and_meditation",
+      "voice_guidance_key": "kalabhairava_homam_winding_up_and_meditation"
     },
     {
       "id": 23,
@@ -713,66 +665,23 @@
     {
       "id": 24,
       "type": "uttara",
-      "title": {
-        "english": "Udvaasana",
-        "telugu": "ఉద్వాసన",
-        "devanagari": "उद्वासन",
-        "hindi": "ఉద్వాసన"
-      },
+      "common_ref": "udvaasana",
       "voice_guidance_key": "kalabhairava_homam_udvaasana",
-      "instructions": {
-        "english": [
-          "Transfer the energy from the fire back into your heart. First, say goodbye to Mahaganapathi, imagining him returning to your heart.",
-          "Then, say goodbye to Kaala Bhairava, imagining him exiting the fire and idol and returning to your heart.",
-          "Finally, bid farewell to Agni, the fire god, with the last mantra."
-        ],
-        "telugu": [
-          "అగ్ని నుండి శక్తిని మీ హృదయంలోకి తిరిగి బదిలీ చేయండి. మొదట, మహాగణపతికి వీడ్కోలు చెప్పండి, ఆయన మీ హృదయంలోకి తిరిగి వస్తున్నట్లు ఊహించుకోండి.",
-          "తరువాత, కాల భైరవునికి వీడ్కోలు చెప్పండి, ఆయన అగ్ని మరియు విగ్రహం నుండి నిష్క్రమించి మీ హృదయంలోకి తిరిగి వస్తున్నట్లు ఊహించుకోండి.",
-          "చివరగా, చివరి మంత్రంతో అగ్ని దేవుడికి వీడ్కోలు చెప్పండి."
-        ],
-        "hindi": [
-          "अग्नि से ऊर्जा को वापस अपने हृदय में स्थानांतरित करें।सबसे पहले, महागणपति को विदाई दें, कल्पना करें कि वे आपके हृदय में लौट रहे हैं।",
-          "फिर, काल भैरव को विदाई दें, कल्पना करें कि वे अग्नि और मूर्ति से निकलकर आपके हृदय में लौट रहे हैं।",
-          "अंत में, अंतिम मंत्र के साथ अग्नि देव को विदाई दें।"
-        ]
-      },
-      "slokas": {
-        "english": "asmādagneḥ śrīmahāgaṇapatiṃ yathāsthānaṃ pratiṣṭhāpayāmi ॥\nasmānmūrteśca agneśca kāla bhairavaṃ yathāsthānaṃ pratiṣṭhāpayāmi ॥\nagne naya supathā rāye asmān viśvāni deva vayunāni vidvān ।yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te nama uktiṃ vidhema ।agnaye namaḥ ॥",
-        "telugu": "అస్మాదగ్నేః శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ॥\nఅస్మాన్మూర్తేశ్చ అగ్నేశ్చ కాల భైరవం యథాస్థానం ప్రతిష్ఠాపయామి ॥\nఅగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ ।యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమ ।అగ్నయే నమః ॥",
-        "devanagari": "अस्मादग्नेः श्रीमहागणपतिं यथास्थानं प्रतिष्ठापयामि ।\nअस्मान्मूर्तेश्च अग्नेश्च काल भैरवं यथास्थानं प्रतिष्ठापयामि ।\nअग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ।अग्नये नमः ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "kāla bhairavaṁ",
+        "telugu": "కాల భైరవం",
+        "devanagari": "काल भैरवं"
       }
     },
     {
       "id": 25,
       "type": "uttara",
-      "title": {
-        "english": "Conclusion",
-        "telugu": "ముగింపు",
-        "devanagari": "निष्कर्ष",
-        "hindi": "ముగింపు"
-      },
+      "common_ref": "conclusion",
       "voice_guidance_key": "kalabhairava_homam_conclusion",
-      "instructions": {
-        "english": [
-          "Recite the following verses to ask for forgiveness for any deficiencies in the ritual and to surrender the entire act and its fruits to the Supreme Being (Narayana/Krishna).",
-          "Conclude by stating that the homam was performed for the pleasure of the all-pervading Lord Kaala Bhairava, surrendering everything to Krishna, and chanting for peace."
-        ],
-        "telugu": [
-          "క్రతువులో ఏవైనా లోపాలకు క్షమాపణ కోరడానికి మరియు మొత్తం చర్యను మరియు దాని ఫలాలను పరమాత్మకు (నారాయణ/కృష్ణ) సమర్పించడానికి ఈ క్రింది శ్లోకాలను పఠించండి.",
-          "సర్వవ్యాపి అయిన కాల భైరవుని ప్రసన్నం కోసం హోమం చేయబడిందని, సర్వం కృష్ణునికి సమర్పించబడిందని, మరియు శాంతి కోసం జపిస్తూ ముగించండి."
-        ],
-        "hindi": [
-          "अनुष्ठान में किसी भी कमी के लिए क्षमा मांगने और पूरे कार्य और उसके फलों को परमात्मा (नारायण/कृष्ण) को समर्पित करने के लिए निम्नलिखित श्लोकों का पाठ करें।",
-          "यह कहकर समाप्त करें कि होम सर्वव्यापी भगवान काल भैरव की प्रसन्नता के लिए किया गया था, सब कुछ कृष्ण को समर्पित करते हुए, और शांति के लिए जप करते हुए।"
-        ]
-      },
-      "slokas": {
-        "english": "maṃtrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ hutāśana ।yadbhutaṃ tu mayā deva paripūrṇa tadastu te ॥\nprāyaścittānyaśeṣāṇi tapaḥ karmātmakāni vai ।yāni teṣāmaśeṣāṇāṃ śrī kṛṣṇasmaraṇaṃ paraṃ ॥ śrī kṛṣṇa kṛṣṇa kṛṣṇa ॥\nkāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt ।karomi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ॥\nanena divya maṃgaḷa homena bhagavān sarvātmakaḥ kāla bhairavaḥ prīyatām ।om tatsat ।sarvam śrī kṛṣṇārpaṇamastu ।om śāntiḥ śāntiḥ śāntiḥ ॥",
-        "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన ।యద్భుతం తు మయా దేవ పరిపూర్ణ తదస్తు తే ॥\nప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వై ।యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ॥\nకాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావత్ ।కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥\nఅనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాత్మకః కాల భైరవః ప్రీయతామ్ ।ఓం తత్సత్ ।సర్వం శ్రీ కృష్ణార్పణమస్తు ।ఓం శాంతిః శాంతిః శాంతిః ॥",
-        "devanagari": "मंत्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।यद्भुतं तु मया देव परिपूर्ण तदस्तु ते ॥\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै।यानि तेषामशेषाणां श्री कृष्णस्मरणं परं ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्धयात्मना वा प्रकृतेः स्वभावात् ।करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥\nअनेन दिव्य मंगळ होमेन भगवान् सर्वात्मकः काल भैरवः प्रीयताम् ।ॐ तत्सत्।सर्वम् श्री कृष्णार्पणमस्तु ।ॐ शान्तिः शान्तिः शान्तिः ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "kāla bhairavaḥ",
+        "telugu": "కాల భైరవః",
+        "devanagari": "काल भैरवः"
       }
     }
   ]

@@ -47,8 +47,8 @@ const resolveCommonRef = (section) => {
       const deityLang = lang === 'devanagari' ? 'devanagari' : lang;
       const deityText = section.deity_slokas[deityLang] || '';
       return text
-        .replace('{deity_invocation}', deityText)
-        .replace('{deity_prefix}', deityText);
+        .split('{deity_invocation}').join(deityText)
+        .split('{deity_prefix}').join(deityText);
     };
 
     return {

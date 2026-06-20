@@ -547,45 +547,16 @@
       "common_ref": "poornaahuti",
       "voice_guidance_key": "ganesh_homam_poornaahuti",
       "deity_slokas": {
-        "english": "aim hrīṁ klīṁ cāmuṇḍāyai vicce vauṣaṭ",
-        "telugu": "ఐం హ్రీం క్లీం చాముండాయై విచ్చే వౌషట్",
-        "devanagari": "ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट्"
+        "english": "śrī mahāgaṇapataye namaḥ",
+        "telugu": "శ్రీ మహాగణపతయే నమః",
+        "devanagari": "श्री महागणपतये नमः"
       }
     },
     {
       "id": 20,
       "type": "uttara",
-      "title": {
-        "english": "Winding Up and Meditation",
-        "telugu": "ముగింపు మరియు ధ్యానం",
-        "devanagari": "समापन और ध्यान",
-        "hindi": "ముగింపు మరియు ధ్యానం"
-      },
-      "voice_guidance_key": "ganesh_homam_winding_up_and_meditation",
-      "instructions": {
-        "english": [
-          "Make a final offering of ghee to Agni, who has carried all the offerings to the gods.",
-          "Sprinkle water around the homa kundam again as you did at the beginning, but using the following four mantras.",
-          "The time when the poornaahuti burns is the best time for meditation. Sit still with a straight back and meditate on your favorite deity and mantra for at least 5-10 minutes with maximum focus."
-        ],
-        "telugu": [
-          "దేవతలకు అన్ని నైవేద్యాలను చేరవేసిన అగ్నికి చివరిగా నెయ్యి నైవేద్యం చేయండి.",
-          "ప్రారంభంలో చేసినట్లుగా మళ్ళీ హోమ కుండం చుట్టూ నీరు చల్లండి, కానీ ఈ క్రింది నాలుగు మంత్రాలను ఉపయోగించి.",
-          "పూర్ణాహుతి కాలుతున్న సమయం ధ్యానానికి ఉత్తమ సమయం. నిటారుగా వెనుకభాగంతో నిశ్శబ్దంగా కూర్చుని, మీకు ఇష్టమైన దేవత మరియు మంత్రాన్ని గరిష్ట ఏకాగ్రతతో కనీసం 5-10 నిమిషాలు ధ్యానించండి."
-        ],
-        "hindi": [
-          "अग्नि को घी की अंतिम आहुति दें, जिसने सभी आहुतियों को देवताओं तक पहुँचाया है।",
-          "होम कुंड के चारों ओर फिर से पानी छिड़कें जैसा कि आपने शुरुआत में किया था, लेकिन निम्नलिखित चार मंत्रों का उपयोग करते हुए।",
-          "जब पूर्णाहुति जलती है, वह ध्यान के लिए सबसे अच्छा समय है। सीधी पीठ के साथ स्थिर बैठें और अपने पसंदीदा देवता और मंत्र पर अधिकतम ध्यान के साथ कम से-कम 5-10 मिनट तक ध्यान करें।"
-        ]
-      },
-      "slokas": {
-        "english": "sapta te agne samidhaḥ saptajihvāḥ sapta rşayassaptah dhāma priyāņil sapta hotrā sapta dhātvā yajantisaptayonīrāprņasvā ghṛtena svāhā agnaye saptavata idam na mama ॥\nadite'nvamamsthāḥ । anumate'nvamamsthāḥ । sarasvate'nvamamsthāḥ । deva savitah prāsāvīḥ ।",
-        "telugu": "సప్త తే అగ్నే సమిధః సప్తజిహ్వాః సప్త ఋషయస్సప్తః ధామ ప్రియాణిల్ సప్త హోత్రా సప్త ధాత్వా యజంతిసప్తయోనీరాపృణస్వా ఘృతేన స్వాహా అగ్నయే సప్తవత ఇదం న మమ ॥\nఅదితేऽన్వమంస్థాః । అనుమతేऽన్వమంస్థాః । సరస్వతేऽన్వమంస్థాః । దేవ సవితః ప్రాసావీః ।",
-        "devanagari": "सप्त ते अग्ने समिधः सप्तजिह्वाः सप्त ऋषयस्सप्त धाम प्रियाणि। सप्त होत्रा सप्तधा त्वा यजन्ति सप्त योनीरापृणस्वा घृतेन स्वाहा। अग्नये सप्तवत इदं न मम ॥\nअदितेऽन्वमंस्थाः । अनुमतेऽन्वमंस्थाः । सरस्वतेऽन्वमंस्थाः । देव सवितः प्रासावीः ।",
-        "swara_enabled": false
-      },
-      "diagram": "/diagrams/agni-pratisthapana-4-dirs.svg"
+      "common_ref": "winding_up_and_meditation",
+      "voice_guidance_key": "ganesh_homam_winding_up_and_meditation"
     },
     {
       "id": 21,
@@ -621,66 +592,23 @@
     {
       "id": 22,
       "type": "uttara",
-      "title": {
-        "english": "Udvaasana",
-        "telugu": "ఉద్వాసన",
-        "devanagari": "उद्वासन",
-        "hindi": "ఉద్వాసన"
-      },
+      "common_ref": "udvaasana",
       "voice_guidance_key": "ganesh_homam_udvaasana",
-      "instructions": {
-        "english": [
-          "Take darbhas and flowers/akshatas. Touch the sides of the homakundam with the darbhas, then touch the idol, transferring the energy from the fire to the idol.",
-          "Imagine that Sri Mahaganapathi has exited the fire and idol and returned to your heart while reciting the first mantra.",
-          "Then, say farewell to the fire god (Agni) with the second mantra and a bow."
-        ],
-        "telugu": [
-          "దర్భలు మరియు పువ్వులు/అక్షతలు తీసుకోండి. దర్భలతో హోమకుండం వైపులా తాకి, ఆపై విగ్రహాన్ని తాకండి, అగ్ని నుండి శక్తిని విగ్రహానికి బదిలీ చేయండి.",
-          "మొదటి మంత్రాన్ని పఠిస్తూ శ్రీ మహాగణపతి అగ్ని మరియు విగ్రహం నుండి నిష్క్రమించి మీ హృదయంలోకి తిరిగి వచ్చాడని ఊహించుకోండి.",
-          "అప్పుడు, రెండవ మంత్రంతో అగ్ని దేవునికి (అగ్ని) వీడ్కోలు చెప్పి నమస్కరించండి."
-        ],
-        "hindi": [
-          "दर्भ और फूल/अक्षत लें। दर्भों से होमकुंड के किनारों को स्पर्श करें, फिर मूर्ति को स्पर्श करें, अग्नि से ऊर्जा को मूर्ति में स्थानांतरित करें।",
-          "कल्पना कीजिए कि श्री महागणपति, जो अग्नि और मूर्ति से निकलकर आपके हृदय में लौट आए हैं, पहले मंत्र का पाठ करते हुए।",
-          "फिर, दूसरे मंत्र और एक प्रणाम के साथ अग्नि देव (अग्नि) को विदाई दें।"
-        ]
-      },
-      "slokas": {
-        "english": "asmānmūrteśca agneśca śrīmahāganapatim yathāsthānam pratisthāpayāmi ।agne naya supathā rāye asmān viśvāni deva vayunāni vidvān yuyodhyasmajjuhurānameno bhūyişthām te nama uktim vidhemal agnaye namaḥ ॥",
-        "telugu": "అస్మాన్మూర్తేశ్చ అగ్నేశ్చ శ్రీమహాగణపతిం యథాస్థానం ప్రతిష్ఠాపయామి ।అగ్నే నయ సుపథా రాయే అస్మాన్ విశ్వాని దేవ వయునాని విద్వాన్ యుయోధ్యస్మజ్జుహురాణమేనో భూయిష్ఠాం తే నమ ఉక్తిం విధేమల్ అగ్నయే నమః ॥",
-        "devanagari": "अस्मान्मूर्तेश्च अग्नेश्च श्रीमहागणपतिं यथास्थानं प्रतिष्ठापयामि ।\nअग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम। अग्नये नमः ॥",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "śrīmahāgaṇapatiṁ",
+        "telugu": "శ్రీమహాగణపతిం",
+        "devanagari": "श्रीमहागणपतिं"
       }
     },
     {
       "id": 23,
       "type": "uttara",
-      "title": {
-        "english": "Conclusion",
-        "telugu": "ముగింపు",
-        "devanagari": "निष्कर्ष",
-        "hindi": "ముగింపు"
-      },
+      "common_ref": "conclusion",
       "voice_guidance_key": "ganesh_homam_conclusion",
-      "instructions": {
-        "english": [
-          "Recite the following verses, contemplating that Krishna is the true doer acting through you.",
-          "Conclude by reciting the final prayer, surrendering the doership of the homam to Krishna and praying for peace."
-        ],
-        "telugu": [
-          "ఈ క్రింది శ్లోకాలను పఠించండి, మీ ద్వారా పనిచేస్తున్న నిజమైన కర్త కృష్ణుడేనని ధ్యానించండి.",
-          "హోమం యొక్క కర్తృత్వాన్ని కృష్ణునికి సమర్పించి, శాంతి కోసం ప్రార్థిస్తూ చివరి ప్రార్థనను పఠించడం ద్వారా ముగించండి."
-        ],
-        "hindi": [
-          "निम्नलिखित श्लोकों का पाठ करें, यह विचार करते हुए कि कृष्ण ही आपके माध्यम से कार्य करने वाले सच्चे कर्ता हैं।",
-          "अंतिम प्रार्थना का पाठ करके समाप्त करें, होम का कर्तृत्व कृष्ण को समर्पित करें और शांति के लिए प्रार्थना करें।"
-        ]
-      },
-      "slokas": {
-        "english": "mantrahīnam kriyāhīnam bhaktihīnam hutāśana yaddhutam tu mayā deva paripūrņam tadastu te ।prāyaścittānyaśeṣāņi tapaḥ karmātmakāni vail yāni teşāmaśeṣāṇāṁ śrī kṛṣṇasmaraņam param ॥ śrī kṛṣṇa kṛṣṇa kṛṣṇa ।kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt karomi yadyat sakalam parasmai nārāyaṇāyeti samarpayāmi ॥\nanena divya mangaļa homena bhagavān sarvātmakaḥ śrīmahāganapatiḥ prīyatām om tatsat । sarvam śrī kṛṣṇārpaņamastu । om śāntiḥ śāntiḥ śāntih ।",
-        "telugu": "మంత్రహీనం క్రియాహీనం భక్తిహీనం హుతాశన యద్ధుతం తు మయా దేవ పరిపూర్ణం తదస్తు తే ।ప్రాయశ్చిత్తాన్యశేషాణి తపః కర్మాత్మకాని వైల్ యాని తేషామశేషాణాం శ్రీ కృష్ణస్మరణం పరం ॥ శ్రీ కృష్ణ కృష్ణ కృష్ణ ।కాయేన వాచా మనసేంద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ కరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥\nఅనేన దివ్య మంగళ హోమేన భగవాన్ సర్వాాత్మకః శ్రీమహాగణపతిః ప్రీయతాం । ఓం తత్సత్ । సర్వం శ్రీ కృష్ణార్పణమస్తు । ఓం శాంతిః శాంతిః శాంతిః ।",
-        "devanagari": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ।\nप्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै। यानि तेषामशेषाणां श्री कृष्णस्मरणं परम् ॥ श्री कृष्ण कृष्ण कृष्ण ।\nकायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥\nअनेन दिव्य मङ्गल होमेन भगवान् सर्वात्मकः श्रीमहागणपतिः प्रीयताम् ॐ तत्सत् । सर्वं श्री कृष्णार्पणमस्तु । ॐ शान्तिः शान्तिः शान्तिः ।",
-        "swara_enabled": false
+      "deity_slokas": {
+        "english": "śrīmahāgaṇapatiḥ",
+        "telugu": "శ్రీమహాగణపతిః",
+        "devanagari": "श्रीमहागणपतिः"
       }
     }
   ]
